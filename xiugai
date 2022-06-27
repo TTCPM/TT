@@ -11,7 +11,7 @@
 {"key": "csp_Auete"      ,"name":"🐞Auete","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Cokemv"     ,"name":"🐞Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Qicui"      ,"name":"🐞奇粹影视","type":3,"api":"csp_Qicui","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-{"key": "csp_GitCafe"    ,"name":"🐞阿里纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"31f9bb3e861246ccb38d53aeefe5223e"},  
+{"key": "csp_GitCafe"    ,"name":"🐞阿里纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0,"ext":""},  
 {"key": "csp_AliPanSou"  ,"name":"🐞阿里喵搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0,"ext":"31f9bb3e861246ccb38d53aeefe5223e"},
 {"key": "csp_kuaikan"    ,"name":"🐞快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Kmys"       ,"name":"🐞酷猫影视","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1},
