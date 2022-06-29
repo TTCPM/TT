@@ -1,0 +1,659 @@
+{
+    “网站”：[
+        {
+            “关键”：“csp_77”，
+            "name": "酷云七七",
+            “类型”：3，
+            "api": "csp_Kunyu77",
+            “可搜索”：1，
+            “快速搜索”：1，
+            “可过滤”：1
+        },  
+        {
+            “关键”：“csp_CZSPP”，
+            "name": "厂长影视",
+            “类型”：3，
+            "api": "csp_CZSPP",
+            “可搜索”：1，
+            “快速搜索”：1，
+            “可过滤”：1
+        },
+        {
+            "key": "csp_DiDuan",
+            "name": "低端影视",
+            “类型”：3，
+            "api": "csp_DiDuan",
+            “可搜索”：1，
+            “快速搜索”：1，
+            “可过滤”：1
+        },
+        {
+            "key": "csp_Cokemv",
+            “名称”：“Cokemv”，
+            “类型”：3，
+            "api": "csp_Cokemv",
+            “可搜索”：1，
+            “快速搜索”：1，
+            “可过滤”：1
+        },
+        {
+            "key":"csp_biubiu_真不卡cerrd",
+            "name": "真不卡",
+            “类型”：3，
+            "api":"csp_XBiubiu",
+            “可搜索”：1，
+            “快速搜索”：1，
+            “可过滤”：0，
+            “分机”：“https://gitea.com/dxa/1/raw/branch/main/bk2.json”
+        },
+        {
+            "key": "csp_XBiubiubiubiu_lezhu",
+            "name": "乐猪影视",
+            “类型”：3，
+            "api": "csp_XBiubiu",
+            “可搜索”：1，
+            “快速搜索”：1，
+            “可过滤”：0，
+            "ext": "https://gitea.com/99/b/raw/branch/main/xb/b13-lezhu.js"
+        },
+        {
+            "key": "csp_XBiubiubiubiu_ysgc",
+            "name": "影视工厂",
+            “类型”：3，
+            "api": "csp_XBiubiu",
+            “可搜索”：1，
+            “快速搜索”：1，
+            “可过滤”：0，
+            “ext”：“https://cdn.staticaly.com/gh/tvba/b/main/xb/b03-ysgc.js”
+        },
+        {
+            "key": "csp_XBubiubiubiu_蓝光影视",
+            "name": "影视影视",
+            “类型”：3，
+            "api": "csp_XBiubiu",
+            “可搜索”：1，
+            “快速搜索”：1，
+            “可过滤”：0，
+            “ext”：“https://gitea.com/99/b/raw/branch/main/xb/b02-lgys.js”
+        },       
+        {
+            "key": "csp_xpath_网络库112",
+            "name": "人影视",
+            “类型”：3，
+            "api": "csp_XPathMacFilter",
+            “可搜索”：1，
+            “快速搜索”：1，
+            “可过滤”：1，
+            "ext": "https://gitea.com/99/x/raw/branch/main/519-gongreng.json"
+        },
+        {
+            "key": "csp_xpath_网络源03",
+            "name": "在线之家",
+            “类型”：3，
+            "api": "csp_XPathMacFilter",
+            “可搜索”：1，
+            “快速搜索”：1，
+            “可过滤”：1，
+            “ext”：“https://gitea.com/99/x/raw/branch/main/zxzj.js”
+        },
+        {
+            “关键”：“csp_xpath_hhys”，
+            "name": "火影视",
+            “类型”：3，
+            "api": "csp_XPathMacFilter",
+            “可搜索”：1，
+            “快速搜索”：1，
+            “可过滤”：1，
+            "ext": "https://gitea.com/99/x/raw/branch/main/604-huohuo.js"
+        },      
+        {
+            "key": "csp_xpath_网络库108",
+            "name": "小熊影视",
+            “类型”：3，
+            "api": "csp_XPath",
+            “可搜索”：1，
+            “快速搜索”：1，
+            “可过滤”：1，
+            "ext": "https://gitea.com/99/x/raw/branch/main/519-xiaoxiong.json"
+        },
+        {
+            "key":"csp_xpath_dm84",
+            “名称”：“动漫巴士”，
+            “类型”：3，
+            "api":"csp_XPathFilter",
+            “可搜索”：1，
+            “快速搜索”：1，
+            “可过滤”：0，
+            “分机”：“https://gitea.com/dxa/1/raw/branch/main/dm84.json”
+        },                   
+        //{
+            //"key": "csp_biubiu_动漫维奇",
+            //"name": "卡通动漫",
+            //“类型”：3，
+            //"api": "csp_XBiubiu",
+            //“可搜索”：1，
+            //"快速搜索": 1,
+            //“可过滤”：0，
+            //“ext”：“https://gitea.com/99/b/raw/branch/main/xb/d03-wqdm.js”
+        //},
+        //{
+            //"key": "csp_biubiu_蓝光影院",
+            //"name":"影院影院",
+            //“类型”：3，
+            //"api": "csp_XBiubiu",
+            //“可搜索”：1，
+            //"快速搜索": 1,
+            //“可过滤”：0，
+            //“ext”：“https://cdn.staticaly.com/gh/tvba/b/main/xb/a00-lgyy.js”
+        //},
+        //{
+            //"key": "csp_XBiubiubiubiu_cokemv",
+            //"name": "cokemv",
+            //“类型”：3，
+            //"api": "csp_XBiubiu",
+            //“可搜索”：1，
+            //"快速搜索": 1,
+            //“可过滤”：0，
+            //"ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/b00-coke.js"
+        //},
+        {
+            "key": "csp_XBiubiubiubiu_555",
+            "name": "555电影",
+            “类型”：3，
+            "api": "csp_XBiubiu",
+            “可搜索”：1，
+            “快速搜索”：1，
+            “可过滤”：0，
+            “分机”：“https://cdn.staticaly.com/gh/tvba/b/main/xb/b01-555dy.js”
+        },
+        {
+            "key": "csp_xpath_网络库华亚",
+            "name": "虎牙",
+            “类型”：3，
+            "api": "csp_XPath",
+            “可搜索”：1，
+            “快速搜索”：0，
+            “可过滤”：1，
+            “ext”：“https://gitea.com/99/x/raw/branch/main/huya.js”
+        },
+        {
+            "key": "csp_xpath_网络库库米",
+            “名称”：“授权”，
+            “类型”：3，
+            "api": "csp_XPathFilter",
+            “可搜索”：1，
+            “快速搜索”：0，
+            “可过滤”：1，
+            "ext": "https://gitea.com/99/x/raw/branch/main/516-qiumi.js"
+        },
+        {
+            “关键”：“csp_xpath_A33”，
+            “名称”：“MTV”，
+            “类型”：3，
+            "api": "csp_XPath",
+            “可搜索”：1，
+            “快速搜索”：0，
+            “可过滤”：1，
+            “分机”：“https://gitea.com/99/x/raw/branch/main/mtv”
+        },
+        {
+            "key": "push_agent",
+            “姓名”：“随便”，
+            “类型”：3，
+            "api": "csp_PushAgent",
+            “可搜索”：0，
+            “快速搜索”：0，
+            “可过滤”：0
+        }
+    ],
+    “生活”：[
+        {
+            “组”：“重定向”，
+            “渠道”：[
+                {
+                    “名称”：“生活”，
+                    “网址”：[
+                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9nY29yZS5qc2RlbGl2ci5uZXQvZ2gvdHZidy9teXR2QG1haW4vdHY4OA=="
+                    ]
+                }
+            ]
+        }
+    ],
+    “解析”：[
+        {
+            "name": "默认选项",
+            “类型”：3，
+            “网址”：“演示”
+        },
+        {
+            “名称”：“01”，
+            “类型”：1，
+            "url": "http://81.71.48.249:4456/jsonc/longxia.php?url=",
+            “分机”：{
+                “旗帜”： [
+                    "qq",
+                    “七一”，
+                    "mgtv",
+                    “优酷”，
+                    “乐视”,
+                    “搜狐”，
+                    “西瓜”，
+                    “1905”
+                ],
+                “标题”：{
+                    “用户代理”：“Dart/2.14 (dart:io)”
+                }
+            }
+        },
+        {
+            "name": "网络教室02",
+            “类型”：1，
+            "url": "https://json.pangujiexi.com/json.php?url=",
+            “分机”：{
+                “旗帜”： [
+                    “优酷”，
+                    "优酷",
+                    "qq",
+                    “腾讯”，
+                    “七一”，
+                    《爱奇艺》，
+                    《奇艺》
+                ]
+            }
+        },
+        {
+            "name": "网络教室03",
+            “类型”：1，
+            "url": "https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=",
+            “分机”：{
+                “旗帜”： [
+                    “Itnb”，
+                    “呜呜呜”
+                ]
+            }
+        },
+        {
+            "name": "网络网络04",
+            “类型”：1，
+            "url": "http://api.vip123kan.vip/?url=",
+            “分机”：{
+                “旗帜”： [
+                    “优酷”，
+                    "优酷",
+                    "mgtv",
+                    “芒果”，
+                    "qq",
+                    “腾讯”，
+                    “七一”，
+                    《爱奇艺》，
+                    "qq",
+                    “西瓜”，
+                    《奇艺》
+                ]
+            }
+        },
+        {
+            "name": "网络教室05",
+            “类型”：1，
+            "url": "https://a.dxzj88.com/jxrrm/jiami.php?url=",
+            “分机”：{
+                “旗帜”： [
+                    "qq",
+                    “腾讯”，
+                    “七一”，
+                    《爱奇艺》，
+                    《奇艺》，
+                    “优酷”，
+                    "优酷",
+                    “搜狐”，
+                    “芒果”，
+                    "mgtv",
+                    “西瓜”，
+                    “乌杜兹”，
+                    “哔哩哔哩”，
+                    "pptv",
+                    “乐多”，
+                    "Clk4",
+                    “哔哩”，
+                    “人人米”，
+                    "ltnb",
+                    “接收”
+                ]
+            }
+        },
+        {
+            "name": "网络教室06",
+            “类型”：1，
+            "url": "https://sz.dxzj88.com/jxrjrm/jiaomi.php?url=",
+            “分机”：{
+                “旗帜”： [
+                    "qq",
+                    “腾讯”，
+                    “七一”，
+                    《爱奇艺》，
+                    《奇艺》，
+                    “优酷”，
+                    "优酷",
+                    “搜狐”，
+                    “芒果”，
+                    "mgtv",
+                    “西瓜”，
+                    “乌杜兹”，
+                    “哔哩哔哩”，
+                    "pptv",
+                    “乐多”，
+                    "Clk4",
+                    “哔哩”，
+                    “人人米”，
+                    "ltnb",
+                    “接收”
+                ]
+            }
+        },
+        {
+            "name": "网络教室07",
+            “类型”：1，
+            "url": "https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=",
+            “分机”：{
+                “旗帜”： [
+                    “ltnb”
+                ]
+            }
+        },
+        {
+            "name": "网络网络08",
+            “类型”：1，
+            "url": "https://svip.rongxingvr.top/api/?key=niBgMGXVdCQhsmeEBK&url=",
+            “分机”：{
+                “旗帜”： [
+                    “优酷”，
+                    "qq",
+                    "mgtv",
+                    “哔哩哔哩”，
+                    “和苏”，
+                    “西瓜”，
+                    “人人米”，
+                    "优酷",
+                    《芒果》
+                ]
+            }
+        },
+        {
+            "name": "网络网络10",
+            “类型”：1，
+            "url": "https://json.5lp.net/json.php?url=",
+            “分机”：{
+                “旗帜”： [
+                    "qq",
+                    “腾讯”，
+                    “七一”，
+                    《爱奇艺》，
+                    《奇艺》，
+                    “优酷”，
+                    "优酷",
+                    "mgtv",
+                    “芒果”，
+                    “人人米”，
+                    “伊布”
+                ]
+            }
+        }
+    ],
+    “旗帜”：[
+        “优酷”，
+        "qq",
+        “爱奇艺”，
+        “七一”，
+        “乐视”,
+        “搜狐”，
+        “乐视”,
+        “土豆”，
+        "pptv",
+        "mgtv",
+        “和苏”，
+        “哔哩哔哩”，
+        “乐多”，
+        "fq3",
+        "fq4",
+        “学人”，
+        “多多”，
+        “多多齐”，
+        “苗党”，
+        "miaoparty2",
+        "miaoparty3",
+        “人人米”，
+        "优酷",
+        “芒果”，
+        “腾讯”，
+        《爱奇艺》，
+        《奇艺》，
+        "ltnb",
+        “RX”，
+        “CL4K”，
+        "xfyun",
+        “呜呜呜”
+    ],
+    “伊克”：[
+        {
+            "group": "软解码",
+            “选项”： [
+                {
+                    “类别”：4，
+                    “名称”：“opensles”，
+                    “价值”：“0”
+                },
+                {
+                    “类别”：4，
+                    “名称”：“覆盖格式”，
+                    “价值”：“842225234”
+                },
+                {
+                    “类别”：4，
+                    “名称”：“帧丢弃”，
+                    “价值”：“1”
+                },
+                {
+                    “类别”：4，
+                    “名称”：“声音触感”，
+                    “价值”：“1”
+                },
+                {
+                    “类别”：4，
+                    "name": "开始准备",
+                    “价值”：“1”
+                },
+                {
+                    “类别”：1，
+                    "name": "http-detect-range-support",
+                    “价值”：“0”
+                },
+                {
+                    “类别”：1，
+                    “名称”：“标志”，
+                    “价值”：“快速搜索”
+                },
+                {
+                    “类别”：2，
+                    “名称”：“skip_loop_filter”，
+                    “价值”：“48”
+                },
+                {
+                    “类别”：4，
+                    “名称”：“重新连接”，
+                    “价值”：“1”
+                },
+                {
+                    “类别”：4，
+                    “名称”：“启用准确搜索”，
+                    “价值”：“0”
+                },
+                {
+                    “类别”：4，
+                    “名称”：“媒体编解码器”，
+                    “价值”：“0”
+                },
+                {
+                    “类别”：4，
+                    "name": "mediacodec-auto-rotate",
+                    “价值”：“0”
+                },
+                {
+                    “类别”：4，
+                    "name": "mediacodec-handle-resolution-change",
+                    “价值”：“0”
+                },
+                {
+                    “类别”：4，
+                    “名称”：“媒体编解码器-hevc”，
+                    “价值”：“0”
+                },
+                {
+                    “类别”：1，
+                    “名称”：“dns_cache_timeout”，
+                    “价值”：“600000000”
+                }
+            ]
+        },
+        {
+            “组”：“硬解码”，
+            “选项”： [
+                {
+                    “类别”：4，
+                    “名称”：“opensles”，
+                    “价值”：“0”
+                },
+                {
+                    “类别”：4，
+                    “名称”：“覆盖格式”，
+                    “价值”：“842225234”
+                },
+                {
+                    “类别”：4，
+                    “名称”：“帧丢弃”，
+                    “价值”：“1”
+                },
+                {
+                    “类别”：4，
+                    “名称”：“声音触感”，
+                    “价值”：“1”
+                },
+                {
+                    “类别”：4，
+                    "name": "开始准备",
+                    “价值”：“1”
+                },
+                {
+                    “类别”：1，
+                    "name": "http-detect-range-support",
+                    “价值”：“0”
+                },
+                {
+                    “类别”：1，
+                    “名称”：“标志”，
+                    “价值”：“快速搜索”
+                },
+                {
+                    “类别”：2，
+                    “名称”：“skip_loop_filter”，
+                    “价值”：“48”
+                },
+                {
+                    “类别”：4，
+                    “名称”：“重新连接”，
+                    “价值”：“1”
+                },
+                {
+                    “类别”：4，
+                    “名称”：“启用准确搜索”，
+                    “价值”：“0”
+                },
+                {
+                    “类别”：4，
+                    “名称”：“媒体编解码器”，
+                    “价值”：“1”
+                },
+                {
+                    “类别”：4，
+                    "name": "mediacodec-auto-rotate",
+                    “价值”：“1”
+                },
+                {
+                    “类别”：4，
+                    "name": "mediacodec-handle-resolution-change",
+                    “价值”：“1”
+                },
+                {
+                    “类别”：4，
+                    “名称”：“媒体编解码器-hevc”，
+                    “价值”：“1”
+                },
+                {
+                    “类别”：1，
+                    “名称”：“dns_cache_timeout”，
+                    “价值”：“600000000”
+                }
+            ]
+        }
+    ],
+    “广告”：[
+        "mimg.0c1q0l.cn",
+        "www.googletagmanager.com",
+        "www.google-analytics.com",
+        "mc.usihnbcq.cn",
+        "mg.g1mm3d.cn",
+        "mscs.svaeuzh.cn",
+        "cnzz.hhttm.top",
+        "tp.vinuxhome.com",
+        "cnzz.mmstat.com",
+        "www.baihuillq.com",
+        "s23.cnzz.com",
+        "z3.cnzz.com",
+        "c.cnzz.com",
+        “stj.v1vo.top”，
+        "z12.cnzz.com",
+        "img.mosflower.cn",
+        "tips.gamevvip.com",
+        "ehwe.yhdtns.com",
+        "xdn.cqqc3.com",
+        "www.jixunkyy.cn",
+        "sp.chemacid.cn",
+        "hm.baidu.com",
+        "s9.cnzz.com",
+        "z6.cnzz.com",
+        "um.cavuc.com",
+        “mav.mavuz.com”,
+        "wofwk.aoidf3.com",
+        "z5.cnzz.com",
+        "xc.hubeijieshikj.cn",
+        "tj.tianwenhu.com",
+        "xg.gars57.cn",
+        "k.jinxiuzhilv.com",
+        "cdn.bootcss.com",
+        "ppl.xunzhuo123.com",
+        "xomk.jiangjunmh.top",
+        "img.xunzhuo123.com",
+        "z1.cnzz.com",
+        "s13.cnzz.com",
+        "xg.huataisanao.cn",
+        "z7.cnzz.com",
+        "xg.huataisanao.cn",
+        "z2.cnzz.com",
+        "s96.cnzz.com",
+        "q11.cnzz.com",
+        "thy.dacedsfa.cn",
+        "xg.whsbpw.cn",
+        "s19.cnzz.com",
+        "z8.cnzz.com",
+        "s4.cnzz.com",
+        "f5w.as12df.top",
+        "ae01.alicdn.com",
+        "www.92424.cn",
+        "k.wudejia.com",
+        “vivovip.mmszxc.top”，
+        "qiu.xixiqiu.com",
+        "cdnjs.hnfenxun.com",
+        “cms.qdwght.com”
+    ],
+    "壁纸": "https://picsum.photos/1080",
+    “蜘蛛”：“https://gitea.com/kuukey/b/raw/branch/main/608_sj_36_bk.txt;md5;065C92F7720FA01E64086455D201CFE1”
+}
