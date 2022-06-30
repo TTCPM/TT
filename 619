@@ -2,7 +2,7 @@
 "spider": "https://ghproxy.com/https://raw.githubusercontent.com/TTCPM/TT/main/0630.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L2JjLnR4dA=="]}]}],
 "sites":[
-{"key":"csp_SP360","name":"🎾谈哥私属影院","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_SP360","name":"🎾私属影院","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀龙哥快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan","name":"🎬低端影视(SP)","api":"csp_DiDuan","type":3,"searchable":1,"quickSearch":1,"filterable":1},
@@ -33,22 +33,22 @@
 {"key":"csp_biubiu_斗鱼","name":"🐬斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.futils.com/https://github.com/TTCPM/TT/blob/main/MaoXB/douyu.json"},
 {"key":"csp_xpath_saohuotv","name":"🔥骚火电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.futils.com/https://github.com/TTCPM/TT/blob/main/MaoXP/saohuotv2.json"},
 
-{"key":"csp_xpath_huya","name":"🐯虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://TVBox/MaooXP/huya2.json"},
-{"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"clan://TVBox/MaooXP/kuqimv.json"},
-{"key":"csp_xpath_ikan6","name":"❤️爱看影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://TVBox/MaooXP/ikan6.json"},
-{"key":"csp_biubiu_特狗影视","name":"🐶特狗影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://TVBox/MaooXB/tgys.json"},
-{"key":"csp_xpath_dandanzan10","name":"☀️蛋蛋赞(电影)(XPF)","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"clan://TVBox/MaooXP/dandanzan10.json"},
+{"key":"csp_xpath_huya","name":"🐯虎牙(XPf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.futils.com/https://github.com/TTCPM/TT/blob/main/MaoXP/huya2.json"},
+{"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.futils.com/https://github.com/TTCPM/TT/blob/main/MaoXP/kuqimv.json"},
+{"key":"csp_xpath_ikan6","name":"❤️爱看影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.futils.com/https://github.com/TTCPM/TT/blob/main/MaoXP/ikan6.json"},
+{"key":"csp_biubiu_特狗影视","name":"🐶特狗影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.futils.com/https://github.com/TTCPM/TT/blob/main/MaoXB/%E7%89%B9%E7%8B%97%E5%BD%B1%E8%A7%86.json"},
+{"key":"csp_xpath_dandanzan10","name":"☀️蛋蛋赞(电影)(XPF)","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.futils.com/https://github.com/TTCPM/TT/blob/main/MaoXP/dandanzan10.json"},
 {"key":"spider_IKan","name": "✨爱看(🐞)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_DY1990","name":"💙90(SP)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"🐼Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"ASMR","name":"🈲ASMR(优)","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
+
 {"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_AliPanSou","name":"🐱喵狸盘搜(只支持搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"push_agent","name":"🍭推送（阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
-{"key": "csp_XBiubiubiubiu_蓝光影视","name": "💿蓝光影视","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "clan://TVBox/MaooXB/lgys.json"},       
-{"key": "csp_xpath_网络搜集库qiumi","name": "⚽️球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "clan://TVBox/MaooXB/qiumi.json"},
-{"key": "csp_xpath_A33","name": "🎸MTV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "clan://TVBox/MaooXB/mtv.json"},
+{"key": "csp_XBiubiubiubiu_蓝光影视","name": "💿蓝光影视","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.futils.com/https://github.com/TTCPM/TT/blob/main/MaoXB/lgys.json.json"},       
+{"key": "csp_xpath_网络搜集库qiumi","name": "⚽️球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.futils.com/https://github.com/TTCPM/TT/blob/main/MaoXB/qiumi.json"},
+{"key": "csp_xpath_A33","name": "🎸MTV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.futils.com/https://github.com/TTCPM/TT/blob/main/MaoXB/mtv.json"},
 
 
 
@@ -66,7 +66,7 @@
 //{"key":"csp_xpath_duboku","name":"独播库(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://TVBox/MaooXP/duboku2.json"},
 //{"key": "___xmf哔","name": "哔嘀","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "clan://TVBox/MaooXP/bidi.json"},
 //{"key":"csp_biubiu_奈菲影院","name":"🌈奈菲影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://TVBox/MaooXB/nfyy.json"},
-
+//{"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 ## M浏览器中APP影视规则支持(AppYsV2)
 #萝卜/白菜/木白/绿豆
 {"key":"csp_appysv2_追剧TV","name":"追剧TV(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.229.120.180:88/lvdou_api.php/v2.vod"},
