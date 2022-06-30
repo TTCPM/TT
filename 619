@@ -14,7 +14,7 @@
 {"key":"csp_CZSPP","name":"🚬厂长资源(SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"🚗Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo","name":"💜两个BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_biubiu_在线之家","name":"📮在线之家(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://TVBox/MaooXB/zxzj.json"},
+{"key":"csp_biubiu_在线之家","name":"📮在线之家(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.futils.com/https://github.com/TTCPM/TT/blob/main/MaoXB/zxzj.json"},
 {"key":"csp_biubiu_真不卡zhenbuka3","name":"💥真不卡1(NS)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://TVBox/MaooXB/zhenbuka3.json"},
 {"key":"csp_biubiu_555电影","name":"🎁555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://TVBox/MaooXB/555dy.json"},
 {"key":"csp_biubiu_骚火电影","name":"🔥骚火电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://TVBox/MaooXB/shdy.json"},
