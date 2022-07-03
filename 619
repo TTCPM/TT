@@ -48,7 +48,7 @@
  {"key": "csp_xpath_meiju56","name": "🦋美剧网","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.nite07.com/bl/meiju562.json"},     
 
 {"key":"ASMR","name":"🎢ASMR(优)","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"if101资源","name":"✈️if101(海外推荐)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
+//{"key":"if101资源","name":"✈️if101(海外推荐)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
 {"key": "csp_xml___小猫咪","name": "💢小 猫 咪","type": 1,"api": "https://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch": 1},
 {"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_AliPanSou","name":"🐱喵狸盘搜(只支持搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
@@ -83,11 +83,8 @@
 ## M浏览器中APP影视规则支持(AppYsV2)
 #萝卜/白菜/木白/绿豆
 {"key":"csp_biubiu_YYDS影院","name":"🥕YYDS影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/jkn2008/YuanHsing/raw/master/MeowXB/YYDS%e5%bd%b1%e9%99%a2.json"},
-
 {"key":"csp_appysv2_渔渔影视","name":"🥕渔渔影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://luobo.yugenye.site/api.php/v1.vod"},
-
 {"key":"csp_appysv2_影视猫","name":"🥕影视猫(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vip.wscyun.com/api.php/v1.vod"},
-
 //{"key":"csp_appysv2_呀哩动漫","name":"呀哩动漫(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.yaliyali.cc/api.php/v1.vod"},
 {"key":"csp_appysv2_影库","name":"🥕影库(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yingkudy.com/lvdou_api.php/v1.vod"},
 {"key":"csp_appysv2_月儿影视","name":"🥕月儿影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yue52.xyz/api.php/v1.vod"},
