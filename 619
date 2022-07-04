@@ -51,9 +51,9 @@
 {"key":"ASMR","name":"🎢ASMR(优)","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1},
 //{"key":"if101资源","name":"✈️if101(海外推荐)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
 {"key": "csp_xml___小猫咪","name": "💢小 猫 咪","type": 1,"api": "https://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch": 1},
-{"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"2bfbae93fc6b4f00bad8a43a3d651e85"},
-{"key":"csp_AliPanSou","name":"🐱喵狸盘搜(只支持搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0,"ext":"2bfbae93fc6b4f00bad8a43a3d651e85"},
-{"key":"push_agent","name":"🍭推送（阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"2bfbae93fc6b4f00bad8a43a3d651e85"},
+{"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"b8e79d0d04324976857e653682fce763"},
+{"key":"csp_AliPanSou","name":"🐱喵狸盘搜(只支持搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0,"ext":"b8e79d0d04324976857e653682fce763"},
+{"key":"push_agent","name":"🍭推送（阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"b8e79d0d04324976857e653682fce763"},
 
 {"key": "csp_xpath_A33","name": "🎸MTV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.futils.com/https://github.com/TTCPM/TT/blob/main/MaoXB/mtv.json"},
 {"key": "csp_xpath_网络搜集库qiumi","name": "⚽️球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.futils.com/https://github.com/TTCPM/TT/blob/main/MaoXB/qiumi.json"},
