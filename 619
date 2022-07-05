@@ -45,7 +45,7 @@
 {"key":"csp_xpath_ikan6","name":"❤️爱看影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.futils.com/https://github.com/TTCPM/TT/blob/main/MaoXP/ikan6.json"},
 {"key":"csp_biubiu_特狗影视","name":"🐶特狗影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.futils.com/https://github.com/TTCPM/TT/blob/main/MaoXB/%E7%89%B9%E7%8B%97%E5%BD%B1%E8%A7%86.json"},
 {"key":"csp_xpath_dandanzan10","name":"☀️蛋蛋赞(电影)(XPF)","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.futils.com/https://github.com/TTCPM/TT/blob/main/MaoXP/dandanzan10.json"},
-{"key": "csp_XBiubiubiubiu_蓝光影视","name": "💿蓝光影视","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.futils.com/https://github.com/TTCPM/TT/blob/main/MaoXB/lgys.json"},       
+{"key": "csp_XBiubiubiubiu_蓝光影视","name": "💿蓝光影视（XB）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.futils.com/https://github.com/TTCPM/TT/blob/main/MaoXB/lgys.json"},       
 {"key": "csp_xpath_meiju56","name": "🦋美剧网","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.nite07.com/bl/meiju562.json"},     
 {"key":"csp_biubiu_麻衣高清","name":"🥒麻衣高清(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://freed.yuanhsing.cf/TVBox/MaooXB/麻衣高清.json"},
 {"key":"ASMR","name":"🎢ASMR(优)","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1},
