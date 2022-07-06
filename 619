@@ -47,7 +47,7 @@
 {"key":"csp_xpath_dandanzan10","name":"☀️蛋蛋赞(电影)(XPF)","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.futils.com/https://github.com/TTCPM/TT/blob/main/MaoXP/dandanzan10.json"},
 {"key": "csp_XBiubiubiubiu_蓝光影视","name": "💿蓝光影视（XB）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.futils.com/https://github.com/TTCPM/TT/blob/main/MaoXB/lgys.json"},       
 {"key": "csp_xpath_meiju56","name": "🦋美剧网","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.nite07.com/bl/meiju562.json"},     
-{"key":"csp_biubiu_麻衣高清","name":"🥒麻衣高清(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://freed.yuanhsing.cf/TVBox/MaooXB/麻衣高清.json"},
+{"key":"csp_biubiu_麻衣高清","name":"🥒麻衣高清(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/TTCPM/TT/main/MaoXB/%E9%BA%BB%E8%A1%A3%E9%AB%98%E6%B8%852.json"},
 {"key":"ASMR","name":"🎢ASMR(优)","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1},
 //{"key":"if101资源","name":"✈️if101(海外推荐)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
 {"key": "csp_xml___小猫咪","name": "💢小 猫 咪","type": 1,"api": "https://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch": 1},
