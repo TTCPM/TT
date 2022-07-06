@@ -21,6 +21,7 @@
 {"key":"csp_DY1990","name":"💙90(SP)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"🐼Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_biubiu_厂长资源-蓝光","name":"💎厂长资源(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/TTCPM/TT/main/MaoXB/czzy2.json"},
+{"key":"csp_biubiu_私人影院","name":"❣私人影院(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontents.com/TTCPM/TT/main/MaoXB/%E7%A7%81%E4%BA%BA%E5%BD%B1%E9%99%A2.json"},
 {"key":"csp_XPathMacFilter_","name":"极品影院(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable": 1,"ext": "https://gitee.com/dongji2/mm/raw/master/xp/pb/07-极品极链.js"},
 {"key":"csp_biubiu_真不卡zhenbuka3","name":"💥真不卡1(NS)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.futils.com/https://github.com/TTCPM/TT/blob/main/MaoXB/zhenbuka3.json"},
 {"key":"csp_biubiu_555电影","name":"🎁555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/TTCPM/TT/main/MaoXB/555dy.json"},
