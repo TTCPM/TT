@@ -1,7 +1,7 @@
 {
 "spider": "https://ghproxy.com/https://github.com/TTCPM/TT/blob/main/07061553净化包.jar",
    
-//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9nY29yZS5qc2RlbGl2ci5uZXQvZ2gvdHZidy9teXR2QG1haW4vdHY4OA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9nY29yZS5qc2RlbGl2ci5uZXQvZ2gvdHZidy9teXR2QG1haW4vdHY4OA=="]}]}],
 "sites":[
 {"key":"csp_SP360","name":"🔭Eve专属360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀龙哥快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
