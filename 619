@@ -80,7 +80,7 @@
 //{"key":"csp_Qicui","name":"🐼奇粹(SP)","type":3,"api":"csp_Qicui","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Juhuang","name":"🐼剧荒TV(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Kmys","name":"🐱酷猫(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_appysv2_9e国语","name":"9E国语(ysv2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.9e03.com/lvdou_api.php/v1.vod"},
+{"key":"csp_appysv2_9e国语","name":"9E国语(ysv2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.9e03.com/lvdou_api.php/v1.vod"},
 
 ## M浏览器中APP影视规则支持(AppYsV2)
 #萝卜/白菜/木白/绿豆
