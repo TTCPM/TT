@@ -26,7 +26,7 @@
 {"key":"csp_LibVio","name":"✔LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_DiDuan","name":"🎬低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Auete","name":"(AAA)Auete","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "酷猫","name": "🐱酷猫","type":3,"api": "csp_Kmys","searchable":1,"quickSearch":1,"filterable":1"jar":"http://static01.imgkr.com/temp/4be9c925a036435e85d3c641efe0b70b.jpg;md5;3a477c0b071fe556277335fb2214d0c9"},
+{"key": "酷猫","name": "🐱酷猫","type":3,"api": "csp_Kmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://static01.imgkr.com/temp/4be9c925a036435e85d3c641efe0b70b.jpg;md5;3a477c0b071fe556277335fb2214d0c9"},
 {"key":"csp_Cokemv","name":"🐞Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"在线之家","name":"📮在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_BBB","name":"🅱️哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gitea.com/qiaoji/jar/raw/branch/main/bili.json"},
