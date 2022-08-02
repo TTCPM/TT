@@ -6,16 +6,7 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vcWlhb2ppL2phci9yYXcvYnJhbmNoL21haW4vemIudHh0"]}]}],
 
 "sites":[
-{
-"key":"KanSJ_spider",
-"name":"🔭看视界",
-"api":"csp_KanSJ",
-"type":3,
-"filterable":1,
-"quickSearch":1,
-"searchable":1,
-"ext":""
-},
+{"key":"KanSJ_spider","name":"🔭看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {
 "key":"csp_Bttoo",
 "name":"💜两个BT(SP)",
@@ -113,34 +104,9 @@
 {"key":"csp_LibVio","name":"✔LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_DiDuan","name":"🎬低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Auete","name":"(AAA)Auete","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-{
-"key":"csp_Cokemv",
-"name":"🐞Cokemv",
-"type":3,
-"api":"csp_Cokemv",
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-},
-{
-"key":"在线之家",
-"name":"📮在线之家",
-"type":3,
-"api":"csp_Zxzj",
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-},
-{
-"key": "csp_BBB",
-"name":"🅱️哔哩套餐",
-"type":3,
-"api":"csp_Bili",
-"searchable":0,
-"quickSearch":0,
-"filterable":1,
-"ext":"https://gitea.com/qiaoji/jar/raw/branch/main/bili.json"
-},
+{"key":"csp_Cokemv","name":"🐞Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"在线之家","name":"📮在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "csp_BBB","name":"🅱️哔哩套餐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/qiaoji/jar/raw/branch/main/bili.json"},
 {"key":"AliPS","name":"⛓盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Gitcafe","name":"🚁小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"FindZY","name":"🏃找资源","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
