@@ -84,7 +84,6 @@
 "quickSearch":1,
 "searchable":1
 },
-
 {"key":"快看影视","name":"🎉快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"293影院","name":"🐞293影院(需要token)","type":3,"api":"csp_YY293","searchable":1,"quickSearch":1,"filterable":1,"ext":"293token"},
 {
@@ -114,7 +113,6 @@
 {"key":"csp_LibVio","name":"✔LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_DiDuan","name":"🎬低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Auete","name":"(AAA)Auete","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-//{"key": "酷猫","name": "🐱酷猫","type":3,"api": "csp_Kmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://static01.imgkr.com/temp/b7d09c90cd4d4ef398d7eae3fdf14538.jpg;md5;f987b35c8675f6c7446a7d4fe0fdc726"},
 {
 "key":"csp_Cokemv",
 "name":"🐞Cokemv",
