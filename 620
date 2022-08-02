@@ -84,56 +84,7 @@
 "quickSearch":1,
 "searchable":1
 },
-{
-"key": "Bili",
-"name": "🅱️哔哩套餐",
-"type": 3,
-"api": "csp_Bili",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/哔哩.json"
-},
-{
-"key": "演唱会",
-"name": "🅰️云演唱会",
-"type": 3,
-"api": "csp_Bili",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/演唱会.json"
-},
-{
-"key": "戏曲",
-"name": "🅰️戏曲",
-"type": 3,
-"api": "csp_Bili",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/戏曲.json"
-},
-{
-"key": "少儿",
-"name": "🅰️少儿教育",
-"type": 3,
-"api": "csp_Bili",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/少儿教育.json"
-},
-{
-"key": "MV",
-"name": "🌈歌曲MV",
-"type": 3,
-"api": "csp_Bili",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/歌曲MV.json"
-},
+
 {"key":"快看影视","name":"🎉快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"293影院","name":"🐞293影院(需要token)","type":3,"api":"csp_YY293","searchable":1,"quickSearch":1,"filterable":1,"ext":"293token"},
 {
@@ -172,7 +123,7 @@
 "searchable":1,
 "quickSearch":1,
 "filterable":1,
-"jar":""
+"jar":"http://static01.imgkr.com/temp/b7d09c90cd4d4ef398d7eae3fdf14538.jpg;md5;f987b35c8675f6c7446a7d4fe0fdc726"
 },
 {
 "key":"csp_Cokemv",
