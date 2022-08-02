@@ -76,7 +76,7 @@
 "jar":"https://ghproxy.com/https://github.com/TTCPM/TT/blob/main/07061553净化包.jar"
 },
 {
-"key":"Ekan_spider"        ,
+"key":"Ekan_spider",
 "name":"🌐Ekan",
 "api":"csp_Ekan",
 "type":3,
@@ -172,7 +172,7 @@
 "searchable":1,
 "quickSearch":1,
 "filterable":1,
-"jar":"http://static01.imgkr.com/temp/b7d09c90cd4d4ef398d7eae3fdf14538.jpg;md5;f987b35c8675f6c7446a7d4fe0fdc726"
+"jar":""
 },
 {
 "key":"csp_Cokemv",
@@ -197,9 +197,9 @@
 "name":"🅱️哔哩套餐",
 "type": 3,
 "api": "csp_Bili",
-"searchable": 0,
-"quickSearch": 0,
-"filterable": 1,
+"searchable":0,
+"quickSearch":0,
+"filterable":1,
 "ext":"https://gitea.com/qiaoji/jar/raw/branch/main/bili.json"
 },
 {"key":"AliPS","name":"⛓盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1},
