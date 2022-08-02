@@ -40,7 +40,7 @@
 {"key":"csp_Cokemv","name":"📺Cokemv〔SP〕","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo","name":"🍷两个BT〔SP〕","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mjxq_spider","name":"🌏美剧星球〔SP〕","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
-
+{"key":"csp_biubiu_voflix","name":"💫voflix","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":https://ghproxy.com/https://raw.githubusercontent.com/TTCPM/TT/main/MaoXB/voflix.json"},
 {"key":"csp_BBB","name":"🅱️哔哩套餐用bili接口","type":3,"api":"csp_B","searchable":0,"quickSearch":0,"filterable":1},
 {"key": "戏曲","name": "🅰️戏曲套餐用bili接口","type": 3,"api": "csp_Bq","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "演唱会","name": "🅰️演唱会套餐用bili接口","type": 3,"api": "csp_Bc","searchable": 1,"quickSearch": 1,"filterable": 1},
