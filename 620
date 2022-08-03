@@ -18,6 +18,9 @@
 {"key":"快看影视","name":"🎉快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"293影院","name":"🐞293影院(需要token)","type":3,"api":"csp_YY293","searchable":1,"quickSearch":1,"filterable":1,"ext":"293token"},
 {"key":"3EDY","name":"🔃3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_QQ","name":"🐧腾讯视频(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1,"jar":"https://shuyuan.miaogongzi.net/shuyuan/1659449296.txt"},
+{"key":"爱奇艺","name":"🐨爱奇艺(SP)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"jar":"https://shuyuan.miaogongzi.net/shuyuan/1659449296.txt"},
+{"key":"csp_MGTV","name":"芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://shuyuan.miaogongzi.net/shuyuan/1659449296.txt"},
 {
 "key":"csp_hbys",
 "name":"🔰简影",
