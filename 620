@@ -6,6 +6,7 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vcWlhb2ppL2phci9yYXcvYnJhbmNoL21haW4vemIudHh0"]}]}],
 
 "sites":[
+{"key":"csp_SP360","name":"💘360〔SP〕大家都知道龙哥爱泡妞","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://maoyingshi.cc/tvbox/云星日记/jar/360.jar"},
 {"key":"KanSJ_spider","name":"🔭看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_Bttoo","name":"💜两个BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://github.com/TTCPM/TT/blob/main/07061553净化包.jar"},
 {"key":"293视频","name":"👀293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
