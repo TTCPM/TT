@@ -21,6 +21,17 @@
 {"key":"csp_QQ","name":"🐧腾讯视频(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1,"jar":"https://shuyuan.miaogongzi.net/shuyuan/1659449296.txt"},
 {"key":"爱奇艺","name":"🐨爱奇艺(SP)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"jar":"https://shuyuan.miaogongzi.net/shuyuan/1659449296.txt"},
 {"key":"csp_MGTV","name":"芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://shuyuan.miaogongzi.net/shuyuan/1659449296.txt"},
+{"key": "酷猫","name": "😾酷猫","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://static01.imgkr.com/temp/ed88b6625c0d44ff9db65cdd5e141f3e.jpg;md5;326a781ee09bac3d33e40e10540b25c5"}, 
+{
+"key": "Lezhu_spider",
+	"name": "🐖乐猪影视",
+	"api": "csp_Lezhu",
+	"type": 3,
+	"filterable": 1,
+	"quickSearch": 1,
+	"searchable": 1,
+	"jar":"http://static01.imgkr.com/temp/ed88b6625c0d44ff9db65cdd5e141f3e.jpg;md5;326a781ee09bac3d33e40e10540b25c5"
+}, 
 {
 "key":"csp_hbys",
 "name":"🔰简影",
@@ -41,7 +52,7 @@
 {"key":"csp_Auete","name":"(AAA)Auete","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"🐞Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"在线之家","name":"📮在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
-//{"key": "csp_Kmys巧技","name":"😾酷猫影视(SP)","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://static01.imgkr.com/temp/caa16dd5513b418a80d25a6028c3a8c2.jpg"},
+
 {"key": "csp_BBB","name":"🅱️哔哩套餐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/qiaoji/jar/raw/branch/main/bili.json"},
 {"key":"AliPS","name":"⛓盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Gitcafe","name":"🚁小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
