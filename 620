@@ -52,7 +52,7 @@
 {"key":"csp_Auete","name":"(AAA)Auete","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"🐞Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"在线之家","name":"📮在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_xpath_喵乐","name":"喵乐资源(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/TTCPM/TT/main/MaoXP/%E5%96%B5%E4%B9%90.json"},
+
 {"key": "csp_BBB","name":"🅱️哔哩套餐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/qiaoji/jar/raw/branch/main/bili.json"},
 {"key":"AliPS","name":"⛓盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Gitcafe","name":"🚁小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
@@ -162,6 +162,7 @@
 
 ## XPath系列
 {"key":"csp_xpath_独播库","name":"独播库(XPF)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/duboku.json"},
+{"key":"csp_xpath_喵乐","name":"喵乐资源(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/TTCPM/TT/main/MaoXP/%E5%96%B5%E4%B9%90.json"},
 {"key":"if101资源","name":"if101(海外推荐)","type":1,"api":"https://demo.if101.tv/api.php/provide/vod","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"csp_xpath_huya","name":"🐯虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/huya2.json"},
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/kuqimv.json"},
