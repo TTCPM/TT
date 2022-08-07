@@ -5,6 +5,7 @@
 // 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
 
+
 "sites":[
 {"key":"csp_SP360","name":"💘360〔SP〕大家都知道龙哥爱泡妞","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://maoyingshi.cc/tvbox/云星日记/jar/360.jar"},
 {"key":"KanSJ_spider","name":"🔭看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
