@@ -10,7 +10,7 @@
 {"key":"csp_SP360","name":"💘360〔SP〕大家都知道龙哥爱泡妞","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"KanSJ_spider","name":"🔭看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_Bttoo","name":"💜两个BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,},
-{"key":"293视频","name":"👀293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/?q=https%3A%2F%2Fgithub.com%2FTTCPM%2FTT%2Fblob%2Fmain%2Fqj0805.jar"},
+//{"key":"293视频","name":"👀293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/?q=https%3A%2F%2Fgithub.com%2FTTCPM%2FTT%2Fblob%2Fmain%2Fqj0805.jar"},
 {"key":"Smdyy_spider","name":"🐴神马影视","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"追剧喵","name":"🐾追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
