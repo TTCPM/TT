@@ -18,8 +18,8 @@
 "spider":"http://static01.imgkr.com/temp/b7d09c90cd4d4ef398d7eae3fdf14538.jpg;md5;f987b35c8675f6c7446a7d4fe0fdc726",
 
 
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vcWlhb2ppL2phci9yYXcvYnJhbmNoL21haW4vemIudHh0"]}]}],
 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
 "wallpaper":"http://css.lc/api.php",
 //"wallpaper":"https://www.dmoe.cc/random.php",  //默认动漫少女
 //"wallpaper":"https://api.vvhan.com/api/acgimg",  //动漫少女
