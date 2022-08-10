@@ -119,16 +119,9 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1
-	}, {
-		"key": "360_spider",
-		"name": "🐞360影视",
-		"api": "csp_SP360",
-		"type": 3,
-		"filterable": 1,
-		"quickSearch": 1,
-		"searchable": 1,
-		"ext": ""
-	}, {
+	}, 
+{"key": "360_spider","name": "☁360影视","api": "csp_SP360","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"jar":"http://maoyingshi.cc/tvbox/云星日记/jar/360.jar"},
+{
 		"key": "csp_CZSPP",
 		"name": "🐞厂长资源",
 		"type": 3,
