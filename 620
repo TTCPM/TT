@@ -1,18 +1,11 @@
-/*-----------------------关注-----------------------*/
-/*----------------TVBOX爱浩者--------------------*/
-/*------------------------胖虎--------------------------*/
-/*---------------------二人同号-----------------------*/
-/*---------------新鲜资源早知道------------------*/
-/*--------------------蚂蚁论坛-----------------------*/
-
 {
 /*-----------------------JAR包接口-----------------------*/
-"spider":"https://wp.wangshi520.com/down.php/f1119df4fc629e71103cc19e2c7b2338.jar",
+"spider":"https://ghproxy.com/https://github.com/TTCPM/TT/blob/main/top95.jar",
 
 /*-----------------------壁纸切换动漫接口(可替换)-----------------------*/
-"wallpaper":"https://www.dmoe.cc/random.php",  //默认动漫少女
+//"wallpaper":"https://www.dmoe.cc/random.php",  //默认动漫少女
 //"wallpaper":"https://api.vvhan.com/api/acgimg",  //动漫少女
-//"wallpaper":"https://picsum.photos/1280/720/?blur=10",  //普通
+"wallpaper":"https://picsum.photos/1280/720/?blur=10",  //普通
 //"wallpaper":"https://xxxx.xxxx/xxx/xxxx",  //膜板
 
 
