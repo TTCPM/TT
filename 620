@@ -46,20 +46,7 @@
 {"key":"csp_AliPS","name":"💿云盘搜(仅搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"b1f13d705ec14661a14a575fde303bb0"}, 
 {"key":"csp_FindZY","name":"💡找资源(仅搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"b1f13d705ec14661a14a575fde303bb0"}, 
 {"key":"push_agent","name":"🛴推送📵","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":""},
-{
-    "key":"t4test",
-    "name":"T4测试",
-    "type":4,
-    // 参数sites可筛选站点，tag用,隔开，不加或sites=all为搜索所有支持的站点
-    // 参数ali_token提供阿里系的搜索播放功能（非必须）
-    "api":"http://82.157.207.44:8080/vod?sites=all&ali_token=acf000bfe33242e4aa639ac911ddaf26",
-    // "api":"http://127.0.0.1:8080/vod",
-    // "api":"http://127.0.0.1:8080/vod?sites=czspp,yiso",
-    // "api":"http://127.0.0.1:8080/vod?ali_token=3xx9cfxxxx509bxx",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":0
-}
+{ "key":"t4test","name":"T4测试","type":4,"api":"http://82.157.207.44:8080/vod?sites=all&ali_token=acf000bfe33242e4aa639ac911ddaf26","searchable":1, "quickSearch":1,"filterable":0},
 
 //
 {"key":"csp_xp_agemys","name":"💢AGE动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/agemys.json"},
