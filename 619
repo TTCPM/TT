@@ -1,7 +1,8 @@
 
 
 {
-	"spider": "https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC0815w.jar;md5;D22ECABC487AE22B2B05A8DB11C1107D",
+	//"spider": "https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC0815w.jar;md5;D22ECABC487AE22B2B05A8DB11C1107D",
+        "spider":"https://gitea.com/liucn/box/raw/branch/main/sub/jar/box281.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"group": "redirect",
