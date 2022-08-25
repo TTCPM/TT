@@ -4,7 +4,7 @@
     "type":4,
     // 参数sites可筛选站点，tag用,隔开，不加或sites=all为搜索所有支持的站点
     // 参数ali_token提供阿里系的搜索播放功能（非必须）
-    "api":"http://82.157.207.44:8080/vod?sites=all",
+    "api":"http://82.157.207.44:8080/vod",
     // "api":"http://127.0.0.1:8080/vod",
     // "api":"http://127.0.0.1:8080/vod?sites=czspp,yiso",
     // "api":"http://127.0.0.1:8080/vod?ali_token=3xx9cfxxxx509bxx",
