@@ -1,9 +1,9 @@
 
 
 {
-        "spider": "https://ghproxy.com/https://github.com/TTCPM/TT/blob/main/0826.jar",
+        //"spider": "https://ghproxy.com/https://github.com/TTCPM/TT/blob/main/0826.jar",
         //"spider":"https://gitea.com/liucn/box/raw/branch/main/sub/jar/box281.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea",
-	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+	//"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"group": "redirect",
 		"channels": [{
@@ -247,8 +247,7 @@
 {"key":"诺讯资源","name":"🥉诺讯资源(官)","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1}, 
 {"key":"看猫","name":"🥉看猫(官)","type":1,"api":"http://124.222.83.15:88/api.php/provide/vod/","searchable":1,"quickSearch":1}
 ],
-
-     "parses": [
+   "parses": [
     {
     "name":"解析聚合",
     "type":3,
@@ -659,4 +658,7 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ],
+       "wallpaper": "https://picsum.photos/1280/720/?blur=10",
+       "spider":"https://dxawi.github.io/1/jar/custom_spider.jar;md5;b62550b71feff1f0ffdc2fba843a244a"
+    
 }
