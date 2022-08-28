@@ -21,7 +21,7 @@
 {"key":"Lezhu_spider","name": "🐖乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1}, 
 {"key": "剧荒TV","name": "🌬剧荒TV","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitea.com/zwx/itv/raw/branch/dev/jar/ys.jar"},
 {"key": "293视频","name":"🦉293TV","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitea.com/zwx/itv/raw/branch/dev/jar/ys.jar"},
-{"key":"IKan","name": "🕸IKan","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"IKan","name": "🕸爱看爬虫","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv"  ,"name":"🍕可口影院","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitea.com/zwx/itv/raw/branch/dev/jar/ys.jar"},
 //{"key":"KanSJ_spider","name": "🎦看视界(爬虫)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"追剧喵","name":"🐱追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
@@ -33,9 +33,9 @@
 //{"key":"mjxq_spider","name":"🌏美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"csp_appys_美剧虫","name":"🐞美剧虫(V1)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/Yoursmile/TVBox/raw/branch/main/sub/mjc.json"},
 {"key":"csp_Cokemv"  ,"name":"💎Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "新哔哩","name": "🎗️新哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/40350/%E6%96%B0%E5%93%94%E5%93%A9.json?sign=QazybKXwzmWoHOgB7KqgvRUZa7lYsZEsGRxUkCPQXmY%3D%3A0","spider":"http://52bsj.vip:81/api/v3/file/get/786/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"},
+{"key": "新哔哩","name": "🎗️哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/40350/%E6%96%B0%E5%93%94%E5%93%A9.json?sign=QazybKXwzmWoHOgB7KqgvRUZa7lYsZEsGRxUkCPQXmY%3D%3A0","spider":"http://52bsj.vip:81/api/v3/file/get/786/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"},
 {"key":"csp_Bttoo" ,"name":"✌两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_Jianying","name": "🍔简影(爬虫)","type": 3,"api": "csp_JianYing","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMDk1MCwiQ3JlYXRlZEF0IjoiMjAyMi0wOC0xNlQyMzoyNjoyMi4xNDQrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA4LTE2VDIzOjI2OjIyLjE0NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjIzMDg4MTcwMTBAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiY2ZhYzE3Y2QtMmY5Mi00MTlkLTgwZTctYzRlNGI3YTk3MjNlIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjEyNjgzODcsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.jkloD7HymtrLwvWaiAHOsxxqSqN2j7RgitKDhJS5e5Q"},
+{"key": "csp_Jianying","name": "🍔简影影视","type": 3,"api": "csp_JianYing","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMDk1MCwiQ3JlYXRlZEF0IjoiMjAyMi0wOC0xNlQyMzoyNjoyMi4xNDQrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA4LTE2VDIzOjI2OjIyLjE0NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjIzMDg4MTcwMTBAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiY2ZhYzE3Y2QtMmY5Mi00MTlkLTgwZTctYzRlNGI3YTk3MjNlIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjEyNjgzODcsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.jkloD7HymtrLwvWaiAHOsxxqSqN2j7RgitKDhJS5e5Q"},
 //{"key": "bdys","name": "🔍哔嘀(磁力测试)","type": 3,"api": "csp_XPbd","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_xpath_A33","name": "🎸酷奇MTV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://home.jundie.top:81/TVBox/MaooXB/mtv.json"},
 {"key": "Kuaikan","name": "👀快看(爬虫)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -664,7 +664,8 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ],
-       "wallpaper": "https://picsum.photos/1280/720/?blur=10",
+     //"wallpaper": "https://picsum.photos/1280/720/?blur=10",
+       "wallpaper":"http://css.lc/api.php",
        "spider":"https://dxawi.github.io/1/jar/custom_spider.jar;md5;b62550b71feff1f0ffdc2fba843a244a"
     
 }
