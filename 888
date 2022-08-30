@@ -13,7 +13,7 @@
 
 "sites":[
 {"key":"t4test","name":"🐍T4服务端","type":4,"api":"http://82.157.207.44:8080/vod?sites=all&ali_token=acf000bfe33242e4aa639ac911ddaf26&timeout=10","searchable":1, "quickSearch":1,"filterable":0},
-{"key": "csp_XYQBiu_凌云影视","name": "凌云影视(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://5848531ky0.oicp.vip/TS1/lyys.json"},
+//{"key": "csp_XYQBiu_凌云影视","name": "凌云影视(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://5848531ky0.oicp.vip/TS1/lyys.json"},
 //{"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://kvymin.github.io/CatVod/jar/0828.jar;md5;22c1132356db792a5b3e4a480c2c91a1"},
 //{"key":"360_spider","name":"💘360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"小苹果","name":"🍎小苹果SP","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
@@ -31,7 +31,7 @@
 {"key":"Smdyy","name": "🐎神马影院","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1}, 
 {"key":"csp_Wmkk","name":"💯完美看看","api":"csp_Wmkk","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Zxzj","name":"🏠在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Alist","name":"Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ju990c.i996.me/TS1/Alist.json"},
+//{"key":"Alist","name":"Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ju990c.i996.me/TS1/Alist.json"},
 {"key":"csp_Mjxq","name":"🌏美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://kvymin.github.io/CatVod/jar/0828.jar;md5;22c1132356db792a5b3e4a480c2c91a1"}, 
 //{"key":"csp_appys_美剧虫","name":"🐞美剧虫(V1)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/Yoursmile/TVBox/raw/branch/main/sub/mjc.json"},
 {"key":"csp_Cokemv"  ,"name":"💎Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
