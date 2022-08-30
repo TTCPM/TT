@@ -23,7 +23,7 @@
 {"key": "293视频","name":"🦉293TV","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://kvymin.github.io/CatVod/jar/0828.jar;md5;22c1132356db792a5b3e4a480c2c91a1"},
 {"key":"IKan","name": "🕸爱看爬虫","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv"  ,"name":"🍕可口影院","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitea.com/zwx/itv/raw/branch/dev/jar/ys.jar"},
-{"key": "KanSJ_spider","name": "看视界","type": 3,"api": "csp_KanSJ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://kvymin.github.io/CatVod/jar/0828.jar;md5;22c1132356db792a5b3e4a480c2c91a1"},
+{"key": "KanSJ_spider","name": "🕊看视界","type": 3,"api": "csp_KanSJ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://kvymin.github.io/CatVod/jar/0828.jar;md5;22c1132356db792a5b3e4a480c2c91a1"},
 {"key":"追剧喵","name":"🐱追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LibVio","name":"🔷LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0},
 //{"key": "9E03","name":"9️⃣9E03","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1},
