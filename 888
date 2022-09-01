@@ -14,7 +14,7 @@
 "sites":[
 {"key":"t4test","name":"🐍T4服务端","type":4,"api":"http://82.157.207.44:8080/vod?sites=all&ali_token=acf000bfe33242e4aa639ac911ddaf26&timeout=10","searchable":1, "quickSearch":1,"filterable":0},
 
-//{"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://kvymin.github.io/CatVod/jar/0828.jar;md5;22c1132356db792a5b3e4a480c2c91a1"},
+{"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.com/https://github.com/TTCPM/TT/blob/main/%E5%90%88%E9%9B%86%E6%9B%B4%E6%96%B0%E9%95%BF%E8%80%8177.jar"},
 //{"key":"360_spider","name":"💘360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"小苹果","name":"🍎小苹果SP","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP" ,"name":"🏭厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
