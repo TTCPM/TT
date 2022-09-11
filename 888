@@ -21,7 +21,7 @@
 {"key":"低端","name": "🦐低端影视","api":"csp_Ddrk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"Lezhu_spider","name": "🐖乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1}, 
 //{"key": "剧荒TV","name": "🌬剧荒TV","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitea.com/zwx/itv/raw/branch/dev/jar/ys.jar"},
-{"key": "293视频","name":"🦉293TV","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://ghproxy.com/https://github.com/TTCPM/TT/blob/main/0906修复版.jar"},
+{"key": "293视频","name":"🦉293TV","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://ghproxy.com/https://github.com/TTCPM/TT/blob/main/0906%E4%BF%AE%E5%A4%8D%E7%89%88.jar"},
 {"key":"IKan","name": "爱看HD🕸","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/liucn/box/raw/branch/main/sub/jar/0907.jar;md5;A36B59197A5AC083D5F8D59DCA01F2F8"},
 {"key":"csp_Cokemv"  ,"name":"🍕可口影院","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitea.com/zwx/itv/raw/branch/dev/jar/ys.jar"},
 {"key": "KanSJ_spider","name": "🕊看视界","type": 3,"api": "csp_KanSJ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://kvymin.github.io/CatVod/jar/0828.jar;md5;22c1132356db792a5b3e4a480c2c91a1"},
