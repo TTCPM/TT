@@ -668,6 +668,6 @@
     ],
      //"wallpaper": "https://picsum.photos/1280/720/?blur=10",
        "wallpaper":"http://css.lc/api.php",
-       "spider":"https://dxawi.github.io/1/jar/custom_spider.jar;md5;b62550b71feff1f0ffdc2fba843a244a"
-    
+      // "spider":"https://dxawi.github.io/1/jar/custom_spider.jar;md5;b62550b71feff1f0ffdc2fba843a244a"
+         "spider":"https://ghproxy.com/https://github.com/TTCPM/TT/blob/main/293.jar"
 }
