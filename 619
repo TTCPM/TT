@@ -36,8 +36,8 @@
 {"key": "push_agent","name":"👊推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "acf000bfe33242e4aa639ac911ddaf26"},
 
 //XYQBiu系列
-{"key":"csp_XYQBiu_凌云影视","name": "🍀凌云影视","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://神器每日推送.tk/XYQxb/凌云影视.json"},
-{"key":"csp_XYQBiu_万能影院","name": "🍀万能影院","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://神器每日推送.tk/XYQxb/万能影院.json"},
+{"key":"csp_XYQBiu_凌云影视","name":"🍀凌云影视","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://神器每日推送.tk/XYQxb/凌云影视.json"},
+{"key":"csp_XYQBiu_万能影院","name":"🍀万能影院","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://神器每日推送.tk/XYQxb/万能影院.json"},
 {"key":"csp_XYQBiu_大米星球","name":"🍀大米星球","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://神器每日推送.tk/XYQxb/大米星球.json"},
 {"key":"csp_XYQBiu_聚合短视频","name":"📽️聚合短视频","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://神器每日推送.tk/XYQxb/分享短视频.json"},	
 {"key":"csp_XYQBiu_虎牙直播","name":"🐯虎牙","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://神器每日推送.tk/XYQxb/虎牙直播.json"},
@@ -556,10 +556,10 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ],
-     "wallpaper": "https://picsum.photos/1280/720/?blur=10",
+  
    
  
-      //"spider":"https://ghproxy.com/https://github.com/TTCPM/TT/blob/main/0922.jar",
-      "spider":"https://神器每日推送.tk/jar;md5;610afb6bb32e7c6d8aef182883702ad1",
+      "spider":"https://ghproxy.com/https://github.com/TTCPM/TT/blob/main/0922.jar",
+      //"spider":"https://神器每日推送.tk/jar;md5;610afb6bb32e7c6d8aef182883702ad1",
      
 }
