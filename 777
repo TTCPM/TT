@@ -11,7 +11,7 @@
 
 "sites":[
 {"key":"t4test","name":"🐍T4服务端","type":4,"api":"http://82.157.207.44:8080/vod?sites=all&ali_token=acf000bfe33242e4aa639ac911ddaf26&timeout=10","searchable":1, "quickSearch":1,"filterable":0},
-{"key":"csp_GitCafe","name":"📜中秋团圆夜 明月照福缘","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "acf000bfe33242e4aa639ac911ddaf26"},
+{"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "acf000bfe33242e4aa639ac911ddaf26"},
 {"key":"Yisou","name":"😺易搜(搜索)","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext": "acf000bfe33242e4aa639ac911ddaf26"},
 {"key":"csp_Alips","name":"😺喵搜(搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext": "acf000bfe33242e4aa639ac911ddaf26"},
 {"key":"Zhaozy","name":"😺找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext": "acf000bfe33242e4aa639ac911ddaf26"},
