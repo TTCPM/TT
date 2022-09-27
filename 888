@@ -10,7 +10,7 @@
 "sites":[
 {"key":"t4test","name":"🐍T4服务端","type":4,"api":"http://82.157.207.44:8080/vod?sites=all&ali_token=acf000bfe33242e4aa639ac911ddaf26&timeout=10","searchable":1, "quickSearch":1,"filterable":0},
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.com/https://github.com/TTCPM/TT/blob/main/%E5%90%88%E9%9B%86%E6%9B%B4%E6%96%B0%E9%95%BF%E8%80%8177.jar"},
-//{"key":"360_spider","name":"💘360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+{"key":"360_spider","name":"💘360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/liucn/box/raw/branch/main/sub/jar/0907.jar;md5;A36B59197A5AC083D5F8D59DCA01F2F8"},
 {"key":"csp_CZSPP" ,"name":"🏭厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://dxawi.github.io/1/jar/custom_spider.jar;md5;b62550b71feff1f0ffdc2fba843a244a"},
 //{"key":"低端","name": "🦐低端影视","api":"csp_Ddrk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
@@ -426,6 +426,11 @@
     "type": 1,
     "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
     "ext": {"flag": ["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"]}
+    },
+    {
+    "name": "江湖",
+    "type": 1,
+    "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="
     },
      {
 	"name": "aiku",
