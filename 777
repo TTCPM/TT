@@ -29,7 +29,7 @@
 //{"key":"csp_Smdyy","name": "🐴神马影视(SP)","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_jihuang","name":"🚀剧荒TV(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},	
 {"key":"csp_SP360","name":"💘360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "293视频","name":"📺293TV","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://ghproxy.com/https://github.com/TTCPM/TT/blob/main/293.jar"},
+{"key": "293视频","name":"📺293TV","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key":"csp_555","name":"5️5️5️影院(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo","name":"✌2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_ZJMiao","name":"😸追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
