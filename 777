@@ -3,7 +3,8 @@
 
 {
 
-"spider":"https://神器每日推送.tk/jar;md5;610afb6bb32e7c6d8aef182883702ad1",
+//"spider":"https://神器每日推送.tk/jar;md5;610afb6bb32e7c6d8aef182883702ad1",
+spider": "https://kebedd69.github.io/TVbox-interface/ext/1001.jar;md5;c474a7a9d106ef348f4ebdc7705c6d38",
 "wallpaper": "https://tool.weetai.cn/api",
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly94bi0tbTdyNDEyYWR2YjkyajIxc3Q2NWEudGsvdHYudHh0Cg=="]}]}],
 
