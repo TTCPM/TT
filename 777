@@ -4,7 +4,7 @@
 {
 
 //"spider":"https://神器每日推送.tk/jar;md5;610afb6bb32e7c6d8aef182883702ad1",
-"spider":"https://gitcode.net/kuukey/a/-/raw/master/jar/cs.jar;md5;3b376fbe31fb80bf131203fae225fff5",
+"spider":"http://shuyuan.miaogongzi.net/shuyuan/1664373496.txt",
 "wallpaper": "https://tool.weetai.cn/api",
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly94bi0tbTdyNDEyYWR2YjkyajIxc3Q2NWEudGsvdHYudHh0Cg=="]}]}],
 
