@@ -47,6 +47,7 @@
 {"key":"Zhaozy","name":"🔍找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext": "db3617dd094f4c5ebd710392f8c30270"},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"db3617dd094f4c5ebd710392f8c30270"},
 //XYQBiu
+{"key": "csp_XBiu_REPEN","name": "❤️RENPE┃R","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://mac.rp123.top/vodshow/{cateId}--------{catePg}---/"},
 {"key": "csp_xb_qsp","name": "❤️氢视频┃R","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://h1080p.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"},
 {"key": "csp_xb_jiumeng","name": "❤️旧梦影视┃R","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://150.158.130.238:4433/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html"},
 {"key": "csp_xb_1080ys","name": "❤️1080影视┃R","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://1080p.tv/vodshow/{cateId}--------{catePg}---"},
