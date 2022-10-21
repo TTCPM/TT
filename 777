@@ -27,6 +27,7 @@
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.com/https://github.com/TTCPM/TT/blob/main/%E5%90%88%E9%9B%86%E6%9B%B4%E6%96%B0%E9%95%BF%E8%80%8177.jar"},	
 {"key": "农民","name": "农民🌾(SP)","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gst163.github.io/s/nongminyingshi.json","jar":"https://dxawi.github.io/1/jar/cs.jar;md5;77afd616fd7d56c0cce18204a0ff47eb"},
 {"key":"csp_DiDuan" ,"name":"⏮️低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0,"jar": "https://ghproxy.com/https://github.com/TTCPM/TT/blob/main/1011.jar"},
+{"key": "drpy_js_低端影视", "name": "低端影视(道长)", "type": 3, "api": "https://gitcode.net/fenwe078/dr_py/-/raw/master/libs/drpy.ym.js", "ext": "https://gitcode.net/fenwe078/dr_py/-/raw/master/js/ddys.js"}, 
 //{"key":"波比影视","name":"🍠波比影视","type":1,"api":"http://xxhhsc.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://agit.ai/138001380000/MHQTV/raw/commit/1230a95b3be7789a928f9a0e4d5f9683ace9b298/jar/0912.jar"},
 //{"key":"csp_Smdyy","name": "🐴神马影视(SP)","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_jihuang","name":"🚀剧荒TV(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},	
