@@ -283,7 +283,6 @@
 {"name":"GGTV搜集","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
 {"name":"GGTV自用","type":1,"url":"https://play.fuqizhishi.com/jx/API.php?appkey=xiaobai888&url="},
 {"name":"懒人","type": 1,"url": "http://120.53.102.254/jx1/jx75.php?url="},
-{"name": "rongxing2", "type": 1, "url": "http://43.249.192.246:2626/jhy/json.php?token=ktuxzCFGJNPQTWZ569&url=", "ext": {"flag": ["rx", "ltnb", "renrenmi", "rongxing", "bilibili", "哔哩哔哩", "哔哩", "youku", "优酷", "qiyi", "爱奇艺", "奇艺", "qq", "腾讯", "mgtv", "芒果", "sohu", "搜狐", "letv", "乐视", "xigua", "CL4K", "西瓜"]}}, 
 {"name":"aiku","type":1,"url":"https://jx.zhanlangbu.com/API.php?appkey=53df3aa2fdb66bcbc4d05730b6fbfc71&url="},
 {"name":"搬运","type":1,"url":"https://jx.bynote.top/API.php?url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
 {"name": "parwix稳定", "type": 0, "ua": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36", "url": "https://jx.bozrc.com:4433/player/?url="},
@@ -323,38 +322,7 @@
         }, 
  
 {"name":"OKjx嗅探","type":0,"url":"https://okjx.cc/?url="},
-{
-            "name": "rongxing", 
-            "type": 1, 
-            "url": "http://jx.dygfsdy.com/home/api?type=ys&uid=129415&key=acdmoruwxCDEKPZ679&url=", 
-            "ext": {
-                "flag": [
-                    "rx", 
-                    "ltnb", 
-                    "renrenmi", 
-                    "rongxing", 
-                    "bilibili", 
-                    "哔哩哔哩", 
-                    "哔哩", 
-                    "youku", 
-                    "优酷", 
-                    "qiyi", 
-                    "爱奇艺", 
-                    "奇艺", 
-                    "qq", 
-                    "腾讯", 
-                    "mgtv", 
-                    "芒果", 
-                    "sohu", 
-                    "搜狐", 
-                    "letv", 
-                    "乐视", 
-                    "xigua", 
-                    "CL4K", 
-                    "西瓜"
-                ]
-            }
-        }, 
+
 {"name":"知名1","type":1,"url":"http://api.ckflv.cn/?url="},
 {"name":"知名2","type":0,"url":"https://h5.freejson.xyz/player/?url="},
 {"name":"知名3","type":0,"url":"https://freejx.rx88.top:1234/?url="},
