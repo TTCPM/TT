@@ -288,39 +288,7 @@
 {"name": "parwix稳定", "type": 0, "ua": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36", "url": "https://jx.bozrc.com:4433/player/?url="},
 {"name":"tvjx","type":1,"url":"http://150.230.216.174/tvjx.php?url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
 {"name":"风起江湖","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
-        {
-            "name": "目前可以解", 
-            "type": 1, 
-            "url": "http://jx.vipmv.co/json.php?token=123457&url=", 
-            "ext": {
-                "flag": [
-                    "rx", 
-                    "ltnb", 
-                    "renrenmi", 
-                    "rongxing", 
-                    "bilibili", 
-                    "哔哩哔哩", 
-                    "哔哩", 
-                    "youku", 
-                    "优酷", 
-                    "qiyi", 
-                    "爱奇艺", 
-                    "奇艺", 
-                    "qq", 
-                    "腾讯", 
-                    "mgtv", 
-                    "芒果", 
-                    "sohu", 
-                    "搜狐", 
-                    "letv", 
-                    "乐视", 
-                    "xigua", 
-                    "CL4K", 
-                    "西瓜"
-                ]
-            }
-        }, 
- 
+
 {"name":"OKjx嗅探","type":0,"url":"https://okjx.cc/?url="},
 
 {"name":"知名1","type":1,"url":"http://api.ckflv.cn/?url="},
