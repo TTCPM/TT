@@ -22,7 +22,7 @@
     ], 
 "sites":[
 {"key":"t4test","name":"🐍T4服务端","type":4,"api":"http://82.157.207.44:8080/vod?sites=all&ali_token=db3617dd094f4c5ebd710392f8c30270=10","searchable":1, "quickSearch":1,"filterable":0},
-//{"key":"csp_KanSJ","name":"🕊看视界影视(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{"key":"csp_KanSJ","name":"🕊看视界影视(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_AppTT","name":"📰图图影视TV(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Kuaikan", "name": "🕊快看影视(爬虫)", "type": 3, "api": "csp_Kuaikan", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "http://shuyuan.miaogongzi.net/shuyuan/1666232078.txt"}, 
 {"key": "神马影院", "name": "🐴神马影院(爬虫)", "type": 3, "api": "csp_Smdyy", "searchable": 1, "quickSearch": 1, "filterable": 1,"jar":"http://shuyuan.miaogongzi.net/shuyuan/1665853055.txt"}, 
@@ -233,7 +233,7 @@
             }
         }, 
         {
-            "name": "目前可以解", 
+            "name": "风起云涌", 
             "type": 1, 
             "url": "http://jx.vipmv.co/json.php?token=123457&url=", 
             "ext": {
@@ -301,7 +301,7 @@
             "url": "https://www.jfxz689.com/?url="
         }, 
         {
-            "name": "手搓哎呦疼2", 
+            "name": "风起长林", 
             "type": 0, 
             "url": "https://ksksl.codjx.com/?url="
         }, 
