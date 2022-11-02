@@ -23,7 +23,7 @@
 "sites":[
 {"key":"t4test","name":"🐍T4服务端","type":4,"api":"http://82.157.207.44:8080/vod?sites=all&ali_token=db3617dd094f4c5ebd710392f8c30270=10","searchable":1, "quickSearch":1,"filterable":0},
 //{"key":"csp_KanSJ","name":"🕊看视界影视(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key":"csp_AppTT","name":"📰图图影视TV(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext": "110c922de7d69804467fb83d3bb664b5","jar": "https://gitea.com/Pandora2277/NoWar/raw/branch/main/cs.txt"},
+{"key":"csp_AppTT","name":"📰图图影视TV(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://pandora2277.github.io/cs.bmp"},
 {"key": "Kuaikan", "name": "🕊快看影视(爬虫)", "type": 3, "api": "csp_Kuaikan", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "http://shuyuan.miaogongzi.net/shuyuan/1666232078.txt"}, 
 {"key": "神马影院", "name": "🐴神马影院(爬虫)", "type": 3, "api": "csp_Smdyy", "searchable": 1, "quickSearch": 1, "filterable": 1,"jar":"http://shuyuan.miaogongzi.net/shuyuan/1665853055.txt"}, 
 
