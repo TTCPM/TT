@@ -19,7 +19,7 @@
 {"key":"csp_AppTT","name":"📰图图影视TV(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.com/https://github.com/TTCPM/TT/blob/main/cs.jar"},
 {"key": "Kuaikan", "name": "🕊快看影视(爬虫)", "type": 3, "api": "csp_Kuaikan", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "http://shuyuan.miaogongzi.net/shuyuan/1666232078.txt"}, 
 {"key": "神马影院", "name": "🐴神马影院(爬虫)", "type": 3, "api": "csp_Smdyy", "searchable": 1, "quickSearch": 1, "filterable": 1,"jar":"http://shuyuan.miaogongzi.net/shuyuan/1665853055.txt"}, 
-
+{"key": "csp_新视觉","name": "🍁新视觉","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://ghproxy.com/https://github.com/TTCPM/TT/blob/main/%E6%96%B0%E8%A7%86%E8%A7%89.jar"},
 {"key":"csp_Lezhu","name":"🐷乐猪影视TV(SP)","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_apple","name":"🍎小苹果源(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.com/https://github.com/TTCPM/TT/blob/main/1011.jar"},
 {"key":"csp_Cokemv","name":"📕Cok影视(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.com/https://github.com/TTCPM/TT/blob/main/1011.jar"},
