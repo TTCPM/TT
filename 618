@@ -12,6 +12,16 @@
       "filterable": 0
     },
     {
+      "key":"追忆",
+      "name":"追忆",
+      "type":3,"api":
+      "csp_AppYsV2",
+      "searchable":1,
+      "quickSearch":1,
+      "changeable":1,
+      "ext":"http://app.alovo.cn/api.php/app/"
+  },
+   {
       "key": "Czsapp",
       "name": "📔┃厂长┃2K",
       "type": 3,
