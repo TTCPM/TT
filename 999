@@ -1,18 +1,5 @@
 [
   {
-    "key": "量子资源",
-    "name": "量子资源",
-    "api": "http://cj.lziapi.com/api.php/provide/vod/",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "默认",
-    "status": true,
-    "isActive": true,
-    "type": 1,
-    "id": 1,
-    "search": 1
-  },
-  {
     "key": "非凡资源",
     "name": "非凡资源",
     "api": "http://www.ffzy.tv/api.php/provide/vod/",
