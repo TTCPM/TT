@@ -2,7 +2,7 @@
 "spider":"http://like.xn--z7x900a.live:66/jar/PandaQ240222.jar;md5;6ac1db4fc619e0976d7e7c2517581b61",
 "wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
 "sites":[
-{"key":"drpy_js_豆瓣","name":"合家欢","type":3,"api":"csp_Douban","searchable":0},
+{"key":"drpy_js_豆瓣","name":"😁合家欢","type":3,"api":"csp_Douban","searchable":0},
 {"key":"豆瓣","name":"🐼┃豆瓣┃预告","type":3,"api":"csp_XBPQ","playerType":2,"ext":{"首页":"正在热映","图片代理":"","分类url":"https://movie.douban.com/{cateId}/;;aRC","分类":"即将上映$cinema/later#正在热映$cinema/nowplaying","数组":"class=\"itemmod&&</ul>||正在热映--class=\"list-item&&</ul>","图片":"src=\"&&\"","标题":"\"intro\">&&</a>","链接":"href=\"&&\"","副标题":"data-score=\"&&\"+class=\"release-date\">&&</li>","播放数组":"<liclass=\"video&&</li>","播放列表":"<a&&</a>","播放标题":"alt=\"&&\"","播放链接":"https://m.douban.com+href=\"&&\""}},
 {"key":"nangua","name":"🎃┃南瓜┃影视","type":3,"playerType":"2","api":"http://dt.xn--yety82d.love/js/lib/drpy2.min.js","ext":"http://dt.xn--yety82d.love/js/南瓜.js"},
 {"key":"csp_Panda_玩偶哥哥","name":"👲┃玩偶┃影视","api":"csp_Wogg","type":3,"searchable":1,"playerType":2,"timeout":30,"changeable":0,"ext":"http://127.0.0.1:9978/file/fatcat/token.txt"},
