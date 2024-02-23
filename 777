@@ -14,6 +14,17 @@
 		"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
 	}],
 "sites":[
+{
+            "key": "T4-安博",
+            "name": "安博(T4)",
+            "type": 4,
+            "api": "https://tang.serv00.net/power/ub1818",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": true
+},
 {"key":"t4test","name":"🐍T4服务端","type":4,"api":"http://82.157.207.44:8080/vod?sites=all&ali_token=db3617dd094f4c5ebd710392f8c30270=10","searchable":1, "quickSearch":1,"filterable":0},
 //{"key":"csp_KanSJ","name":"🕊看视界影视(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_AppTT","name":"📰图图影视TV(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.com/https://github.com/TTCPM/TT/blob/main/cs.jar"},
