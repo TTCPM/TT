@@ -79,7 +79,7 @@
 {"name":"肥猫最可爱","type":1,"url":"http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}}
 ],
 "lives":[
-{"name":"live","type":0,"playerType":1,"url":"https://tang.serv00.net/zb/1","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+{"name":"live","type":0,"playerType":1,"url":"http://home.jundie.top:81/Cat/tv/live.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
 "rules":[
 {"name":"♻️非凡","hosts":["ffzy"],"regex":["25.0666","25.08","20.52"]},
