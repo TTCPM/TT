@@ -1,6 +1,5 @@
 大陸,#genre#
 #EXTM3U x-tvg-url=""
-
 #EXTINF:1 aktv-group="AKTV" tvg-id="aktv/animaxhk" provider-type="iptv",Animax (HK)
 https://s1.m16tv.cfd/aktv/animaxhk/AKTV.m3u8
 
@@ -130,8 +129,6 @@ https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
 #EXTINF:43 aktv-group="zhongtian" tvg-id="zhongtian/CH-1" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv",東森新聞
 https://s1.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
 
-
-
 #EXTINF:1 aktv-group="AKTV" tvg-id="aktv/animaxhk" provider-type="iptv",Animax (HK)
 https://s2.m16tv.cfd/aktv/animaxhk/AKTV.m3u8
 
@@ -260,7 +257,6 @@ https://s2.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
 
 #EXTINF:43 aktv-group="zhongtian" tvg-id="zhongtian/CH-1" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv",東森新聞
 https://s2.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
-
 
 北方广电,#genre#
 CCTV-1HD,http://120.76.248.139/live/bfgd/4200000484.m3u8
