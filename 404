@@ -291,6 +291,8 @@ CCTV-世界地理,http://120.76.248.139/live/bfgd/4200000177.m3u8
 甘肃|轮播,http://120.76.248.139/live/bfgd/4200000298.m3u8
 山东|收藏天下,http://120.76.248.139/live/bfgd/4200000155.m3u8
 山东教育卫视,http://120.76.248.139/live/bfgd/4200000112.m3u8
+广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 AKTV,#genre#
 Animax (HK),https://s1.m16tv.cfd/aktv/animaxhk/AKTV.m3u8
 AXN,https://s1.m16tv.cfd/aktv/axn/AKTV.m3u8
@@ -729,8 +731,6 @@ HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
 澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
 RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
@@ -856,7 +856,6 @@ CINEMAX,http://xn--94q.xn--0p5a.top/0405smt.php?id=cinemax_twn
 纬来综合台,http://xn--94q.xn--0p5a.top/0405smt.php?id=videolandzonghe
 纬来育乐,http://xn--94q.xn--0p5a.top/0405smt.php?id=videolandyule
 纬来精彩,http://xn--94q.xn--0p5a.top/0405smt.php?id=videolandspecial_twn
-好消息2,http://xn--94q.xn--0p5a.top/0405smt.php?id=good2_twn
 大爱2台,http://xn--94q.xn--0p5a.top/0405smt.php?id=daai2_twn
 亚洲美食,http://xn--94q.xn--0p5a.top/0405smt.php?id=afc_twn
 亚洲旅游,http://xn--94q.xn--0p5a.top/0405smt.php?id=tlc_twn
@@ -882,7 +881,6 @@ AFC亚洲旅游台,http://xn--94q.xn--0p5a.top/0405smt.php?id=asiatravel_twn
 公視,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1201
 人間衛視,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1198
 大愛電視,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1216
-好消息GOOD TV,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1669
 Trace Sport Stars,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1003
 DISCOVERY,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1002
 旅遊生活,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1005
@@ -941,12 +939,6 @@ AMC 電影台,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1032
 momo綜合台,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1225
 DAZN 1,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1069
 DAZN 2,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1072
-廈門衛視,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1033
-CCTV4-中央衛視,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1034
-海峽衛視,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1035
-浙江衛視,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1036
-東方衛視,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1037
-湖南衛視,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1038
 鳯凰衛視資訊,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1666
 鳯凰衛視中文,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1213
 
