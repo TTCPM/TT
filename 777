@@ -316,7 +316,6 @@ Smart知识台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=Smart知识�
 原住民频道,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=原住民频道
 MTV音乐频道,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=MTV音乐频道
 韩国娱乐台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=韩国娱乐台
-猪哥亮歌厅秀,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=猪哥亮歌厅秀
 国外频道,#genre#
 AstroAEC,http://api.mytv666.top/api/fh6.php?t=国外频道&id=AstroAEC
 AstroQJ,http://api.mytv666.top/api/fh6.php?t=国外频道&id=AstroQJ
@@ -710,7 +709,7 @@ B站第五人格,https://live.iill.top/bilibili/5555
 B站QQ飞车•手游,https://live.iill.top/bilibili/21743919
 B站JJ斗地主,https://live.iill.top/bilibili/22021983
 B站CS 2,https://live.iill.top/bilibili/21622811
-其他备用,#genre#
+📝其他备用,#genre#
 Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
 TVB星河3,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
