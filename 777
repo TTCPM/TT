@@ -1,520 +1,363 @@
-
-
-
-{
-
-
-"spider":"https://ghproxy.com/https://github.com/TTCPM/TT/blob/main/pz_1022.jar",
-
-"wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-    "lives": [{
-		"name": "直播",
-		"type": 0,
-		"url": "https://tang.serv00.net/zb/1",
-		"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-	}],
-"sites":[
-{
-            "key": "T4-安博",
-            "name": "安博(T4)",
-            "type": 4,
-            "api": "https://tang.serv00.net/power/ub1818",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": true
-},
-{"key":"t4test","name":"🐍T4服务端","type":4,"api":"http://82.157.207.44:8080/vod?sites=all&ali_token=db3617dd094f4c5ebd710392f8c30270=10","searchable":1, "quickSearch":1,"filterable":0},
-//{"key":"csp_KanSJ","name":"🕊看视界影视(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key":"csp_AppTT","name":"📰图图影视TV(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.com/https://github.com/TTCPM/TT/blob/main/cs.jar"},
-{"key": "Kuaikan", "name": "🕊快看影视(爬虫)", "type": 3, "api": "csp_Kuaikan", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "http://shuyuan.miaogongzi.net/shuyuan/1666232078.txt"}, 
-{"key": "神马影院", "name": "🐴神马影院(爬虫)", "type": 3, "api": "csp_Smdyy", "searchable": 1, "quickSearch": 1, "filterable": 1,"jar":"http://shuyuan.miaogongzi.net/shuyuan/1665853055.txt"}, 
-{"key": "csp_新视觉","name": "🍁新视觉","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://ghproxy.com/https://github.com/TTCPM/TT/blob/main/%E6%96%B0%E8%A7%86%E8%A7%89.jar"},
-{"key":"csp_Lezhu","name":"🐷乐猪影视TV(SP)","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_apple","name":"🍎小苹果源(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.com/https://github.com/TTCPM/TT/blob/main/1011.jar"},
-{"key":"csp_Cokemv","name":"📕Cok影视(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.com/https://github.com/TTCPM/TT/blob/main/1011.jar"},
-{"key":"csp_Lib","name": "🎉Lib影视(SP)","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_Auete","name":"🏝Aue影视(SP)","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.com/https://github.com/TTCPM/TT/blob/main/1011.jar"},
-
-{"key":"csp_Czsapp","name":"📔厂长影视(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_77","name":"🌤️酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.com/https://github.com/TTCPM/TT/blob/main/%E5%90%88%E9%9B%86%E6%9B%B4%E6%96%B0%E9%95%BF%E8%80%8177.jar"},	
-{"key": "农民","name": "🌾农民影视(SP)","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gst163.github.io/s/nongminyingshi.json","jar":"https://dxawi.github.io/1/jar/cs.jar;md5;77afd616fd7d56c0cce18204a0ff47eb"},
-{"key":"csp_DiDuan" ,"name":"⏮️低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0,"jar": "https://ghproxy.com/https://github.com/TTCPM/TT/blob/main/1011.jar"},
-{"key": "csp_剧荒", "name": "🚀剧荒(爬虫)", "type": 3, "api": "csp_Juhuang", "searchable": 1, "quickSearch": 1, "filterable":1,"jar":"http://shuyuan.miaogongzi.net/shuyuan/1665853055.txt"}, 
-{"key": "mtv_pc_简影影视", "name": "简影影视(SP)", "type": 3, "api": "csp_JianYing", "filterable": 1, "quickSearch": 1, "searchable": 1, "playerType": "2", "ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozNDc4MiwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0yNlQxMTowOTo0Ni43NDkrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTEwLTA1VDEwOjAwOjU5LjA3KzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiNTg3ODEzNDlAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiNTkwOWIyYTMtNTUzOS00NWE3LTg2MjUtODIwZmIwM2M5YzUwIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6IjIwMjItMTAtMDVUMTA6MDA6NTkuMDcrMDg6MDAiLCJyZWdfa2V5IjoiNzMwODE2MjAiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjY2MzIxNzQ3LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.P2etFz7ILSDaL4AEUs5-z9E7Vlt0LCJE-UZ1hUa5fYg"}, 
-
-{"key": "在线之家", "name": "🏡在线之家(爬虫)", "type": 3, "api": "csp_Zxzj", "searchable": 1, "quickSearch": 1, "filterable": 1,"jar":"http://shuyuan.miaogongzi.net/shuyuan/1665853055.txt"}, 
-{"key":"csp_SP360","name":"💘360影视(解析)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "293视频","name":"📺293TV","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable":1},
-{"key":"csp_dd5555","name":"5️5️5️影院(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/138001380000/MHQTV/raw/commit/1230a95b3be7789a928f9a0e4d5f9683ace9b298/jar/0912.jar"},
-{"key":"csp_Bttoo","name":"✌2BT影视(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_ZJMiao","name":"😸追剧喵(解析)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_Zjdr", "name": "🤸🏿追剧达人(爬虫）", "type": 3, "api": "csp_Zjdr", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "http://shuyuan.miaogongzi.net/shuyuan/1666232078.txt"}, 
-{"key":"csp_Mjxq","name":"🌏美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.com/https://github.com/TTCPM/TT/blob/main/1011.jar"},
-{"key": "3EDY", "name": "🌼3EDY(爬虫)", "type": 3, "api": "csp_EEEDY", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType":2,"jar":"http://shuyuan.miaogongzi.net/shuyuan/1665853055.txt"}, 
-{"key":"csp_Anime1","name": "🌸日本动漫(SP)","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_Yj1211","name":"📽️直播合集","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/138001380000/MHQTV/raw/commit/1230a95b3be7789a928f9a0e4d5f9683ace9b298/jar/0912.jar"},
-{"key":"csp_Bili","name":"🕷哔哩合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://神器每日推送.tk/json/bilibili.json"},
-{"key":"csp_Biliych","name":"🎸歌星演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://神器每日推送.tk/json/Biliych.json"},
-{"key":"csp_GitCafe","name":"📜小纸条(网盘)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "db3617dd094f4c5ebd710392f8c30270","jar":"https://dxawi.github.io/1/jar/cs.jar;md5;77afd616fd7d56c0cce18204a0ff47eb"},
-{"key":"Yisou","name":"🔍易搜(搜索)","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext": "db3617dd094f4c5ebd710392f8c30270","jar":"https://dxawi.github.io/1/jar/cs.jar;md5;77afd616fd7d56c0cce18204a0ff47eb"},
-{"key":"csp_Alips","name":"🔍喵搜(搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext": "db3617dd094f4c5ebd710392f8c30270","jar":"https://dxawi.github.io/1/jar/cs.jar;md5;77afd616fd7d56c0cce18204a0ff47eb"},
-{"key":"Zhaozy","name":"🔍找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext": "db3617dd094f4c5ebd710392f8c30270"},
-{"key":"push_agent","name":"🐬推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"db3617dd094f4c5ebd710392f8c30270"},
-//XYQBiu
-{"key": "csp_XBiu_REPEN","name": "❤️RENPE.┃R","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://mac.rp123.top/vodshow/{cateId}--------{catePg}---/"},
-{"key": "csp_xb_qsp","name": "❤️氢视频┃R","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://h1080p.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"},
-{"key": "csp_xb_jiumeng","name": "❤️旧梦影视┃R","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://150.158.130.238:4433/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html"},
-{"key": "csp_xb_1080ys","name": "❤️1080影视┃R","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://1080p.tv/vodshow/{cateId}--------{catePg}---"},
-{"key": "csp_XBiu_cokemv","name": "❤️cokemv┃R","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cokemv.me/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
-{"key": "csp_xb_aiku","name": "❤️爱酷影视┃R","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.zhanlangbu.com/index.php/vod/type/id/{cateId}.html"},
-{"key": "csp_xb_shm","name": "❤️神马影视┃R","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.smdyy.cc/show/{cateId}-{area}--{class}-----{catePg}---{year}.html"},
-{"key": "csp_xb_fg","name": "❤️疯狗影视┃R","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://m.fenggoudy3.com/list-select-id-{cateId}-type--area--year--star--state--order-addtime-p-{catePg}.html"},
-{"key": "csp_xb_huix","name": "❤️回响影视┃R","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://hxys.tv/vodshow/{cateId}-{area}-------{catePg}---{year}.html"},
-{"key": "csp_xb_aikan ","name": "❤️爱看影视┃R","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---"},
-{"key":"csp_XYQBiu_凌云影视","name": "🍀凌云影视","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://神器每日推送.tk/XYQxb/凌云影视.json","jar":"https://dxawi.github.io/1/jar/cs.jar;md5;77afd616fd7d56c0cce18204a0ff47eb"},
-{"key":"csp_XYQBiu_万能影院","name": "🍀万能影院","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://神器每日推送.tk/XYQxb/万能影院.json","jar":"https://dxawi.github.io/1/jar/cs.jar;md5;77afd616fd7d56c0cce18204a0ff47eb"},
-{"key":"csp_XYQBiu_大米星球","name":"🍀大米星球","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://神器每日推送.tk/XYQxb/大米星球.json","jar":"https://dxawi.github.io/1/jar/cs.jar;md5;77afd616fd7d56c0cce18204a0ff47eb"},
-{"key":"csp_XYQBiu_聚合短视频","name":"📽️聚合短视频","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://神器每日推送.tk/XYQxb/分享短视频.json"},	
-
-{"key":"csp_xpath_88kanqiu","name": "🏀88看球","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://cdn.jsdelivr.net/gh/YuanHsing/freed@master/TVBox/MaooXP/88kanqiu.json"},
-{"key": "csp_xb_101影视","name": "101影视(XBiu)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://www.l0l.tv/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
-{"key": "csp_xBPQ_98影院","name": "98影院","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"0\",\"副标题\":\"right\\\">&&</span>\",\"播放标题\":\">&&</a>\",\"播放数组\":\"<ul class=\\\"stui-content__playlist&&</ul>\",\"线路数组\": \"<img src=&&/h3>\",\"线路标题\": \">&&<\",\"分类url\":\"http://www.98ju.com/{cateId}/index{catePg}.html[http://www.98ju.com/{cateId}/index.html]\",\"分类\":\"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman\",\"类型\":\"dianyingpian--动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#喜剧片$xijupian#纪录片$jilupian#剧情片$juqingpian||dianshiju--国产剧$guochanju#港台剧$gangtaiju#日韩剧$rihanju#欧美剧$oumeiju]\",\"地区\":\"0\",\"剧情\":\"0\",\"年份\":\"0\",\"排序\":\"0\",\"筛选\":\"1\"}"},
-{"key": "csp_xBPQ_花猫","name": "️XBPQ | 花猫tv","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "副标题$class=\"pic-text\">&&</span>#线路数组$/span><h3 class=\"title&&/h3>#搜索后缀$/detail/#播放数组$class=\"stui-content__playlist&&</div>#分类url$http://www.huamaotv.com/type/{cateId}-{catePg}.html"},
-{"key": "csp_xBPQ_巨人影院","name": "巨人影院(xBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"0\",\"播放数组\":\"<ul class=\\\"hl-plays-list&&/ul>\",\"分类\":\"电影$1#电视剧$2#综艺$4#动漫$3#动画片$6\",\"分类url\":\"https://www.jurenm.com/vodtype/{cateId}/page/{catePg}.html\"}"},
-
-{"key": "csp_xb_auete","name": "AUETE(R)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://home.jundie.top:666/json/XBiu/auete.json"},
-{"key": "csp_xb_lib","name": "LIB(R)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": " https://www.libvio.me/type/{cateId}-{catePg}.html"},
-{"key": "csp_xb_lgyy","name": "蓝光影院(R)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"},
-{"key": "csp_xb_jpys","name": "极品影视(R)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.jpys.me/vodshow/{cateId}--------{catePg}---.html"},
-{"key": "csp_xb_zbk","name": "真不卡(R)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html"},
-{"key": "csp_xb_lez2","name": "乐猪(R)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://www.lezhutv.com/type/{cateId}-{datePg}.html"},
-{"key": "csp_xb_9sha","name": "9杀(R)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.9sha.com/vodshow/{cateId}--------{catePg}---.html"},
-{"key": "csp_xb_webdillo","name": "宝仙HD(R)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://webdillo.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
-{"key": "csp_xb_ysgc","name": "影视工厂(R)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"},
-{"key": "csp_xb_cokemv","name": "cokemv(R)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"},
-{"key": "1080", "name": "容兴采集(解析)", "type": 1, "api": "http://103.222.188.156:99/rongxingapi.php/provide/vod/", "searchable": 1, "quickSearch": 0},
-
-//XB
-{"key":"csp_app_美剧范","name":"🐌美剧范(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttzmz.net/api.php/v1.vod"},
-{"key":"csp_app_gotka","name":"🐌速播影视(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mkk.gotka.top/api.php/v1.vod"},
-{"key":"csp_app_独优影视","name":"🐌独优影视(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.71:218/api.php/Chengcheng/vod/"},
-{"key":"csp_app_9E03","name": "🐌9E03(v2)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://vod.9e03.com/lvdou_api.php/v1.vod","jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/sp061.txt"},
-{"key":"csp_app_天天视频","name":"🐌天天视频","type":3,"api": "csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.qianju.cc/api.php/v1.vod"},
-{"key":"csp_app_群鑫影视","name":"🐌群鑫影视","type":3,"api": "csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.qunxinys.com/api.php/v1.vod"},
-{"key":"csp_app_MX影视","name":"🐌MX影视","type":3,"api": "csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mkk.gotka.top/api.php/v1.vod"},
-{"key":"csp_app_段友影视","name": "🐌段友影视2","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://shangjihuoke.com/api.php/tv.vod"},
-
-{"key":"csp_xml_八戒官采","name":"🐝八戒官采","type":1,"api":"https://www.bajiezy.xyz/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","纪录","动作片","喜剧片","爱情片","科幻片","剧情片","悬疑片","惊悚片","恐怖片","犯罪片","谍战片","冒险片","奇幻片","灾难片","战争片","动画片","歌舞片","历史片","传记片","其他片","国产剧","港台剧","日韩剧","欧美剧","海外剧","其他剧"]},
-{"key":"csp_xml_土狗360","name":"🐝土狗360","type":1,"api":"http://360.tgzy.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","其他剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","纪录片","其他片"]},
-{"key":"csp_xml_小猫咪","name":"🐝小猫咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","综合频道"]},
-{"key":"csp_xml_金鹰资源","name":"🐝金鹰资源","type":1,"api":"http://jinyingzy.com/provide/vod","searchable":1,"quickSearch":1},
-{"key":"csp_xml_段友影视","name":"🐝段友影视"   ,"type":1,"api":"http://shangjihuoke.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_考拉直链","name":"🐝考拉资源","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"csp_xml_人人影视","name":"🐝人人影视","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_200121","name":"🐝200121","type":1,"api":"https://www.200121.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_mac采集","name":"🐝苹果采集","type":0,"api":"http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_考拉TV","name":"🐝考拉TV","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_天堂资源","name":"🐝天堂资源","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_木子看剧","name":"🐝木子看剧","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"csp_xml_飘花资源","name":"🐝飘花资源","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_影图资源","name":"🐝影图资源","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-
-
-{"key":"csp_app_天空TV","name":"🐌天空TV","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.tkys.tv/api.php/iptv/vod/"},
-{"key":"csp_app_1080KK","name":"🐌1080KK","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://123.250idc.com/mogai_api.php/v1.vod"},
-{"key":"csp_app_米来影视","name":"🐌米来影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://42.51.37.161:2346/api.php/iptv/vod/"},
-{"key":"csp_app_爱酷影视","name": "🐌爱酷影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},
-{"key":"csp_app_零刻影院","name": "🐌零刻影院","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ys.ling00.cn/api.php/v1.vod"},
-{"key":"csp_app_瑞丰影视","name": "🐌瑞丰影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"},
-{"key":"csp_app_小鸟动漫","name":"🐌小鸟动漫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xydm.baicai.buzz/mogai_api.php/v1.vod"},
-{"key":"csp_app_熊猫动漫","name":"🐌熊猫动漫","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dongman.k8aa.com/mogai_api.php/v1.vod"},
-{"key":"csp_app_日诚影视","name":"🐌日诚影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.rcz168.com/api.php/v1.vod"},
-{"key":"csp_app_淘剧社","name":"🐌淘剧社","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.shuhai99.com/api.php/v1.vod"},
-{"key":"csp_app_冷视TV","name":"🐌冷视TV","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://len.tv/api.php/v1.vod"},
-{"key":"csp_app_芒迅TV","name":"🐌芒迅TV","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.hdyangtv.com/api.php/iptv/vod/"},
-{"key":"csp_app_盒子视界","name":"🐌盒子视界","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://eh.tvzy.cc/api.php/iptv/vod/"},
-{"key":"csp_app_贵宾影院","name":"🐌贵宾影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vipdytv.com/api.php/iptv/vod/"},
-{"key":"csp_app_CV影视","name":"🐌CV影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.cccvvv.top/api.php/iptv/vod/"},
-{"key":"csp_app_2号币","name":"🐌2号币","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://phoebe.cf/api.php/iptv/vod/"},
-{"key":"csp_app_影视大全","name":"🐌影视大全","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xc.xixi2yy.xyz/mogai_api.php/v1.vod"},
-{"key":"csp_app_月儿影视","name":"🐌月儿影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yue52.xyz/api.php/v1.vod"},
-{"key":"csp_app_沭阳影视","name":"🐌沭阳影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://zjr.jurentiaodeng.com/api.php/v1.vod"},
-{"key":"csp_app_看剧吧","name":"🐌看剧吧","type":3,"api": "csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.ishen520.com/api.php/v1.vod"},
-{"key":"csp_app_U5影视","name":"🐌U5影视","type":3,"api": "csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://appx.uy07.com/api.php/v1.vod"},	
-//伦理站源注释，已倒序查阅到262行
-{"key":"csp_xml_冠军资源","name":"🐝冠军资源","type":1,"api":"https://www.cmpzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},  
-{"key":"csp_xml_诺迅资源","name":"🐝诺迅资源","type":1,"api":"https://caiji.nxflv.com/api.php/provide/vod/","playUrl":"https://www.nxflv.com/?url=","searchable":1,"quickSearch":1},
-{"key":"csp_xml_忆梦","name":"🐝忆 梦","type":1,"api":"http://anltv.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_外国影源","name":"🐝外国影源","type":1,"api":"http://api.nguonphim.tv/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_天空资源","name":"🐝天空资源m3u8","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_卧龙资源","name":"🐝卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_39影视","name":"🐝3 9影视","type":1,"api":"https://www.39kan.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_酷点资源","name":"🐝酷点资源","type":1,"api":"https://api.kuapi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_趣看采集","name":"🐝趣看采集","type":1,"api":"https://qkmp4.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1}
-],
-
-//解析设置
-"parses": [
-        {
-            "name": "解析聚合", 
-            "type": 3, 
-            "url": "Demo"
-        }, 
-        {
-            "name": "Json并发", 
-            "type": 2, 
-            "url": "Parallel"
-        }, 
-        {
-            "name": "Json轮询", 
-            "type": 2, 
-            "url": "Sequence"
-        }, 
-        {
-            "name": "rongxing2", 
-            "type": 1, 
-            "url": "http://43.249.192.246:2626/jhy/json.php?token=ktuxzCFGJNPQTWZ569&url=", 
-            "ext": {
-                "flag": [
-                    "rx", 
-                    "ltnb", 
-                    "renrenmi", 
-                    "rongxing", 
-                    "bilibili", 
-                    "哔哩哔哩", 
-                    "哔哩", 
-                    "youku", 
-                    "优酷", 
-                    "qiyi", 
-                    "爱奇艺", 
-                    "奇艺", 
-                    "qq", 
-                    "腾讯", 
-                    "mgtv", 
-                    "芒果", 
-                    "sohu", 
-                    "搜狐", 
-                    "letv", 
-                    "乐视", 
-                    "xigua", 
-                    "CL4K", 
-                    "西瓜"
-                ]
-            }
-        }, 
-        {
-            "name": "rongxing", 
-            "type": 1, 
-            "url": "http://jx.dygfsdy.com/home/api?type=ys&uid=129415&key=acdmoruwxCDEKPZ679&url=", 
-            "ext": {
-                "flag": [
-                    "rx", 
-                    "ltnb", 
-                    "renrenmi", 
-                    "rongxing", 
-                    "bilibili", 
-                    "哔哩哔哩", 
-                    "哔哩", 
-                    "youku", 
-                    "优酷", 
-                    "qiyi", 
-                    "爱奇艺", 
-                    "奇艺", 
-                    "qq", 
-                    "腾讯", 
-                    "mgtv", 
-                    "芒果", 
-                    "sohu", 
-                    "搜狐", 
-                    "letv", 
-                    "乐视", 
-                    "xigua", 
-                    "CL4K", 
-                    "西瓜"
-                ]
-            }
-        }, 
-        {
-            "name": "风起云涌", 
-            "type": 1, 
-            "url": "http://jx.vipmv.co/json.php?token=123457&url=", 
-            "ext": {
-                "flag": [
-                    "rx", 
-                    "ltnb", 
-                    "renrenmi", 
-                    "rongxing", 
-                    "bilibili", 
-                    "哔哩哔哩", 
-                    "哔哩", 
-                    "youku", 
-                    "优酷", 
-                    "qiyi", 
-                    "爱奇艺", 
-                    "奇艺", 
-                    "qq", 
-                    "腾讯", 
-                    "mgtv", 
-                    "芒果", 
-                    "sohu", 
-                    "搜狐", 
-                    "letv", 
-                    "乐视", 
-                    "xigua", 
-                    "CL4K", 
-                    "西瓜"
-                ]
-            }
-        }, 
-        {
-            "name": "回响解析", 
-            "type": 0, 
-            "url": "https://hxys.tv/bfq/?url="
-        }, 
-        {
-            "name": "猫咪解析", 
-            "type": 0, 
-            "url": "https://play.fositv.com/?url="
-        }, 
-        {
-            "name": "parwix稳定", 
-            "type": 0, 
-            "ua": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36", 
-            "url": "https://jx.bozrc.com:4433/player/?url="
-        }, 
-        {
-            "name": "热播库", 
-            "type": 0, 
-            "url": "https://lg.junniu.net/?url="
-        }, 
-        {
-            "name": "高兴解析", 
-            "type": 0, 
-            "url": "http://player.gaoxin155.com.cn:80/index2022.php?url="
-        }, 
-        {
-            "name": "bili解析", 
-            "type": 0, 
-            "url": "http://player.nwctfw.com:80/index2022188.php?url="
-        }, 
-        {
-            "name": "⛄爱跟剧解析", 
-            "type": 0, 
-            "url": "https://www.jfxz689.com/?url="
-        }, 
-        {
-            "name": "风起长林", 
-            "type": 0, 
-            "url": "https://ksksl.codjx.com/?url="
-        }, 
-        {
-            "name": "OKjx综合", 
-            "type": 0, 
-            "url": "https://okjx.cc/?url="
-        },
-{"name":"8090","url":"https://www.8090g.cn/?url="},
-{"name":"风起江湖","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
-{"name":"OKjx嗅探","type":0,"url":"https://okjx.cc/?url="}
-    ], 
-    "flags": [
-        "youku", 
-        "qq", 
-        "iqiyi", 
-        "imgo", 
-        "xueren", 
-        "m1905", 
-        "qiyi", 
-        "letv", 
-        "sohu", 
-        "tudou", 
-        "pptv", 
-        "dbm3u8", 
-        "mgtv", 
-        "wasu", 
-        "bilibili", 
-        "le", 
-        "duoduozy", 
-        "renrenmi", 
-        "xigua", 
-        "优酷", 
-        "西瓜", 
-        "乐视", 
-        "芒果", 
-        "腾讯", 
-        "爱奇艺", 
-        "奇艺", 
-        "ltnb", 
-        "rx", 
-        "CL4K", 
-        "xfyun", 
-        "wuduzy", 
-        "哔哩哔哩", 
-        "哔哩"
-    ], 
-    "ijk": [
-        {
-            "group": "软解码", 
-            "options": [
-                {
-                    "category": 4, 
-                    "name": "opensles", 
-                    "value": "0"
-                }, 
-                {
-                    "category": 4, 
-                    "name": "overlay-format", 
-                    "value": "842225234"
-                }, 
-                {
-                    "category": 4, 
-                    "name": "framedrop", 
-                    "value": "1"
-                }, 
-                {
-                    "category": 4, 
-                    "name": "soundtouch", 
-                    "value": "1"
-                }, 
-                {
-                    "category": 4, 
-                    "name": "start-on-prepared", 
-                    "value": "1"
-                }, 
-                {
-                    "category": 1, 
-                    "name": "http-detect-range-support", 
-                    "value": "0"
-                }, 
-                {
-                    "category": 1, 
-                    "name": "fflags", 
-                    "value": "fastseek"
-                }, 
-                {
-                    "category": 2, 
-                    "name": "skip_loop_filter", 
-                    "value": "48"
-                }, 
-                {
-                    "category": 4, 
-                    "name": "reconnect", 
-                    "value": "1"
-                }, 
-                {
-                    "category": 4, 
-                    "name": "enable-accurate-seek", 
-                    "value": "0"
-                }, 
-                {
-                    "category": 4, 
-                    "name": "mediacodec", 
-                    "value": "0"
-                }, 
-                {
-                    "category": 4, 
-                    "name": "mediacodec-auto-rotate", 
-                    "value": "0"
-                }, 
-                {
-                    "category": 4, 
-                    "name": "mediacodec-handle-resolution-change", 
-                    "value": "0"
-                }, 
-                {
-                    "category": 4, 
-                    "name": "mediacodec-hevc", 
-                    "value": "0"
-                }, 
-                {
-                    "category": 1, 
-                    "name": "dns_cache_timeout", 
-                    "value": "600000000"
-                }
-            ]
-        }, 
-        {
-            "group": "硬解码", 
-            "options": [
-                {
-                    "category": 4, 
-                    "name": "opensles", 
-                    "value": "0"
-                }, 
-                {
-                    "category": 4, 
-                    "name": "overlay-format", 
-                    "value": "842225234"
-                }, 
-                {
-                    "category": 4, 
-                    "name": "framedrop", 
-                    "value": "1"
-                }, 
-                {
-                    "category": 4, 
-                    "name": "soundtouch", 
-                    "value": "1"
-                }, 
-                {
-                    "category": 4, 
-                    "name": "start-on-prepared", 
-                    "value": "1"
-                }, 
-                {
-                    "category": 1, 
-                    "name": "http-detect-range-support", 
-                    "value": "0"
-                }, 
-                {
-                    "category": 1, 
-                    "name": "fflags", 
-                    "value": "fastseek"
-                }, 
-                {
-                    "category": 2, 
-                    "name": "skip_loop_filter", 
-                    "value": "48"
-                }, 
-                {
-                    "category": 4, 
-                    "name": "reconnect", 
-                    "value": "1"
-                }, 
-                {
-                    "category": 4, 
-                    "name": "enable-accurate-seek", 
-                    "value": "0"
-                }, 
-                {
-                    "category": 4, 
-                    "name": "mediacodec", 
-                    "value": "1"
-                }, 
-                {
-                    "category": 4, 
-                    "name": "mediacodec-auto-rotate", 
-                    "value": "1"
-                }, 
-                {
-                    "category": 4, 
-                    "name": "mediacodec-handle-resolution-change", 
-                    "value": "1"
-                }, 
-                {
-                    "category": 4, 
-                    "name": "mediacodec-hevc", 
-                    "value": "1"
-                }, 
-                {
-                    "category": 1, 
-                    "name": "dns_cache_timeout", 
-                    "value": "600000000"
-                }
-            ]
-        }
-    ], 
-
-"ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]
-}
+我的收藏,#genre#
+央视频道,#genre#
+CCTV1,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV1
+CCTV2,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV2
+CCTV3,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV3
+CCTV4,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV4
+CCTV5,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV5
+CCTV5p,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV5p
+CCTV6,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV6
+CCTV7,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV7
+CCTV8,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV8
+CCTV9,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV9
+CCTV10,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV10
+CCTV11,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV11
+CCTV12,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV12
+CCTV13,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV13
+CCTV14,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV14
+CCTV15,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV15
+CCTV16,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV16
+CCTV17,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV17
+CGTN英语,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CGTN英语
+CGTN记录,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CGTN记录
+CGTN西语,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CGTN西语
+CGTN法语,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CGTN法语
+CGTN阿语,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CGTN阿语
+CGTN俄语,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CGTN俄语
+卫视频道,#genre#
+北京卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=北京卫视
+湖南卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=湖南卫视
+浙江卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=浙江卫视
+江苏卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=江苏卫视
+广东卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=广东卫视
+大湾区卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=大湾区卫视
+东方卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=东方卫视
+东南卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=东南卫视
+辽宁卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=辽宁卫视
+深圳卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=深圳卫视
+天津卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=天津卫视
+安徽卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=安徽卫视
+河北卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=河北卫视
+重庆卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=重庆卫视
+吉林卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=吉林卫视
+黑龙江卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=黑龙江卫视
+山东卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=山东卫视
+海南卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=海南卫视
+贵州卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=贵州卫视
+湖北卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=湖北卫视
+河南卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=河南卫视
+广西卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=广西卫视
+江西卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=江西卫视
+陕西卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=陕西卫视
+宁夏卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=宁夏卫视
+内蒙古卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=内蒙古卫视
+四川卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=四川卫视
+山西卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=山西卫视
+甘肃卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=甘肃卫视
+新疆卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=新疆卫视
+青海卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=青海卫视
+少儿频道,#genre#
+CCTV少儿,http://api.mytv666.top/api/fh6.php?t=少儿频道&id=CCTV少儿
+CETV1,http://api.mytv666.top/api/fh6.php?t=少儿频道&id=CETV1
+CETV2,http://api.mytv666.top/api/fh6.php?t=少儿频道&id=CETV2
+CETV4,http://api.mytv666.top/api/fh6.php?t=少儿频道&id=CETV4
+卡酷少儿,http://api.mytv666.top/api/fh6.php?t=少儿频道&id=卡酷少儿
+金鹰卡通,http://api.mytv666.top/api/fh6.php?t=少儿频道&id=金鹰卡通
+哈哈炫动,http://api.mytv666.top/api/fh6.php?t=少儿频道&id=哈哈炫动
+优漫卡通,http://api.mytv666.top/api/fh6.php?t=少儿频道&id=优漫卡通
+嘉佳卡通,http://api.mytv666.top/api/fh6.php?t=少儿频道&id=嘉佳卡通
+ZooMoo,http://api.mytv666.top/api/fh6.php?t=少儿频道&id=ZooMoo
+Nickelodeon,http://api.mytv666.top/api/fh6.php?t=少儿频道&id=Nickelodeon
+NickJr儿童频道,http://api.mytv666.top/api/fh6.php?t=少儿频道&id=NickJr儿童频道
+i-Fun動漫台,http://api.mytv666.top/api/fh6.php?t=少儿频道&id=i-Fun動漫台
+影视频道~7656,#genre#
+POPC,http://api.mytv666.top/api/fh6.php?t=影视频道&id=POPC
+Now爆谷台,http://api.mytv666.top/api/fh6.php?t=影视频道&id=Now爆谷台
+Now星影台,http://api.mytv666.top/api/fh6.php?t=影视频道&id=Now星影台
+天映经典,http://api.mytv666.top/api/fh6.php?t=影视频道&id=天映经典
+TVB功夫台(国),http://api.mytv666.top/api/fh6.php?t=影视频道&id=TVB功夫台(国)
+TVB功夫台(粤),http://api.mytv666.top/api/fh6.php?t=影视频道&id=TVB功夫台(粤)
+美亚电影(国),http://api.mytv666.top/api/fh6.php?t=影视频道&id=美亚电影(国)
+美亚电影(粤),http://api.mytv666.top/api/fh6.php?t=影视频道&id=美亚电影(粤)
+中国电影频道,http://api.mytv666.top/api/fh6.php?t=影视频道&id=中国电影频道
+纬来电影,http://api.mytv666.top/api/fh6.php?t=影视频道&id=纬来电影
+东森电影,http://api.mytv666.top/api/fh6.php?t=影视频道&id=东森电影
+东森洋片,http://api.mytv666.top/api/fh6.php?t=影视频道&id=东森洋片
+tvN,http://api.mytv666.top/api/fh6.php?t=影视频道&id=tvN
+Kix,http://api.mytv666.top/api/fh6.php?t=影视频道&id=Kix
+ROCK超级娱乐,http://api.mytv666.top/api/fh6.php?t=影视频道&id=ROCK超级娱乐
+ROCK综艺娱乐,http://api.mytv666.top/api/fh6.php?t=影视频道&id=ROCK综艺娱乐
+AXN,http://api.mytv666.top/api/fh6.php?t=影视频道&id=AXN
+Animax,http://api.mytv666.top/api/fh6.php?t=影视频道&id=Animax
+Thrill惊悚,http://api.mytv666.top/api/fh6.php?t=影视频道&id=Thrill惊悚
+美亚电影台,http://api.mytv666.top/api/fh6.php?t=影视频道&id=美亚电影台
+AXN頻道,http://api.mytv666.top/api/fh6.php?t=影视频道&id=AXN頻道
+华纳电影,http://api.mytv666.top/api/fh6.php?t=影视频道&id=华纳电影
+CINEMAX,http://api.mytv666.top/api/fh6.php?t=影视频道&id=CINEMAX
+HBOHD,http://api.mytv666.top/api/fh6.php?t=影视频道&id=HBOHD
+HBO原创,http://api.mytv666.top/api/fh6.php?t=影视频道&id=HBO原创
+HBO强档,http://api.mytv666.top/api/fh6.php?t=影视频道&id=HBO强档
+HBO家庭,http://api.mytv666.top/api/fh6.php?t=影视频道&id=HBO家庭
+好莱坞电影,http://api.mytv666.top/api/fh6.php?t=影视频道&id=好莱坞电影
+amc最爱电影,http://api.mytv666.top/api/fh6.php?t=影视频道&id=amc最爱电影
+体育频道~7656,#genre#
+CCTV5,http://api.mytv666.top/api/fh6.php?t=体育频道&id=CCTV5
+CCTV5+,http://api.mytv666.top/api/fh6.php?t=体育频道&id=CCTV5+
+CCTV16,http://api.mytv666.top/api/fh6.php?t=体育频道&id=CCTV16
+NBATV,http://api.mytv666.top/api/fh6.php?t=体育频道&id=NBATV
+HKC18台,http://api.mytv666.top/api/fh6.php?t=体育频道&id=HKC18台
+NowSports1,http://api.mytv666.top/api/fh6.php?t=体育频道&id=NowSports1
+NowSports2,http://api.mytv666.top/api/fh6.php?t=体育频道&id=NowSports2
+NowSports3,http://api.mytv666.top/api/fh6.php?t=体育频道&id=NowSports3
+NowSports|4|,http://api.mytv666.top/api/fh6.php?t=体育频道&id=NowSports|4|
+NowSports5,http://api.mytv666.top/api/fh6.php?t=体育频道&id=NowSports5
+NowSports6,http://api.mytv666.top/api/fh6.php?t=体育频道&id=NowSports6
+NowSports7,http://api.mytv666.top/api/fh6.php?t=体育频道&id=NowSports7
+NowSports英超1台,http://api.mytv666.top/api/fh6.php?t=体育频道&id=NowSports英超1台
+NowSports英超2台,http://api.mytv666.top/api/fh6.php?t=体育频道&id=NowSports英超2台
+NowSports英超3台,http://api.mytv666.top/api/fh6.php?t=体育频道&id=NowSports英超3台
+NowSports英超|4|台,http://api.mytv666.top/api/fh6.php?t=体育频道&id=NowSports英超|4|台
+NowSports英超5台,http://api.mytv666.top/api/fh6.php?t=体育频道&id=NowSports英超5台
+NowSports英超6台,http://api.mytv666.top/api/fh6.php?t=体育频道&id=NowSports英超6台
+C18跑马,http://api.mytv666.top/api/fh6.php?t=体育频道&id=C18跑马
+88跑马台,http://api.mytv666.top/api/fh6.php?t=体育频道&id=88跑马台
+28AI智慧赛马,http://api.mytv666.top/api/fh6.php?t=体育频道&id=28AI智慧赛马
+mySUPER直播足球2台,http://api.mytv666.top/api/fh6.php?t=体育频道&id=mySUPER直播足球2台
+mySUPER直播足球3台,http://api.mytv666.top/api/fh6.php?t=体育频道&id=mySUPER直播足球3台
+mySUPER直播足球|4|台,http://api.mytv666.top/api/fh6.php?t=体育频道&id=mySUPER直播足球|4|台
+mySUPER直播足球5台,http://api.mytv666.top/api/fh6.php?t=体育频道&id=mySUPER直播足球5台
+mySUPER直播足球6台,http://api.mytv666.top/api/fh6.php?t=体育频道&id=mySUPER直播足球6台
+ELTA体育1,http://api.mytv666.top/api/fh6.php?t=体育频道&id=ELTA体育1
+ELTA体育2,http://api.mytv666.top/api/fh6.php?t=体育频道&id=ELTA体育2
+ELTA体育3,http://api.mytv666.top/api/fh6.php?t=体育频道&id=ELTA体育3
+ELTA体育|4|,http://api.mytv666.top/api/fh6.php?t=体育频道&id=ELTA体育|4|
+GinxTV电竞频道,http://api.mytv666.top/api/fh6.php?t=体育频道&id=GinxTV电竞频道
+博斯运动1,http://api.mytv666.top/api/fh6.php?t=体育频道&id=博斯运动1
+博斯运动2,http://api.mytv666.top/api/fh6.php?t=体育频道&id=博斯运动2
+博斯高球1,http://api.mytv666.top/api/fh6.php?t=体育频道&id=博斯高球1
+博斯高球2,http://api.mytv666.top/api/fh6.php?t=体育频道&id=博斯高球2
+博斯网球,http://api.mytv666.top/api/fh6.php?t=体育频道&id=博斯网球
+博斯无限,http://api.mytv666.top/api/fh6.php?t=体育频道&id=博斯无限
+博斯无限2,http://api.mytv666.top/api/fh6.php?t=体育频道&id=博斯无限2
+博斯魅力,http://api.mytv666.top/api/fh6.php?t=体育频道&id=博斯魅力
+智林体育台,http://api.mytv666.top/api/fh6.php?t=体育频道&id=智林体育台
+TRACESportStars,http://api.mytv666.top/api/fh6.php?t=体育频道&id=TRACESportStars
+纬来体育,http://api.mytv666.top/api/fh6.php?t=体育频道&id=纬来体育
+香港频道~7656,#genre#
+凤凰中文台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=凤凰中文台
+凤凰资讯台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=凤凰资讯台
+凤凰香港台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=凤凰香港台
+翡翠台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=翡翠台
+TVBPlus,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVBPlus
+TVB无线新闻台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB无线新闻台
+TVB明珠台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB明珠台
+TVB生活台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB生活台
+TVB星河频道(粤),http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB星河频道(粤)
+TVB星河频道(国),http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB星河频道(国)
+星空卫视,http://api.mytv666.top/api/fh6.php?t=香港频道&id=星空卫视
+TVB1,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB1
+TVBJ1,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVBJ1
+TVBDrama翡翠劇集台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVBDrama翡翠劇集台
+TVBPearlDrama明珠劇集台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVBPearlDrama明珠劇集台
+TVB娱乐新闻,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB娱乐新闻
+TVBE翡翠娛樂台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVBE翡翠娛樂台
+TVB千禧经典,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB千禧经典
+天映频道(国),http://api.mytv666.top/api/fh6.php?t=香港频道&id=天映频道(国)
+天映频道(粤),http://api.mytv666.top/api/fh6.php?t=香港频道&id=天映频道(粤)
+天映经典,http://api.mytv666.top/api/fh6.php?t=香港频道&id=天映经典
+TVB功夫台(国),http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB功夫台(国)
+TVB功夫台(粤),http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB功夫台(粤)
+美亚电影(国),http://api.mytv666.top/api/fh6.php?t=香港频道&id=美亚电影(国)
+美亚电影(粤),http://api.mytv666.top/api/fh6.php?t=香港频道&id=美亚电影(粤)
+龙祥电影,http://api.mytv666.top/api/fh6.php?t=香港频道&id=龙祥电影
+中国电影频道,http://api.mytv666.top/api/fh6.php?t=香港频道&id=中国电影频道
+POPC,http://api.mytv666.top/api/fh6.php?t=香港频道&id=POPC
+黃金華劇台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=黃金華劇台
+Now新闻台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=Now新闻台
+Now直播台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=Now直播台
+Now财经台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=Now财经台
+Now爆谷台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=Now爆谷台
+Now星影台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=Now星影台
+Now華劇台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=Now華劇台
+Now劇集台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=Now劇集台
+NowJelli紫金国际,http://api.mytv666.top/api/fh6.php?t=香港频道&id=NowJelli紫金国际
+HOY76,http://api.mytv666.top/api/fh6.php?t=香港频道&id=HOY76
+HOY77,http://api.mytv666.top/api/fh6.php?t=香港频道&id=HOY77
+HOY78,http://api.mytv666.top/api/fh6.php?t=香港频道&id=HOY78
+ViuTV,http://api.mytv666.top/api/fh6.php?t=香港频道&id=ViuTV
+ViuTV6,http://api.mytv666.top/api/fh6.php?t=香港频道&id=ViuTV6
+RTHK31,http://api.mytv666.top/api/fh6.php?t=香港频道&id=RTHK31
+RTHK32,http://api.mytv666.top/api/fh6.php?t=香港频道&id=RTHK32
+HKC18台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=HKC18台
+亚洲剧台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=亚洲剧台
+华语剧台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=华语剧台
+黄金翡翠台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=黄金翡翠台
+MyTV千禧经典台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=MyTV千禧经典台
+TVBSuperFree,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVBSuperFree
+HandsUP,http://api.mytv666.top/api/fh6.php?t=香港频道&id=HandsUP
+戏曲台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=戏曲台
+粤语片台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=粤语片台
+亚洲综合娱乐台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=亚洲综合娱乐台
+28AI智慧赛马,http://api.mytv666.top/api/fh6.php?t=香港频道&id=28AI智慧赛马
+台湾频道~7656,#genre#
+中视,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=中视
+中视新闻,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=中视新闻
+中视经典,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=中视经典
+公视,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=公视
+小公视,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=小公视
+公视戏剧,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=公视戏剧
+公视台语台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=公视台语台
+公视新闻网,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=公视新闻网
+民视,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=民视
+民视第一台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=民视第一台
+民视台湾台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=民视台湾台
+民视新闻台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=民视新闻台
+民视影剧台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=民视影剧台
+民视旅游台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=民视旅游台
+民视综艺台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=民视综艺台
+台视,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=台视
+台视新闻HD,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=台视新闻HD
+台视综合,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=台视综合
+台视财经,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=台视财经
+台湾戏剧,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=台湾戏剧
+华视,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=华视
+CTS华视新闻资讯,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=CTS华视新闻资讯
+霹雳台湾台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=霹雳台湾台
+壹新闻,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=壹新闻
+壹电影,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=壹电影
+JET综合台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=JET综合台
+年代新闻,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=年代新闻
+年代Much,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=年代Much
+非凡新闻,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=非凡新闻
+非凡商业,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=非凡商业
+寰宇新闻,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=寰宇新闻
+寰宇新闻台湾,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=寰宇新闻台湾
+寰宇财经,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=寰宇财经
+鏡新闻,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=鏡新闻
+东森超视美洲,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=东森超视美洲
+东森美洲,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=东森美洲
+东森美洲卫视,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=东森美洲卫视
+东森中国台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=东森中国台
+东森超视,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=东森超视
+东森幼幼,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=东森幼幼
+MOMO亲子台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=MOMO亲子台
+国兴卫视,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=国兴卫视
+龙华偶像,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=龙华偶像
+龙华戏剧,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=龙华戏剧
+龙华日韩,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=龙华日韩
+龙华电影,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=龙华电影
+龙华影剧,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=龙华影剧
+龙华洋片,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=龙华洋片
+龙华卡通,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=龙华卡通
+龙华经典,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=龙华经典
+三立都会台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=三立都会台
+三立综合台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=三立综合台
+三立台湾台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=三立台湾台
+三立戏剧台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=三立戏剧台
+三立新闻台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=三立新闻台
+三立iNEWS,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=三立iNEWS
+三立国际台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=三立国际台
+LIVE三立,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=LIVE三立
+中天新闻,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=中天新闻
+CTI+中天2台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=CTI+中天2台
+中天综合,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=中天综合
+中天娱乐,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=中天娱乐
+纬来日本,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=纬来日本
+纬来育乐,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=纬来育乐
+八大第一台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=八大第一台
+八大戏剧台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=八大戏剧台
+八大综合台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=八大综合台
+八大精彩台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=八大精彩台
+八大娱乐台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=八大娱乐台
+TVBS新闻台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=TVBS新闻台
+TVBS精采台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=TVBS精采台
+TVBS欢乐台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=TVBS欢乐台
+TVBSHD,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=TVBSHD
+TVBSNEWS,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=TVBSNEWS
+靖天综合台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=靖天综合台
+靖天日本台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=靖天日本台
+靖天卡通台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=靖天卡通台
+靖洋卡通台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=靖洋卡通台
+靖天国际台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=靖天国际台
+靖天育乐台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=靖天育乐台
+靖天映画台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=靖天映画台
+靖天欢乐台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=靖天欢乐台
+華藝MBC綜合台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=華藝MBC綜合台
+LUXETV,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=LUXETV
+亚洲旅游台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=亚洲旅游台
+台湾Plus,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=台湾Plus
+EYETV旅游,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=EYETV旅游
+EYETV戏剧,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=EYETV戏剧
+ELTA日韩,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=ELTA日韩
+ELTA影剧,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=ELTA影剧
+ELTA综合,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=ELTA综合
+ELTA娱乐,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=ELTA娱乐
+ELTA生活旅游,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=ELTA生活旅游
+i-Fun動漫台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=i-Fun動漫台
+Z频道,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=Z频道
+美亚电影台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=美亚电影台
+Thrill惊悚,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=Thrill惊悚
+AXN頻道,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=AXN頻道
+华纳电影,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=华纳电影
+tVN,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=tVN
+CINEMAX,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=CINEMAX
+HBO,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=HBO
+HBOHD,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=HBOHD
+HBO原创,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=HBO原创
+HBO强档,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=HBO强档
+HBO家庭,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=HBO家庭
+好莱坞电影,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=好莱坞电影
+amc最爱电影,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=amc最爱电影
+采昌影剧台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=采昌影剧台
+高点综合,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=高点综合
+东风卫视,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=东风卫视
+Smart知识台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=Smart知识台
+客家电视台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=客家电视台
+原住民频道,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=原住民频道
+MTV音乐频道,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=MTV音乐频道
+韩国娱乐台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=韩国娱乐台
+猪哥亮歌厅秀,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=猪哥亮歌厅秀
+国外频道~7656,#genre#
+AstroAEC,http://api.mytv666.top/api/fh6.php?t=国外频道&id=AstroAEC
+AstroQJ,http://api.mytv666.top/api/fh6.php?t=国外频道&id=AstroQJ
+AstroAOD,http://api.mytv666.top/api/fh6.php?t=国外频道&id=AstroAOD
+Astro欢喜台,http://api.mytv666.top/api/fh6.php?t=国外频道&id=Astro欢喜台
+娱家台,http://api.mytv666.top/api/fh6.php?t=国外频道&id=娱家台
+都会台,http://api.mytv666.top/api/fh6.php?t=国外频道&id=都会台
+新时代1,http://api.mytv666.top/api/fh6.php?t=国外频道&id=新时代1
+新时代2,http://api.mytv666.top/api/fh6.php?t=国外频道&id=新时代2
+城市电视,http://api.mytv666.top/api/fh6.php?t=国外频道&id=城市电视
+中旺电视,http://api.mytv666.top/api/fh6.php?t=国外频道&id=中旺电视
+FashionBox,http://api.mytv666.top/api/fh6.php?t=国外频道&id=FashionBox
+tvN,http://api.mytv666.top/api/fh6.php?t=国外频道&id=tvN
+Kix,http://api.mytv666.top/api/fh6.php?t=国外频道&id=Kix
+ROCK超级娱乐,http://api.mytv666.top/api/fh6.php?t=国外频道&id=ROCK超级娱乐
+ROCK综艺娱乐,http://api.mytv666.top/api/fh6.php?t=国外频道&id=ROCK综艺娱乐
+AXN,http://api.mytv666.top/api/fh6.php?t=国外频道&id=AXN
+Animax,http://api.mytv666.top/api/fh6.php?t=国外频道&id=Animax
+Thrill,http://api.mytv666.top/api/fh6.php?t=国外频道&id=Thrill
+ZooMoo,http://api.mytv666.top/api/fh6.php?t=国外频道&id=ZooMoo
+Nickelodeon,http://api.mytv666.top/api/fh6.php?t=国外频道&id=Nickelodeon
+NickJr儿童频道,http://api.mytv666.top/api/fh6.php?t=国外频道&id=NickJr儿童频道
+DreamWorks,http://api.mytv666.top/api/fh6.php?t=国外频道&id=DreamWorks
+动物星球,http://api.mytv666.top/api/fh6.php?t=国外频道&id=动物星球
+国家地理,http://api.mytv666.top/api/fh6.php?t=国外频道&id=国家地理
+探索频道,http://api.mytv666.top/api/fh6.php?t=国外频道&id=探索频道
+Arirang,http://api.mytv666.top/api/fh6.php?t=国外频道&id=Arirang
+KBS1,http://api.mytv666.top/api/fh6.php?t=国外频道&id=KBS1
+KBS2,http://api.mytv666.top/api/fh6.php?t=国外频道&id=KBS2
+KBSDrama,http://api.mytv666.top/api/fh6.php?t=国外频道&id=KBSDrama
+History,http://api.mytv666.top/api/fh6.php?t=国外频道&id=History
+SBS,http://api.mytv666.top/api/fh6.php?t=国外频道&id=SBS
+SBSBiz,http://api.mytv666.top/api/fh6.php?t=国外频道&id=SBSBiz
+JTBC,http://api.mytv666.top/api/fh6.php?t=国外频道&id=JTBC
+EBS,http://api.mytv666.top/api/fh6.php?t=国外频道&id=EBS
+YTN,http://api.mytv666.top/api/fh6.php?t=国外频道&id=YTN
+Mnet,http://api.mytv666.top/api/fh6.php?t=国外频道&id=Mnet
+OCN,http://api.mytv666.top/api/fh6.php?t=国外频道&id=OCN
+InetTV,http://api.mytv666.top/api/fh6.php?t=国外频道&id=InetTV
+MBC,http://api.mytv666.top/api/fh6.php?t=国外频道&id=MBC
+MBN,http://api.mytv666.top/api/fh6.php?t=国外频道&id=MBN
+Tooniverse,http://api.mytv666.top/api/fh6.php?t=国外频道&id=Tooniverse
+SPOTV,http://api.mytv666.top/api/fh6.php?t=国外频道&id=SPOTV
+JTBCGOLF,http://api.mytv666.top/api/fh6.php?t=国外频道&id=JTBCGOLF
