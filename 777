@@ -57,7 +57,7 @@ CGTN-西语,http://101.26.54.36:9003/nptv/cgtnsp.m3u8
 浙江卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=浙江卫视
 江苏卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=江苏卫视
 广东卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=广东卫视
-大湾区卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=大湾区卫视
+
 东方卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=东方卫视
 东南卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=东南卫视
 辽宁卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=辽宁卫视
@@ -83,15 +83,14 @@ CGTN-西语,http://101.26.54.36:9003/nptv/cgtnsp.m3u8
 甘肃卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=甘肃卫视
 新疆卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=新疆卫视
 青海卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=青海卫视
+大湾区卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=大湾区卫视
 河北卫视,http://101.26.54.36:9003/nptv/hebei.m3u8
 北京卫视,http://101.26.54.36:9003/nptv/beijing.m3u8
 湖南卫视,http://101.26.54.36:9003/nptv/hunan.m3u8
 浙江卫视,http://101.26.54.36:9003/nptv/zhejiang.m3u8
 东方卫视,http://101.26.54.36:9003/nptv/dongfang.m3u8
 安徽卫视,http://101.26.54.36:9003/nptv/anhui.m3u8
-第一剧场,http://101.26.54.36:9003/nptv/dyjc.m3u8
 东南卫视,http://101.26.54.36:9003/nptv/dongnan.m3u8
-风云剧场,http://101.26.54.36:9003/nptv/fyjc.m3u8
 甘肃卫视,http://101.26.54.36:9003/nptv/gansu.m3u8
 广东卫视,http://101.26.54.36:9003/nptv/guangdong.m3u8
 广西卫视,http://101.26.54.36:9003/nptv/guangxi.m3u8
@@ -100,7 +99,6 @@ CGTN-西语,http://101.26.54.36:9003/nptv/cgtnsp.m3u8
 河南卫视,http://101.26.54.36:9003/nptv/henan.m3u8
 黑龙江卫视,http://101.26.54.36:9003/nptv/heilongjiang.m3u8
 湖北卫视,http://101.26.54.36:9003/nptv/hubei.m3u8
-怀旧剧场,http://101.26.54.36:9003/nptv/hjjc.m3u8
 吉林卫视,http://101.26.54.36:9003/nptv/jiling.m3u8
 江苏卫视,http://101.26.54.36:9003/nptv/jiangsu.m3u8
 江西卫视,http://101.26.54.36:9003/nptv/jiangxi.m3u8
@@ -136,6 +134,14 @@ ZooMoo,http://api.mytv666.top/api/fh6.php?t=少儿频道&id=ZooMoo
 Nickelodeon,http://api.mytv666.top/api/fh6.php?t=少儿频道&id=Nickelodeon
 NickJr儿童频道,http://api.mytv666.top/api/fh6.php?t=少儿频道&id=NickJr儿童频道
 i-Fun動漫台,http://api.mytv666.top/api/fh6.php?t=少儿频道&id=i-Fun動漫台
+剧场频道,#genre#
+第一剧场,http://101.26.54.36:9003/nptv/dyjc.m3u8
+怀旧剧场,http://101.26.54.36:9003/nptv/hjjc.m3u8
+风云剧场,http://101.26.54.36:9003/nptv/fyjc.m3u8
+TVBPearlDrama明珠劇集台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVBPearlDrama明珠劇集台
+黃金華劇台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=黃金華劇台
+亚洲剧台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=亚洲剧台
+采昌影剧台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=采昌影剧台
 影视频道,#genre#
 POPC,http://api.mytv666.top/api/fh6.php?t=影视频道&id=POPC
 Now爆谷台,http://api.mytv666.top/api/fh6.php?t=影视频道&id=Now爆谷台
@@ -273,7 +279,7 @@ TVB Plus,https://s2.m16tv.cfd/aktv/tvbplus/AKTV.m3u8
 TVB 星河,https://s1.m16tv.cfd/taiwan2/tvb/AKTV.m3u8
 TVB 星河,https://s2.m16tv.cfd/taiwan2/tvb/AKTV.m3u8
 TVBS,https://s1.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
-TVBShttps://s2.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
+TVBS,https://s2.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
 TVBS新聞,https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
 TVBS新聞,https://s2.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
 翡翠剧集台(北美),https://s1.m16tv.cfd/aktv/CH-18/AKTV.m3u8
