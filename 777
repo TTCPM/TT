@@ -509,33 +509,57 @@ tvN,https://s2.m16tv.cfd/aktv/tvn/AKTV.m3u8
 影迷數位紀實台https://s2.m16tv.cfd/taiwan/CH-2/AKTV.m3u8
 中天新闻台,https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
 中天新闻台,https://s2.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
-埋堆堆,#genre#
-📺埋堆堆1,https://live.iill.top/huya/23740156
-📺埋堆堆2,https://live.iill.top/huya/23749096
-📺埋堆堆3,https://live.iill.top/huya/23735126
-📺埋堆堆4,https://live.iill.top/huya/23903123
-📺埋堆堆5,https://live.iill.top/huya/23734169
-📺埋堆堆6,https://live.iill.top/huya/23863804
-📺埋堆堆7,https://live.iill.top/huya/23865080
-📺埋堆堆8,https://live.iill.top/huya/23864973
-📺埋堆堆9,https://live.iill.top/huya/23903130
-📺埋堆堆10,https://live.iill.top/huya/23860039
-📺埋堆堆11,https://live.iill.top/huya/23903183
-📺埋堆堆12,https://live.iill.top/huya/23903196
-📺埋堆堆13,https://live.iill.top/huya/23728674
-📺埋堆堆14,https://live.iill.top/huya/23865036
-📺埋堆堆15,https://live.iill.top/huya/23829543
-📺埋堆堆16,https://live.iill.top/huya/23865161
-📺埋堆堆17,https://live.iill.top/huya/23865058
-📺埋堆堆18,https://live.iill.top/huya/23824164
-📺埋堆堆19,https://live.iill.top/huya/23863796
-📺埋堆堆20,https://live.iill.top/huya/23734183
-📺埋堆堆21,https://live.iill.top/huya/23728660
-📺埋堆堆22,https://live.iill.top/huya/23865142
-📺埋堆堆23,https://live.iill.top/huya/23734246
-📺埋堆堆24,https://live.iill.top/huya/23865171
-📺埋堆堆25,https://live.iill.top/huya/23734256
-📺埋堆堆26,https://live.iill.top/huya/23749083
+测试,#genre#
+CCTV-1综合,http://t.061899.xyz/tl/tl.php?id=cctv1
+CCTV-2财经,http://t.061899.xyz/tl/tl.php?id=cctv2
+CCTV-3综艺,http://t.061899.xyz/tl/tl.php?id=cctv3
+CCTV-4中文国际,http://t.061899.xyz/tl/tl.php?id=cctv4
+CCTV-5体育,http://t.061899.xyz/tl/tl.php?id=cctv5
+CCTV-5+体育赛事,http://t.061899.xyz/tl/tl.php?id=cctv5p
+CCTV-6电影,http://t.061899.xyz/tl/tl.php?id=cctv6
+CCTV-7国防军事,http://t.061899.xyz/tl/tl.php?id=cctv7
+CCTV-8电视剧,http://t.061899.xyz/tl/tl.php?id=cctv8
+CCTV-9纪录,http://t.061899.xyz/tl/tl.php?id=cctv9
+CCTV-10科教,http://t.061899.xyz/tl/tl.php?id=cctv10
+CCTV-11戏曲,http://t.061899.xyz/tl/tl.php?id=cctv11
+CCTV-12社会与法,http://t.061899.xyz/tl/tl.php?id=cctv12
+CCTV-13新闻,http://t.061899.xyz/tl/tl.php?id=cctv13
+CCTV-14少儿,http://t.061899.xyz/tl/tl.php?id=cctv14
+CCTV-15音乐,http://t.061899.xyz/tl/tl.php?id=cctv15
+CCTV-16奥运,http://t.061899.xyz/tl/tl.php?id=cctv16
+CCTV-17农业农村,http://t.061899.xyz/tl/tl.php?id=cctv17
+浙江卫视,http://t.061899.xyz/tl/tl.php?id=zjws
+广东卫视,http://t.061899.xyz/tl/tl.php?id=gdws
+江苏卫视,http://t.061899.xyz/tl/tl.php?id=jsws
+东方卫视,http://t.061899.xyz/tl/tl.php?id=dfws
+陕西卫视,http://t.061899.xyz/tl/tl.php?id=sxws
+江西卫视,http://t.061899.xyz/tl/tl.php?id=jxws
+湖北卫视,http://t.061899.xyz/tl/tl.php?id=hubws
+吉林卫视,http://t.061899.xyz/tl/tl.php?id=jlws
+青海卫视,http://t.061899.xyz/tl/tl.php?id=qhws
+河南卫视,http://t.061899.xyz/tl/tl.php?id=hnws
+东南卫视,http://t.061899.xyz/tl/tl.php?id=dnws
+海南卫视,http://t.061899.xyz/tl/tl.php?id=hinws
+湖南卫视,http://t.061899.xyz/tl/tl.php?id=hunws
+北京卫视,http://t.061899.xyz/tl/tl.php?id=bjws
+天津卫视,http://t.061899.xyz/tl/tl.php?id=tjws
+重庆卫视,http://t.061899.xyz/tl/tl.php?id=cqws
+黑龙江卫视,http://t.061899.xyz/tl/tl.php?id=hljws
+吉林卫视,http://t.061899.xyz/tl/tl.php?id=jlws
+辽宁卫视,http://t.061899.xyz/tl/tl.php?id=lnws
+内蒙古卫视,http://t.061899.xyz/tl/tl.php?id=nmgws
+宁夏卫视,http://t.061899.xyz/tl/tl.php?id=nxws
+甘肃卫视,http://t.061899.xyz/tl/tl.php?id=gsws
+河北卫视,http://t.061899.xyz/tl/tl.php?id=hbws
+山西卫视,http://t.061899.xyz/tl/tl.php?id=sxiws
+山东卫视,http://t.061899.xyz/tl/tl.php?id=sdws
+安徽卫视,http://t.061899.xyz/tl/tl.php?id=ahws
+深圳卫视,http://t.061899.xyz/tl/tl.php?id=szws
+广西卫视,http://t.061899.xyz/tl/tl.php?id=gxws
+贵州卫视,http://t.061899.xyz/tl/tl.php?id=gzws
+四川卫视,http://t.061899.xyz/tl/tl.php?id=scws
+新疆卫视,http://t.061899.xyz/tl/tl.php?id=xjws
+西藏卫视,http://t.061899.xyz/tl/tl.php?id=xzws
 经典影视,#genre#
 爱情公寓,http://live.metshop.top/huya/11336726
 茶啊二中动画,https://live.iill.top/huya/11213191
