@@ -154,7 +154,7 @@ TVB明珠台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB明珠台
 TVB生活台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB生活台
 TVB星河频道(粤),http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB星河频道(粤)
 TVB星河频道(国),http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB星河频道(国)
-星空卫视,http://api.mytv666.top/api/fh6.php?t=香港频道&id=星空卫视
+星空卫视,http://61.163.58.168:2005/play/forward/5?tvid=XingKong&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5IjoiMCIsImlwIjoiMTA5LjgxLjIxOC45NiIsInR2aWQiOiIyMjA0MTQ0MCIsImVjb25vbWl6ZSI6IjAiLCJleHAiOjE3NDUwMDQzMzcsIm5iZiI6MTc0NDk4NjMzNywiaWF0IjoxNzQ0OTg2MzM3fQ.epCAYnkrQ0dom1tw6JHikm9kNSFN2cv30Ij9gIsPJ6s
 TVB1,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB1
 TVBJ1,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVBJ1
 TVBDrama翡翠劇集台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVBDrama翡翠劇集台
