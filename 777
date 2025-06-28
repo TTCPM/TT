@@ -109,9 +109,9 @@ HBO家庭,http://api.mytv666.top/api/fh6.php?t=影视频道&id=HBO家庭
 好莱坞电影,http://api.mytv666.top/api/fh6.php?t=影视频道&id=好莱坞电影
 amc最爱电影,http://api.mytv666.top/api/fh6.php?t=影视频道&id=amc最爱电影
 体育频道,#genre#
-CCTV5,http://api.mytv666.top/api/fh6.php?t=体育频道&id=CCTV5
-CCTV5+,http://api.mytv666.top/api/fh6.php?t=体育频道&id=CCTV5+
-CCTV16,http://api.mytv666.top/api/fh6.php?t=体育频道&id=CCTV16
+CCTV5,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV5
+CCTV5+,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV5p
+CCTV16,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV16
 NBATV,http://api.mytv666.top/api/fh6.php?t=体育频道&id=NBATV
 HKC18台,http://api.mytv666.top/api/fh6.php?t=体育频道&id=HKC18台
 NowSports1,http://api.mytv666.top/api/fh6.php?t=体育频道&id=NowSports1
