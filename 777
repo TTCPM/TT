@@ -709,6 +709,19 @@ B站JJ斗地主,https://live.iill.top/bilibili/22021983
 B站CS 2,https://live.iill.top/bilibili/21622811
 NPCV备用,#genre#
 CCTV1综合,http://101.26.54.36:9003/mgtv/608807420.m3u8
+CCTV2财经,http://101.26.54.36:9003/mgtv/631780532.m3u8
+CCTV3综艺,http://101.26.54.36:9003/mgtv/624878271.m3u8
+CCTV4中文国际,http://101.26.54.36:9003/mgtv/631780421.m3u8
+CCTV4k-NPTV,http://101.26.54.36:9003/nptv/cctv4k.m3u8
+CCTV4美洲,http://101.26.54.36:9003/mgtv/608807416.m3u8
+CCTV4欧洲,http://101.26.54.36:9003/mgtv/608807419.m3u8
+CCTV5体育,http://101.26.54.36:9003/mgtv/641886683.m3u8
+CCTV5+体育赛事,http://101.26.54.36:9003/mgtv/641886773.m3u8
+CCTV6电影,http://101.26.54.36:9003/mgtv/624878396.m3u8
+CCTV7国防军事,http://101.26.54.36:9003/mgtv/673168121.m3u8
+CCTV8电视剧,http://101.26.54.36:9003/mgtv/624878356.m3u8
+CCTV8k-NPTV,http://101.26.54.36:9003/nptv/cctv8k.m3u8
+CCTV9纪录,http://101.26.54.36:9003/mgtv/673168140.m3u8
 CCTV10科教,http://101.26.54.36:9003/mgtv/624878405.m3u8
 CCTV11戏曲,http://101.26.54.36:9003/mgtv/667987558.m3u8
 CCTV12社会与法,http://101.26.54.36:9003/mgtv/673168185.m3u8
@@ -717,103 +730,48 @@ CCTV14少儿,http://101.26.54.36:9003/mgtv/624878440.m3u8
 CCTV15音乐,http://101.26.54.36:9003/mgtv/673168223.m3u8
 cctv16-NPTV,http://101.26.54.36:9003/nptv/cctv16.m3u8
 CCTV17农业农村,http://101.26.54.36:9003/mgtv/673168256.m3u8
-CCTV2财经,http://101.26.54.36:9003/mgtv/631780532.m3u8
-CCTV3综艺,http://101.26.54.36:9003/mgtv/624878271.m3u8
-CCTV4中文国际,http://101.26.54.36:9003/mgtv/631780421.m3u8
-cctv4k-NPTV,http://101.26.54.36:9003/nptv/cctv4k.m3u8
-CCTV4美洲,http://101.26.54.36:9003/mgtv/608807416.m3u8
-CCTV4欧洲,http://101.26.54.36:9003/mgtv/608807419.m3u8
-CCTV5体育,http://101.26.54.36:9003/mgtv/641886683.m3u8
-CCTV5+体育赛事,http://101.26.54.36:9003/mgtv/641886773.m3u8
-CCTV6电影,http://101.26.54.36:9003/mgtv/624878396.m3u8
-CCTV7国防军事,http://101.26.54.36:9003/mgtv/673168121.m3u8
-CCTV8电视剧,http://101.26.54.36:9003/mgtv/624878356.m3u8
-cctv8k-NPTV,http://101.26.54.36:9003/nptv/cctv8k.m3u8
-CCTV9纪录,http://101.26.54.36:9003/mgtv/673168140.m3u8
-cgtnar-NPTV,http://101.26.54.36:9003/nptv/cgtnar.m3u8	CGTNAR-NPTV
-cgtndoc-NPTV,http://101.26.54.36:9003/nptv/cgtndoc.m3u8	CGTNDOC-NPTV
-cgtnfr-NPTV,http://101.26.54.36:9003/nptv/cgtnfr.m3u8	CGTNFR-NPTV
-cgtn-NPTV,http://101.26.54.36:9003/nptv/cgtn.m3u8	CGTN-NPTV
-cgtnru-NPTV,http://101.26.54.36:9003/nptv/cgtnru.m3u8	CGTNRU-NPTV
-cgtnsp-NPTV,http://101.26.54.36:9003/nptv/cgtnsp.m3u8	CGTNSP-NPTV
-安徽卫视-NPTV,http://101.26.54.36:9003/nptv/anhui.m3u8	安徽卫视-NPTV
-北京卫视-NPTV,http://101.26.54.36:9003/nptv/beijing.m3u8	北京卫视-NPTV
-第一剧场-NPTV,http://101.26.54.36:9003/nptv/dyjc.m3u8	第一剧场-NPTV
-东方卫视-NPTV,http://101.26.54.36:9003/nptv/dongfang.m3u8	东方卫视-NPTV
-东南卫视-NPTV,http://101.26.54.36:9003/nptv/dongnan.m3u8	东南卫视-NPTV
-风云剧场-NPTV,http://101.26.54.36:9003/nptv/fyjc.m3u8	风云剧场-NPTV
-甘肃卫视-NPTV,http://101.26.54.36:9003/nptv/gansu.m3u8	甘肃卫视-NPTV
-广东卫视-NPTV,http://101.26.54.36:9003/nptv/guangdong.m3u8	广东卫视-NPTV
-广西卫视-NPTV,http://101.26.54.36:9003/nptv/guangxi.m3u8	广西卫视-NPTV
-贵州卫视-NPTV,http://101.26.54.36:9003/nptv/guizhou.m3u8	贵州卫视-NPTV
-海南卫视-NPTV,http://101.26.54.36:9003/nptv/hainan.m3u8	海南卫视-NPTV
-河北卫视-NPTV,http://101.26.54.36:9003/nptv/hebei.m3u8	河北卫视-NPTV
-河南卫视-NPTV,http://101.26.54.36:9003/nptv/henan.m3u8	河南卫视-NPTV
-黑龙江卫视-NPTV,http://101.26.54.36:9003/nptv/heilongjiang.m3u8	黑龙江卫视-NPTV
-湖北卫视-NPTV,http://101.26.54.36:9003/nptv/hubei.m3u8	湖北卫视-NPTV
-湖南卫视-NPTV,http://101.26.54.36:9003/nptv/hunan.m3u8	湖南卫视-NPTV
-怀旧剧场-NPTV,http://101.26.54.36:9003/nptv/hjjc.m3u8	怀旧剧场-NPTV
-吉林卫视-NPTV,http://101.26.54.36:9003/nptv/jiling.m3u8	吉林卫视-NPTV
-江苏卫视-NPTV,http://101.26.54.36:9003/nptv/jiangsu.m3u8	江苏卫视-NPTV
-江西卫视-NPTV,http://101.26.54.36:9003/nptv/jiangxi.m3u8	江西卫视-NPTV
-辽宁卫视-NPTV,http://101.26.54.36:9003/nptv/liaoning.m3u8	辽宁卫视-NPTV
-内蒙古卫视-NPTV,http://101.26.54.36:9003/nptv/neimenggu.m3u8	内蒙古卫视-NPTV
-宁夏卫视-NPTV,http://101.26.54.36:9003/nptv/ningxia.m3u8	宁夏卫视-NPTV
-青海卫视-NPTV,http://101.26.54.36:9003/nptv/qinghai.m3u8	青海卫视-NPTV
-山东卫视-NPTV,http://101.26.54.36:9003/nptv/shandong.m3u8	山东卫视-NPTV
-山西卫视-NPTV,http://101.26.54.36:9003/nptv/shanxi.m3u8	山西卫视-NPTV
-陕西卫视-NPTV,http://101.26.54.36:9003/nptv/shanxiws.m3u8	陕西卫视-NPTV
-深圳卫视-NPTV,http://101.26.54.36:9003/nptv/shenzheng.m3u8	深圳卫视-NPTV
-四川卫视-NPTV,http://101.26.54.36:9003/nptv/sichuan.m3u8	四川卫视-NPTV
-天津卫视-NPTV,http://101.26.54.36:9003/nptv/tianjing.m3u8	天津卫视-NPTV
-西藏卫视-NPTV,http://101.26.54.36:9003/nptv/xizang.m3u8	西藏卫视-NPTV
-新疆卫视-NPTV,http://101.26.54.36:9003/nptv/xinjiang.m3u8	新疆卫视-NPTV
-云南卫视-NPTV,http://101.26.54.36:9003/nptv/yunnan.m3u8	云南卫视-NPTV
-浙江卫视-NPTV,http://101.26.54.36:9003/nptv/zhejiang.m3u8	浙江卫视-NPTV
-中国教育电视台-NPTV,http://101.26.54.36:9003/nptv/cetv1.m3u8	中国教育电视台-NPTV
-重庆卫视-NPTV,http://101.26.54.36:9003/nptv/chongqing.m3u8	重庆卫视-NPTV
-cgtnar-NPTV,http://101.26.54.36:9003/nptv/cgtnar.m3u8	CGTNAR-NPTV
-cgtndoc-NPTV,http://101.26.54.36:9003/nptv/cgtndoc.m3u8	CGTNDOC-NPTV
-cgtnfr-NPTV,http://101.26.54.36:9003/nptv/cgtnfr.m3u8	CGTNFR-NPTV
-cgtn-NPTV,http://101.26.54.36:9003/nptv/cgtn.m3u8	CGTN-NPTV
-cgtnru-NPTV,http://101.26.54.36:9003/nptv/cgtnru.m3u8	CGTNRU-NPTV
-cgtnsp-NPTV,http://101.26.54.36:9003/nptv/cgtnsp.m3u8	CGTNSP-NPTV
-安徽卫视-NPTV,http://101.26.54.36:9003/nptv/anhui.m3u8	安徽卫视-NPTV
-北京卫视-NPTV,http://101.26.54.36:9003/nptv/beijing.m3u8	北京卫视-NPTV
-第一剧场-NPTV,http://101.26.54.36:9003/nptv/dyjc.m3u8	第一剧场-NPTV
-东方卫视-NPTV,http://101.26.54.36:9003/nptv/dongfang.m3u8	东方卫视-NPTV
-东南卫视-NPTV,http://101.26.54.36:9003/nptv/dongnan.m3u8	东南卫视-NPTV
-风云剧场-NPTV,http://101.26.54.36:9003/nptv/fyjc.m3u8	风云剧场-NPTV
-甘肃卫视-NPTV,http://101.26.54.36:9003/nptv/gansu.m3u8	甘肃卫视-NPTV
-广东卫视-NPTV,http://101.26.54.36:9003/nptv/guangdong.m3u8	广东卫视-NPTV
-广西卫视-NPTV,http://101.26.54.36:9003/nptv/guangxi.m3u8	广西卫视-NPTV
-贵州卫视-NPTV,http://101.26.54.36:9003/nptv/guizhou.m3u8	贵州卫视-NPTV
-海南卫视-NPTV,http://101.26.54.36:9003/nptv/hainan.m3u8	海南卫视-NPTV
-河北卫视-NPTV,http://101.26.54.36:9003/nptv/hebei.m3u8	河北卫视-NPTV
-河南卫视-NPTV,http://101.26.54.36:9003/nptv/henan.m3u8	河南卫视-NPTV
-黑龙江卫视-NPTV,http://101.26.54.36:9003/nptv/heilongjiang.m3u8	黑龙江卫视-NPTV
-湖北卫视-NPTV,http://101.26.54.36:9003/nptv/hubei.m3u8	湖北卫视-NPTV
-湖南卫视-NPTV,http://101.26.54.36:9003/nptv/hunan.m3u8	湖南卫视-NPTV
-怀旧剧场-NPTV,http://101.26.54.36:9003/nptv/hjjc.m3u8	怀旧剧场-NPTV
-吉林卫视-NPTV,http://101.26.54.36:9003/nptv/jiling.m3u8	吉林卫视-NPTV
-江苏卫视-NPTV,http://101.26.54.36:9003/nptv/jiangsu.m3u8	江苏卫视-NPTV
-江西卫视-NPTV,http://101.26.54.36:9003/nptv/jiangxi.m3u8	江西卫视-NPTV
-辽宁卫视-NPTV,http://101.26.54.36:9003/nptv/liaoning.m3u8	辽宁卫视-NPTV
-内蒙古卫视-NPTV,http://101.26.54.36:9003/nptv/neimenggu.m3u8	内蒙古卫视-NPTV
-宁夏卫视-NPTV,http://101.26.54.36:9003/nptv/ningxia.m3u8	宁夏卫视-NPTV
-青海卫视-NPTV,http://101.26.54.36:9003/nptv/qinghai.m3u8	青海卫视-NPTV
-山东卫视-NPTV,http://101.26.54.36:9003/nptv/shandong.m3u8	山东卫视-NPTV
-山西卫视-NPTV,http://101.26.54.36:9003/nptv/shanxi.m3u8	山西卫视-NPTV
-陕西卫视-NPTV,http://101.26.54.36:9003/nptv/shanxiws.m3u8	陕西卫视-NPTV
-深圳卫视-NPTV,http://101.26.54.36:9003/nptv/shenzheng.m3u8	深圳卫视-NPTV
-四川卫视-NPTV,http://101.26.54.36:9003/nptv/sichuan.m3u8	四川卫视-NPTV
-天津卫视-NPTV,http://101.26.54.36:9003/nptv/tianjing.m3u8	天津卫视-NPTV
-西藏卫视-NPTV,http://101.26.54.36:9003/nptv/xizang.m3u8	西藏卫视-NPTV
-新疆卫视-NPTV,http://101.26.54.36:9003/nptv/xinjiang.m3u8	新疆卫视-NPTV
-云南卫视-NPTV,http://101.26.54.36:9003/nptv/yunnan.m3u8	云南卫视-NPTV
-浙江卫视-NPTV,http://101.26.54.36:9003/nptv/zhejiang.m3u8	浙江卫视-NPTV
-中国教育电视台-NPTV,http://101.26.54.36:9003/nptv/cetv1.m3u8	中国教育电视台-NPTV
-重庆卫视-NPTV,http://101.26.54.36:9003/nptv/chongqing.m3u8	重庆卫视-NPTV
+cgtnar-NPTV,http://101.26.54.36:9003/nptv/cgtnar.m3u8
+cgtndoc-NPTV,http://101.26.54.36:9003/nptv/cgtndoc.m3u8
+cgtnfr-NPTV,http://101.26.54.36:9003/nptv/cgtnfr.m3u8
+cgtn-NPTV,http://101.26.54.36:9003/nptv/cgtn.m3u8
+cgtnru-NPTV,http://101.26.54.36:9003/nptv/cgtnru.m3u8
+cgtnsp-NPTV,http://101.26.54.36:9003/nptv/cgtnsp.m3u8
+安徽卫视-NPTV,http://101.26.54.36:9003/nptv/anhui.m3u8
+北京卫视-NPTV,http://101.26.54.36:9003/nptv/beijing.m3u8
+第一剧场-NPTV,http://101.26.54.36:9003/nptv/dyjc.m3u8
+东方卫视-NPTV,http://101.26.54.36:9003/nptv/dongfang.m3u8
+东南卫视-NPTV,http://101.26.54.36:9003/nptv/dongnan.m3u8
+风云剧场-NPTV,http://101.26.54.36:9003/nptv/fyjc.m3u8
+甘肃卫视-NPTV,http://101.26.54.36:9003/nptv/gansu.m3u8
+广东卫视-NPTV,http://101.26.54.36:9003/nptv/guangdong.m3u8
+广西卫视-NPTV,http://101.26.54.36:9003/nptv/guangxi.m3u8
+贵州卫视-NPTV,http://101.26.54.36:9003/nptv/guizhou.m3u8
+海南卫视-NPTV,http://101.26.54.36:9003/nptv/hainan.m3u8
+河北卫视-NPTV,http://101.26.54.36:9003/nptv/hebei.m3u8
+河南卫视-NPTV,http://101.26.54.36:9003/nptv/henan.m3u8
+黑龙江卫视-NPTV,http://101.26.54.36:9003/nptv/heilongjiang.m3u8
+湖北卫视-NPTV,http://101.26.54.36:9003/nptv/hubei.m3u8
+湖南卫视-NPTV,http://101.26.54.36:9003/nptv/hunan.m3u8
+怀旧剧场-NPTV,http://101.26.54.36:9003/nptv/hjjc.m3u8
+吉林卫视-NPTV,http://101.26.54.36:9003/nptv/jiling.m3u8
+江苏卫视-NPTV,http://101.26.54.36:9003/nptv/jiangsu.m3u8
+江西卫视-NPTV,http://101.26.54.36:9003/nptv/jiangxi.m3u8
+辽宁卫视-NPTV,http://101.26.54.36:9003/nptv/liaoning.m3u8
+内蒙古卫视-NPTV,http://101.26.54.36:9003/nptv/neimenggu.m3u8
+宁夏卫视-NPTV,http://101.26.54.36:9003/nptv/ningxia.m3u8
+青海卫视-NPTV,http://101.26.54.36:9003/nptv/qinghai.m3u8
+山东卫视-NPTV,http://101.26.54.36:9003/nptv/shandong.m3u8
+山西卫视-NPTV,http://101.26.54.36:9003/nptv/shanxi.m3u8
+陕西卫视-NPTV,http://101.26.54.36:9003/nptv/shanxiws.m3u8
+深圳卫视-NPTV,http://101.26.54.36:9003/nptv/shenzheng.m3u8	
+四川卫视-NPTV,http://101.26.54.36:9003/nptv/sichuan.m3u8
+天津卫视-NPTV,http://101.26.54.36:9003/nptv/tianjing.m3u8
+西藏卫视-NPTV,http://101.26.54.36:9003/nptv/xizang.m3u8
+新疆卫视-NPTV,http://101.26.54.36:9003/nptv/xinjiang.m3u8
+云南卫视-NPTV,http://101.26.54.36:9003/nptv/yunnan.m3u8
+浙江卫视-NPTV,http://101.26.54.36:9003/nptv/zhejiang.m3u8
+中国教育电视台-NPTV,http://101.26.54.36:9003/nptv/cetv1.m3u8
+重庆卫视-NPTV,http://101.26.54.36:9003/nptv/chongqing.m3u8
 📝其他备用,#genre#
 Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
 TVB星河3,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
