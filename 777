@@ -446,9 +446,11 @@ MTV音乐频道,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=MTV音乐�
 AXN,https://s1.m16tv.cfd/aktv/axn/AKTV.m3u8
 AXN,https://s2.m16tv.cfd/aktv/axn/AKTV.m3u8
 AstroAEC,http://api.mytv666.top/api/fh6.php?t=国外频道&id=AstroAEC
-AstroQJ,http://api.mytv666.top/api/fh6.php?t=国外频道&id=AstroQJ
+Astro QJ,http://api.mytv666.top/api/fh6.php?t=国外频道&id=AstroQJ
 AstroAOD,http://api.mytv666.top/api/fh6.php?t=国外频道&id=AstroAOD
 Astro欢喜台,http://api.mytv666.top/api/fh6.php?t=国外频道&id=Astro欢喜台
+Astro欢喜台,http://free.cnlive.club/channel/n129801d1/index.m3u8?q=1751191163997
+Astro QJ,http://free.cnlive.club/channel/n2d0f5476/index.m3u8?q=1751191163997
 娱家台,http://api.mytv666.top/api/fh6.php?t=国外频道&id=娱家台
 都会台,http://api.mytv666.top/api/fh6.php?t=国外频道&id=都会台
 新时代1,http://api.mytv666.top/api/fh6.php?t=国外频道&id=新时代1
