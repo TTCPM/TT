@@ -23,6 +23,26 @@ CGTN-西语,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CGTN西语
 CGTN-法语,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CGTN法语
 CGTN-阿语,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CGTN阿语
 CGTN-俄语,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CGTN俄语
+
+CCTV1,http://free.cnlive.club/channel/47cdbb52/index.m3u8?q=1751191163997
+CCTV2,http://free.cnlive.club/channel/47d01112/index.m3u8?q=1751191163997
+CCTV3,http://free.cnlive.club/channel/47ced282/index.m3u8?q=1751191163997
+CCTV4,http://free.cnlive.club/channel/7a879c85/index.m3u8?q=1751191163997
+CCTV5,http://free.cnlive.club/channel/47c9f401/index.m3u8?q=1751191163997
+CCTV6,http://free.cnlive.club/channel/47cedd7d/index.m3u8?q=1751191163997
+CCTV7,http://free.cnlive.club/channel/n7ba2911b/index.m3u8?q=1751191163997
+CCTV8,http://free.cnlive.club/channel/n4dd18c29/index.m3u8?q=1751191163997
+CCTV9,http://free.cnlive.club/channel/47d2f363/index.m3u8?q=1751191163997
+CCTV10,http://free.cnlive.club/channel/n4fe64a4e/index.m3u8?q=1751191163997
+CCTV11,http://free.cnlive.club/channel/n4fe8b4d4/index.m3u8?q=1751191163997
+CCTV12,http://free.cnlive.club/channel/13604deb/index.m3u8?q=1751191163997
+CCTV13,http://free.cnlive.club/channel/n4fe72c8e/index.m3u8?q=1751191163997
+CCTV14,http://free.cnlive.club/channel/n4fe8272c/index.m3u8?q=1751191163997
+CCTV15,http://free.cnlive.club/channel/n4fe0755e/index.m3u8?q=1751191163997
+CCTV16,http://free.cnlive.club/channel/c15fcc8/index.m3u8?q=1751191163997
+CCTV17,http://free.cnlive.club/channel/9e11396/index.m3u8?q=1751191163997
+CCTV5+,http://free.cnlive.club/channel/n374503fe/index.m3u8?q=1751191163997
+
 CCTV1,http://101.26.54.36:9003/mgtv/608807420.m3u8
 CCTV2,http://101.26.54.36:9003/mgtv/631780532.m3u8
 CCTV3,http://101.26.54.36:9003/mgtv/624878271.m3u8
@@ -874,24 +894,7 @@ DreamWorks,http://qwt.zhibotv.top:2016/全网通.php?id=DreamWorks
 国家地理,http://qwt.zhibotv.top:2016/全网通.php?id=国家地理
 探索频道,http://qwt.zhibotv.top:2016/全网通.php?id=探索频道
 📝smart备用,#genre#
-中国|CCTV-1 综合,http://free.cnlive.club/channel/47cdbb52/index.m3u8?q=1751191163997
-中国|CCTV-2 财经,http://free.cnlive.club/channel/47d01112/index.m3u8?q=1751191163997
-中国|CCTV-3 综艺,http://free.cnlive.club/channel/47ced282/index.m3u8?q=1751191163997
-中国|CCTV-4 中文国际,http://free.cnlive.club/channel/7a879c85/index.m3u8?q=1751191163997
-中国|CCTV-5 体育,http://free.cnlive.club/channel/47c9f401/index.m3u8?q=1751191163997
-中国|CCTV-6 电影,http://free.cnlive.club/channel/47cedd7d/index.m3u8?q=1751191163997
-中国|CCTV-7 国防军事,http://free.cnlive.club/channel/n7ba2911b/index.m3u8?q=1751191163997
-中国|CCTV-8 电视剧,http://free.cnlive.club/channel/n4dd18c29/index.m3u8?q=1751191163997
-中国|CCTV-9 记录,http://free.cnlive.club/channel/47d2f363/index.m3u8?q=1751191163997
-中国|CCTV-10 科教,http://free.cnlive.club/channel/n4fe64a4e/index.m3u8?q=1751191163997
-中国|CCTV-11 戏曲,http://free.cnlive.club/channel/n4fe8b4d4/index.m3u8?q=1751191163997
-中国|CCTV-12 社会与法,http://free.cnlive.club/channel/13604deb/index.m3u8?q=1751191163997
-中国|CCTV-13 新闻,http://free.cnlive.club/channel/n4fe72c8e/index.m3u8?q=1751191163997
-中国|CCTV-14 少儿,http://free.cnlive.club/channel/n4fe8272c/index.m3u8?q=1751191163997
-中国|CCTV-15 音乐,http://free.cnlive.club/channel/n4fe0755e/index.m3u8?q=1751191163997
-中国|CCTV-16 奥林匹克,http://free.cnlive.club/channel/c15fcc8/index.m3u8?q=1751191163997
-中国|CCTV-17 农业农村,http://free.cnlive.club/channel/9e11396/index.m3u8?q=1751191163997
-中国|CCTV-5+ 体育赛事,http://free.cnlive.club/channel/n374503fe/index.m3u8?q=1751191163997
+
 中国|湖南卫视,http://free.cnlive.club/channel/6a402f50/index.m3u8?q=1751191163997
 中国|浙江卫视,http://free.cnlive.club/channel/6a2b2475/index.m3u8?q=1751191163997
 中国|江苏卫视,http://free.cnlive.club/channel/6a0dba1f/index.m3u8?q=1751191163997
