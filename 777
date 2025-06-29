@@ -5,7 +5,6 @@ CCTV3,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV3
 CCTV4,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV4
 CCTV5,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV5
 CCTV5+,http://119.60.214.202:8089/hls/17/index.m3u8
-
 CCTV6,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV6
 CCTV7,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV7
 CCTV8,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV8
@@ -161,6 +160,7 @@ CGTN-西语,http://101.26.54.36:9003/nptv/cgtnsp.m3u8
 新疆卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=新疆卫视
 青海卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=青海卫视
 大湾区卫视,http://api.mytv666.top/api/fh6.php?t=卫视频道&id=大湾区卫视
+
 河北卫视,http://101.26.54.36:9003/nptv/hebei.m3u8
 北京卫视,http://101.26.54.36:9003/nptv/beijing.m3u8
 湖南卫视,http://101.26.54.36:9003/nptv/hunan.m3u8
