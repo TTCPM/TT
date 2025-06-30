@@ -1,23 +1,29 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1750940281747/f0626.jpg;md5;5e47ee0da460f1cfad869441e9eb2660",
-  "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
-    // 原有站点配置（保持原有45个站点不变）...
-    // 新增索尼电影点播接口
     {
-      "key": "sony",
-      "name": "🎬索尼电影┃正版4K",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/TTCPM/TT/main/sony_movies.js",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "from": "4k|auto"
-      }
+      "key": "sony_movies",
+      "name": "索尼电影",
+      "type": 0,
+      "categories": [
+        {"type_id": "1", "type_name": "动作片"}
+      ],
+      "videos": [
+        {
+          "vod_id": "1",
+          "vod_name": "开拓者",
+          "vod_pic": "https://example.com/poster1.jpg",
+          "type_name": "动作片",
+          "vod_play_url": "https://v8.qrssv.com/202408/22/JdUvwjzhHv14/video/index.m3u8"
+        },
+        {
+          "vod_id": "2",
+          "vod_name": "蝗虫大军：天降灾难",
+          "vod_pic": "https://example.com/poster2.jpg",
+          "type_name": "动作片",
+          "vod_play_url": "https://v8.qrssv.com/202408/19/mRGUkJXbY614/video/index.m3u8"
+        }
+        // 其他影片按相同格式追加...
+      ]
     }
-  ],
-  "lives": [
-    // 原有直播配置...
   ]
 }
