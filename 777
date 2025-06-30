@@ -64,7 +64,6 @@ CCTV16,http://free.cnlive.club/channel/c15fcc8/index.m3u8?q=1751191163997
 CCTV17,http://free.cnlive.club/channel/9e11396/index.m3u8?q=1751191163997
 CCTV5+,http://free.cnlive.club/channel/n374503fe/index.m3u8?q=1751191163997
 
-
 CCTV1,http://101.26.54.36:9003/mgtv/608807420.m3u8
 CCTV2,http://101.26.54.36:9003/mgtv/631780532.m3u8
 CCTV3,http://101.26.54.36:9003/mgtv/624878271.m3u8
@@ -93,6 +92,7 @@ CGTN-阿语,http://101.26.54.36:9003/nptv/cgtnar.m3u8
 CGTN-法语,http://101.26.54.36:9003/nptv/cgtnfr.m3u8
 CGTN-俄语,http://101.26.54.36:9003/nptv/cgtnru.m3u8
 CGTN-西语,http://101.26.54.36:9003/nptv/cgtnsp.m3u8
+
 卫视频道,#genre#
 北京卫视,http://qwt.zhibotv.top:2016/全网通.php?id=北京卫视
 天津卫视,http://qwt.zhibotv.top:2016/全网通.php?id=天津卫视
@@ -224,11 +224,14 @@ i-Fun動漫台,http://qwt.zhibotv.top:2016/全网通.php?id=i-Fun動漫台
 第一剧场,http://101.26.54.36:9003/nptv/dyjc.m3u8
 怀旧剧场,http://101.26.54.36:9003/nptv/hjjc.m3u8
 风云剧场,http://101.26.54.36:9003/nptv/fyjc.m3u8
-TVBPearlDrama明珠劇集台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVBPearlDrama明珠劇集台
+Now剧集台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=Now劇集台
+TVB明珠劇集台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVBPearlDrama明珠劇集台
+TVB翡翠劇集台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVBDrama翡翠劇集台
 黃金華劇台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=黃金華劇台
 亚洲剧台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=亚洲剧台
 采昌影剧台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=采昌影剧台
 影视频道,#genre#
+中国电影频道,http://api.mytv666.top/api/fh6.php?t=香港频道&id=中国电影频道
 POPC,http://api.mytv666.top/api/fh6.php?t=影视频道&id=POPC
 Now爆谷台,http://api.mytv666.top/api/fh6.php?t=影视频道&id=Now爆谷台
 Now星影台,http://api.mytv666.top/api/fh6.php?t=影视频道&id=Now星影台
@@ -335,94 +338,95 @@ GinxTV电竞频道,http://api.mytv666.top/api/fh6.php?t=体育频道&id=GinxTV�
 智林体育台,http://api.mytv666.top/api/fh6.php?t=体育频道&id=智林体育台
 TRACESportStars,http://api.mytv666.top/api/fh6.php?t=体育频道&id=TRACESportStars
 纬来体育,http://api.mytv666.top/api/fh6.php?t=体育频道&id=纬来体育
+
 香港频道,#genre#
-凤凰中文台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=凤凰中文台
-凤凰资讯台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=凤凰资讯台
-凤凰香港台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=凤凰香港台
-翡翠台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=翡翠台
-TVBPlus,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVBPlus
-TVB无线新闻台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB无线新闻台
-TVB明珠台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB明珠台
-TVB生活台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB生活台
-TVB星河频道(粤),http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB星河频道(粤)
-TVB星河频道(国),http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB星河频道(国)
-星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
-TVBJ1,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVBJ1
-TVBDrama翡翠劇集台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVBDrama翡翠劇集台
-TVBPearlDrama明珠劇集台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVBPearlDrama明珠劇集台
-TVB娱乐新闻,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB娱乐新闻
-TVBE翡翠娛樂台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVBE翡翠娛樂台
-TVB千禧经典,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB千禧经典
-天映频道(国),http://api.mytv666.top/api/fh6.php?t=香港频道&id=天映频道(国)
-天映频道(粤),http://api.mytv666.top/api/fh6.php?t=香港频道&id=天映频道(粤)
-天映经典,http://api.mytv666.top/api/fh6.php?t=香港频道&id=天映经典
-TVB功夫台(国),http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB功夫台(国)
-TVB功夫台(粤),http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB功夫台(粤)
-美亚电影(国),http://api.mytv666.top/api/fh6.php?t=香港频道&id=美亚电影(国)
-美亚电影(粤),http://api.mytv666.top/api/fh6.php?t=香港频道&id=美亚电影(粤)
-龙祥电影,http://api.mytv666.top/api/fh6.php?t=香港频道&id=龙祥电影
-中国电影频道,http://api.mytv666.top/api/fh6.php?t=香港频道&id=中国电影频道
-POPC,http://api.mytv666.top/api/fh6.php?t=香港频道&id=POPC
-黃金華劇台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=黃金華劇台
-Now新闻台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=Now新闻台
-Now新闻台,http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now新闻台
-Now直播台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=Now直播台
-Now财经台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=Now财经台
-Now爆谷台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=Now爆谷台
-Now星影台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=Now星影台
-Now華劇台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=Now華劇台
-Now劇集台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=Now劇集台
-NowJelli紫金国际,http://api.mytv666.top/api/fh6.php?t=香港频道&id=NowJelli紫金国际
-HOY76,http://api.mytv666.top/api/fh6.php?t=香港频道&id=HOY76
-HOY77,http://api.mytv666.top/api/fh6.php?t=香港频道&id=HOY77
-HOY78,http://api.mytv666.top/api/fh6.php?t=香港频道&id=HOY78
-ViuTV,http://api.mytv666.top/api/fh6.php?t=香港频道&id=ViuTV
-ViuTV6,http://api.mytv666.top/api/fh6.php?t=香港频道&id=ViuTV6
-RTHK31,http://api.mytv666.top/api/fh6.php?t=香港频道&id=RTHK31
-RTHK32,http://api.mytv666.top/api/fh6.php?t=香港频道&id=RTHK32
-HKC18台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=HKC18台
-亚洲剧台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=亚洲剧台
-华语剧台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=华语剧台
-黄金翡翠台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=黄金翡翠台
-MyTV千禧经典台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=MyTV千禧经典台
-TVBSuperFree,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVBSuperFree
-HandsUP,http://api.mytv666.top/api/fh6.php?t=香港频道&id=HandsUP
-戏曲台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=戏曲台
 粤语片台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=粤语片台
 亚洲综合娱乐台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=亚洲综合娱乐台
-28AI智慧赛马,http://api.mytv666.top/api/fh6.php?t=香港频道&id=28AI智慧赛马
-8TV,https://s1.m16tv.cfd/astro/8tv/AKTV.m3u8
-8TV,https://s2.m16tv.cfd/astro/8tv/AKTV.m3u8
-PopC,https://s1.m16tv.cfd/aktv/popc/AKTV.m3u8
-PopC,https://s2.m16tv.cfd/aktv/popc/AKTV.m3u8
-TVB Plus,https://s1.m16tv.cfd/aktv/tvbplus/AKTV.m3u8
-TVB Plus,https://s2.m16tv.cfd/aktv/tvbplus/AKTV.m3u8
-TVB 星河,https://s1.m16tv.cfd/taiwan2/tvb/AKTV.m3u8
-TVB 星河,https://s2.m16tv.cfd/taiwan2/tvb/AKTV.m3u8
-TVBS,https://s1.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
-TVBS,https://s2.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
-TVBS新聞,https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
-TVBS新聞,https://s2.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
-翡翠剧集台(北美),https://s1.m16tv.cfd/aktv/CH-18/AKTV.m3u8
-翡翠剧集台(北美),https://s2.m16tv.cfd/aktv/CH-18/AKTV.m3u8
-翡翠台,https://s1.m16tv.cfd/aktv/CH-0/AKTV.m3u8
-翡翠台,https://s2.m16tv.cfd/aktv/CH-0/AKTV.m3u8
-翡翠综合台(北美),https://s1.m16tv.cfd/aktv/CH-17/AKTV.m3u8
-翡翠综合台(北美),https://s2.m16tv.cfd/aktv/CH-17/AKTV.m3u8
-鳳凰衛視香港台,https://s1.m16tv.cfd/aktv/CH-5/AKTV.m3u8
-鳳凰衛視香港台,https://s2.m16tv.cfd/aktv/CH-5/AKTV.m3u8
-鳳凰衛視中文台,https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
-鳳凰衛視中文台,https://s2.m16tv.cfd/aktv/CH-3/AKTV.m3u8
-鳳凰衛視資訊台,https://s1.m16tv.cfd/aktv/CH-4/AKTV.m3u8
-鳳凰衛視資訊台,https://s2.m16tv.cfd/aktv/CH-4/AKTV.m3u8
-好萊塢電影台,https://s1.m16tv.cfd/aktv2/CH-4/AKTV.m3u8
-好萊塢電影台,https://s2.m16tv.cfd/aktv2/CH-4/AKTV.m3u8
-龍華日韓台,https://s1.m16tv.cfd/taiwan/CH-5/AKTV.m3u8
-龍華日韓台,https://s2.m16tv.cfd/taiwan/CH-5/AKTV.m3u8
-明珠剧集台(北美),https://s1.m16tv.cfd/aktv/CH-19/AKTV.m3u8
-明珠剧集台(北美),https://s2.m16tv.cfd/aktv/CH-19/AKTV.m3u8
-明珠台,https://s1.m16tv.cfd/aktv/CH-2/AKTV.m3u8
+亚洲剧台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=亚洲剧台
+星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+戏曲台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=戏曲台
+天映频道(粤),http://api.mytv666.top/api/fh6.php?t=香港频道&id=天映频道(粤)
+天映频道(国),http://api.mytv666.top/api/fh6.php?t=香港频道&id=天映频道(国)
+天映经典,http://api.mytv666.top/api/fh6.php?t=香港频道&id=天映经典
 明珠台,https://s2.m16tv.cfd/aktv/CH-2/AKTV.m3u8
+明珠台,https://s1.m16tv.cfd/aktv/CH-2/AKTV.m3u8
+明珠剧集台(北美),https://s2.m16tv.cfd/aktv/CH-19/AKTV.m3u8
+明珠剧集台(北美),https://s1.m16tv.cfd/aktv/CH-19/AKTV.m3u8
+美亚电影(粤),http://api.mytv666.top/api/fh6.php?t=香港频道&id=美亚电影(粤)
+美亚电影(国),http://api.mytv666.top/api/fh6.php?t=香港频道&id=美亚电影(国)
+龍華日韓台,https://s2.m16tv.cfd/taiwan/CH-5/AKTV.m3u8
+龍華日韓台,https://s1.m16tv.cfd/taiwan/CH-5/AKTV.m3u8
+龙祥电影,http://api.mytv666.top/api/fh6.php?t=香港频道&id=龙祥电影
+黃金華劇台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=黃金華劇台
+黄金翡翠台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=黄金翡翠台
+华语剧台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=华语剧台
+好莱坞电影台,https://s2.m16tv.cfd/aktv2/CH-4/AKTV.m3u8
+好莱坞电影台,https://s1.m16tv.cfd/aktv2/CH-4/AKTV.m3u8
+凤凰卫视资讯台,https://s2.m16tv.cfd/aktv/CH-4/AKTV.m3u8
+凤凰卫视资讯台,https://s1.m16tv.cfd/aktv/CH-4/AKTV.m3u8
+凤凰卫视中文台,https://s2.m16tv.cfd/aktv/CH-3/AKTV.m3u8
+凤凰卫视中文台,https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
+凤凰香港台,https://s2.m16tv.cfd/aktv/CH-5/AKTV.m3u8
+凤凰香港台,https://s1.m16tv.cfd/aktv/CH-5/AKTV.m3u8
+凤凰资讯台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=凤凰资讯台
+凤凰中文台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=凤凰中文台
+凤凰香港台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=凤凰香港台
+翡翠综合台(北美),https://s2.m16tv.cfd/aktv/CH-17/AKTV.m3u8
+翡翠综合台(北美),https://s1.m16tv.cfd/aktv/CH-17/AKTV.m3u8
+翡翠台,https://s2.m16tv.cfd/aktv/CH-0/AKTV.m3u8
+翡翠台,https://s1.m16tv.cfd/aktv/CH-0/AKTV.m3u8
+翡翠台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=翡翠台
+翡翠剧集台(北美),https://s2.m16tv.cfd/aktv/CH-18/AKTV.m3u8
+翡翠剧集台(北美),https://s1.m16tv.cfd/aktv/CH-18/AKTV.m3u8
+ViuTV6,http://api.mytv666.top/api/fh6.php?t=香港频道&id=ViuTV6
+ViuTV,http://api.mytv666.top/api/fh6.php?t=香港频道&id=ViuTV
+TVB娱乐新闻,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB娱乐新闻
+TVB星河频道(粤),http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB星河频道(粤)
+TVB星河频道(国),http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB星河频道(国)
+TVB无线新闻台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB无线新闻台
+TVB生活台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB生活台
+TVB千禧经典,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB千禧经典
+TVB明珠台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB明珠台
+TVB功夫台(粤),http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB功夫台(粤)
+TVB功夫台(国),http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVB功夫台(国)
+TVBS新聞,https://s2.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
+TVBS新聞,https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
+TVBSuperFree,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVBSuperFree
+TVBS,https://s2.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
+TVBS,https://s1.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
+TVBPlus,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVBPlus
+TVB明珠劇集台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVBPearlDrama明珠劇集台
+TVBJ1,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVBJ1
+TVB翡翠娛樂台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVBE翡翠娛樂台
+TVB翡翠劇集台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVBDrama翡翠劇集台
+TVB 星河,https://s2.m16tv.cfd/taiwan2/tvb/AKTV.m3u8
+TVB 星河,https://s1.m16tv.cfd/taiwan2/tvb/AKTV.m3u8
+TVB Plus,https://s2.m16tv.cfd/aktv/tvbplus/AKTV.m3u8
+TVB Plus,https://s1.m16tv.cfd/aktv/tvbplus/AKTV.m3u8
+RTHK32,http://api.mytv666.top/api/fh6.php?t=香港频道&id=RTHK32
+RTHK31,http://api.mytv666.top/api/fh6.php?t=香港频道&id=RTHK31
+PopC,https://s2.m16tv.cfd/aktv/popc/AKTV.m3u8
+PopC,https://s1.m16tv.cfd/aktv/popc/AKTV.m3u8
+POPC,http://api.mytv666.top/api/fh6.php?t=香港频道&id=POPC
+Now直播台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=Now直播台
+Now星影台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=Now星影台
+Now新闻台,http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now新闻台
+Now新闻台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=Now新闻台
+Now剧集台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=Now劇集台
+Now华剧台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=Now華劇台
+Now财经台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=Now财经台
+Now爆谷台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=Now爆谷台
+NowJelli紫金国际,http://api.mytv666.top/api/fh6.php?t=香港频道&id=NowJelli紫金国际
+MyTV千禧经典台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=MyTV千禧经典台
+HOY78,http://api.mytv666.top/api/fh6.php?t=香港频道&id=HOY78
+HOY77,http://api.mytv666.top/api/fh6.php?t=香港频道&id=HOY77
+HOY76,http://api.mytv666.top/api/fh6.php?t=香港频道&id=HOY76
+HKC18台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=HKC18台
+HandsUP,http://api.mytv666.top/api/fh6.php?t=香港频道&id=HandsUP
+8TV,https://s2.m16tv.cfd/astro/8tv/AKTV.m3u8
+8TV,https://s1.m16tv.cfd/astro/8tv/AKTV.m3u8
+28AI智慧赛马,http://api.mytv666.top/api/fh6.php?t=香港频道&id=28AI智慧赛马
+
 台湾频道,#genre#
 中视,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=中视
 中视新闻,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=中视新闻
@@ -436,7 +440,6 @@ TVBS新聞,https://s2.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
 民视第一台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=民视第一台
 民视台湾台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=民视台湾台
 民视新闻台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=民视新闻台
-
 民视影剧台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=民视影剧台
 民视旅游台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=民视旅游台
 民视综艺台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=民视综艺台
@@ -633,9 +636,10 @@ tvN,https://s2.m16tv.cfd/aktv/tvn/AKTV.m3u8
 朝鲜恩情台,https://s2.m16tv.cfd/aktv3/CH-0/AKTV.m3u8
 日テレNEWS LIVE,https://s1.m16tv.cfd/aktvjp/ntv/AKTV.m3u8
 日テレNEWS LIVE,https://s2.m16tv.cfd/aktvjp/ntv/AKTV.m3u8
-轮播影视,#genre#
 
+轮播影视,#genre#
 周星驰,https://live.iill.top/huya/11342412
+
 游戏直播,#genre#
 虎牙永劫无间,https://live.iill.top/huya/660115
 虎牙英雄联盟2,https://live.iill.top/huya/660001
@@ -690,73 +694,12 @@ B站第五人格,https://live.iill.top/bilibili/5555
 B站QQ飞车•手游,https://live.iill.top/bilibili/21743919
 B站JJ斗地主,https://live.iill.top/bilibili/22021983
 B站CS 2,https://live.iill.top/bilibili/21622811
+
 📝测试全网通,#genre#
-凤凰中文台,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
-凤凰资讯台,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
-凤凰香港台,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台
-翡翠台,http://qwt.zhibotv.top:2016/全网通.php?id=翡翠台
 无线新闻台,http://qwt.zhibotv.top:2016/全网通.php?id=无线新闻台
 中天新闻台,http://qwt.zhibotv.top:2016/全网通.php?id=中天新闻
 寰宇新闻台,http://qwt.zhibotv.top:2016/全网通.php?id=寰宇新闻
-CCTV-1综合,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1
-CCTV-2财经,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV2
-CCTV-3综艺,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV3
-CCTV-4中文国际,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV4
-CCTV-5体育,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV5
-CCTV-6电影,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV6
-CCTV-7国防军事,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV7
-CCTV-8电视剧,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV8
-CCTV-9纪录,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV9
-CCTV-10科教,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV10
-CCTV-11戏曲,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV11
-CCTV-12社会与法,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV12
-CCTV-13新闻,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV13
-CCTV-14少儿,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV14
-CCTV-15音乐,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV15
-CCTV-16休息,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV16
-CCTV-17农业农村,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
-CCTV-5+体育赛事,http://119.60.214.202:8089/hls/17/index.m3u8
-北京卫视,http://qwt.zhibotv.top:2016/全网通.php?id=北京卫视
-天津卫视,http://qwt.zhibotv.top:2016/全网通.php?id=天津卫视
-东方卫视,http://qwt.zhibotv.top:2016/全网通.php?id=东方卫视
-东南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=东南卫视
-海南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=海南卫视
-广东卫视,http://qwt.zhibotv.top:2016/全网通.php?id=广东卫视
-广西卫视,http://qwt.zhibotv.top:2016/全网通.php?id=广西卫视
-深圳卫视,http://qwt.zhibotv.top:2016/全网通.php?id=深圳卫视
-江苏卫视,http://qwt.zhibotv.top:2016/全网通.php?id=江苏卫视
-江西卫视,http://qwt.zhibotv.top:2016/全网通.php?id=江西卫视
-浙江卫视,http://qwt.zhibotv.top:2016/全网通.php?id=浙江卫视
-湖南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=湖南卫视
-湖北卫视,http://qwt.zhibotv.top:2016/全网通.php?id=湖北卫视
-安徽卫视,http://qwt.zhibotv.top:2016/全网通.php?id=安徽卫视
-山东卫视,http://qwt.zhibotv.top:2016/全网通.php?id=山东卫视
-山西卫视,http://qwt.zhibotv.top:2016/全网通.php?id=山西卫视
-教育卫视,http://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
-河南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=河南卫视
-河北卫视,http://qwt.zhibotv.top:2016/全网通.php?id=河北卫视
-厦门卫视,http://110.80.17.38:9999/tsfile/live/0128_1.m3u8
-龙江卫视,http://qwt.zhibotv.top:2016/全网通.php?id=黑龙江卫视
-吉林卫视,http://qwt.zhibotv.top:2016/全网通.php?id=吉林卫视
-辽宁卫视,http://qwt.zhibotv.top:2016/全网通.php?id=辽宁卫视
-云南卫视,http://119.60.214.202:8089/hls/48/index.m3u8
-贵州卫视,http://qwt.zhibotv.top:2016/全网通.php?id=贵州卫视
-四川卫视,http://qwt.zhibotv.top:2016/全网通.php?id=四川卫视
-重庆卫视,http://qwt.zhibotv.top:2016/全网通.php?id=重庆卫视
-陕西卫视,http://qwt.zhibotv.top:2016/全网通.php?id=陕西卫视
-甘肃卫视,http://qwt.zhibotv.top:2016/全网通.php?id=甘肃卫视
-宁夏卫视,http://qwt.zhibotv.top:2016/全网通.php?id=宁夏卫视
-青海卫视,http://qwt.zhibotv.top:2016/全网通.php?id=青海卫视
-内蒙卫视,http://qwt.zhibotv.top:2016/全网通.php?id=内蒙古卫视
-西藏卫视,http://qwt.zhibotv.top:2016/全网通.php?id=西藏卫视
-新疆卫视,http://qwt.zhibotv.top:2016/全网通.php?id=新疆卫视
-兵团卫视,http://qwt.zhibotv.top:2016/全网通.php?id=兵团卫视
-三沙卫视,http://livessws.hnntv.cn/live/ssws_02hnntv.m3u8
 
-
-CHC家庭影院,http://qwt.zhibotv.top:2016/全网通.php?id=CHC家庭影院
-CHC影迷电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC影迷电影
-CHC动作电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC动作电影
 POPC,http://qwt.zhibotv.top:2016/全网通.php?id=POPC
 Now爆谷台,http://qwt.zhibotv.top:2016/全网通.php?id=Now爆谷台
 Now星影台,http://qwt.zhibotv.top:2016/全网通.php?id=Now星影台
