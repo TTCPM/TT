@@ -1,29 +1,10 @@
 {
-  "sites": [
-    {
-      "key": "sony_movies",
-      "name": "索尼电影",
-      "type": 0,
-      "categories": [
-        {"type_id": "1", "type_name": "动作片"}
-      ],
-      "videos": [
-        {
-          "vod_id": "1",
-          "vod_name": "开拓者",
-          "vod_pic": "https://example.com/poster1.jpg",
-          "type_name": "动作片",
-          "vod_play_url": "https://v8.qrssv.com/202408/22/JdUvwjzhHv14/video/index.m3u8"
-        },
-        {
-          "vod_id": "2",
-          "vod_name": "蝗虫大军：天降灾难",
-          "vod_pic": "https://example.com/poster2.jpg",
-          "type_name": "动作片",
-          "vod_play_url": "https://v8.qrssv.com/202408/19/mRGUkJXbY614/video/index.m3u8"
-        }
-        // 其他影片按相同格式追加...
-      ]
-    }
-  ]
+  "key": "sony",
+  "name": "🎬索尼电影正版4K",
+  "api": "https://cdn.jsdelivr.net/gh/CatVodTVOfficial/CatVodTVJson@main/sony.json",
+  "type": 3
+ "key": "sony2",
+  "name": "🎬索尼电影正版4K",
+  "api": "https://raw.githubusercontent.com/TTCPM/TT/refs/heads/main/sony_movies.js",
+  "type": 3
 }
