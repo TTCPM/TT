@@ -1,10 +1,12 @@
-{
-  "key": "sony",
-  "name": "🎬索尼电影正版4K",
-  "api": "https://cdn.jsdelivr.net/gh/CatVodTVOfficial/CatVodTVJson@main/sony.json",
-  "type": 3
- "key": "sony2",
-  "name": "🎬索尼电影正版4K",
-  "api": "https://raw.githubusercontent.com/TTCPM/TT/refs/heads/main/sony_movies.js",
-  "type": 3
-}
+   {
+     "sites": [
+       {
+         "key": "sony",
+         "name": "🎬索尼电影",
+         "type": 3,
+         "api": "https://raw.githubusercontent.com/TTCPM/TT/refs/heads/main/sony_movies.js",
+         "searchable": 1,
+         "quickSearch": 0
+       }
+     ]
+   }
