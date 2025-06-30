@@ -15,7 +15,7 @@ CCTV10,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV10
 CCTV11,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV11
 CCTV12,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV12
 CCTV13,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV13
-CCTV-14,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV14
+CCTV14,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV14
 CCTV15,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV15
 CCTV16,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV16
 CCTV17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
@@ -218,6 +218,8 @@ NickJr儿童频道,http://api.mytv666.top/api/fh6.php?t=少儿频道&id=NickJr�
 i-Fun動漫台,http://api.mytv666.top/api/fh6.php?t=少儿频道&id=i-Fun動漫台
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 
+NickJr儿童频道,http://qwt.zhibotv.top:2016/全网通.php?id=NickJr儿童频道
+i-Fun動漫台,http://qwt.zhibotv.top:2016/全网通.php?id=i-Fun動漫台
 剧场频道,#genre#
 第一剧场,http://101.26.54.36:9003/nptv/dyjc.m3u8
 怀旧剧场,http://101.26.54.36:9003/nptv/hjjc.m3u8
@@ -256,6 +258,39 @@ HBO强档,http://api.mytv666.top/api/fh6.php?t=影视频道&id=HBO强档
 HBO家庭,http://api.mytv666.top/api/fh6.php?t=影视频道&id=HBO家庭
 好莱坞电影,http://api.mytv666.top/api/fh6.php?t=影视频道&id=好莱坞电影
 amc最爱电影,http://api.mytv666.top/api/fh6.php?t=影视频道&id=amc最爱电影
+
+CHC家庭影院,http://qwt.zhibotv.top:2016/全网通.php?id=CHC家庭影院
+CHC影迷电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC影迷电影
+CHC动作电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC动作电影
+POPC,http://qwt.zhibotv.top:2016/全网通.php?id=POPC
+Now爆谷台,http://qwt.zhibotv.top:2016/全网通.php?id=Now爆谷台
+Now星影台,http://qwt.zhibotv.top:2016/全网通.php?id=Now星影台
+天映经典,http://qwt.zhibotv.top:2016/全网通.php?id=天映经典
+TVB功夫台(国),http://qwt.zhibotv.top:2016/全网通.php?id=TVB功夫台(国)
+TVB功夫台(粤),http://qwt.zhibotv.top:2016/全网通.php?id=TVB功夫台(粤)
+美亚电影(国),http://qwt.zhibotv.top:2016/全网通.php?id=美亚电影(国)
+美亚电影(粤),http://qwt.zhibotv.top:2016/全网通.php?id=美亚电影(粤)
+中国电影频道,http://qwt.zhibotv.top:2016/全网通.php?id=中国电影频道
+纬来电影,http://qwt.zhibotv.top:2016/全网通.php?id=纬来电影
+东森电影,http://qwt.zhibotv.top:2016/全网通.php?id=东森电影
+东森洋片,http://qwt.zhibotv.top:2016/全网通.php?id=东森洋片
+tvN,http://qwt.zhibotv.top:2016/全网通.php?id=tvN
+Kix,http://qwt.zhibotv.top:2016/全网通.php?id=Kix
+ROCK超级娱乐,http://qwt.zhibotv.top:2016/全网通.php?id=ROCK超级娱乐
+ROCK综艺娱乐,http://qwt.zhibotv.top:2016/全网通.php?id=ROCK综艺娱乐
+AXN,http://qwt.zhibotv.top:2016/全网通.php?id=AXN
+Animax,http://qwt.zhibotv.top:2016/全网通.php?id=Animax
+Thrill惊悚,http://qwt.zhibotv.top:2016/全网通.php?id=Thrill惊悚
+美亚电影台,http://qwt.zhibotv.top:2016/全网通.php?id=美亚电影台
+AXN頻道,http://qwt.zhibotv.top:2016/全网通.php?id=AXN頻道
+华纳电影,http://qwt.zhibotv.top:2016/全网通.php?id=华纳电影
+CINEMAX,http://qwt.zhibotv.top:2016/全网通.php?id=CINEMAX
+HBOHD,http://qwt.zhibotv.top:2016/全网通.php?id=HBOHD
+HBO原创,http://qwt.zhibotv.top:2016/全网通.php?id=HBO原创
+HBO强档,http://qwt.zhibotv.top:2016/全网通.php?id=HBO强档
+HBO家庭,http://qwt.zhibotv.top:2016/全网通.php?id=HBO家庭
+好莱坞电影,http://qwt.zhibotv.top:2016/全网通.php?id=好莱坞电影
+amc最爱电影,http://qwt.zhibotv.top:2016/全网通.php?id=amc最爱电影
 体育频道,#genre#
 CCTV5,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV5
 CCTV5+,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV5p
@@ -599,7 +634,7 @@ tvN,https://s2.m16tv.cfd/aktv/tvn/AKTV.m3u8
 日テレNEWS LIVE,https://s1.m16tv.cfd/aktvjp/ntv/AKTV.m3u8
 日テレNEWS LIVE,https://s2.m16tv.cfd/aktvjp/ntv/AKTV.m3u8
 轮播影视,#genre#
-王晶电影,https://live.iill.top/huya/11602031
+
 周星驰,https://live.iill.top/huya/11342412
 游戏直播,#genre#
 虎牙永劫无间,https://live.iill.top/huya/660115
@@ -718,8 +753,7 @@ CCTV-5+体育赛事,http://119.60.214.202:8089/hls/17/index.m3u8
 兵团卫视,http://qwt.zhibotv.top:2016/全网通.php?id=兵团卫视
 三沙卫视,http://livessws.hnntv.cn/live/ssws_02hnntv.m3u8
 
-NickJr儿童频道,http://qwt.zhibotv.top:2016/全网通.php?id=NickJr儿童频道
-i-Fun動漫台,http://qwt.zhibotv.top:2016/全网通.php?id=i-Fun動漫台
+
 CHC家庭影院,http://qwt.zhibotv.top:2016/全网通.php?id=CHC家庭影院
 CHC影迷电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC影迷电影
 CHC动作电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC动作电影
