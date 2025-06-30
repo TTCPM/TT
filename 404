@@ -8,5 +8,11 @@
          "searchable": 1,
          "quickSearch": 0
        }
+{
+  "key": "sony",
+  "name": "🎬索尼电影正版4K",
+  "api": "https://cdn.jsdelivr.net/gh/CatVodTVOfficial/CatVodTVJson@main/sony.json",
+  "type": 3
+}
      ]
    }
