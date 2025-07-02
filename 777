@@ -45,6 +45,25 @@ CGTN-法语,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CGTN法语
 CGTN-阿语,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CGTN阿语
 CGTN-俄语,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CGTN俄语
 
+cctv-1,http://migu.hejintv.com/mg.php?id=cctv1
+cctv-2,http://migu.hejintv.com/mg.php?id=cctv2
+cctv-3,http://migu.hejintv.com/mg.php?id=cctv3
+cctv-4,http://migu.hejintv.com/mg.php?id=cctv4
+cctv-5,http://migu.hejintv.com/mg.php?id=cctv5
+cctv-5+,http://migu.hejintv.com/mg.php?id=cctv5plus
+cctv-6,http://migu.hejintv.com/mg.php?id=cctv6
+cctv-7,http://migu.hejintv.com/mg.php?id=cctv7
+cctv-8,http://migu.hejintv.com/mg.php?id=cctv8
+cctv-9,http://migu.hejintv.com/mg.php?id=cctv9
+cctv-10,http://migu.hejintv.com/mg.php?id=cctv10
+cctv-11,http://migu.hejintv.com/mg.php?id=cctv11
+cctv-12,http://migu.hejintv.com/mg.php?id=cctv12
+cctv-13,http://migu.hejintv.com/mg.php?id=cctv13
+cctv-14,http://migu.hejintv.com/mg.php?id=cctv14
+cctv-15,http://migu.hejintv.com/mg.php?id=cctv15
+cctv-16,http://migu.hejintv.com/mg.php?id=cctv16
+cctv-17,http://migu.hejintv.com/mg.php?id=cctv17
+
 CCTV1,http://101.26.54.36:9003/mgtv/608807420.m3u8
 CCTV2,http://101.26.54.36:9003/mgtv/631780532.m3u8
 CCTV3,http://101.26.54.36:9003/mgtv/624878271.m3u8
@@ -178,9 +197,6 @@ CGTN-西语,http://101.26.54.36:9003/nptv/cgtnsp.m3u8
 重庆卫视,http://101.26.54.36:9003/nptv/chongqing.m3u8
 中国教育电视台,http://101.26.54.36:9003/nptv/cetv1.m3u8
 
-深圳卫视4K,http://qyl805.gicp.net:4023/rtp/239.77.0.67:5146
-广东卫视4K,http://qyl805.gicp.net:4023/rtp/239.77.0.66:5146
-北京卫视4K,http://qyl805.gicp.net:4023/rtp/239.77.0.2:5146
 
 少儿频道,#genre#
 Animax (HK),https://s1.m16tv.cfd/aktv/animaxhk/AKTV.m3u8
