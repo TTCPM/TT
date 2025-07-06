@@ -200,6 +200,46 @@ TVB翡翠劇集台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVBDrama
 亚洲剧台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=亚洲剧台
 采昌影剧台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=采昌影剧台
 影视频道,#genre#
+电影频道|HBO_HD,https://live.catvod.com/smart.php?id=hbohd_twn
+电影频道|HBO_HITS,https://live.catvod.com/smart.php?id=hbohit_twn
+电影频道|Hollywood Movies,https://live.catvod.com/smart.php?id=hollywoodmovies_twn
+电影频道|CCTV-6,https://live.catvod.com/smart.php?id=cctv6
+电影频道|CINEMAX,https://live.catvod.com/smart.php?id=cinemax_twn
+电影频道|Cinemax,https://live.catvod.com/smart.php?id=Cinemax
+电影频道|AXN Taiwan,https://live.catvod.com/smart.php?id=axn_twn
+电影频道|大爱2台,https://live.catvod.com/smart.php?id=daai2_twn
+电影频道|东森电影 ETTV Movie,https://live.catvod.com/smart.php?id=ettvmovie
+电影频道|东森洋片 ETTV Western,https://live.catvod.com/smart.php?id=ettvwestern
+电影频道|龙华洋片 Lunghua Western,https://live.catvod.com/smart.php?id=lunghuawestern_twn
+电影频道|Animax,https://live.catvod.com/smart.php?id=Animax
+电影频道|龙详时代,https://live.catvod.com/smart.php?id=lungxiangtime_twn
+电影频道|Movies Now HD,https://live.catvod.com/smart.php?id=moviesnow_raj
+电影频道|Star Movies HD,https://live.catvod.com/smart.php?id=starmovies_raj
+电影频道|卫视中文台 Star Movies Chinese,https://live.catvod.com/smart.php?id=weishichinese_twn
+电影频道|HBO Family,https://live.catvod.com/smart.php?id=Hbofamily
+电影频道|Hits,https://live.catvod.com/smart.php?id=Hits
+电影频道|Warner TV,https://live.catvod.com/smart.php?id=WarnerTV
+电影频道|卫视电影台,https://live.catvod.com/smart.php?id=weishimovie_twn
+电影频道|HBO HD,https://live.catvod.com/smart.php?id=Hbo
+电影频道|美亚电影,https://live.catvod.com/smart.php?id=meiyamovie_twn
+电影频道|HBO Signature,https://live.catvod.com/smart.php?id=Hbosignature
+电影频道|HBO Hits,https://live.catvod.com/smart.php?id=Hbohitshd
+电影频道|星卫电影,https://live.catvod.com/smart.php?id=xingwei_movie
+电影频道|SCM,https://live.catvod.com/smart.php?id=Weishimovie
+电影频道|Dreamworks,https://live.catvod.com/smart.php?id=Dreamworks
+电影频道|Thrill,https://live.catvod.com/smart.php?id=Thrill
+电影频道|Hits Movie,https://live.catvod.com/smart.php?id=Hitsmovie
+电影频道|One,https://live.catvod.com/smart.php?id=One
+电影频道|tvN Movie,https://live.catvod.com/smart.php?id=Tvnmovie
+电影频道|Celestial Classic,https://live.catvod.com/smart.php?id=Celestial2
+电影频道|Celestial Movies HD,https://live.catvod.com/smart.php?id=Celestialindo
+电影频道|Axn HD,https://live.catvod.com/smart.php?id=Axn
+电影频道|Paramount Network,https://live.catvod.com/smart.php?id=Paramountnetwork
+电影频道|Astrol Kplus,https://live.catvod.com/smart.php?id=Kplus
+电影频道|Rock Actions,https://live.catvod.com/smart.php?id=Rockaction
+电影频道|Rock Entertainment,https://live.catvod.com/smart.php?id=Rockentertain
+
+
 中国电影频道,http://api.mytv666.top/api/fh6.php?t=香港频道&id=中国电影频道
 POPC,http://api.mytv666.top/api/fh6.php?t=影视频道&id=POPC
 Now爆谷台,http://api.mytv666.top/api/fh6.php?t=影视频道&id=Now爆谷台
@@ -264,6 +304,54 @@ HBO家庭,http://qwt.zhibotv.top:2016/全网通.php?id=HBO家庭
 好莱坞电影,http://qwt.zhibotv.top:2016/全网通.php?id=好莱坞电影
 amc最爱电影,http://qwt.zhibotv.top:2016/全网通.php?id=amc最爱电影
 体育频道,#genre#
+体育频道|Astro Premier League 1,https://live.catvod.com/smart.php?id=go_assp1
+体育频道|Astro EPL 1 backup,https://live.catvod.com/smart.php?id=go_assp1x
+体育频道|Astro Premier League 2,https://live.catvod.com/smart.php?id=go_assp2
+体育频道|Astro Grandstand,https://live.catvod.com/smart.php?id=go_assp3
+体育频道|Astro Football,https://live.catvod.com/smart.php?id=go_assp4
+体育频道|Astro Sports Plus,https://live.catvod.com/smart.php?id=go_sportsplus
+体育频道|Astro Badminton 1,https://live.catvod.com/smart.php?id=go_badminton1
+体育频道|Astro Badminton 2,https://live.catvod.com/smart.php?id=go_badminton2
+体育频道|Astro W-Sports,https://live.catvod.com/smart.php?id=go_assp5
+体育频道|Supersports 1,https://live.catvod.com/smart.php?id=Assp1
+体育频道|Supersports 2,https://live.catvod.com/smart.php?id=Assp2
+体育频道|Supersports 3,https://live.catvod.com/smart.php?id=Assp3
+体育频道|Supersports 4,https://live.catvod.com/smart.php?id=Assp4
+体育频道|WWE,https://live.catvod.com/smart.php?id=Wwe
+体育频道|Fight Sports,https://live.catvod.com/smart.php?id=Fs
+体育频道|NBA TV,https://live.catvod.com/smart.php?id=Nba
+体育频道|Astro Cricket,https://live.catvod.com/smart.php?id=Acricket
+体育频道|Astro Golf,https://live.catvod.com/smart.php?id=Agolf
+体育频道|Tnt Sports 1,https://live.catvod.com/smart.php?id=6fac0aaead
+体育频道|TNT Sports 2,https://live.catvod.com/smart.php?id=d9a76a79cc
+体育频道|TNT Sports 3,https://live.catvod.com/smart.php?id=5fea4d73db
+体育频道|TNT Sports 4,https://live.catvod.com/smart.php?id=tntsport4
+体育频道|Sony Ten 1,https://live.catvod.com/smart.php?id=ten1_raj
+体育频道|Sony Ten 2,https://live.catvod.com/smart.php?id=ten2_raj
+体育频道|Sony Ten 3,https://live.catvod.com/smart.php?id=ten3_raj
+体育频道|SPOTV 1 HD,https://live.catvod.com/smart.php?id=go_spotv
+体育频道|SPO TV 2,https://live.catvod.com/smart.php?id=go_spotv2
+体育频道|Skysports F1,https://live.catvod.com/smart.php?id=tiankongf1
+体育频道|Skysports Cricket,https://live.catvod.com/smart.php?id=tiankongcricket
+体育频道|Skysports EPL,https://live.catvod.com/smart.php?id=tiankongepl
+体育频道|Skysports Main Event,https://live.catvod.com/smart.php?id=tiankongmain
+体育频道|Skysports News,https://live.catvod.com/smart.php?id=tiankongnews
+体育频道|Skysports Mix,https://live.catvod.com/smart.php?id=tiankongmix
+体育频道|CCTV-5 体育频道,https://live.catvod.com/smart.php?id=cctv5
+体育频道|CCTV-5+ 体育赛事 HD,https://live.catvod.com/smart.php?id=cctv5plus
+体育频道|爱尔达体育2台,https://live.catvod.com/smart.php?id=eltasport2_twn
+体育频道|爱尔达体育3台,https://live.catvod.com/smart.php?id=eltasport3_twn
+体育频道|Rugby Pass TV,https://live.catvod.com/smart.php?id=Rugbypasstv
+体育频道|RTM Sports HD,https://live.catvod.com/smart.php?id=Rtmsport
+体育频道|Arena,https://live.catvod.com/smart.php?id=Arena
+体育频道|Arena 2,https://live.catvod.com/smart.php?id=Arena2
+体育频道|BolaArena 1,https://live.catvod.com/smart.php?id=Bolaarena1
+体育频道|BolaArena 2,https://live.catvod.com/smart.php?id=Bolaarena2
+体育频道|Astro Beinsports 1,https://live.catvod.com/smart.php?id=Astrobein1
+体育频道|Astro Beinsports 2,https://live.catvod.com/smart.php?id=Astrobein2
+体育频道|Astro Beinsports 3,https://live.catvod.com/smart.php?id=Astrobein3
+
+
 CCTV5,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV5
 CCTV5+,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV5p
 CCTV16,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CCTV16
@@ -770,98 +858,7 @@ B站QQ飞车•手游,https://live.iill.top/bilibili/21743919
 B站JJ斗地主,https://live.iill.top/bilibili/22021983
 B站CS 2,https://live.iill.top/bilibili/21622811
 
-📝测试全网通,#genre#
-
-
-体育,#genre#
-体育频道|Astro Premier League 1,https://live.catvod.com/smart.php?id=go_assp1
-体育频道|Astro EPL 1 backup,https://live.catvod.com/smart.php?id=go_assp1x
-体育频道|Astro Premier League 2,https://live.catvod.com/smart.php?id=go_assp2
-体育频道|Astro Grandstand,https://live.catvod.com/smart.php?id=go_assp3
-体育频道|Astro Football,https://live.catvod.com/smart.php?id=go_assp4
-体育频道|Astro Sports Plus,https://live.catvod.com/smart.php?id=go_sportsplus
-体育频道|Astro Badminton 1,https://live.catvod.com/smart.php?id=go_badminton1
-体育频道|Astro Badminton 2,https://live.catvod.com/smart.php?id=go_badminton2
-体育频道|Astro W-Sports,https://live.catvod.com/smart.php?id=go_assp5
-体育频道|Supersports 1,https://live.catvod.com/smart.php?id=Assp1
-体育频道|Supersports 2,https://live.catvod.com/smart.php?id=Assp2
-体育频道|Supersports 3,https://live.catvod.com/smart.php?id=Assp3
-体育频道|Supersports 4,https://live.catvod.com/smart.php?id=Assp4
-体育频道|WWE,https://live.catvod.com/smart.php?id=Wwe
-体育频道|Fight Sports,https://live.catvod.com/smart.php?id=Fs
-体育频道|NBA TV,https://live.catvod.com/smart.php?id=Nba
-体育频道|Astro Cricket,https://live.catvod.com/smart.php?id=Acricket
-体育频道|Astro Golf,https://live.catvod.com/smart.php?id=Agolf
-体育频道|Tnt Sports 1,https://live.catvod.com/smart.php?id=6fac0aaead
-体育频道|TNT Sports 2,https://live.catvod.com/smart.php?id=d9a76a79cc
-体育频道|TNT Sports 3,https://live.catvod.com/smart.php?id=5fea4d73db
-体育频道|TNT Sports 4,https://live.catvod.com/smart.php?id=tntsport4
-体育频道|Sony Ten 1,https://live.catvod.com/smart.php?id=ten1_raj
-体育频道|Sony Ten 2,https://live.catvod.com/smart.php?id=ten2_raj
-体育频道|Sony Ten 3,https://live.catvod.com/smart.php?id=ten3_raj
-体育频道|SPOTV 1 HD,https://live.catvod.com/smart.php?id=go_spotv
-体育频道|SPO TV 2,https://live.catvod.com/smart.php?id=go_spotv2
-体育频道|Skysports F1,https://live.catvod.com/smart.php?id=tiankongf1
-体育频道|Skysports Cricket,https://live.catvod.com/smart.php?id=tiankongcricket
-体育频道|Skysports EPL,https://live.catvod.com/smart.php?id=tiankongepl
-体育频道|Skysports Main Event,https://live.catvod.com/smart.php?id=tiankongmain
-体育频道|Skysports News,https://live.catvod.com/smart.php?id=tiankongnews
-体育频道|Skysports Mix,https://live.catvod.com/smart.php?id=tiankongmix
-体育频道|CCTV-5 体育频道,https://live.catvod.com/smart.php?id=cctv5
-体育频道|CCTV-5+ 体育赛事 HD,https://live.catvod.com/smart.php?id=cctv5plus
-体育频道|爱尔达体育2台,https://live.catvod.com/smart.php?id=eltasport2_twn
-体育频道|爱尔达体育3台,https://live.catvod.com/smart.php?id=eltasport3_twn
-体育频道|Rugby Pass TV,https://live.catvod.com/smart.php?id=Rugbypasstv
-体育频道|RTM Sports HD,https://live.catvod.com/smart.php?id=Rtmsport
-体育频道|Arena,https://live.catvod.com/smart.php?id=Arena
-体育频道|Arena 2,https://live.catvod.com/smart.php?id=Arena2
-体育频道|BolaArena 1,https://live.catvod.com/smart.php?id=Bolaarena1
-体育频道|BolaArena 2,https://live.catvod.com/smart.php?id=Bolaarena2
-体育频道|Astro Beinsports 1,https://live.catvod.com/smart.php?id=Astrobein1
-体育频道|Astro Beinsports 2,https://live.catvod.com/smart.php?id=Astrobein2
-体育频道|Astro Beinsports 3,https://live.catvod.com/smart.php?id=Astrobein3
-
-电影,#genre#
-电影频道|HBO_HD,https://live.catvod.com/smart.php?id=hbohd_twn
-电影频道|HBO_HITS,https://live.catvod.com/smart.php?id=hbohit_twn
-电影频道|Hollywood Movies,https://live.catvod.com/smart.php?id=hollywoodmovies_twn
-电影频道|CCTV-6,https://live.catvod.com/smart.php?id=cctv6
-电影频道|CINEMAX,https://live.catvod.com/smart.php?id=cinemax_twn
-电影频道|Cinemax,https://live.catvod.com/smart.php?id=Cinemax
-电影频道|AXN Taiwan,https://live.catvod.com/smart.php?id=axn_twn
-电影频道|大爱2台,https://live.catvod.com/smart.php?id=daai2_twn
-电影频道|东森电影 ETTV Movie,https://live.catvod.com/smart.php?id=ettvmovie
-电影频道|东森洋片 ETTV Western,https://live.catvod.com/smart.php?id=ettvwestern
-电影频道|龙华洋片 Lunghua Western,https://live.catvod.com/smart.php?id=lunghuawestern_twn
-电影频道|Animax,https://live.catvod.com/smart.php?id=Animax
-电影频道|龙详时代,https://live.catvod.com/smart.php?id=lungxiangtime_twn
-电影频道|Movies Now HD,https://live.catvod.com/smart.php?id=moviesnow_raj
-电影频道|Star Movies HD,https://live.catvod.com/smart.php?id=starmovies_raj
-电影频道|卫视中文台 Star Movies Chinese,https://live.catvod.com/smart.php?id=weishichinese_twn
-电影频道|HBO Family,https://live.catvod.com/smart.php?id=Hbofamily
-电影频道|Hits,https://live.catvod.com/smart.php?id=Hits
-电影频道|Warner TV,https://live.catvod.com/smart.php?id=WarnerTV
-电影频道|卫视电影台,https://live.catvod.com/smart.php?id=weishimovie_twn
-电影频道|HBO HD,https://live.catvod.com/smart.php?id=Hbo
-电影频道|美亚电影,https://live.catvod.com/smart.php?id=meiyamovie_twn
-电影频道|HBO Signature,https://live.catvod.com/smart.php?id=Hbosignature
-电影频道|HBO Hits,https://live.catvod.com/smart.php?id=Hbohitshd
-电影频道|星卫电影,https://live.catvod.com/smart.php?id=xingwei_movie
-电影频道|SCM,https://live.catvod.com/smart.php?id=Weishimovie
-电影频道|Dreamworks,https://live.catvod.com/smart.php?id=Dreamworks
-电影频道|Thrill,https://live.catvod.com/smart.php?id=Thrill
-电影频道|Hits Movie,https://live.catvod.com/smart.php?id=Hitsmovie
-电影频道|One,https://live.catvod.com/smart.php?id=One
-电影频道|tvN Movie,https://live.catvod.com/smart.php?id=Tvnmovie
-电影频道|Celestial Classic,https://live.catvod.com/smart.php?id=Celestial2
-电影频道|Celestial Movies HD,https://live.catvod.com/smart.php?id=Celestialindo
-电影频道|Axn HD,https://live.catvod.com/smart.php?id=Axn
-电影频道|Paramount Network,https://live.catvod.com/smart.php?id=Paramountnetwork
-电影频道|Astrol Kplus,https://live.catvod.com/smart.php?id=Kplus
-电影频道|Rock Actions,https://live.catvod.com/smart.php?id=Rockaction
-电影频道|Rock Entertainment,https://live.catvod.com/smart.php?id=Rockentertain
-
-纪录,#genre#
+纪录频道,#genre#
 纪录频道|Natgeo_HD,https://live.catvod.com/smart.php?id=natgeohd_twn
 纪录频道|NatGeo_Wild HD,https://live.catvod.com/smart.php?id=natgeowild_twn
 纪录频道|Animal_Planet,https://live.catvod.com/smart.php?id=animalplanet_twn
@@ -885,7 +882,7 @@ B站CS 2,https://live.iill.top/bilibili/21622811
 纪录频道|HGTV,https://live.catvod.com/smart.php?id=HGTV
 纪录频道|AFC 亚洲旅游台,https://live.catvod.com/smart.php?id=asiatravel_twn
 
-新闻,#genre#
+新闻频道,#genre#
 新闻频道|Skynews,https://live.catvod.com/smart.php?id=skynews_twn
 新闻频道|ABC News,https://live.catvod.com/smart.php?id=abcnews_glo
 新闻频道|东森财经新闻 ETTV Business,https://live.catvod.com/smart.php?id=ettvcaijing_twn
