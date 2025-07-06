@@ -481,6 +481,8 @@ RTHK31,http://api.mytv666.top/api/fh6.php?t=香港频道&id=RTHK31
 PopC,https://s2.m16tv.cfd/aktv/popc/AKTV.m3u8
 PopC,https://s1.m16tv.cfd/aktv/popc/AKTV.m3u8
 POPC,http://api.mytv666.top/api/fh6.php?t=香港频道&id=POPC
+NOW新闻台,http://cdn.1636.dpdns.org/live/now/stream.m3u8
+VIUTV,http://cdn.1636.dpdns.org/live/viu/stream.m3u8
 Now直播台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=Now直播台
 Now星影台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=Now星影台
 Now新闻台,http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now新闻台
