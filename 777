@@ -45,53 +45,6 @@ CGTN-法语,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CGTN法语
 CGTN-阿语,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CGTN阿语
 CGTN-俄语,http://api.mytv666.top/api/fh6.php?t=央视频道&id=CGTN俄语
 
-cctv-1,http://migu.hejintv.com/mg.php?id=cctv1
-cctv-2,http://migu.hejintv.com/mg.php?id=cctv2
-cctv-3,http://migu.hejintv.com/mg.php?id=cctv3
-cctv-4,http://migu.hejintv.com/mg.php?id=cctv4
-cctv-5,http://migu.hejintv.com/mg.php?id=cctv5
-cctv-5+,http://migu.hejintv.com/mg.php?id=cctv5plus
-cctv-6,http://migu.hejintv.com/mg.php?id=cctv6
-cctv-7,http://migu.hejintv.com/mg.php?id=cctv7
-cctv-8,http://migu.hejintv.com/mg.php?id=cctv8
-cctv-9,http://migu.hejintv.com/mg.php?id=cctv9
-cctv-10,http://migu.hejintv.com/mg.php?id=cctv10
-cctv-11,http://migu.hejintv.com/mg.php?id=cctv11
-cctv-12,http://migu.hejintv.com/mg.php?id=cctv12
-cctv-13,http://migu.hejintv.com/mg.php?id=cctv13
-cctv-14,http://migu.hejintv.com/mg.php?id=cctv14
-cctv-15,http://migu.hejintv.com/mg.php?id=cctv15
-cctv-16,http://migu.hejintv.com/mg.php?id=cctv16
-cctv-17,http://migu.hejintv.com/mg.php?id=cctv17
-
-CCTV1,http://101.26.54.36:9003/mgtv/608807420.m3u8
-CCTV2,http://101.26.54.36:9003/mgtv/631780532.m3u8
-CCTV3,http://101.26.54.36:9003/mgtv/624878271.m3u8
-CCTV4,http://101.26.54.36:9003/mgtv/631780421.m3u8
-CCTV4k,http://101.26.54.36:9003/nptv/cctv4k.m3u8
-CCTV4美洲,http://101.26.54.36:9003/mgtv/608807416.m3u8
-CCTV4欧洲,http://101.26.54.36:9003/mgtv/608807419.m3u8
-CCTV5,http://101.26.54.36:9003/mgtv/641886683.m3u8
-CCTV5+,http://101.26.54.36:9003/mgtv/641886773.m3u8
-CCTV6,http://101.26.54.36:9003/mgtv/624878396.m3u8
-CCTV7,http://101.26.54.36:9003/mgtv/673168121.m3u8
-CCTV8,http://101.26.54.36:9003/mgtv/624878356.m3u8
-CCTV8k,http://101.26.54.36:9003/nptv/cctv8k.m3u8
-CCTV9,http://101.26.54.36:9003/mgtv/673168140.m3u8
-CCTV10,http://101.26.54.36:9003/mgtv/624878405.m3u8
-CCTV11,http://101.26.54.36:9003/mgtv/667987558.m3u8
-CCTV12,http://101.26.54.36:9003/mgtv/673168185.m3u8
-CCTV13,http://101.26.54.36:9003/mgtv/608807423.m3u8
-CCTV14,http://101.26.54.36:9003/mgtv/624878440.m3u8
-CCTV15,http://101.26.54.36:9003/mgtv/673168223.m3u8
-cctv16,http://101.26.54.36:9003/nptv/cctv16.m3u8
-CCTV17,http://101.26.54.36:9003/mgtv/673168256.m3u8
-CGTN-英语,http://101.26.54.36:9003/nptv/cgtn.m3u8
-CGTN-纪录,http://101.26.54.36:9003/nptv/cgtndoc.m3u8
-CGTN-阿语,http://101.26.54.36:9003/nptv/cgtnar.m3u8
-CGTN-法语,http://101.26.54.36:9003/nptv/cgtnfr.m3u8
-CGTN-俄语,http://101.26.54.36:9003/nptv/cgtnru.m3u8
-CGTN-西语,http://101.26.54.36:9003/nptv/cgtnsp.m3u8
 CCTV5+,http://39.135.133.153:80/wh7f454c46tw2186117699_234643195/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 
 卫视频道,#genre#
@@ -356,6 +309,21 @@ TRACESportStars,http://api.mytv666.top/api/fh6.php?t=体育频道&id=TRACESportS
 纬来体育,http://api.mytv666.top/api/fh6.php?t=体育频道&id=纬来体育
 
 香港频道,#genre#
+翡翠台,https://live.catvod.com/smart.php?id=jade_twn
+翡翠台 backup,https://live.catvod.com/smart.php?id=Jade_xue
+iNews 新闻台,https://live.catvod.com/smart.php?id=inews_twn
+J 2,https://live.catvod.com/smart.php?id=j2_twn
+珍珠台,https://live.catvod.com/smart.php?id=pearl_twn
+凤凰香港,https://live.catvod.com/smart.php?id=hkphoenix_twn
+HOY资讯台,https://live.catvod.com/smart.php?id=hoycaijing_twn
+RHK 31,https://live.catvod.com/smart.php?id=rhk31_twn
+VIUTV1,https://live.catvod.com/smart.php?id=viu1_twn
+RHK 32,https://live.catvod.com/smart.php?id=rhk32_twn
+凤凰卫视,https://live.catvod.com/smart.php?id=phoenixtv_hd
+凤凰资讯,https://live.catvod.com/smart.php?id=phoenixinfo_hd
+Viu6,https://live.catvod.com/smart.php?id=viusix_twn
+
+
 粤语片台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=粤语片台
 亚洲综合娱乐台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=亚洲综合娱乐台
 亚洲剧台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=亚洲剧台
@@ -445,6 +413,88 @@ HandsUP,http://api.mytv666.top/api/fh6.php?t=香港频道&id=HandsUP
 28AI智慧赛马,http://api.mytv666.top/api/fh6.php?t=香港频道&id=28AI智慧赛马
 
 台湾频道,#genre#
+TVBS News 新闻台,https://live.catvod.com/smart.php?id=tvbs_n
+TVBS 欢乐台 （备份）,https://live.catvod.com/smart.php?id=tvbshuanle_twn
+TVBS HD,https://live.catvod.com/smart.php?id=tvbs
+中天新闻 HD,https://live.catvod.com/smart.php?id=ctinews
+中天娱乐 CTI Entertaiment,https://live.catvod.com/smart.php?id=ctient
+中天综合 CTI Metro,https://live.catvod.com/smart.php?id=ctizhonghe
+中天亚洲台,https://live.catvod.com/smart.php?id=ctiasia_twn
+台视 TTV HD,https://live.catvod.com/smart.php?id=ttv_taiwan
+台视新闻台,https://live.catvod.com/smart.php?id=ttvnews_twn
+台视综合台,https://live.catvod.com/smart.php?id=ttvzhonghe
+中视 HD,https://live.catvod.com/smart.php?id=zhongshihd_twn
+中视新闻台,https://live.catvod.com/smart.php?id=zhongshinews_twn
+民视 HD,https://live.catvod.com/smart.php?id=ftvhd_taiwan
+民视新闻台 FTV News,https://live.catvod.com/smart.php?id=ftvnew_taiwan
+民视台湾台,https://live.catvod.com/smart.php?id=ftvtaiwan_twn
+华视 CTS HD,https://live.catvod.com/smart.php?id=ctshd_twn
+公视 CTV,https://live.catvod.com/smart.php?id=ctv18_twn
+八大第一 GTV First,https://live.catvod.com/smart.php?id=badafirst
+八大综合 GTV Metro,https://live.catvod.com/smart.php?id=badazhonghe
+八大戏剧 GTV Drama,https://live.catvod.com/smart.php?id=badadrama
+八大娱乐 GTV Entertainment,https://live.catvod.com/smart.php?id=badaentertain
+HBO_HD,https://live.catvod.com/smart.php?id=hbohd_twn
+HBO_HITS,https://live.catvod.com/smart.php?id=hbohit_twn
+Hollywood Movies,https://live.catvod.com/smart.php?id=hollywoodmovies_twn
+三立台湾 Sanli Taiwan,https://live.catvod.com/smart.php?id=sanlitaiwan
+三立戏剧台,https://live.catvod.com/smart.php?id=sanlixiju_twn
+三立综合 Sanli Metro,https://live.catvod.com/smart.php?id=sanlizhonghe
+三立都会台,https://live.catvod.com/smart.php?id=sanlidouhui
+东森新闻 ETTV News,https://live.catvod.com/smart.php?id=ettvnews
+CINEMAX,https://live.catvod.com/smart.php?id=cinemax_twn
+东森综合 ETTV Metro,https://live.catvod.com/smart.php?id=ettvzhonghe
+东森戏剧 ETTV Drama,https://live.catvod.com/smart.php?id=ettvdrama
+东森超视,https://live.catvod.com/smart.php?id=ettvsuper
+东森财经新闻 ETTV Business,https://live.catvod.com/smart.php?id=ettvcaijing_twn
+寰宇财经,https://live.catvod.com/smart.php?id=huanyutaiwan_twn
+寰宇新闻台,https://live.catvod.com/smart.php?id=huanyuxinwen_twn
+公视2,https://live.catvod.com/smart.php?id=ctv2_twn
+大爱1台,https://live.catvod.com/smart.php?id=daai_twn
+非凡新闻台,https://live.catvod.com/smart.php?id=feifannews_twn
+龙华戏剧 Lunghua Drama,https://live.catvod.com/smart.php?id=lunghuaxiju_twn
+龙华经典台,https://live.catvod.com/smart.php?id=lunghuajingdian_twn
+龙华偶像,https://live.catvod.com/smart.php?id=lunghuaidol_twn
+AXN Taiwan,https://live.catvod.com/smart.php?id=axn_twn
+靖天国际台,https://live.catvod.com/smart.php?id=jingtianintl_twn
+年代新闻,https://live.catvod.com/smart.php?id=niandainews_twn
+纬来日本台,https://live.catvod.com/smart.php?id=videolandjapan
+纬来电影台,https://live.catvod.com/smart.php?id=videolandmovie
+纬来体育台,https://live.catvod.com/smart.php?id=videolandsport
+纬来综合台,https://live.catvod.com/smart.php?id=videolandzonghe
+纬来育乐,https://live.catvod.com/smart.php?id=videolandyule
+纬来精彩,https://live.catvod.com/smart.php?id=videolandspecial_twn
+好消息 2,https://live.catvod.com/smart.php?id=good2_twn
+大爱2台,https://live.catvod.com/smart.php?id=daai2_twn
+亚洲美食,https://live.catvod.com/smart.php?id=afc_twn
+美食星球,https://live.catvod.com/smart.php?id=foodplanet_twn
+亚洲旅游 TLC Asia,https://live.catvod.com/smart.php?id=tlc_twn
+东森电影 ETTV Movie,https://live.catvod.com/smart.php?id=ettvmovie
+阿里郎 Arirang,https://live.catvod.com/smart.php?id=arirang_twn
+博斯运动 1,https://live.catvod.com/smart.php?id=bosisport1_twn
+博斯运动 2,https://live.catvod.com/smart.php?id=bosisport2_twn
+博斯高球2 HD,https://live.catvod.com/smart.php?id=bosigolf2_twn
+博斯网球 HD,https://live.catvod.com/smart.php?id=bositennis_twn
+东森洋片 ETTV Western,https://live.catvod.com/smart.php?id=ettvwestern
+龙华洋片 Lunghua Western,https://live.catvod.com/smart.php?id=lunghuawestern_twn
+博斯无限,https://live.catvod.com/smart.php?id=bosiunlimited_twn
+MTV Live,https://live.catvod.com/smart.php?id=mtvhd_twn
+龙详时代,https://live.catvod.com/smart.php?id=lungxiangtime_twn
+EYETV 旅游,https://live.catvod.com/smart.php?id=eyetvtravel_twn
+靖天卡通台,https://live.catvod.com/smart.php?id=jingtiancartoon_twn
+EYETV 戏剧,https://live.catvod.com/smart.php?id=eyetvxiju_twn
+卫视中文台 Star Movies Chinese,https://live.catvod.com/smart.php?id=weishichinese_twn
+东森幼幼 Yoyo TV,https://live.catvod.com/smart.php?id=yoyo_twn
+卫视电影台,https://live.catvod.com/smart.php?id=weishimovie_twn
+美亚电影,https://live.catvod.com/smart.php?id=meiyamovie_twn
+爱尔达影剧台,https://live.catvod.com/smart.php?id=eltayingju_twn
+爱尔达综合台,https://live.catvod.com/smart.php?id=eltazonghe_twn
+星卫电影,https://live.catvod.com/smart.php?id=xingwei_movie
+爱尔达影剧,https://live.catvod.com/smart.php?id=eltayingju_twn
+AFC 亚洲旅游台,https://live.catvod.com/smart.php?id=asiatravel_twn
+爱尔达体育2台,https://live.catvod.com/smart.php?id=eltasport2_twn
+爱尔达体育3台,https://live.catvod.com/smart.php?id=eltasport3_twn
+
 中视,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=中视
 中视新闻,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=中视新闻
 中视经典,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=中视经典
@@ -577,6 +627,7 @@ MTV音乐频道,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=MTV音乐�
 影迷數位紀實台https://s2.m16tv.cfd/taiwan/CH-2/AKTV.m3u8
 中天新闻台,https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
 中天新闻台,https://s2.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
+
 国外频道,#genre#
 AXN,https://s1.m16tv.cfd/aktv/axn/AKTV.m3u8
 AXN,https://s2.m16tv.cfd/aktv/axn/AKTV.m3u8
@@ -720,55 +771,7 @@ B站JJ斗地主,https://live.iill.top/bilibili/22021983
 B站CS 2,https://live.iill.top/bilibili/21622811
 
 📝测试全网通,#genre#
-香港,#genre#
-香港|翡翠台,https://live.catvod.com/smart.php?id=jade_twn
-香港|翡翠台 backup,https://live.catvod.com/smart.php?id=Jade_xue
-香港|iNews 新闻台,https://live.catvod.com/smart.php?id=inews_twn
-香港|J 2,https://live.catvod.com/smart.php?id=j2_twn
-香港|珍珠台,https://live.catvod.com/smart.php?id=pearl_twn
-香港|凤凰香港,https://live.catvod.com/smart.php?id=hkphoenix_twn
-香港|HOY资讯台,https://live.catvod.com/smart.php?id=hoycaijing_twn
-香港|RHK 31,https://live.catvod.com/smart.php?id=rhk31_twn
-香港|VIUTV1,https://live.catvod.com/smart.php?id=viu1_twn
-香港|RHK 32,https://live.catvod.com/smart.php?id=rhk32_twn
-香港|凤凰卫视,https://live.catvod.com/smart.php?id=phoenixtv_hd
-香港|凤凰资讯,https://live.catvod.com/smart.php?id=phoenixinfo_hd
-香港|Viu6,https://live.catvod.com/smart.php?id=viusix_twn
 
-中国,#genre#
-中国|CCTV-1 综合 HD,https://live.catvod.com/smart.php?id=cctv1
-中国|CCTV-2 财经,https://live.catvod.com/smart.php?id=cctv2
-中国|CCTV-3 综艺 HD,https://live.catvod.com/smart.php?id=cctv3
-中国|CCTV-4 中文国际,https://live.catvod.com/smart.php?id=cctv4
-中国|CCTV4 新闻台,https://live.catvod.com/smart.php?id=Cctv4
-中国|CCTV-7 军事农业,https://live.catvod.com/smart.php?id=cctv7
-中国|CCTV-8 电视剧 HD,https://live.catvod.com/smart.php?id=cctv8hd
-中国|CCTV-9 记录 HD,https://live.catvod.com/smart.php?id=cctv9hd
-中国|CCTV-10 科教 HD,https://live.catvod.com/smart.php?id=cctv10hd
-中国|CCTV-11 戏曲,https://live.catvod.com/smart.php?id=cctv11
-中国|CCTV-12 社会与法,https://live.catvod.com/smart.php?id=cctv12
-中国|CCTV-13 新闻频道,https://live.catvod.com/smart.php?id=cctv13
-中国|CCTV-14 少儿,https://live.catvod.com/smart.php?id=cctv14
-中国|CCTV-6,https://live.catvod.com/smart.php?id=cctv6
-中国|CCTV-15 音乐,https://live.catvod.com/smart.php?id=cctv15
-中国|湖南卫视,https://live.catvod.com/smart.php?id=hunan_twn
-中国|浙江卫视,https://live.catvod.com/smart.php?id=zhejiang_twn
-中国|江苏卫视,https://live.catvod.com/smart.php?id=jiangsu_twn
-中国|深圳卫视,https://live.catvod.com/smart.php?id=shenzhen
-中国|福建东南卫视,https://live.catvod.com/smart.php?id=fujian
-中国|广东南方卫视,https://live.catvod.com/smart.php?id=nanfang_twn
-中国|广东卫视,https://live.catvod.com/smart.php?id=guangdongweishi_twn
-中国|北京卫视,https://live.catvod.com/smart.php?id=beijing
-中国|珠江台,https://live.catvod.com/smart.php?id=zhujiang
-中国|广西卫视,https://live.catvod.com/smart.php?id=guangxi
-中国|湖北卫视,https://live.catvod.com/smart.php?id=hubei
-中国|四川卫视,https://live.catvod.com/smart.php?id=sichuan_twn
-中国|东方卫视,https://live.catvod.com/smart.php?id=dongfangweishi_twn
-中国|CGTN,https://live.catvod.com/smart.php?id=CGTN
-中国|凤凰卫视,https://live.catvod.com/smart.php?id=phoenixtv_hd
-中国|凤凰资讯,https://live.catvod.com/smart.php?id=phoenixinfo_hd
-中国|CCTV-5 体育频道,https://live.catvod.com/smart.php?id=cctv5
-中国|CCTV-5+ 体育赛事 HD,https://live.catvod.com/smart.php?id=cctv5plus
 
 体育,#genre#
 体育频道|Astro Premier League 1,https://live.catvod.com/smart.php?id=go_assp1
@@ -817,89 +820,6 @@ B站CS 2,https://live.iill.top/bilibili/21622811
 体育频道|Astro Beinsports 1,https://live.catvod.com/smart.php?id=Astrobein1
 体育频道|Astro Beinsports 2,https://live.catvod.com/smart.php?id=Astrobein2
 体育频道|Astro Beinsports 3,https://live.catvod.com/smart.php?id=Astrobein3
-
-台湾,#genre#
-台湾|TVBS News 新闻台,https://live.catvod.com/smart.php?id=tvbs_n
-台湾|TVBS 欢乐台 （备份）,https://live.catvod.com/smart.php?id=tvbshuanle_twn
-台湾|TVBS HD,https://live.catvod.com/smart.php?id=tvbs
-台湾|中天新闻 HD,https://live.catvod.com/smart.php?id=ctinews
-台湾|中天娱乐 CTI Entertaiment,https://live.catvod.com/smart.php?id=ctient
-台湾|中天综合 CTI Metro,https://live.catvod.com/smart.php?id=ctizhonghe
-台湾|中天亚洲台,https://live.catvod.com/smart.php?id=ctiasia_twn
-台湾|台视 TTV HD,https://live.catvod.com/smart.php?id=ttv_taiwan
-台湾|台视新闻台,https://live.catvod.com/smart.php?id=ttvnews_twn
-台湾|台视综合台,https://live.catvod.com/smart.php?id=ttvzhonghe
-台湾|中视 HD,https://live.catvod.com/smart.php?id=zhongshihd_twn
-台湾|中视新闻台,https://live.catvod.com/smart.php?id=zhongshinews_twn
-台湾|民视 HD,https://live.catvod.com/smart.php?id=ftvhd_taiwan
-台湾|民视新闻台 FTV News,https://live.catvod.com/smart.php?id=ftvnew_taiwan
-台湾|民视台湾台,https://live.catvod.com/smart.php?id=ftvtaiwan_twn
-台湾|华视 CTS HD,https://live.catvod.com/smart.php?id=ctshd_twn
-台湾|公视 CTV,https://live.catvod.com/smart.php?id=ctv18_twn
-台湾|八大第一 GTV First,https://live.catvod.com/smart.php?id=badafirst
-台湾|八大综合 GTV Metro,https://live.catvod.com/smart.php?id=badazhonghe
-台湾|八大戏剧 GTV Drama,https://live.catvod.com/smart.php?id=badadrama
-台湾|八大娱乐 GTV Entertainment,https://live.catvod.com/smart.php?id=badaentertain
-台湾|HBO_HD,https://live.catvod.com/smart.php?id=hbohd_twn
-台湾|HBO_HITS,https://live.catvod.com/smart.php?id=hbohit_twn
-台湾|Hollywood Movies,https://live.catvod.com/smart.php?id=hollywoodmovies_twn
-台湾|三立台湾 Sanli Taiwan,https://live.catvod.com/smart.php?id=sanlitaiwan
-台湾|三立戏剧台,https://live.catvod.com/smart.php?id=sanlixiju_twn
-台湾|三立综合 Sanli Metro,https://live.catvod.com/smart.php?id=sanlizhonghe
-台湾|三立都会台,https://live.catvod.com/smart.php?id=sanlidouhui
-台湾|东森新闻 ETTV News,https://live.catvod.com/smart.php?id=ettvnews
-台湾|CINEMAX,https://live.catvod.com/smart.php?id=cinemax_twn
-台湾|东森综合 ETTV Metro,https://live.catvod.com/smart.php?id=ettvzhonghe
-台湾|东森戏剧 ETTV Drama,https://live.catvod.com/smart.php?id=ettvdrama
-台湾|东森超视,https://live.catvod.com/smart.php?id=ettvsuper
-台湾|东森财经新闻 ETTV Business,https://live.catvod.com/smart.php?id=ettvcaijing_twn
-台湾|寰宇财经,https://live.catvod.com/smart.php?id=huanyutaiwan_twn
-台湾|寰宇新闻台,https://live.catvod.com/smart.php?id=huanyuxinwen_twn
-台湾|公视2,https://live.catvod.com/smart.php?id=ctv2_twn
-台湾|大爱1台,https://live.catvod.com/smart.php?id=daai_twn
-台湾|非凡新闻台,https://live.catvod.com/smart.php?id=feifannews_twn
-台湾|龙华戏剧 Lunghua Drama,https://live.catvod.com/smart.php?id=lunghuaxiju_twn
-台湾|龙华经典台,https://live.catvod.com/smart.php?id=lunghuajingdian_twn
-台湾|龙华偶像,https://live.catvod.com/smart.php?id=lunghuaidol_twn
-台湾|AXN Taiwan,https://live.catvod.com/smart.php?id=axn_twn
-台湾|靖天国际台,https://live.catvod.com/smart.php?id=jingtianintl_twn
-台湾|年代新闻,https://live.catvod.com/smart.php?id=niandainews_twn
-台湾|纬来日本台,https://live.catvod.com/smart.php?id=videolandjapan
-台湾|纬来电影台,https://live.catvod.com/smart.php?id=videolandmovie
-台湾|纬来体育台,https://live.catvod.com/smart.php?id=videolandsport
-台湾|纬来综合台,https://live.catvod.com/smart.php?id=videolandzonghe
-台湾|纬来育乐,https://live.catvod.com/smart.php?id=videolandyule
-台湾|纬来精彩,https://live.catvod.com/smart.php?id=videolandspecial_twn
-台湾|好消息 2,https://live.catvod.com/smart.php?id=good2_twn
-台湾|大爱2台,https://live.catvod.com/smart.php?id=daai2_twn
-台湾|亚洲美食,https://live.catvod.com/smart.php?id=afc_twn
-台湾|美食星球,https://live.catvod.com/smart.php?id=foodplanet_twn
-台湾|亚洲旅游 TLC Asia,https://live.catvod.com/smart.php?id=tlc_twn
-台湾|东森电影 ETTV Movie,https://live.catvod.com/smart.php?id=ettvmovie
-台湾|阿里郎 Arirang,https://live.catvod.com/smart.php?id=arirang_twn
-台湾|博斯运动 1,https://live.catvod.com/smart.php?id=bosisport1_twn
-台湾|博斯运动 2,https://live.catvod.com/smart.php?id=bosisport2_twn
-台湾|博斯高球2 HD,https://live.catvod.com/smart.php?id=bosigolf2_twn
-台湾|博斯网球 HD,https://live.catvod.com/smart.php?id=bositennis_twn
-台湾|东森洋片 ETTV Western,https://live.catvod.com/smart.php?id=ettvwestern
-台湾|龙华洋片 Lunghua Western,https://live.catvod.com/smart.php?id=lunghuawestern_twn
-台湾|博斯无限,https://live.catvod.com/smart.php?id=bosiunlimited_twn
-台湾|MTV Live,https://live.catvod.com/smart.php?id=mtvhd_twn
-台湾|龙详时代,https://live.catvod.com/smart.php?id=lungxiangtime_twn
-台湾|EYETV 旅游,https://live.catvod.com/smart.php?id=eyetvtravel_twn
-台湾|靖天卡通台,https://live.catvod.com/smart.php?id=jingtiancartoon_twn
-台湾|EYETV 戏剧,https://live.catvod.com/smart.php?id=eyetvxiju_twn
-台湾|卫视中文台 Star Movies Chinese,https://live.catvod.com/smart.php?id=weishichinese_twn
-台湾|东森幼幼 Yoyo TV,https://live.catvod.com/smart.php?id=yoyo_twn
-台湾|卫视电影台,https://live.catvod.com/smart.php?id=weishimovie_twn
-台湾|美亚电影,https://live.catvod.com/smart.php?id=meiyamovie_twn
-台湾|爱尔达影剧台,https://live.catvod.com/smart.php?id=eltayingju_twn
-台湾|爱尔达综合台,https://live.catvod.com/smart.php?id=eltazonghe_twn
-台湾|星卫电影,https://live.catvod.com/smart.php?id=xingwei_movie
-台湾|爱尔达影剧,https://live.catvod.com/smart.php?id=eltayingju_twn
-台湾|AFC 亚洲旅游台,https://live.catvod.com/smart.php?id=asiatravel_twn
-台湾|爱尔达体育2台,https://live.catvod.com/smart.php?id=eltasport2_twn
-台湾|爱尔达体育3台,https://live.catvod.com/smart.php?id=eltasport3_twn
 
 电影,#genre#
 电影频道|HBO_HD,https://live.catvod.com/smart.php?id=hbohd_twn
