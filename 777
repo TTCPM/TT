@@ -1,7 +1,7 @@
 老婆爱你,#genre#
 无法播放左右切换一下线路,https://live.iill.top/huya/11342412
 央视频道,#genre#
-CCTV1,http://live.2410.prod.xinhuazhiyun.com/live/913df5292199128caa881477087e5cd1.flv
+CCTV1,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1
 CCTV2,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV2
 CCTV3,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV3
 CCTV4,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV4
@@ -222,6 +222,20 @@ i-Fun動漫台,http://api.mytv666.top/api/fh6.php?t=少儿频道&id=i-Fun動漫�
 
 NickJr儿童频道,http://qwt.zhibotv.top:2016/全网通.php?id=NickJr儿童频道
 i-Fun動漫台,http://qwt.zhibotv.top:2016/全网通.php?id=i-Fun動漫台
+
+Baby TV Eng,https://live.catvod.com/smart.php?id=Babytv
+CBeebies,https://live.catvod.com/smart.php?id=Cbeebies
+Kids TV,https://live.catvod.com/smart.php?id=KidsTV
+Momo TV,https://live.catvod.com/smart.php?id=momo1_twn
+Animax,https://live.catvod.com/smart.php?id=Animax
+Baby TV,https://live.catvod.com/smart.php?id=babytv_twn
+MiaoMi,https://live.catvod.com/smart.php?id=MiaoMi
+靖天卡通台,https://live.catvod.com/smart.php?id=jingtiancartoon_twn
+东森幼幼 Yoyo TV,https://live.catvod.com/smart.php?id=yoyo_twn
+Cartoon Network,https://live.catvod.com/smart.php?id=Cn
+Nickelodeon,https://live.catvod.com/smart.php?id=Nickelodeon
+Nick Jr,https://live.catvod.com/smart.php?id=Nickjr
+
 剧场频道,#genre#
 第一剧场,http://101.26.54.36:9003/nptv/dyjc.m3u8
 怀旧剧场,http://101.26.54.36:9003/nptv/hjjc.m3u8
@@ -971,19 +985,6 @@ B站CS 2,https://live.iill.top/bilibili/21622811
 新闻频道|Bloomberg News,https://live.catvod.com/smart.php?id=bloomberg_twn
 新闻频道|Al-Jazeera,https://live.catvod.com/smart.php?id=aljazeera_twn
 
-儿童,#genre#
-儿童频道|Baby TV Eng,https://live.catvod.com/smart.php?id=Babytv
-儿童频道|CBeebies,https://live.catvod.com/smart.php?id=Cbeebies
-儿童频道|Kids TV,https://live.catvod.com/smart.php?id=KidsTV
-儿童频道|Momo TV,https://live.catvod.com/smart.php?id=momo1_twn
-儿童频道|Animax,https://live.catvod.com/smart.php?id=Animax
-儿童频道|Baby TV,https://live.catvod.com/smart.php?id=babytv_twn
-儿童频道|MiaoMi,https://live.catvod.com/smart.php?id=MiaoMi
-儿童频道|靖天卡通台,https://live.catvod.com/smart.php?id=jingtiancartoon_twn
-儿童频道|东森幼幼 Yoyo TV,https://live.catvod.com/smart.php?id=yoyo_twn
-儿童频道|Cartoon Network,https://live.catvod.com/smart.php?id=Cn
-儿童频道|Nickelodeon,https://live.catvod.com/smart.php?id=Nickelodeon
-儿童频道|Nick Jr,https://live.catvod.com/smart.php?id=Nickjr
 
 
 📝smart备用,#genre#
