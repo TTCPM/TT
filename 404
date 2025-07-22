@@ -1,561 +1,149 @@
-#EXTM3U x-tvg-url="https://gitee.com/mytv-android/myepg/raw/master/output/epg.gz"
-
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV1.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-1 综合
-webview://https://tv.cctv.com/live/cctv1/
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV1.png" group-title="央视;央视频",CCTV-1 综合
-webview://https://yangshipin.cn/tv/home?pid=600001859
-
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV2.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-2 财经
-webview://https://tv.cctv.com/live/cctv2/
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV2.png" group-title="央视;央视频",CCTV-2 财经
-webview://https://yangshipin.cn/tv/home?pid=600001800
-
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV3.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-3 综艺
-webview://https://tv.cctv.com/live/cctv3/
-
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV4.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-4 中文国际
-webview://https://tv.cctv.com/live/cctv4/
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV4.png" group-title="央视;央视频",CCTV-4 中文国际
-webview://https://yangshipin.cn/tv/home?pid=600001814
-
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV5.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-5 体育
-webview://https://tv.cctv.com/live/cctv5/
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV5.png" group-title="央视;央视频",CCTV-5 体育
-webview://https://yangshipin.cn/tv/home?pid=600001818
-
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV5+.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-5+ 体育赛事
-webview://https://tv.cctv.com/live/cctv5plus/
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV5+.png" group-title="央视;央视频",CCTV-5+ 体育赛事
-webview://https://yangshipin.cn/tv/home?pid=600001817
-
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV6.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-6 电影
-webview://https://tv.cctv.com/live/cctv6/
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV6.png" group-title="央视;央视频",CCTV-6 电影
-webview://https://yangshipin.cn/tv/home?pid=600108442
-
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV7.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-7 国防军事
-webview://https://tv.cctv.com/live/cctv7/
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV7.png" group-title="央视;央视频",CCTV-7 国防军事
-webview://https://yangshipin.cn/tv/home?pid=600004092
+#EXTM3U x-tvg-url=""
 
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV8.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-8 电视剧
-webview://https://tv.cctv.com/live/cctv8/
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV8.png" group-title="央视;央视频",CCTV-8 电视剧
-webview://https://yangshipin.cn/tv/home?pid=600001803
+#EXTINF:1 aktv-group="AKTV" tvg-id="aktv/animaxhk" provider-type="iptv",Animax (HK)
+http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV9.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-9 纪录
-webview://https://tv.cctv.com/live/cctvjilu/
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV9.png" group-title="央视;央视频",CCTV-9 纪录
-webview://https://yangshipin.cn/tv/home?pid=600004078
+#EXTINF:2 aktv-group="AKTV" tvg-id="aktv/axn" provider-type="iptv",AXN
+http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV10.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-10 科教
-webview://https://tv.cctv.com/live/cctv10/
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV10.png" group-title="央视;央视频",CCTV-10 科教
-webview://https://yangshipin.cn/tv/home?pid=600001805
+#EXTINF:3 aktv-group="AKTV" tvg-id="aktv/channel5hd" provider-type="iptv",Channel 5 HD
+http://s1.an94tv.cfd/aktv/channel5hd/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV11.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-11 戏曲
-webview://https://tv.cctv.com/live/cctv11/
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV11.png" group-title="央视;央视频",CCTV-11 戏曲
-webview://https://yangshipin.cn/tv/home?pid=600001806
+#EXTINF:4 aktv-group="AKTV" tvg-id="aktv/channel8hd" provider-type="iptv",Channel 8 HD
+http://s1.an94tv.cfd/aktv/channel8hd/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV12.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-12 社会与法
-webview://https://tv.cctv.com/live/cctv12/
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV12.png" group-title="央视;央视频",CCTV-12 社会与法
-webview://https://yangshipin.cn/tv/home?pid=600001807
+#EXTINF:5 aktv-group="AKTV" tvg-id="aktv/channeluhd" provider-type="iptv",Channel U HD
+http://s1.an94tv.cfd/aktv/channeluhd/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV13.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-13 新闻
-webview://https://tv.cctv.com/live/cctv13/
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV13.png" group-title="央视;央视频",CCTV-13 新闻
-webview://https://yangshipin.cn/tv/home?pid=600001811
+#EXTINF:6 aktv-group="AKTV" tvg-id="aktv/lovenaturehd" provider-type="iptv",Love Nature HD
+http://s1.an94tv.cfd/aktv/lovenaturehd/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV14.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-14 少儿
-webview://https://tv.cctv.com/live/cctvchild/
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV14.png" group-title="央视;央视频",CCTV-14 少儿
-webview://https://yangshipin.cn/tv/home?pid=600001809
+#EXTINF:7 aktv-group="AKTV" tvg-id="aktv/popc" provider-type="iptv",PopC
+http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV15.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-15 音乐
-webview://https://tv.cctv.com/live/cctv15/
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV15.png" group-title="央视;央视频",CCTV-15 音乐
-webview://https://yangshipin.cn/tv/home?pid=600001815
+#EXTINF:8 aktv-group="AKTV" tvg-id="aktv/rockaction" provider-type="iptv",ROCK Action
+http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV16.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-16 奥林匹克
-webview://https://tv.cctv.com/live/cctv16/
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV16.png" group-title="央视;央视频",CCTV-16 奥林匹克
-webview://https://yangshipin.cn/tv/home?pid=600098637
+#EXTINF:9 aktv-group="AKTV" tvg-id="aktv/tvbplus" provider-type="iptv",TVB Plus
+http://s1.an94tv.cfd/aktv/tvbplus/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV17.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-17 农业农村
-webview://https://tv.cctv.com/live/cctv17/
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV17.png" group-title="央视;央视频",CCTV-17 农业农村
-webview://https://yangshipin.cn/tv/home?pid=600001810
+#EXTINF:10 aktv-group="AKTV" tvg-id="aktv/tvn" provider-type="iptv",tvN
+http://s1.an94tv.cfd/aktv/tvn/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV4欧洲.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-4 中文国际 (欧)
-webview://https://tv.cctv.com/live/cctveurope/index.shtml
+#EXTINF:11 aktv-group="AKTV" tvg-id="aktv/1080" provider-type="iptv",天映經典(1080)
+http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV4美洲.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-4 中文国际 (美)
-webview://https://tv.cctv.com/live/cctvamerica/
+#EXTINF:12 aktv-group="AKTV" tvg-id="aktv/CH-19" provider-type="iptv",明珠剧集台(北美)
+http://s1.an94tv.cfd/aktv/CH-19/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CGTN.png" group-title="央视;央视频",CGTN英语
-webview://https://yangshipin.cn/tv/home?pid=600014550
+#EXTINF:13 aktv-group="AKTV" tvg-id="aktv/CH-2" provider-type="iptv",明珠台
+http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CGTN纪录.png" group-title="央视;央视频",CGTN记录
-webview://https://yangshipin.cn/tv/home?pid=600084781
+#EXTINF:14 aktv-group="AKTV" tvg-id="aktv/CH-1" provider-type="iptv",無線新聞台
+http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CGTN俄语.png" group-title="央视;央视频",CGTN俄语
-webview://https://yangshipin.cn/tv/home?pid=600084758
+#EXTINF:15 aktv-group="AKTV" tvg-id="aktv/hk" provider-type="iptv",美亞電影台(HK)
+http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CGTN法语.png" group-title="央视;央视频",CGTN法语
-webview://https://yangshipin.cn/tv/home?pid=600084704
+#EXTINF:16 aktv-group="AKTV" tvg-id="aktv/CH-18" provider-type="iptv",翡翠剧集台(北美)
+http://s1.an94tv.cfd/aktv/CH-18/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CGTN西语.png" group-title="央视;央视频",CGTN西语
-webview://https://yangshipin.cn/tv/home?pid=600084744
+#EXTINF:17 aktv-group="AKTV" tvg-id="aktv/CH-0" provider-type="iptv",翡翠台
+http://s1.an94tv.cfd/aktv/CH-0/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CGTN阿语.png" group-title="央视;央视频",CGTN阿语
-webview://https://yangshipin.cn/tv/home?pid=600084782
+#EXTINF:18 aktv-group="AKTV" tvg-id="aktv/CH-17" provider-type="iptv",翡翠综合台(北美)
+http://s1.an94tv.cfd/aktv/CH-17/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/风云剧场.png" group-title="央视;央视频",CCTV 风云剧场
-webview://https://yangshipin.cn/tv/home?pid=600099658
+#EXTINF:19 aktv-group="AKTV" tvg-id="aktv/CH-3" provider-type="iptv",鳳凰衛視中文台
+http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/第一剧场.png" group-title="央视;央视频",CCTV 第一剧场
-webview://https://yangshipin.cn/tv/home?pid=600099655
+#EXTINF:20 aktv-group="AKTV" tvg-id="aktv/CH-4" provider-type="iptv",鳳凰衛視資訊台
+http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/怀旧剧场.png" group-title="央视;央视频",CCTV 怀旧剧场
-webview://https://yangshipin.cn/tv/home?pid=600099620
+#EXTINF:21 aktv-group="AKTV" tvg-id="aktv/CH-5" provider-type="iptv",鳳凰衛視香港台
+http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/北京卫视.png" group-title="卫视;央视频",北京卫视
-webview://https://yangshipin.cn/tv/home?pid=600002309
+#EXTINF:22 aktv-group="AKTV" tvg-id="aktv/CH-6" provider-type="iptv",黃金翡翠台
+http://s1.an94tv.cfd/aktv/CH-6/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/江苏卫视.png" group-title="卫视;央视频",江苏卫视
-webview://https://yangshipin.cn/tv/home?pid=600002521
+#EXTINF:23 aktv-group="AKTV2" tvg-id="aktv2/skysportsf1" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv",Sky Sports F1
+http://s1.an94tv.cfd/aktv2/skysportsf1/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/东方卫视.png" group-title="卫视;央视频",东方卫视
-webview://https://yangshipin.cn/tv/home?pid=600002483
+#EXTINF:24 aktv-group="AKTV2" tvg-id="aktv2/CH-3" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv",天映电影
+http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/浙江卫视.png" group-title="卫视;央视频",浙江卫视
-webview://https://yangshipin.cn/tv/home?pid=600002520
+#EXTINF:25 aktv-group="AKTV2" tvg-id="aktv2/CH-1" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv",好萊塢電影台
+http://s1.an94tv.cfd/aktv2/CH-1/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/湖南卫视.png" group-title="卫视;央视频",湖南卫视
-webview://https://yangshipin.cn/tv/home?pid=600002475
+#EXTINF:26 aktv-group="AKTV2" tvg-id="aktv2/CH-2" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv",東森洋片
+http://s1.an94tv.cfd/aktv2/CH-2/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/湖北卫视.png" group-title="卫视;央视频",湖北卫视
-webview://https://yangshipin.cn/tv/home?pid=600002508
+#EXTINF:27 aktv-group="AKTV2" tvg-id="aktv2/CH-0" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv",緯來體育台
+http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/广东卫视.png" group-title="卫视;央视频",广东卫视
-webview://https://yangshipin.cn/tv/home?pid=600002485
+#EXTINF:28 aktv-group="AKTV3" tvg-id="aktv3/cna" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv",CNA
+http://s1.an94tv.cfd/aktv3/cna/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/广西卫视.png" group-title="卫视;央视频",广西卫视
-webview://https://yangshipin.cn/tv/home?pid=600002509
+#EXTINF:29 aktv-group="AKTV3" tvg-id="aktv3/CH-0" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv",朝鲜恩情台
+http://s1.an94tv.cfd/aktv3/CH-0/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/黑龙江卫视.png" group-title="卫视;央视频",黑龙江卫视
-webview://https://yangshipin.cn/tv/home?pid=600002498
+#EXTINF:30 aktv-group="AKTV-JP" tvg-id="aktvjp/japannews24hlive" tvg-logo="" provider="AKTV-JP" provider-logo="" provider-type="iptv",Japan News 24H LIVE
+http://s1.an94tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/海南卫视.png" group-title="卫视;央视频",海南卫视
-webview://https://yangshipin.cn/tv/home?pid=600002506
+#EXTINF:31 aktv-group="AKTV-JP" tvg-id="aktvjp/ntv" tvg-logo="" provider="AKTV-JP" provider-logo="" provider-type="iptv",日テレNEWS LIVE
+http://s1.an94tv.cfd/aktvjp/ntv/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/重庆卫视.png" group-title="卫视;央视频",重庆卫视
-webview://https://yangshipin.cn/tv/home?pid=600002531
+#EXTINF:32 aktv-group="astro" tvg-id="astro/8tv" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",8TV
+http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/深圳卫视.png" group-title="卫视;央视频",深圳卫视
-webview://https://yangshipin.cn/tv/home?pid=600002481
+#EXTINF:33 aktv-group="astro" tvg-id="astro/CH-0" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",Astro Football
+http://s1.an94tv.cfd/astro/CH-0/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/四川卫视.png" group-title="卫视;央视频",四川卫视
-webview://https://yangshipin.cn/tv/home?pid=600002516
+#EXTINF:34 aktv-group="astro" tvg-id="astro/astrosportuhd" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",Astro Sport UHD
+http://s1.an94tv.cfd/astro/astrosportuhd/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/河南卫视.png" group-title="卫视;央视频",河南卫视
-webview://https://yangshipin.cn/tv/home?pid=600002525
+#EXTINF:35 aktv-group="astro" tvg-id="astro/eurosport1" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",EuroSport 1
+http://s1.an94tv.cfd/astro/eurosport1/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/东南卫视.png" group-title="卫视;央视频",福建东南卫视
-webview://https://yangshipin.cn/tv/home?pid=600002484
+#EXTINF:36 aktv-group="astro" tvg-id="astro/eurosport2" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",EuroSport 2
+http://s1.an94tv.cfd/astro/eurosport2/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/贵州卫视.png" group-title="卫视;央视频",贵州卫视
-webview://https://yangshipin.cn/tv/home?pid=600002490
+#EXTINF:37 aktv-group="astro" tvg-id="astro/tntsports1" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",TNT SPORTS 1
+http://s1.an94tv.cfd/astro/tntsports1/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/江西卫视.png" group-title="卫视;央视频",江西卫视
-webview://https://yangshipin.cn/tv/home?pid=600002503
+#EXTINF:38 aktv-group="astro" tvg-id="astro/tntsports2" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",TNT SPORTS 2
+http://s1.an94tv.cfd/astro/tntsports2/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/辽宁卫视.png" group-title="卫视;央视频",辽宁卫视
-webview://https://yangshipin.cn/tv/home?pid=600002505
+#EXTINF:39 aktv-group="astro" tvg-id="astro/tntsports3" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",TNT SPORTS 3
+http://s1.an94tv.cfd/astro/tntsports3/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/安徽卫视.png" group-title="卫视;央视频",安徽卫视
-webview://https://yangshipin.cn/tv/home?pid=600002532
+#EXTINF:40 aktv-group="astro" tvg-id="astro/CH-1" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",中天亚洲台
+http://s1.an94tv.cfd/astro/CH-1/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/河北卫视.png" group-title="卫视;央视频",河北卫视
-webview://https://yangshipin.cn/tv/home?pid=600002493
+#EXTINF:41 aktv-group="taiwan" tvg-id="taiwan/CH-3" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",KLT-靖天國際台
+http://s1.an94tv.cfd/taiwan/CH-3/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/山东卫视.png" group-title="卫视;央视频",山东卫视
-webview://https://yangshipin.cn/tv/home?pid=600002513
+#EXTINF:42 aktv-group="taiwan" tvg-id="taiwan/tvbs" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",TVBS
+http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/天津卫视.png" group-title="卫视;央视频",天津卫视
-webview://https://yangshipin.cn/tv/home?pid=600152137
+#EXTINF:43 aktv-group="taiwan" tvg-id="taiwan/tvbs-1" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",TVBS新聞
+http://s1.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/吉林卫视.png" group-title="卫视;央视频",吉林卫视
-webview://https://yangshipin.cn/tv/home?pid=600190405
+#EXTINF:44 aktv-group="taiwan" tvg-id="taiwan/CH-1" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",民視
+http://s1.an94tv.cfd/taiwan/CH-1/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/陕西卫视.png" group-title="卫视;央视频",陕西卫视
-webview://https://yangshipin.cn/tv/home?pid=600190400
+#EXTINF:45 aktv-group="taiwan" tvg-id="taiwan/CH-0" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",民視第一台
+http://s1.an94tv.cfd/taiwan/CH-0/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/甘肃卫视.png" group-title="卫视;央视频;央视频",甘肃卫视
-webview://https://yangshipin.cn/tv/home?pid=600190408
+#EXTINF:46 aktv-group="taiwan" tvg-id="taiwan/CH-5" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",龍華日韓台
+http://s1.an94tv.cfd/taiwan/CH-5/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/宁夏卫视.png" group-title="卫视;央视频",宁夏卫视
-webview://https://yangshipin.cn/tv/home?pid=600190737
+#EXTINF:47 aktv-group="taiwan2" tvg-id="taiwan2/tvb" tvg-logo="" provider="taiwan2" provider-logo="" provider-type="iptv",TVB 星河
+http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/内蒙古卫视.png" group-title="卫视;央视频",内蒙古卫视
-webview://https://yangshipin.cn/tv/home?pid=600190401
+#EXTINF:48 aktv-group="zhongtian" tvg-id="zhongtian/CH-0" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv",中天新闻台
+http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/云南卫视.png" group-title="卫视;央视频",云南卫视
-webview://https://yangshipin.cn/tv/home?pid=600190402
+#EXTINF:49 aktv-group="zhongtian" tvg-id="zhongtian/CH-1" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv",東森新聞
+http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/山西卫视.png" group-title="卫视;央视频",山西卫视
-webview://https://yangshipin.cn/tv/home?pid=600190407
-
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/青海卫视.png" group-title="卫视;央视频",青海卫视
-webview://https://yangshipin.cn/tv/home?pid=600190406
-
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/西藏卫视.png" group-title="卫视;央视频",西藏卫视
-webview://https://yangshipin.cn/tv/home?pid=600190403
-
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/广东卫视.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",广东卫视
-webview://https://www.gdtv.cn/tvChannelDetail/43
-
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/广东珠江.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",广东珠江
-webview://https://www.gdtv.cn/tvChannelDetail/44
-
-#EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/广东新闻.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",广东新闻
-webview://https://www.gdtv.cn/tvChannelDetail/45
-
-#EXTINF:-1 tvg-name="广东民生" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/广东民生.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",广东民生
-webview://https://www.gdtv.cn/tvChannelDetail/48
-
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/广东体育.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",广东体育
-webview://https://www.gdtv.cn/tvChannelDetail/47
-
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/大湾区卫视.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",大湾区卫视
-webview://https://www.gdtv.cn/tvChannelDetail/51
-
-#EXTINF:-1 tvg-name="大湾区卫视（海外版）" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/大湾区卫视.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",大湾区卫视（海外版）
-webview://https://www.gdtv.cn/tvChannelDetail/46
-
-#EXTINF:-1 tvg-name="广东影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/广东影视.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",广东影视
-webview://https://www.gdtv.cn/tvChannelDetail/53
-
-#EXTINF:-1 tvg-name="4K超高清" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/广东4K.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",4K超高清
-webview://https://www.gdtv.cn/tvChannelDetail/16
-
-#EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/广东少儿.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",广东少儿
-webview://https://www.gdtv.cn/tvChannelDetail/54
-
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/嘉佳卡通.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",嘉佳卡通
-webview://https://www.gdtv.cn/tvChannelDetail/66
-
-#EXTINF:-1 tvg-name="南方购物" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/南方购物.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",南方购物
-webview://https://www.gdtv.cn/tvChannelDetail/42
-
-#EXTINF:-1 tvg-name="岭南戏曲" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/岭南戏曲.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",岭南戏曲
-webview://https://www.gdtv.cn/tvChannelDetail/15
-
-#EXTINF:-1 tvg-name="广东移动" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/广东移动.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",广东移动
-webview://https://www.gdtv.cn/tvChannelDetail/74
-
-#EXTINF:-1 tvg-name="荔枝台" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/荔枝台.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",荔枝台
-webview://https://www.gdtv.cn/tvChannelDetail/100
-
-#EXTINF:-1 tvg-name="纪录片" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/纪录片.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",纪录片
-webview://https://www.gdtv.cn/tvChannelDetail/94
-
-#EXTINF:-1 tvg-name="GRTN健康频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/GRTN健康频道.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",GRTN健康频道
-webview://https://www.gdtv.cn/tvChannelDetail/99
-
-#EXTINF:-1 tvg-name="GRTN文化频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/GRTN文化频道.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",GRTN文化频道
-webview://https://www.gdtv.cn/tvChannelDetail/75
-
-#EXTINF:-1 tvg-name="GRTN生活频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/GRTN生活频道.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",GRTN生活频道
-webview://https://www.gdtv.cn/tvChannelDetail/102
-
-#EXTINF:-1 tvg-name="GRTN教育频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/GRTN教育频道.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",GRTN教育频道
-webview://https://www.gdtv.cn/tvChannelDetail/104
-
-#EXTINF:-1 tvg-name="广东新闻广播" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/广东新闻广播.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",广东新闻广播
-webview://https://www.gdtv.cn/audioChannelDetail/85
-
-#EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/山东齐鲁.png" group-title="山东",山东齐鲁
-webview://https://v.iqilu.com/live/qlpd/
-
-#EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/山东新闻.png" group-title="山东",山东新闻
-webview://https://v.iqilu.com/live/ggpd/
-
-#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/山东农科.png" group-title="山东",山东农科
-webview://https://v.iqilu.com/live/nkpd/
-
-#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/山东少儿.png" group-title="山东",山东少儿
-webview://https://v.iqilu.com/live/sepd/
-
-#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/山东体育.png" group-title="山东",山东体育
-webview://https://v.iqilu.com/live/typd/
-
-#EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/山东文旅.png" group-title="山东",山东文旅
-webview://https://v.iqilu.com/live/yspd/
-
-#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/山东生活.png" group-title="山东",山东生活
-webview://https://v.iqilu.com/live/shpd/
-
-#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/山东综艺.png" group-title="山东",山东综艺
-webview://https://v.iqilu.com/live/zypd/
-
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/陕西卫视.png" group-title="陕西",陕西卫视
-webview://http://live.snrtv.com/?channel=陕西卫视
-
-#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/陕西新闻资讯.png" group-title="陕西",新闻资讯
-webview://http://live.snrtv.com/?channel=新闻资讯
-
-#EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/陕西都市青春.png" group-title="陕西",都市青春
-webview://http://live.snrtv.com/?channel=都市青春
-
-#EXTINF:-1 tvg-name="陕西银龄频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/陕西银龄频道.png" group-title="陕西",银龄频道
-webview://http://live.snrtv.com/?channel=银龄频道
-
-#EXTINF:-1 tvg-name="陕西秦腔频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/陕西秦腔频道.png" group-title="陕西",秦腔频道
-webview://http://live.snrtv.com/?channel=秦腔频道
-
-#EXTINF:-1 tvg-name="陕西乐家购物" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/陕西乐家购物.png" group-title="陕西",乐家购物
-webview://http://live.snrtv.com/?channel=乐家购物
-
-#EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/陕西体育休闲.png" group-title="陕西",体育休闲
-webview://http://live.snrtv.com/?channel=体育休闲
-
-#EXTINF:-1 tvg-name="陕西农林卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/陕西农林卫视.png" group-title="陕西",农林卫视
-webview://http://live.snrtv.com/?channel=农林卫视
-
-#EXTINF:-1 tvg-name="陕西移动电视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/陕西移动电视.png" group-title="陕西",移动电视
-webview://http://live.snrtv.com/?channel=移动电视
-
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/江苏卫视.png" group-title="江苏",江苏卫视
-webview://https://live.jstv.com?channel=江苏卫视
-
-#EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/江苏城市.png" group-title="江苏",江苏城市
-webview://https://live.jstv.com?channel=江苏城市
-
-#EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/江苏综艺.png" group-title="江苏",江苏综艺
-webview://https://live.jstv.com?channel=江苏综艺
-
-#EXTINF:-1 tvg-name="江苏公共新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/江苏公共新闻.png" group-title="江苏",江苏新闻
-webview://https://live.jstv.com?channel=江苏新闻
-
-#EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/江苏教育.png" group-title="江苏",江苏教育
-webview://https://live.jstv.com?channel=江苏教育
-
-#EXTINF:-1 tvg-name="体育休闲" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/体育休闲.png" group-title="江苏",体育休闲
-webview://https://live.jstv.com?channel=体育休闲
-
-#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/优漫卡通.png" group-title="江苏",优漫卡通
-webview://https://live.jstv.com?channel=优漫卡通
-
-#EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/江苏国际.png" group-title="江苏",江苏国际
-webview://https://live.jstv.com?channel=江苏国际
-
-#EXTINF:-1 tvg-name="新闻综合频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/新闻综合频道.png" group-title="南京",新闻综合频道
-webview://https://www.nbs.cn/live/?channel=新闻综合频道
-
-#EXTINF:-1 tvg-name="十八·生活频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/十八·生活频道.png" group-title="南京",十八·生活频道
-webview://https://www.nbs.cn/live/?channel=十八·生活频道
-
-#EXTINF:-1 tvg-name="教科频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/教科频道.png" group-title="南京",教科频道
-webview://https://www.nbs.cn/live/?channel=教科频道
-
-#EXTINF:-1 tvg-name="文旅纪录频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/文旅纪录频道.png" group-title="南京",文旅纪录频道
-webview://https://www.nbs.cn/live/?channel=文旅纪录频道
-
-#EXTINF:-1 tvg-name="少儿频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/少儿频道.png" group-title="南京",少儿频道
-webview://https://www.nbs.cn/live/?channel=少儿频道
-
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://www.brtn.cn/static/img/v5/column/btvws_index_active.png?v=2" group-title="北京",北京卫视
-webview://https://www.brtn.cn/btv/btvsy_index?channel=北京卫视
-
-#EXTINF:-1 tvg-name="BRTV文艺" tvg-logo="https://www.brtn.cn/static/img/v5/column/btvwy_index_active.png?v=2" group-title="北京",BRTV文艺
-webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV文艺
-
-#EXTINF:-1 tvg-name="BRTV纪实科教" tvg-logo="https://www.brtn.cn/static/img/v5/column/btvkj_index_active.png?v=2" group-title="北京",BRTV纪实科教
-webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV纪实科教
-
-#EXTINF:-1 tvg-name="BRTV影视" tvg-logo="https://www.brtn.cn/static/img/v5/column/btvys_index_active.png?v=2" group-title="北京",BRTV影视
-webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV影视
-
-#EXTINF:-1 tvg-name="BRTV财经" tvg-logo="https://www.brtn.cn/static/img/v5/column/btvcj_index_active.png?v=2" group-title="北京",BRTV财经
-webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV财经
-
-#EXTINF:-1 tvg-name="BRTV体育休闲" tvg-logo="https://www.brtn.cn/static/img/v5/column/btvdajs_index_active.png?v=2" group-title="北京",BRTV体育休闲
-webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV体育休闲
-
-#EXTINF:-1 tvg-name="BRTV i生活" tvg-logo="https://www.brtn.cn/static/img/v5/column/btvsh_index_active.png?v=2" group-title="北京",BRTV i生活
-webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV i生活
-
-#EXTINF:-1 tvg-name="BRTV新闻" tvg-logo="https://www.brtn.cn/static/img/v5/column/btvxw_index_active.png?v=2" group-title="北京",BRTV新闻
-webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV新闻
-
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://www.brtn.cn/static/img/v5/column/btvse_index_active.png?v=2" group-title="北京",卡酷少儿
-webview://https://www.brtn.cn/btv/btvsy_index?channel=卡酷少儿
-
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/安徽卫视.png" group-title="安徽" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",安徽卫视
-webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=47
-
-#EXTINF:-1 tvg-name="经济生活" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/经济生活.png" group-title="安徽" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",经济生活
-webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=71
-
-#EXTINF:-1 tvg-name="综艺体育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/综艺体育.png" group-title="安徽" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",综艺体育
-webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=73
-
-#EXTINF:-1 tvg-name="影视频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/影视频道.png" group-title="安徽" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",影视频道
-webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=72
-
-#EXTINF:-1 tvg-name="安徽公共" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/安徽公共.png" group-title="安徽" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",安徽公共
-webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=50
-
-#EXTINF:-1 tvg-name="农业·科教" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/农业·科教.png" group-title="安徽" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",农业·科教
-webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=51
-
-#EXTINF:-1 tvg-name="安徽国际" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/安徽国际.png" group-title="安徽" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",安徽国际
-webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=70
-
-#EXTINF:-1 tvg-name="移动电视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/移动电视.png" group-title="安徽" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",移动电视
-webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=68
-
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/广西卫视.png" group-title="广西",广西卫视
-webview://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
-
-#EXTINF:-1 tvg-name="综艺旅游频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/综艺旅游频道.png" group-title="广西",综艺旅游频道
-webview://https://tv.gxtv.cn/channel/channelivePlay_f3335975f9fe11e88bcfe41f13b60c62.html
-
-#EXTINF:-1 tvg-name="都市频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/都市频道.png" group-title="广西",都市频道
-webview://https://tv.gxtv.cn/channel/channelivePlay_fdbaf085f9fe11e88bcfe41f13b60c62.html
-
-#EXTINF:-1 tvg-name="影视频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/影视频道.png" group-title="广西",影视频道
-webview://https://tv.gxtv.cn/channel/channelivePlay_5e923d82058e11e9ba67e41f13b60c62.html
-
-#EXTINF:-1 tvg-name="新闻频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/新闻频道.png" group-title="广西",新闻频道
-webview://https://tv.gxtv.cn/channel/channelivePlay_9dfd8600075811e9ba67e41f13b60c62.html
-
-#EXTINF:-1 tvg-name="移动数字电视频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/移动数字电视频道.png" group-title="广西",移动数字电视频道
-webview://https://tv.gxtv.cn/channel/channelivePlay_78dbfd44e6b74ab687204d2d8113cbf5.html
-
-#EXTINF:-1 tvg-name="CETV-1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CETV-1.png" group-title="广西",CETV-1
-webview://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html
-
-#EXTINF:-1 tvg-name="CETV-2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CETV-2.png" group-title="广西",CETV-2
-webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
-
-#EXTINF:-1 tvg-name="CETV-4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CETV-4.png" group-title="广西",CETV-4
-webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
-
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/金鹰卡通.png" group-title="湖南",金鹰卡通
-webview://https://live.mgtv.com/?channelId=287
-
-#EXTINF:-1 tvg-name="快乐购" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/快乐购.png" group-title="湖南",快乐购
-webview://https://live.mgtv.com/?channelId=267
-
-#EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/湖南经视.png" group-title="湖南",湖南经视
-webview://https://live.mgtv.com/?channelId=280
-
-#EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/湖南娱乐.png" group-title="湖南",湖南娱乐
-webview://https://live.mgtv.com/?channelId=344
-
-#EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/湖南电影.png" group-title="湖南",湖南电影
-webview://https://live.mgtv.com/?channelId=221
-
-#EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/湖南都市.png" group-title="湖南",湖南都市
-webview://https://live.mgtv.com/?channelId=346
-
-#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/湖南电视剧.png" group-title="湖南",湖南电视剧
-webview://https://live.mgtv.com/?channelId=484
-
-#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/金鹰纪实.png" group-title="湖南",金鹰纪实
-webview://https://live.mgtv.com/?channelId=316
-
-#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/湖南爱晚.png" group-title="湖南",湖南爱晚
-webview://https://live.mgtv.com/?channelId=261
-
-#EXTINF:-1 tvg-name="国际频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/国际频道.png" group-title="湖南",国际频道
-webview://https://live.mgtv.com/?channelId=229
-
-#EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/先锋乒羽.png" group-title="湖南",先锋乒羽
-webview://https://live.mgtv.com/?channelId=329
-
-#EXTINF:-1 tvg-name="茶频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/茶频道.png" group-title="湖南",茶频道
-webview://https://live.mgtv.com/?channelId=578
-
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/快乐垂钓.png" group-title="湖南",快乐垂钓
-webview://https://live.mgtv.com/?channelId=218
-
-#EXTINF:-1 tvg-name="长沙新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/长沙新闻综合.png" group-title="湖南",长沙新闻综合
-webview://https://live.mgtv.com/?channelId=269
-
-#EXTINF:-1 tvg-name="长沙政法" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/长沙政法.png" group-title="湖南",长沙政法
-webview://https://live.mgtv.com/?channelId=254
-
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/东方卫视.png" group-title="上海",东方卫视
-webview://https://live.kankanews.com/huikan?id=1
-
-#EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/新闻综合.png" group-title="上海",新闻综合
-webview://https://live.kankanews.com/huikan?id=2
-
-#EXTINF:-1 tvg-name="魔都眼" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/魔都眼.png" group-title="上海",魔都眼
-webview://https://live.kankanews.com/huikan?id=11
-
-#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/第一财经.png" group-title="上海",第一财经
-webview://https://live.kankanews.com/huikan?id=5
-
-#EXTINF:-1 tvg-name="新纪实" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/新纪实.png" group-title="上海",新纪实
-webview://https://live.kankanews.com/huikan?id=12
-
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/五星体育.png" group-title="上海",五星体育
-webview://https://live.kankanews.com/huikan?id=10
-
-#EXTINF:-1 tvg-name="都市频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/都市频道.png" group-title="上海",都市频道
-webview://https://live.kankanews.com/huikan?id=4
-
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/哈哈炫动.png" group-title="上海",哈哈炫动
-webview://https://live.kankanews.com/huikan?id=9
-
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/浙江卫视.png" group-title="浙江",浙江卫视
-webview://https://www.cztv.com/liveTV/101
-
-#EXTINF:-1 tvg-name="钱江都市" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/钱江都市.png" group-title="浙江",钱江都市
-webview://https://www.cztv.com/liveTV/102
-
-#EXTINF:-1 tvg-name="经济生活" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/经济生活.png" group-title="浙江",经济生活
-webview://https://www.cztv.com/liveTV/103
-
-#EXTINF:-1 tvg-name="教科影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/教科影视.png" group-title="浙江",教科影视
-webview://https://www.cztv.com/liveTV/104
-
-#EXTINF:-1 tvg-name="民生休闲" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/民生休闲.png" group-title="浙江",民生休闲
-webview://https://www.cztv.com/liveTV/106
-
-#EXTINF:-1 tvg-name="新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/新闻.png" group-title="浙江",新闻
-webview://https://www.cztv.com/liveTV/107
-
-#EXTINF:-1 tvg-name="少儿频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/少儿频道.png" group-title="浙江",少儿频道
-webview://https://www.cztv.com/liveTV/108
-
-#EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/浙江国际.png" group-title="浙江",浙江国际
-webview://https://www.cztv.com/liveTV/110
-
-#EXTINF:-1 tvg-name="好易购" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/好易购.png" group-title="浙江",好易购
-webview://https://www.cztv.com/liveTV/111
-
-#EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/之江纪录.png" group-title="浙江",之江纪录
-webview://https://www.cztv.com/liveTV/112
-#EXTINF:-1 tvg-name="成都新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/成都新闻综合.png" group-title="四川",成都新闻综合
-webview://https://www.cditv.cn/show/4845-563.html
-#EXTINF:-1 tvg-name="成都经济资讯" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/成都经济资讯.png" group-title="四川",成都经济资讯
-webview://https://www.cditv.cn/show/4845-562.html
-#EXTINF:-1 tvg-name="成都都市生活" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/成都都市生活.png" group-title="四川",成都都市生活
-webview://https://www.cditv.cn/show/4845-561.html
-#EXTINF:-1 tvg-name="成都影视文艺" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/成都影视文艺.png" group-title="四川",成都影视文艺
-webview://https://www.cditv.cn/show/4845-560.html
-#EXTINF:-1 tvg-name="成都公共" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/成都公共.png" group-title="四川",成都公共
-webview://https://www.cditv.cn/show/4845-559.html
-#EXTINF:-1 tvg-name="成都少儿" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/成都少儿.png" group-title="四川",成都少儿
-webview://https://www.cditv.cn/show/4845-558.html
-#EXTINF:-1 tvg-name="蓉城先锋" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/蓉城先锋.png" group-title="四川",蓉城先锋
-webview://https://www.cditv.cn/show/4845-592.html
-#EXTINF:-1 tvg-name="Webview检测" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/Webview检测.png" group-title="Webview",Webview检测
-webview://https://passer-by.com/browser
