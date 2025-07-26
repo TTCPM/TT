@@ -49,7 +49,9 @@ TVBS新聞,http://s1.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8
 TVB 星河,http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
 中天新闻台,http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
 東森新聞,http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
-
+深圳卫视-4K,https://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227489/index.m3u8
+重庆卫视,https://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227240/index.m3u8
+广东卫视-4K,https://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227391/index.m3u8
 秒播央卫,#genre#
 CCTV1,https://live.sxrtv.com/iptv/cctv1.flv
 CCTV2,https://live.sxrtv.com/iptv/cctv2.flv
@@ -917,7 +919,7 @@ CCTV17,https://live.sxrtv.com/iptv/cctv17.flv
 海南卫视,https://live.sxrtv.com/iptv/hinws.flv
 吉林卫视,https://live.sxrtv.com/iptv/jlws.flv
 
-新梦TV#genre#
+新梦TV,#genre#
 🆕CCTV-1综合,https://migu.188766.xyz/?migutoken=889693998050587956578260623aa36f&id=CCTV1&pp=1
 🆕CCTV-2财经,https://migu.188766.xyz/?migutoken=58aeeaa834f3306c173a7c25df0f2573&id=CCTV2&pp=1
 🆕CCTV-3综艺,https://migu.188766.xyz/?migutoken=8c0751a3778e94de258ffffa628a6d21&id=CCTV3&pp=1
@@ -970,7 +972,7 @@ CCTV17,https://live.sxrtv.com/iptv/cctv17.flv
 🆕陕西卫视,https://migu.188766.xyz/?migutoken=d498c54358fa6cc2737bc0aefa74a8e6&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&pp=1
 🆕青海卫视,http://221.217.53.251:5050/mgtv/947472506.m3u8
 🆕黑龙江卫视,http://221.217.53.251:5050/nptv/heilongjiang.m3u8
-宝盒TV#genre#
+宝盒TV,#genre#
 CCTV1综合,http://atcq62.3950.cn:35455/mgtv/608807420.m3u8
 CCTV2财经,http://atcq62.3950.cn:35455/mgtv/631780532.m3u8
 CCTV3综艺,http://atcq62.3950.cn:35455/mgtv/624878271.m3u8
@@ -1013,7 +1015,7 @@ CGTN,http://atcq62.3950.cn:35455/mgtv/609017205.m3u8
 海南卫视,http://atcq62.3950.cn:35455/mgtv/947472502.m3u8
 海峡卫视,http://atcq62.3950.cn:35455/mgtv/849119120.m3u8
 
-糖意TV#genre#
+糖意TV,#genre#
 CCTV1,http://zba.sxdh.org/migu.php?v=index.php?&id=cctv1
 CCTV2,http://zba.sxdh.org/migu.php?v=index.php?&id=cctv2
 CCTV3,http://zba.sxdh.org/migu.php?v=index.php?&id=cctv3
@@ -1233,7 +1235,7 @@ TNT SPORTS 3,http://s1.an94tv.cfd/astro/tntsports3/AKTV.m3u8
 卫视|浙江卫视,mitv://66.42.60.221:6001/686dcf2d000ea3b7046e123adbac871a.ts
 卫视|浙江卫视,mitv://66.42.60.221:6001/685d5ea6000c37680202d33bac1d09cb.ts
 
-海燕🌸TV,#genre#这
+海燕TV,#genre#
 中天新闻台,http://api.mytv666.top/api/hk.php?id=3639303839636238623433393637353530386234626331346161646239336166267469643d74762669643d3439
 东森新闻台,http://api.mytv666.top/api/hk.php?id=3034663439313837653865616166346561376139613235333434396531666564267469643d74762669643d3530
 华视新闻台,http://api.mytv666.top/api/hk.php?id=6336363138633563363661326531343237616265653233303539356532363065267469643d74762669643d3537
@@ -1419,19 +1421,19 @@ TVB星河2,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 
 松视家族_1213,#genre#
 
-松视1台,http://pullsstx.peiyou.eaydu.com/live/200ec5425a068b5265c5bdb4ce0f76d7.flv
-松视2台,http://pullsstx.peiyou.eaydu.com/live/480da51adc973b242df520ab3b894684.flv
-松视3台,http://play-cdn-226.jr365m.cc/live/f77b303e9b9b28eb9c2436f5546dd7af.m3u8
-松视彩虹E台,http://play-cdn-226.jr365m.cc/live/cd5fc7535af08991eea13fe6b8868013.m3u8
-松视彩虹K台,http://pullsstx.peiyou.eaydu.com/live/3c661582ef50c6fc1b437fda0b746719.flv
-松视彩虹电影台,http://pullsstx.peiyou.eaydu.com/live/89db6c420ec30dbb623b6132896fde83.flv
-松视潘多拉紫台,http://pullsstx.peiyou.eaydu.com/live/759e852c5183d9e57c91dc4e3acc30bb.flv
-松视惊艳台,http://pullsstx.peiyou.eaydu.com/live/0ea65ea3daa6cdb5d57ea1853cd3ca59.flv
-松视香蕉台,http://pullsstx.peiyou.eaydu.com/live/e5d300cc86f225c4713311070f530d40.flv
-松视HPPY台,http://play-cdn-226.jr365m.cc/live/611b84ca46821fe7ed8709d6d4054413.m3u8
-极限电影台,http://play-cdn-226.jr365m.cc/live/cf8b5d0e31918086f93ea5920f849948.m3u8
+松视1台,http://pullsstx.peiyou.eaydu.com/live/0938c2340c5a6eff0745b2cce33acfc0.m3u8
+松视2台,http://pullsstx.peiyou.eaydu.com/live/5e4aa7ef26fe04aaefa00e46a39a77cd.m3u8
+松视3台,http://play-cdn-226.jr365m.cc/live/da48f44a47e63a9606459df0d9178e61.m3u8
+彩虹E台,http://pullsstx.peiyou.eaydu.com/live/1a5312ad12a4cf451c7c0753e92cbfe3.m3u8
+松视彩虹K台,http://pullsstx.peiyou.eaydu.com/live/1a5312ad12a4cf451c7c0753e92cbfe3.m3u8
+松视彩虹电影台,http://pullsstx.peiyou.eaydu.com/live/b298a3f0332541912c1bffa7005e8fd3.m3u8
+松视潘多拉紫台,http://pullsstx.peiyou.eaydu.com/live/bd9111fa19b75ff27480f7e6f959815b.m3u8
+松视惊艳台,http://pullsstx.peiyou.eaydu.com/live/04336788fbdb461133ee72439f80211b.m3u8
+松视香蕉台,http://pullsstx.peiyou.eaydu.com/live/19d9bd8d334ff2ebdd28e22f834278fb.m3u8
+松视HPPY台,http://play-cdn-226.jr365m.cc/live/e2905e0b1d59e18101328669144e0067.m3u8
+松视极限台,http://play-cdn-226.jr365m.cc/live/cf8b5d0e31918086f93ea5920f849948.m3u8
 CCM,http://104.233.200.52:8278/Celestial2/playlist.m3u8?tid=MC8C8240146082401460&ct=19254&tsum=bd09d5cb5e6039e14bd93ca49b968ba8
-
+松视3,http://play-cdn-226.jr365m.cc/live/da48f44a47e63a9606459df0d9178e61.m3u8
 少儿频道,#genre#
 Animax (HK),https://s1.m16tv.cfd/aktv/animaxhk/AKTV.m3u8
 Animax (HK),https://s2.m16tv.cfd/aktv/animaxhk/AKTV.m3u8
