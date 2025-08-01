@@ -207,58 +207,13 @@ CHC家庭影院,http://live.catvod.com/catvod.php?id=chcjt
 三沙卫视,http://live.catvod.com/catvod.php?id=ssws
 
 CCTV频道,#genre#
-CCTV1,http://58.221.214.82:9901/tsfile/live/0001_1.m3u8?key=txiptv
-CCTV1,http://61.184.46.85:9901/tsfile/live/0001_1.m3u8?key=txiptv
-CCTV1,http://go.bkpcp.top/mg/cctv1
-CCTV10,http://58.221.214.82:9901/tsfile/live/0010_1.m3u8?key=txiptv
-CCTV10,http://61.184.46.85:9901/tsfile/live/0010_1.m3u8?key=txiptv
-CCTV10,http://go.bkpcp.top/mg/cctv10
-CCTV11,http://58.221.214.82:9901/tsfile/live/0011_1.m3u8?key=txiptv
-CCTV11,http://61.184.46.85:9901/tsfile/live/0011_1.m3u8?key=txiptv
-CCTV11,http://go.bkpcp.top/mg/cctv11
-CCTV12,http://58.221.214.82:9901/tsfile/live/0012_1.m3u8?key=txiptv
-CCTV12,http://61.184.46.85:9901/tsfile/live/0012_1.m3u8?key=txiptv
-CCTV12,http://go.bkpcp.top/mg/cctv12
-CCTV13,http://58.221.214.82:9901/tsfile/live/0013_1.m3u8?key=txiptv
-CCTV13,http://61.184.46.85:9901/tsfile/live/0013_1.m3u8?key=txiptv
-CCTV14.http://58.221.214.82:9901/tsfile/live/0014_1.m3u8?key=txiptv
-CCTV14.http://61.184.46.85:9901/tsfile/live/0014_1.m3u8?key=txiptv
-CCTV15.http://58.221.214.82:9901/tsfile/live/0015_1.m3u8?key=txiptv
-CCTV16.http://58.221.214.82:9901/tsfile/live/0002_2.m3u8?key=txiptv
-CCTV16.http://zqh2333.top:2222/rtp/239.93.55.54:5140?3u8key=txiptv
-CCTV17.http://58.221.214.82:9901/tsfile/live/0003_2.m3u8?key=txiptv
-CCTV2.http://58.221.214.82:9901/tsfile/live/0002_1.m3u8?key=txiptv
-CCTV2.http://61.184.46.85:9901/tsfile/live/0002_1.m3u8?key=txiptv
-CCTV3.http://58.221.214.82:9901/tsfile/live/0003_1.m3u8?key=txiptv
-CCTV3.http://61.184.46.85:9901/tsfile/live/0003_1.m3u8?key=txiptv
-CCTV4.http://58.221.214.82:9901/tsfile/live/0004_1.m3u8?key=txiptv
-CCTV4.http://61.184.46.85:9901/tsfile/live/0004_1.m3u8?key=txiptv
-CCTV4.http://go.bkpcp.top/mg/cctv4
-CCTV4欧洲.http://go.bkpcp.top/mg/cctv4o
-CCTV5.http://58.221.214.82:9901/tsfile/live/0005_1.m3u8?key=txiptv
-CCTV5.http://61.184.46.85:9901/tsfile/live/0005_1.m3u8?key=txiptv
-CCTV5+.http://39.135.133.153:80/wh7f454c46tw2186117699_234643195/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-CCTV5+.http://58.221.214.82:9901/tsfile/live/0016_1.m3u8?key=txiptv
-CCTV5+.http://61.184.46.85:9901/tsfile/live/0015_1.m3u8?key=txiptv
-CCTV6.http://58.221.214.82:9901/tsfile/live/0006_1.m3u8?key=txiptv
-CCTV6.http://61.184.46.85:9901/tsfile/live/0006_1.m3u8?key=txiptv
-CCTV7.http://58.221.214.82:9901/tsfile/live/0007_1.m3u8?key=txiptv
-CCTV7.http://61.184.46.85:9901/tsfile/live/0007_1.m3u8?key=txiptv
-CCTV8.http://58.221.214.82:9901/tsfile/live/0008_1.m3u8?key=txiptv
-CCTV8.http://61.184.46.85:9901/tsfile/live/0008_1.m3u8?key=txiptv
-CCTV9.http://58.221.214.82:9901/tsfile/live/0009_1.m3u8?key=txiptv
-CCTV9.http://61.184.46.85:9901/tsfile/live/0009_1.m3u8?key=txiptv
-CCTV9,http://go.bkpcp.top/mg/cctv9
 
+CCTV5+,http://39.135.133.153:80/wh7f454c46tw2186117699_234643195/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 
 卫视频道231,#genre#
-北京卫视	http://go.bkpcp.top/mg/bjws
-东方卫视	http://go.bkpcp.top/mg/dfws
-浙江卫视	http://go.bkpcp.top/mg/zjws
-江苏卫视	http://go.bkpcp.top/mg/jsws
-兵团卫视	http://go.bkpcp.top/mg/btws
-深圳卫视4k	https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8
-北京卫视	http://198.16.100.186:8278/beijing/playlist.m3u8?tid=MD5D2836914028369140&ct=20273&tsum=a5b068469f28162e31477052e2de91d6
+
+深圳卫视4k,https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8
+北京卫视,http://198.16.100.186:8278/beijing/playlist.m3u8?tid=MD5D2836914028369140&ct=20273&tsum=a5b068469f28162e31477052e2de91d6
 
 
 千寻TV,#genre# 
