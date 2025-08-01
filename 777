@@ -221,8 +221,7 @@ CHC家庭影院,http://live.catvod.com/catvod.php?id=chcjt
 西藏卫视,http://live.catvod.com/catvod.php?id=xzws
 海南卫视,http://live.catvod.com/catvod.php?id=hinws
 三沙卫视,http://live.catvod.com/catvod.php?id=ssws
-
-央视频道,#genre#
+CCTV频道,#genre#
 CCTV1.http://58.221.214.82:9901/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV1.http://61.184.46.85:9901/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV1.http://go.bkpcp.top/mg/cctv1
@@ -267,7 +266,7 @@ CCTV9.http://61.184.46.85:9901/tsfile/live/0009_1.m3u8?key=txiptv
 CCTV9.http://go.bkpcp.top/mg/cctv9
 
 
-卫视频道,#genre#
+卫视频道1,#genre#
 北京卫视	http://go.bkpcp.top/mg/bjws
 东方卫视	http://go.bkpcp.top/mg/dfws
 浙江卫视	http://go.bkpcp.top/mg/zjws
@@ -1200,16 +1199,6 @@ tvN,https://s2.m16tv.cfd/aktv/tvn/AKTV.m3u8
 朝鲜恩情台,https://s2.m16tv.cfd/aktv3/CH-0/AKTV.m3u8
 日テレNEWS LIVE,https://s1.m16tv.cfd/aktvjp/ntv/AKTV.m3u8
 日テレNEWS LIVE,https://s2.m16tv.cfd/aktvjp/ntv/AKTV.m3u8
-NewTV频道,#genre#
-东北热剧,http://39.135.133.153:80/wh7f454c46tw324960756_-309530921/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-军事评论,http://39.135.133.153:80/wh7f454c46tw451870290_-1689003542/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-动作电影,http://39.135.133.153:80/wh7f454c46tw625023030_-1762735173/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-家庭剧场,http://39.135.133.153:80/wh7f454c46tw849115802_-1130045633/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-精品体育,http://39.135.133.153:80/wh7f454c46tw1594716280_1746814108/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-超级体育,http://39.135.133.153:80/wh7f454c46tw1647379116_814141682/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-超级电影,http://39.135.133.153:80/wh7f454c46tw1703514651_-97890324/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-超级电视剧,http://39.135.133.153:80/wh7f454c46tw1775235380_-505051013/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-超级综艺,http://39.135.133.153:80/wh7f454c46tw1829593328_844015498/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 
 游戏直播,#genre#
 穿越火线,http://tc-tct.douyucdn2.cn/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=43ef2d796067cbec9c238c73235a1005&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
@@ -1221,20 +1210,20 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 QQ飞车·手游,http://tc-tct.douyucdn2.cn/dyliveflv1a/5040227raXQRnvWY_2000.flv?wsAuth=0654cc930e81f0d2b58264196ded38af&token=cpn-androidmpro-0-5040227-432528579fe947129e217c8f3c39d0a94c81c1426c347bfb&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 CF·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAuth=63d571126613feca6067da321aaf2df2&token=cpn-androidmpro-0-868191-846aacab1859214c037e4d0c263121580403540feea39901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=f73077d85e523eb95b6ce1ea3581b46b&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18db3c111c4e3c14350afd2dcaf43d0ef60&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-虎牙永劫无间,https://live.iill.top/huya/660115
-虎牙英雄联盟2,https://live.iill.top/huya/660001
-虎牙英雄联盟1,https://live.iill.top/huya/660000
-虎牙无畏契约,https://live.iill.top/huya/660679
-虎牙王者荣耀2,https://live.iill.top/huya/660164
-虎牙王者荣耀1,https://live.iill.top/huya/660002
-虎牙使命召唤•手游,https://live.iill.top/huya/11718629
-虎牙逆战,https://live.iill.top/huya/nsl2021
-虎牙绝地求生2,https://live.iill.top/huya/660005
-虎牙绝地求生1,https://live.iill.top/huya/660004
-虎牙金铲铲之战,https://live.iill.top/huya/660579
-虎牙和平精英,https://live.iill.top/huya/660006
-虎牙第五人格,https://live.iill.top/huya/idvesports
-虎牙穿越火线•手游,https://live.iill.top/huya/660102
+永劫无间,https://live.iill.top/huya/660115
+英雄联盟2,https://live.iill.top/huya/660001
+英雄联盟1,https://live.iill.top/huya/660000
+无畏契约,https://live.iill.top/huya/660679
+王者荣耀2,https://live.iill.top/huya/660164
+王者荣耀1,https://live.iill.top/huya/660002
+使命召唤•手游,https://live.iill.top/huya/11718629
+逆战,https://live.iill.top/huya/nsl2021
+绝地求生2,https://live.iill.top/huya/660005
+绝地求生1,https://live.iill.top/huya/660004
+金铲铲之战,https://live.iill.top/huya/660579
+和平精英,https://live.iill.top/huya/660006
+第五人格,https://live.iill.top/huya/idvesports
+穿越火线•手游,https://live.iill.top/huya/660102
 虎牙穿越火线,https://live.iill.top/huya/660101
 虎牙DOTA2,https://live.iill.top/huya/660118
 虎牙CS 2,https://live.iill.top/huya/483917
