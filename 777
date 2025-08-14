@@ -867,20 +867,6 @@ CNN新闻,http://api.mytv666.top/api/hk.php?id=356132353535323036633139616632633
 BBC新闻,http://api.mytv666.top/api/hk.php?id=6439336265303632383566343461326233393961613861353532633231323266267469643d77696e74763132332669643d313039
 Discovery,http://api.mytv666.top/api/hk.php?id=3136386361626565666132623631313664353563353234303965343739353437267469643d77696e74763132332669643d313133
 
-全国直播,#genre#
-CCTV1-财经,http://113.247.237.108:9901/tsfile/live/faacts/0001_1.m3u8?key=txiptv&playlive=1&down=1
-CCTV2-财经,http://113.247.237.108:9901/tsfile/live/faacts/0002_1.m3u8?key=txiptv&playlive=1&down=1
-CCTV3-综艺,http://113.247.237.108:9901/tsfile/live/faacts/0003_1.m3u8?key=txiptv&playlive=1&down=1
-CCTV5-体育,http://113.247.237.108:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&down=1
-CCTV6-电影,http://113.247.237.108:9901/tsfile/live/faacts/0006_1.m3u8?key=txiptv&playlive=1&down=1
-CCTV7-军农,http://113.247.237.108:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&down=1
-CCTV8-电视剧,http://113.247.237.108:9901/tsfile/live/faacts/0008_1.m3u8?key=txiptv&playlive=1&down=1
-CCTV9-纪录,http://113.247.237.108:9901/tsfile/live/faacts/0009_1.m3u8?key=txiptv&playlive=1&down=1
-CCTV10-科教,http://113.247.237.108:9901/tsfile/live/faacts/0010_1.m3u8?key=txiptv&playlive=1&down=1
-CCTV12-社会与法,http://113.247.237.108:9901/tsfile/live/faacts/0012_1.m3u8?key=txiptv&playlive=1&down=1
-CCTV13-新闻,http://113.247.237.108:9901/tsfile/live/0013_2.m3u8?key=txiptv&playlive=1&down=1
-CCTV15-音乐,http://113.247.237.108:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&down=1
-
 新港港台,#genre#
 中天娱乐,http://push-rtmp-hs-spe-f5.douyincdn.com/live/167ztyl.flv
 中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/167ztyz.flv
