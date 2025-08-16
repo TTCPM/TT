@@ -76,9 +76,7 @@ CCTV15,http://43.138.196.212/mi0gu.php?id=cctv15
 CCTV17,http://43.138.196.212/111.php?id=cctv17
 CCTV17,http://43.138.196.212/mi0gu.php?id=cctv17
 
-4K频道,#genre#
-4K60PHLG-HEVC-EAC3测试,https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/hlg4kvideo/playlist.m3u8
-4K60PSDR-H264-AAC测试,https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/sdr4kvideo/playlist.m3u8
+
 
 地方,#genre#
 财富天下,https://mursor.ottiptv.cc/migu/956923159.m3u8?migutoken=beee14f663a86089d7fbf0d803fd59248798b389c091a1e380e1e9f45e0875461ddd090baec70949a056efb7a688bac4a830528bcf8a4474dc416e7e9345f36c36cae416d69afe1fceef111c5e
@@ -130,7 +128,7 @@ CETV4,https://mursor.ottiptv.cc/migu/923287339.m3u8?migutoken=091c194b6c5aa5113c
 嘉佳卡通,https://mursor.ottiptv.cc/migu/614952364.m3u8?migutoken=69c15b35a6d87c622c72757055fa2766d7dd3844e0fcf6f7bbd5df763be0c81c80677a4172bfa8d99cb7d6f3a213681c6e3479cd8c5cf5ef4f03539d7f89857d97d50025939cf3a8f12a14177a
 经典动画大集合,https://mursor.ottiptv.cc/migu/629942219.m3u8?migutoken=c0582231c2a9fee74750f1d47c64c0c263a86d7156b11f1d6ee36dba055abc2987e6f2bdae7bec00c5b4d93657aadcf9cd4455a3e97be7999ef80327ca691837a284ab04dc304fb128a60c1976
 
-体育#genre#
+体育,#genre#
 掼蛋精英赛,https://mursor.ottiptv.cc/migu/631354620.m3u8?migutoken=bb8d4ec80bbf750eec97266e169e2c0254dc1a3817ee2d9a2c89a8c3347ce542890d41de2bb1839e24786c3cf11aae6e8bf86e84092e9a8dd8196a5f3c0e9bcb85a390affcd86a6ae896622476
 咪咕24小时体育台,https://mursor.ottiptv.cc/migu/654102378.m3u8?migutoken=8c797d310a1d9e6c9643bd847b57018a1c6ea5c6ad397654b504a271d16688536d23c731ef13303388246ad529a68c274ef1344fdd65ae565a539f2bfc78d04623f0a702016ad4b301cddc86b3
 赛事最经典,https://mursor.ottiptv.cc/migu/646596895.m3u8?migutoken=38d875529aac085d1440346d455ffdd00f8d3509d6864f19fedb2ca2446951c18e0387c2bd07a9d40723a5c45adc1503ca10722c5f3eb622047e4fb80ca6bf49104775a30da959bd7fa4a5ba80
@@ -1090,7 +1088,7 @@ B站CS 2,https://mursor.ottiptv.cc/bilibili/21622811
 天乐光影,https://mursor.ottiptv.cc/huya/29982675
 华仔经典,https://mursor.ottiptv.cc/huya/11342424
 英叔护体,https://mursor.ottiptv.cc/huya/11342421
-英叔经典,https://mursor.ottiptv.cc/huya/30696178
+晚上开播-英叔经典,https://mursor.ottiptv.cc/huya/30513350
 百亿沈腾,https://mursor.ottiptv.cc/huya/11601968
 香港经典,https://mursor.ottiptv.cc/huya/11336571
 庆余年2,https://mursor.ottiptv.cc/huya/23740156
