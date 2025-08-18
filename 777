@@ -1,5 +1,10 @@
 
-平安快乐🐍简简单单,#genre#
+平安快乐🐍简简单单,#genre# 
+测试，http://example.com/live|headers={"User-Agent":"okHttp/Mod-1.0.1","Referer":"http://www.example.com"}
+翡翠台,http://r.jdshipin.com/qClQf|User-Agent=okHttp/Mod-1.0.1
+翡翠台,http://r.jdshipin.com/qrfbg|User-Agent=okHttp/Mod-1.0.1
+明珠台,http://r.jdshipin.com/ZQ4kN|headers={"User-Agent":"okHttp/Mod-1.0.1"}
+
 Animax (HK),http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
 AXN,http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8
 Channel 5 HD,http://s1.an94tv.cfd/aktv/channel5hd/AKTV.m3u8
