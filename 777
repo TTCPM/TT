@@ -1,9 +1,5 @@
 
 平安快乐🐍简简单单,#genre# 
-测试，http://example.com/live|headers={"User-Agent":"okHttp/Mod-1.0.1","Referer":"http://www.example.com"}
-翡翠台,http://r.jdshipin.com/qClQf|User-Agent=okHttp/Mod-1.0.1
-翡翠台,http://r.jdshipin.com/qrfbg|User-Agent=okHttp/Mod-1.0.1
-明珠台,http://r.jdshipin.com/ZQ4kN|headers={"User-Agent":"okHttp/Mod-1.0.1"}
 
 Animax (HK),http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
 AXN,http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8
@@ -178,7 +174,6 @@ CCTV17,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv17.flv
 江苏城市频道,https://mursor.ottiptv.cc/migu/626064714.m3u8?migutoken=4225b628ee0ef507ea1f64d5436b9a6e251ff0a84a813d90a2f5bc71796981af7a35388e894f06a29555ebfd0e4de5d8fb5681ec72c9bf1bef1b4829f14639bd19cf709591b54be9733aaaeaf8
 江苏国际,https://mursor.ottiptv.cc/migu/626064674.m3u8?migutoken=b89322d5d690bce60e19dc9537caed1471daf52274678fa99636c4bc06174566e47c89da58523d6a96e7fb121d3b92c5bcb670730f7395d84ed5f206e8eb6b23004fd9b6f2146f8456a35c2faa
 江苏教育,https://mursor.ottiptv.cc/migu/628008321.m3u8?migutoken=3bdec95d49a5265bd4796691188fa2e87b88d37672cd20b968543b23106858d75d7cd9683985f3e2851ef26d3a0974041eedac3b9ff36f766c3e64c3a28963a7711dd96ded20adf211b887d4f6
-江苏影视频道,https://mursor.ottiptv.cc/migu/626064697.m3u8?migutoken=4883794dab667c51bc0815556f9046a5ab799831a7ec192f5f520fb9fa920c67288dbf9a5ae6a2e3ed8827fa07f57230a43305e7f33766bb4d85237948fcfdc5a0cf78541450162806e83fcff9
 江苏综艺频道,https://mursor.ottiptv.cc/migu/626065193.m3u8?migutoken=f80b7ed2a850846931b8d2ea275b377abb150daa50b92fcc6a3d258498727ecc8b1728ca76fc158aecdaa677852aab958941f1a39597059ca7cc901addd9e9db363e2c3d3d3c9265b3d2f69c51
 江阴新闻综合,https://mursor.ottiptv.cc/migu/955227979.m3u8?migutoken=35207904640b839f367b9c190a812aa2e26327ced690c4ad12bf1a1f14a0a612c1282a9f2215c7609d319d932b12fea362e04310e20b9fbb5b7ae64b7b9f576347e6ba0d49f11d627ac2aed4dc
 溧水新闻综合,https://mursor.ottiptv.cc/migu/639737327.m3u8?migutoken=f43490f150c559447f658001295f27f21c6f586bd38a559236aa47f8f0b4e7f52fdb027946e58dd2581d4eedd5aabe94254cd4bd0b7fbb0c5a8a584cce5f062522313c00c627d494772172a344
@@ -347,10 +342,12 @@ cgtnsp-MCP,https://mursor.ottiptv.cc/mcp/cgtnsp.m3u8
 CHC动作电影,https://mursor.ottiptv.cc/migu/644368714.m3u8?migutoken=e588c94a30b8c0a4bd98526f109ad7ea025b5fc28cda8183e70d557616c5407269ea4b2ad750e78f47d950bc86eabece82e45ae63a1a5196531372a07b3b1e0ed77fe848823d5ce0665a6568a9
 CHC家庭影院,https://mursor.ottiptv.cc/migu/644368373.m3u8?migutoken=d2fb6d178ce357da0ac7bd7d57d5e084804871a8f7aa69f9e64303f8b98fef099aa4475e48e989fced3d48f6f90c3520493b8843a4a37a438fe603bee75cef31021ebcbec2c4d845feb69ef2ae
 CHC影迷电影,https://mursor.ottiptv.cc/migu/952383261.m3u8?migutoken=7bba71f537e1da5ed3870136b1808a9a449f641af9934a9aff710831cba970a0ad9a52d0841d74e4e2b9ac01a1ad52dc93ba7f7c6e297ea4b63fcee3ca805f6f7a318911cff3028553897321c2
+江苏影视频道,https://mursor.ottiptv.cc/migu/626064697.m3u8?migutoken=4883794dab667c51bc0815556f9046a5ab799831a7ec192f5f520fb9fa920c67288dbf9a5ae6a2e3ed8827fa07f57230a43305e7f33766bb4d85237948fcfdc5a0cf78541450162806e83fcff9
 
-综艺,#genre#
+综艺频道,#genre#
 最强综艺趴,https://mursor.ottiptv.cc/migu/629942228.m3u8?migutoken=2df3553c7636c3090bf25e108f34fbbe28cf6afea088d531e054c922f3f2bcfc3b7ca690d245648af17c45ab5647e9dd19d6d1a579f31a0b30c13546e342a12644fe90eac4973b471985a55242
-
+王牌对王牌,https://mursor.ottiptv.cc/huya/29982625
+喜剧人大会,https://mursor.ottiptv.cc/huya/30080196
 海外TV,#genre#
 MDIIFistmusic,http://hz1.teleport.cc/HLS/HD.m3u8
 MDIICTPAHA,http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
@@ -1203,8 +1200,6 @@ B站CS 2,https://mursor.ottiptv.cc/bilibili/21622811
 柯南剧场,https://mursor.ottiptv.cc/huya/30080148
 音乐石榴,https://mursor.ottiptv.cc/huya/17091681
 发哥归来,https://mursor.ottiptv.cc/huya/11342387
-王牌对王牌,https://mursor.ottiptv.cc/huya/29982625
-喜剧人大会,https://mursor.ottiptv.cc/huya/30080196
 完美世界,https://mursor.ottiptv.cc/huya/11336579
 电影解说,#genre#
 止戈电影解说,https://mursor.ottiptv.cc/huya/19863777
