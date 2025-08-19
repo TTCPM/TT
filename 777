@@ -169,6 +169,16 @@ CCTV17,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv17.flv
 
 
 地方,#genre#
+北京卫视4K,http://A/ku9/py/bjtime.py?id=bjws4k
+北京卫视,http://A/ku9/py/bjtime.py?id=bjws
+北京文艺,http://A/ku9/py/bjtime.py?id=bjwy
+北京新闻,http://A/ku9/py/bjtime.py?id=bjxw
+北京影视,http://A/ku9/py/bjtime.py?id=bjys
+北京财经,http://A/ku9/py/bjtime.py?id=bjcj
+北京生活,http://A/ku9/py/bjtime.py?id=bjsh
+北京体育休闲,http://A/ku9/py/bjtime.py?id=bjty
+北京纪实科教,http://A/ku9/py/bjtime.py?id=bjjs
+北京卡酷少儿,http://A/ku9/py/bjtime.py?id=bjkk
 财富天下,https://mursor.ottiptv.cc/migu/956923159.m3u8?migutoken=beee14f663a86089d7fbf0d803fd59248798b389c091a1e380e1e9f45e0875461ddd090baec70949a056efb7a688bac4a830528bcf8a4474dc416e7e9345f36c36cae416d69afe1fceef111c5e
 公共新闻频道,https://mursor.ottiptv.cc/migu/626064693.m3u8?migutoken=5660ac7e3d09e5229b6793693d7b0c87494bd9f9b57b87f499946a59cc2ff4e7c927708ebd367cdbecac2245577d8979b8161e3a40f24c364fcff211efa381b8a65928ce2c3306f26a76797ab5
 淮安新闻综合,https://mursor.ottiptv.cc/migu/639731826.m3u8?migutoken=32beefa6a3c7530ad6fd339b4acbeba1b2df6bb034f1e7576f6d3b3b43aa2f2cfe3c02ce37153dd2d72839a80722d17d3a8581c9befaa5141f7133f5a0c076b2aa6e5034ee7d3dd34e67ab21ec
@@ -1200,7 +1210,7 @@ B站CS 2,https://mursor.ottiptv.cc/bilibili/21622811
 香港经典,https://mursor.ottiptv.cc/huya/11336571
 庆余年2,https://mursor.ottiptv.cc/huya/23740156
 雪中悍刀行,https://mursor.ottiptv.cc/huya/11336592
-神探狄仁杰2,https://mursor.ottiptv.cc/huya/11342425
+神探狄仁杰3,https://mursor.ottiptv.cc/huya/11342425
 寻秦记,https://mursor.ottiptv.cc/huya/29465848
 金庸经典剧,https://mursor.ottiptv.cc/huya/11602082
 金庸经典电影,https://mursor.ottiptv.cc/huya/11342435
