@@ -50,7 +50,7 @@ TVBS新聞,http://s1.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8
 TVB 星河,http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
 中天新闻台,http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
 東森新聞,http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
-💎咪咕💎,#genre#
+咪咕央卫,#genre#
 CCTV1,http://go.bkpcp.top/mg/cctv1 
 CCTV2,http://go.bkpcp.top/mg/cctv2 
 CCTV3,http://go.bkpcp.top/mg/cctv3 
@@ -169,16 +169,6 @@ CCTV17,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv17.flv
 
 
 地方,#genre#
-北京卫视4K,http://A/ku9/py/bjtime.py?id=bjws4k
-北京卫视,http://A/ku9/py/bjtime.py?id=bjws
-北京文艺,http://A/ku9/py/bjtime.py?id=bjwy
-北京新闻,http://A/ku9/py/bjtime.py?id=bjxw
-北京影视,http://A/ku9/py/bjtime.py?id=bjys
-北京财经,http://A/ku9/py/bjtime.py?id=bjcj
-北京生活,http://A/ku9/py/bjtime.py?id=bjsh
-北京体育休闲,http://A/ku9/py/bjtime.py?id=bjty
-北京纪实科教,http://A/ku9/py/bjtime.py?id=bjjs
-北京卡酷少儿,http://A/ku9/py/bjtime.py?id=bjkk
 财富天下,https://mursor.ottiptv.cc/migu/956923159.m3u8?migutoken=beee14f663a86089d7fbf0d803fd59248798b389c091a1e380e1e9f45e0875461ddd090baec70949a056efb7a688bac4a830528bcf8a4474dc416e7e9345f36c36cae416d69afe1fceef111c5e
 公共新闻频道,https://mursor.ottiptv.cc/migu/626064693.m3u8?migutoken=5660ac7e3d09e5229b6793693d7b0c87494bd9f9b57b87f499946a59cc2ff4e7c927708ebd367cdbecac2245577d8979b8161e3a40f24c364fcff211efa381b8a65928ce2c3306f26a76797ab5
 淮安新闻综合,https://mursor.ottiptv.cc/migu/639731826.m3u8?migutoken=32beefa6a3c7530ad6fd339b4acbeba1b2df6bb034f1e7576f6d3b3b43aa2f2cfe3c02ce37153dd2d72839a80722d17d3a8581c9befaa5141f7133f5a0c076b2aa6e5034ee7d3dd34e67ab21ec
@@ -208,7 +198,6 @@ CCTV17,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv17.flv
 徐州新闻综合,https://mursor.ottiptv.cc/migu/639731747.m3u8?migutoken=cc9a4749e05549a2f22327c10263310215388b210bde38b5d7609650ed2f0862f8afb1cd8ad5a1a4f7824bee3a9f68cb337b01cf2494a9a12834556b5d68d205809d0b7215777e6a7a6b38876b
 盐城新闻综合,https://mursor.ottiptv.cc/migu/639731825.m3u8?migutoken=00182dc15e94d4c88e1bfa1cdd38ad2feb716eb072341f01bc22a5c4c7dddca94eaade4de824ca82a3574192bd1bf754b243fcffa83777587fa3e3ba6e4899765cd2afaf7fa233e58f6452dd9e
 宜兴新闻综合,https://mursor.ottiptv.cc/migu/955227996.m3u8?migutoken=ed80067a27bfaefa7724a152fcb17ba1b78b082bfb2a6855408cda58f8e2d12caba2d267c5d8d969b35f186be7498f17049e32e0e8cb3cfa6cead1e3b897f0735317978edc5e53b15b30ce1a1a
-优漫卡通频道,https://mursor.ottiptv.cc/migu/626064703.m3u8?migutoken=5be32057c64fc37d3ecb2f4604765b6996653f095164075ef332278d78c99acbe36c2ef3c4c831b9fd2f6aa1b5e2aeaa95643678215aeb656483ba91e569fd573aa48d1b225c18b2a2fd1bbb5e
 
 纪实,#genre#
 新动力量创一流,https://mursor.ottiptv.cc/migu/713589837.m3u8?migutoken=934d9272c2f664c241358e1a706cd9ebfb9569b890f33921e14a2ba3588e1597bdc0689a7fa832849f78bce0f96f70f8d50edd0eb12845310916439c942ee8275390bd95b54b3e825c645749bb
@@ -218,15 +207,16 @@ CCTV17,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv17.flv
 CETV1,https://mursor.ottiptv.cc/migu/923287154.m3u8?migutoken=83ed4661959cabc414489bdf52d945eef9d04e022b407d5c1d7d6b76026b8886ce3410beae64696b1a04358913461142cab0d775491963e614a08e40f75f5b9ad5a1c6d50ee6b6badd95cf6866
 CETV2,https://mursor.ottiptv.cc/migu/923287211.m3u8?migutoken=89f7f05373e4f6b6cb2562461d4c8c78303d45ca753a59c12856d87bcde19b44a6d82b1540937de958c995d482f836eff487a04a839f34fc210d065b33f1c0e0345393b9c5976f424214c7fcc9
 CETV4,https://mursor.ottiptv.cc/migu/923287339.m3u8?migutoken=091c194b6c5aa5113c5dcd2c90689418a764442e78bce5bb981c25587aa2ffc9df817b1fa1038895c7081b7811510268e0d37deb134cef7f2a3872be61887d13e93b506e2e1a8b43e13ccc4d11
-
-其他,#genre#
-五星体育,https://gdcucc.v1.mk/gdcucc/wxty.m3u8
 中国教育电视台-MCP,https://mursor.ottiptv.cc/mcp/cetv1.m3u8
-重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
+中学生,https://mursor.ottiptv.cc/migu/708869532.m3u8?migutoken=7e1272e494f3c9a26f4c31b0b39b7a016cc4de776afb79abd3818e5161ab80afcc21ac558bd3d60a26ad269120e0b9fb5c94561dc363c1eb2351b1fa3630cd0f52befc9eb66c395d70ac477178
+
+
+
 
 少儿,#genre#
 嘉佳卡通,https://mursor.ottiptv.cc/migu/614952364.m3u8?migutoken=69c15b35a6d87c622c72757055fa2766d7dd3844e0fcf6f7bbd5df763be0c81c80677a4172bfa8d99cb7d6f3a213681c6e3479cd8c5cf5ef4f03539d7f89857d97d50025939cf3a8f12a14177a
 经典动画大集合,https://mursor.ottiptv.cc/migu/629942219.m3u8?migutoken=c0582231c2a9fee74750f1d47c64c0c263a86d7156b11f1d6ee36dba055abc2987e6f2bdae7bec00c5b4d93657aadcf9cd4455a3e97be7999ef80327ca691837a284ab04dc304fb128a60c1976
+优漫卡通频道,https://mursor.ottiptv.cc/migu/626064703.m3u8?migutoken=5be32057c64fc37d3ecb2f4604765b6996653f095164075ef332278d78c99acbe36c2ef3c4c831b9fd2f6aa1b5e2aeaa95643678215aeb656483ba91e569fd573aa48d1b225c18b2a2fd1bbb5e
 
 体育,#genre#
 掼蛋精英赛,https://mursor.ottiptv.cc/migu/631354620.m3u8?migutoken=bb8d4ec80bbf750eec97266e169e2c0254dc1a3817ee2d9a2c89a8c3347ce542890d41de2bb1839e24786c3cf11aae6e8bf86e84092e9a8dd8196a5f3c0e9bcb85a390affcd86a6ae896622476
@@ -235,7 +225,7 @@ CETV4,https://mursor.ottiptv.cc/migu/923287339.m3u8?migutoken=091c194b6c5aa5113c
 四海钓鱼,https://mursor.ottiptv.cc/migu/637444975.m3u8?migutoken=9b544e702b7e9ce7f704f961918900c3154c382045b045492b451314e85b055a91a8f7d035c60a733074a47490f7373cb82de2476938b164026a206c20b4e1729e5febf941c75ec933c098353c
 体坛名栏汇,https://mursor.ottiptv.cc/migu/629943305.m3u8?migutoken=1b8ec3cb89df4085e3b6fed0cf56f26445c2123661bd29d1e95fbc6343b562c8abf8fcda34ad45abf81af643a6a1580412061fd501d3e631ad488ca089438c25399af455f1b33ac7b9a21357f7
 五环传奇,https://mursor.ottiptv.cc/migu/707671890.m3u8?migutoken=efe8e648e454c0eadf86bf82672dedda7a04882d21a82c5533254c208e847108abd29d10b19914874ff4f728137e9d6ea991fd468c4373931320c059f574cf971287cb641665714fc4b4a744dc
-
+五星体育,https://gdcucc.v1.mk/gdcucc/wxty.m3u8
 卫视频道,#genre#
 安徽卫视-MCP,https://mursor.ottiptv.cc/mcp/anhui.m3u8
 北京卫视-MCP,https://mursor.ottiptv.cc/mcp/beijing.m3u8
@@ -305,7 +295,7 @@ CETV4,https://mursor.ottiptv.cc/migu/923287339.m3u8?migutoken=091c194b6c5aa5113c
 央视频道,#genre#
 发现之旅,https://mursor.ottiptv.cc/migu/624878970.m3u8?migutoken=df1775444a88c97af32da3ab292598ed2647d7854bf7aaf5845ec9b4a05952fa7876c0db1adad174af530b5c13a010193fb11692af7bb14bbe862c2a9fe15a0a31c1ae526db63cb18e7ff78d8e
 老故事,https://mursor.ottiptv.cc/migu/884121956.m3u8?migutoken=9442f07d2989780ed54981b785e53efce791dd3d1b0bfb660e163a0a1cb9006f1c6442773283ac88290ccb159c29bc5f944433971e369a5de8ff6abc3284a373052acda137c061073ec9e7ab0b
-中学生,https://mursor.ottiptv.cc/migu/708869532.m3u8?migutoken=7e1272e494f3c9a26f4c31b0b39b7a016cc4de776afb79abd3818e5161ab80afcc21ac558bd3d60a26ad269120e0b9fb5c94561dc363c1eb2351b1fa3630cd0f52befc9eb66c395d70ac477178
+
 CCTV1,https://mursor.ottiptv.cc/migu/608807420.m3u8?migutoken=5139cce6c12958838565ba895759373d2daf43c7218531d60216c68e1929a2721d781c420eb66b425c90abade1f412957e72bfb11a920543f1e35cd07277d4db951477ea85d008ba99bd40595d
 CCTV2,https://mursor.ottiptv.cc/migu/631780532.m3u8?migutoken=abe81266a9eafca648f3916a560eb426608fc20f935d08dbd835f611906f4e71724cbe25e9acca78e1b73f461802fdd0651d7721116aa15150e68d47b67bd053ffa04f66cabb783d4ca7fed8d4
 CCTV3,https://mursor.ottiptv.cc/migu/624878271.m3u8?migutoken=748b961c229b0cae3fffd1ab3e2bf52abf99ac9049126b1f78e513ccff905c383722f741df825582b5c9e038c337bad76e4e0b49e76287a15a795ef97661c38f25a391ffb1b8ec3c456042e2a8
@@ -355,7 +345,7 @@ CHC动作电影,https://mursor.ottiptv.cc/migu/644368714.m3u8?migutoken=e588c94a
 CHC家庭影院,https://mursor.ottiptv.cc/migu/644368373.m3u8?migutoken=d2fb6d178ce357da0ac7bd7d57d5e084804871a8f7aa69f9e64303f8b98fef099aa4475e48e989fced3d48f6f90c3520493b8843a4a37a438fe603bee75cef31021ebcbec2c4d845feb69ef2ae
 CHC影迷电影,https://mursor.ottiptv.cc/migu/952383261.m3u8?migutoken=7bba71f537e1da5ed3870136b1808a9a449f641af9934a9aff710831cba970a0ad9a52d0841d74e4e2b9ac01a1ad52dc93ba7f7c6e297ea4b63fcee3ca805f6f7a318911cff3028553897321c2
 江苏影视频道,https://mursor.ottiptv.cc/migu/626064697.m3u8?migutoken=4883794dab667c51bc0815556f9046a5ab799831a7ec192f5f520fb9fa920c67288dbf9a5ae6a2e3ed8827fa07f57230a43305e7f33766bb4d85237948fcfdc5a0cf78541450162806e83fcff9
-
+重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 综艺频道,#genre#
 最强综艺趴,https://mursor.ottiptv.cc/migu/629942228.m3u8?migutoken=2df3553c7636c3090bf25e108f34fbbe28cf6afea088d531e054c922f3f2bcfc3b7ca690d245648af17c45ab5647e9dd19d6d1a579f31a0b30c13546e342a12644fe90eac4973b471985a55242
 王牌对王牌,https://mursor.ottiptv.cc/huya/29982625
