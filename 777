@@ -1,5 +1,7 @@
 
 平安快乐🐍简简单单,#genre# 
+4K60PHLG-HEVC-EAC3测试,https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/hlg4kvideo/playlist.m3u8
+4K60PSDR-H264-AAC测试,https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/sdr4kvideo/playlist.m3u8
 myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
 TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
 明珠台,http://bxtv.3a.ink/api.php?id=mz
@@ -144,7 +146,7 @@ CCTV12,https://mursor.ottiptv.cc/migu/673168185.m3u8?migutoken=d3c534694fa260223
 CCTV13,https://mursor.ottiptv.cc/migu/608807423.m3u8?migutoken=579e1cc1b86853ed5797cd61d672556d741f922459affdd7767100769c7679e225d9e40d6daae5753faf62acf4e0bb59e129951cd22b8dde1610e64d257ad606cb14c0bc99e7d6dd8fce862401
 CCTV14,https://mursor.ottiptv.cc/migu/624878440.m3u8?migutoken=a33a35d1b79faeded3cda61003ac7962af37b309b20258304f24d395b2af8b3c8b5109456895263c536525f00620f8e327e2170242f29428c6b60c513d18c014a39090b859c57baeafc13005d9
 CCTV15,https://mursor.ottiptv.cc/migu/673168223.m3u8?migutoken=f0898bc34d87ed7041a2e441335057d9a42ed16213b54e4f017e19492a3aaf8191cb9ca9adf55bf47a36d9448fff30327fe2fab200a695c69c0ed8b49e9e89bb1fdb14cf5632a5d4903f8678d0
-CCTV16,https://mursor.ottiptv.cc/mst/6000061.m3u8
+CCTV16,https://mursor.ottiptv.cc/mst/cctv16.m3u8
 CCTV17,https://mursor.ottiptv.cc/migu/673168256.m3u8?migutoken=f4b20a5a495a63537febfce2925c63afd2756116818d1e23518cfdac8f82b539521f782260b2421bfcc8437116ddf3c2db2a5373b1fc2dcdbfcf8f627c6bcadb5103810cb32125f8ab4185e127
 CGTN,https://mursor.ottiptv.cc/migu/609017205.m3u8?migutoken=2bd98957969c02468b7e67e93cd8bd04cd7a391925812953ef272086b566af0866943c5be305b260960ae5330cbfd772a661befd1133dfeab8002754e3f2e8228f6ff86e12b01c523c5119ddea
 cgtn-MCP,https://mursor.ottiptv.cc/mcp/cgtn.m3u8
