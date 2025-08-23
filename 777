@@ -490,6 +490,7 @@ CH5,https://cdn6.163189.xyz/live/ch5/stream.m3u8
 CH8,https://cdn6.163189.xyz/live/ch8/stream.m3u8
 CHU,https://cdn6.163189.xyz/live/chu/stream.m3u8
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+龙华电影,http://127.0.0.1:8081/ofii.php?token=ABCDEFGH&id=litv-longturn03
 龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
 龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
 龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
