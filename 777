@@ -167,6 +167,16 @@ http://192.168.1.2:35455/itv/3000000010000005180.m3u8
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
 #EXTINF:-1 tvg-id="咪咕4K-2" tvg-name="咪咕4K-2" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/咪咕体育.png" group-title="超清频道",咪咕4K-2
 http://192.168.1.2:35455/itv/3000000010000015686.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京卫视4K.png" group-title="超清频道",北京卫视4K
+https://migu.188766.xyz/?migutoken=7e3764b3d092f852d79609cbb58243a1&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/广东卫视4K.png" group-title="超清频道",广东卫视4K
+http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/广东卫视4K.png" group-title="超清频道",广东卫视4K
+http://vvip.lqcc.xyz:8092/stream/channelid/1248069700?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+#EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/苏州4K.png" group-title="超清频道",苏州4K
+https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+#EXTINF:-1 tvg-id="河北4K" tvg-name="河北4K" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/纯享4K.png" group-title="超清频道",河北4K
+https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
 #EXTINF:-1 tvg-id="LOUPE4K" tvg-name="LOUPE4K" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/LOUPE.png" group-title="超清频道",Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
@@ -178,7 +188,6 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 
 #EXTM3U x-tvg-url="https://fy.188766.xyz/e.xml"
-
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="冰茶央视",CCTV-1 综合
 https://migu.188766.xyz/?migutoken=7d2a558420b2394b6907d8b6e7d5d966&id=CCTV1&pp=1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV2.png" group-title="冰茶央视",CCTV-2 财经
@@ -292,47 +301,208 @@ http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 https://migu.188766.xyz/?migutoken=9b1d9ad987c542e1d8d73478bff1fc99&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/香港卫视.png" group-title="冰茶卫视",香港卫视
 https://migu.188766.xyz/?migutoken=5d84de8f3ae3f28a7f3c8eacb0fa626a&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&pp=1
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/凤凰卫视中文台.png" group-title="冰茶港台",凤凰中文
+https://migu.188766.xyz/?migutoken=3ab2a3a8fb28ab93d2f050bc3c431348&id=fhzw&pp=1
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/凤凰卫视资讯台.png" group-title="冰茶港台",凤凰资讯
+https://migu.188766.xyz/?migutoken=ea5c14ba146f4dabcf3c6d40b8babe60&id=fhzx&pp=1
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/凤凰卫视香港台.png" group-title="冰茶港台",凤凰香港
+https://migu.188766.xyz/?migutoken=00ce23f7a39554bfb0464636a6f9fb39&id=fhhk&pp=1
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="冰茶港台",翡翠台
+https://migu.188766.xyz/?migutoken=0b9704ecde80cd9d560afad535c9eafc&id=jade_twn&type=dy
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="冰茶港台",翡翠台
+https://migu.188766.xyz/?migutoken=038f40afaf78484c93b7f6eaaca4b7d5&id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&pp=1
+#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/无线新闻.png" group-title="冰茶港台",无线新闻
+https://migu.188766.xyz/?migutoken=150790fba0024743e0c36dec82fc76d7&id=inews_twn&type=dy
+#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/TVB星河.png" group-title="冰茶港台",TVB星河
+https://migu.188766.xyz/?migutoken=2bc7e7db7a2fec38d9c2c3939b01621c&id=Xinhe&type=dy
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/明珠台.png" group-title="冰茶港台",明珠台
+https://migu.188766.xyz/?migutoken=8f0c1ca19cd6414cba05e0d1a82165dc&id=pearl_twn&type=dy
+#EXTINF:-1 tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/华丽翡翠台.png" group-title="冰茶港台",华丽翡翠台
+https://migu.188766.xyz/?migutoken=7fb12b2d64c29f113e319fd227267709&id=Tvbjade&type=dy
+#EXTINF:-1 tvg-id="千禧经典" tvg-name="千禧经典" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/千禧经典.png" group-title="冰茶港台",千禧经典
+https://migu.188766.xyz/?migutoken=bb0027d579ee3e461c136505728593cd&id=Tvbclassic&type=dy
+#EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/天映经典.png" group-title="冰茶港台",天映经典
+https://migu.188766.xyz/?migutoken=9e6bbf294d0e5e28011f365e68882d70&id=Celestial2&type=dy
+#EXTINF:-1 tvg-id="天映电影" tvg-name="天映电影" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/天映电影.png" group-title="冰茶港台",天映电影
+https://migu.188766.xyz/?migutoken=daa82e421e340529e73d03988ac91ee0&id=Celestial&type=dy
+#EXTINF:-1 tvg-id="Astro AOD" tvg-name="Astro AOD" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/AstroAOD.png" group-title="冰茶港台",Astro AOD
+https://migu.188766.xyz/?migutoken=5c7b6ea47ee166787f5d57f4cd4892a5&id=Aodhd&type=dy
+#EXTINF:-1 tvg-id="Astro AEC" tvg-name="Astro AEC" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/AstroAEC.png" group-title="冰茶港台",Astro AEC
+https://migu.188766.xyz/?migutoken=4f4b2c0370f10d06877623eaa11b9812&id=AEC&type=dy
+#EXTINF:-1 tvg-id="Astro QJ" tvg-name="Astro QJ" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/ASTROQUANJIA.png" group-title="冰茶港台",Astro QJ
+https://migu.188766.xyz/?migutoken=d347ae8904d8b9c49963df2d02c57fe1&id=Quanjia&type=dy
+#EXTINF:-1 tvg-id="Astro 欢喜" tvg-name="Astro 欢喜" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/ASTRO欢喜.png" group-title="冰茶港台",Astro 欢喜
+https://migu.188766.xyz/?migutoken=b929c99d78d47167db6b7e2bfcefa002&id=Huahee&type=dy
 
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京卫视4K.png" group-title="冰茶超清",北京卫视4K
-https://migu.188766.xyz/?migutoken=7e3764b3d092f852d79609cbb58243a1&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/广东卫视4K.png" group-title="冰茶超清",广东卫视4K
-http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/广东卫视4K.png" group-title="冰茶超清",广东卫视4K
-http://vvip.lqcc.xyz:8092/stream/channelid/1248069700?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
-#EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/苏州4K.png" group-title="冰茶超清",苏州4K
-https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-#EXTINF:-1 tvg-id="河北4K" tvg-name="河北4K" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/纯享4K.png" group-title="冰茶超清",河北4K
-https://event.pull.hebtv.com:443/live/live101.m3u8
-地方,#genre#
-财富天下,https://mursor.ottiptv.cc/migu/956923159.m3u8?migutoken=beee14f663a86089d7fbf0d803fd59248798b389c091a1e380e1e9f45e0875461ddd090baec70949a056efb7a688bac4a830528bcf8a4474dc416e7e9345f36c36cae416d69afe1fceef111c5e
-公共新闻频道,https://mursor.ottiptv.cc/migu/626064693.m3u8?migutoken=5660ac7e3d09e5229b6793693d7b0c87494bd9f9b57b87f499946a59cc2ff4e7c927708ebd367cdbecac2245577d8979b8161e3a40f24c364fcff211efa381b8a65928ce2c3306f26a76797ab5
-淮安新闻综合,https://mursor.ottiptv.cc/migu/639731826.m3u8?migutoken=32beefa6a3c7530ad6fd339b4acbeba1b2df6bb034f1e7576f6d3b3b43aa2f2cfe3c02ce37153dd2d72839a80722d17d3a8581c9befaa5141f7133f5a0c076b2aa6e5034ee7d3dd34e67ab21ec
-江苏城市频道,https://mursor.ottiptv.cc/migu/626064714.m3u8?migutoken=4225b628ee0ef507ea1f64d5436b9a6e251ff0a84a813d90a2f5bc71796981af7a35388e894f06a29555ebfd0e4de5d8fb5681ec72c9bf1bef1b4829f14639bd19cf709591b54be9733aaaeaf8
-江苏国际,https://mursor.ottiptv.cc/migu/626064674.m3u8?migutoken=b89322d5d690bce60e19dc9537caed1471daf52274678fa99636c4bc06174566e47c89da58523d6a96e7fb121d3b92c5bcb670730f7395d84ed5f206e8eb6b23004fd9b6f2146f8456a35c2faa
-江苏教育,https://mursor.ottiptv.cc/migu/628008321.m3u8?migutoken=3bdec95d49a5265bd4796691188fa2e87b88d37672cd20b968543b23106858d75d7cd9683985f3e2851ef26d3a0974041eedac3b9ff36f766c3e64c3a28963a7711dd96ded20adf211b887d4f6
-江苏综艺频道,https://mursor.ottiptv.cc/migu/626065193.m3u8?migutoken=f80b7ed2a850846931b8d2ea275b377abb150daa50b92fcc6a3d258498727ecc8b1728ca76fc158aecdaa677852aab958941f1a39597059ca7cc901addd9e9db363e2c3d3d3c9265b3d2f69c51
-江阴新闻综合,https://mursor.ottiptv.cc/migu/955227979.m3u8?migutoken=35207904640b839f367b9c190a812aa2e26327ced690c4ad12bf1a1f14a0a612c1282a9f2215c7609d319d932b12fea362e04310e20b9fbb5b7ae64b7b9f576347e6ba0d49f11d627ac2aed4dc
-溧水新闻综合,https://mursor.ottiptv.cc/migu/639737327.m3u8?migutoken=f43490f150c559447f658001295f27f21c6f586bd38a559236aa47f8f0b4e7f52fdb027946e58dd2581d4eedd5aabe94254cd4bd0b7fbb0c5a8a584cce5f062522313c00c627d494772172a344
-连云港新闻综合,https://mursor.ottiptv.cc/migu/639731715.m3u8?migutoken=95ce6f0a1da6a93a5b6ebd73886ef3a7a0f6c4c9136b540d3b4ff6ac152c61abbbce86a88fb24d5ffce463abef61c2310f0527d653bf623e95c7c55bff907b5827a3f3197c8c42387a7c8decae
-南京教科频道,https://mursor.ottiptv.cc/migu/838153729.m3u8?migutoken=6ac8ee62901d4c30a4d394e4c51f5dfd82d83de5f39f289e684debd8feafdec0c4a8da7007b28b1a94768e6f7f7a1024a88f70ad2b231810825247fd60c3620214a075a683a8087553fc7f6067
-南京十八频道,https://mursor.ottiptv.cc/migu/838151753.m3u8?migutoken=8f052cb96e7c484421b45b23a952157611f76511c899c291e3f2228c799446609d1ffa646a55f87bc3ef26c3812c4249b19c69e8600d4814a7115b8792ed80f7f4110937bd332b7d97473b91e5
-南京新闻综合频道,https://mursor.ottiptv.cc/migu/838109047.m3u8?migutoken=33323982291c003eca3a8c57afcd83cbb64301dcb268946d2115e03a81021934546985dbd0d89199f842e1ca780e8d0a6105a6463d72d782285dd124c641b0c4ec1b7a175a47062d4143ea688d
-南通新闻综合,https://mursor.ottiptv.cc/migu/955227985.m3u8?migutoken=13d6b1b28de1b9603394a738b5d968487a242401f31e0bceb8e1ae2454083dbe8bfe030e699c10d66e32363e4b87b83df974306e2566d0719b0b6d90c949b50b08b3c8246092c30c0acf9f5d9b
-陕西都市青春频道,https://mursor.ottiptv.cc/migu/956909358.m3u8?migutoken=9ddecdd69a48b608c1aae12575a3beb5715aa3c4b26a475350ba308eb247475094e1d9dd9f2bbccdf7498fac28d22fce836efaab1a60b456ef882535c864c2ff04949655ac09c6558797a6634d
-陕西秦腔频道,https://mursor.ottiptv.cc/migu/956909303.m3u8?migutoken=435add015fc00ae099383cd3978caac167af70f60ca483fed34c2eb57bddb93a7824512f67eded99b9f459450dd926f6799dd62731e7dc5b4e77770e105ef8d9fdbc17fdb6f7ca14ef65f85b3a
-陕西体育休闲频道,https://mursor.ottiptv.cc/migu/956909356.m3u8?migutoken=427a20429f7ec37d73724c103283221adfdc680fdb16026621c281c3bac17a6b5532e877c8ec9c49273c63c5510025a0555bbd2b5e413a01b1c395661df481741e354496a2b62552ffc9addfc7
-陕西新闻资讯频道,https://mursor.ottiptv.cc/migu/956909289.m3u8?migutoken=53aeed8e7bb1dc15e5f006e809311e4199061a23e766aa6c93fed3af9bce2851a8d5eeb42fe9e1c6d783e46c21a5411e52cea7267278c25439376c10bd299436b0c0ed447abe3e1eac76bf4ba2
-陕西银龄频道,https://mursor.ottiptv.cc/migu/956909362.m3u8?migutoken=d332e5855299aea31d534012eb03b1517cf38d4b0b14d2a36298348d789cf0249ea9608950f14d0d27b3b19d135bb01973b8d3074d360ae227ad927a3351a17bf160b11308f2730b8f0fb76ede
-上海第一财经,https://mursor.ottiptv.cc/migu/608780988.m3u8?migutoken=e0b18a44d1e4bd6d0dcfce7617093584dd782eee5e0381afbfa062c489f182ae11fda155ed19b1ec114692892c4d9564b30de5846fda290fc195310a92ad5357a76b0e0145108b6651d611fece
-上海新闻综合,https://mursor.ottiptv.cc/migu/651632657.m3u8?migutoken=82d8fb54484c2d2147b066a9629b14f2e8bd7d65d6f513e6e74d7594bf559cf6c019f6ed2230efb74677966218a1aa805bacdf9cf0060da63b190c9c52144f89e27d8034401893b890614c2b96
-上视东方影视,https://mursor.ottiptv.cc/migu/617290047.m3u8?migutoken=25f984776d4d20a5b6ecfdf3344e2603188b1d2d0955200464ae2f81823fe8498e2ececb153977c606d607dfe31a5a1ad410ed95de6e8c6bd4481eefcf21d4f7cfb0e489cf4833fdf5ef3b3338
-苏州新闻综合,https://mursor.ottiptv.cc/migu/639731952.m3u8?migutoken=d07c45469a11af192f654cb224376af0d1ffefef5ce3d57ac29f2eb5d8f45aa1d7151b7f4d38237567ebe5df93845231da7e24084382d8cb443ccf3e416699d04f1dd2f46d4031ef2807cd2270
-宿迁新闻综合,https://mursor.ottiptv.cc/migu/639731832.m3u8?migutoken=6d01b623e3659c7fb351ae5ed09395ff62f01bff16d0adc5aad20fdce00fee8acee089191107c2c5a2cbfc974c79b021e0207a9b4e8d87f13fc1250b42d00c29714c60d853f634e87d5aa9fb10
-泰州新闻综合,https://mursor.ottiptv.cc/migu/639731818.m3u8?migutoken=476ab37f59bcbcd5573170bb10c5c20d7fed7c854c26fd51d51a35d8b437d1e09d3670a176834bfeb8ab33692f1f291edadbd4a654772a486b0618a3c483b5d1889384c7fad0fa436ff6331d6c
-体育休闲频道,https://mursor.ottiptv.cc/migu/626064707.m3u8?migutoken=d5af4f78e404beb8dc2cb7d2f214e68bb09e6ab446598db661df8ca82d0bc1489025b6a4d71f01dc2405958045e4188465e89b9c4d25538d3cf7bda4f0e8acf444250bfea3501db0e8b8bcaad0
-徐州新闻综合,https://mursor.ottiptv.cc/migu/639731747.m3u8?migutoken=cc9a4749e05549a2f22327c10263310215388b210bde38b5d7609650ed2f0862f8afb1cd8ad5a1a4f7824bee3a9f68cb337b01cf2494a9a12834556b5d68d205809d0b7215777e6a7a6b38876b
-盐城新闻综合,https://mursor.ottiptv.cc/migu/639731825.m3u8?migutoken=00182dc15e94d4c88e1bfa1cdd38ad2feb716eb072341f01bc22a5c4c7dddca94eaade4de824ca82a3574192bd1bf754b243fcffa83777587fa3e3ba6e4899765cd2afaf7fa233e58f6452dd9e
-宜兴新闻综合,https://mursor.ottiptv.cc/migu/955227996.m3u8?migutoken=ed80067a27bfaefa7724a152fcb17ba1b78b082bfb2a6855408cda58f8e2d12caba2d267c5d8d969b35f186be7498f17049e32e0e8cb3cfa6cead1e3b897f0735317978edc5e53b15b30ce1a1a
+
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CHC家庭影院.png" group-title="冰茶其他",CHC家庭影院
+https://migu.188766.xyz/?migutoken=771d5c9b5222d0bf15d4cb917e073dd2&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&pp=1
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CHC动作电影.png" group-title="冰茶其他",CHC动作电影
+https://migu.188766.xyz/?migutoken=2969228060f4a452ee048889d521cf86&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&pp=1
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CHC影迷电影.png" group-title="冰茶其他",CHC影迷电影
+https://migu.188766.xyz/?migutoken=5c68b1a0313a456a9408295e2e0f626f&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&pp=1
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/五星体育.png" group-title="冰茶其他",五星体育
+https://migu.188766.xyz/?migutoken=d08f0b18fca33ce86133d3ca423daf53&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/五星体育.png" group-title="冰茶其他",五星体育
+https://gdcucc.v1.mk/gdcucc/wxty.m3u8
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/重温经典.png" group-title="冰茶其他",重温经典
+https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
+#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/东方影视.png" group-title="冰茶其他",东方影视
+https://migu.188766.xyz/?migutoken=cc265a91a490d6a4856662fa0c919f2b&id=%E4%B8%8A%E8%A7%86%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="新片放映厅" tvg-name="新片放映厅" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/新片放映厅.png" group-title="冰茶其他",新片放映厅
+https://migu.188766.xyz/?migutoken=28c95865894bd4752d24f895eb44a312&id=%E6%96%B0%E7%89%87%E6%94%BE%E6%98%A0%E5%8E%85&type=yy
+#EXTINF:-1 tvg-id="高清大片" tvg-name="高清大片" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/高清大片.png" group-title="冰茶其他",高清大片
+https://migu.188766.xyz/?migutoken=e16cf63709bdad99d9b76b7df672667c&id=%E9%AB%98%E6%B8%85%E5%A4%A7%E7%89%87&type=yy
+#EXTINF:-1 tvg-id="南方影视" tvg-name="南方影视" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/南方影视.png" group-title="冰茶其他",南方影视
+https://migu.188766.xyz/?migutoken=cf4e5a0294138b80750e4a748aff60e8&id=%E5%8D%97%E6%96%B9%E5%BD%B1%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="红色轮播台" tvg-name="红色轮播台" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/红色轮播台.png" group-title="冰茶其他",红色轮播台
+https://migu.188766.xyz/?migutoken=b573c2513c008e6a72ca931ce719e884&id=%E7%BA%A2%E8%89%B2%E8%BD%AE%E6%92%AD%E5%8F%B0&type=yy
+#EXTINF:-1 tvg-id="掼蛋精英赛" tvg-name="掼蛋精英赛" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/掼蛋精英赛.png" group-title="冰茶其他",掼蛋精英赛
+https://migu.188766.xyz/?migutoken=ba70f3f925fee0996e532f66ec64ade1&id=%E6%8E%BC%E8%9B%8B%E7%B2%BE%E8%8B%B1%E8%B5%9B&type=yy
+#EXTINF:-1 tvg-id="赛事最经典" tvg-name="赛事最经典" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/赛事最经典.png" group-title="冰茶其他",赛事最经典
+https://migu.188766.xyz/?migutoken=cfb3e145a2146acaf376b5f9f94385fa&id=%E8%B5%9B%E4%BA%8B%E6%9C%80%E7%BB%8F%E5%85%B8&type=yy
+#EXTINF:-1 tvg-id="华语乐坛最强音" tvg-name="华语乐坛最强音" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/华语乐坛最强音.png" group-title="冰茶其他",华语乐坛最强音
+https://migu.188766.xyz/?migutoken=9d2c5f223209d48a71c61b15004e7686&id=%E5%8D%8E%E8%AF%AD%E4%B9%90%E5%9D%9B%E6%9C%80%E5%BC%BA%E9%9F%B3&type=yy
+#EXTINF:-1 tvg-id="周杰伦现场" tvg-name="周杰伦现场" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/周杰伦现场.png" group-title="冰茶其他",周杰伦现场
+https://migu.188766.xyz/?migutoken=aee865deb34a890da062cebdf7ba381c&id=%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%8E%B0%E5%9C%BA&type=yy
+#EXTINF:-1 tvg-id="最强综艺趴" tvg-name="最强综艺趴" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/最强综艺趴.png" group-title="冰茶其他",最强综艺趴
+https://migu.188766.xyz/?migutoken=3a063938a01bb838e2e47cb2a37bf5a4&id=%E6%9C%80%E5%BC%BA%E7%BB%BC%E8%89%BA%E8%B6%B4&type=yy
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/嘉佳卡通.png" group-title="冰茶其他",嘉佳卡通
+https://migu.188766.xyz/?migutoken=c94f7982ea579cbb2a5460f9085fd477&id=%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A&type=yy
+#EXTINF:-1 tvg-id="经典动画大集合" tvg-name="经典动画大集合" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/经典动画大集合.png" group-title="冰茶其他",经典动画大集合
+https://migu.188766.xyz/?migutoken=118ebb50f9e52ef6baf6700425ac0ccf&id=%E7%BB%8F%E5%85%B8%E5%8A%A8%E7%94%BB%E5%A4%A7%E9%9B%86%E5%90%88&type=yy
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/优漫卡通频道.png" group-title="冰茶其他",优漫卡通
+https://migu.188766.xyz/?migutoken=8f318291e9e54249d36bbec4a78e21c7&id=%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/老故事.png" group-title="冰茶其他",老故事
+https://migu.188766.xyz/?migutoken=d27668d0e46e32be04207bdb5452d5f1&id=%E8%80%81%E6%95%85%E4%BA%8B&type=yy
+#EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/发现之旅.png" group-title="冰茶其他",发现之旅
+https://migu.188766.xyz/?migutoken=588c9e4283b86eb62cf00e7aceeec450&id=%E5%8F%91%E7%8E%B0%E4%B9%8B%E6%97%85&type=yy
+#EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/中学生.png" group-title="冰茶其他",中学生
+https://migu.188766.xyz/?migutoken=1c8205b7a63e7672ba189d7342d3c7f7&id=%E4%B8%AD%E5%AD%A6%E7%94%9F&type=yy
+#EXTINF:-1 tvg-id="体坛名栏汇" tvg-name="体坛名栏汇" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/体坛名栏汇.png" group-title="冰茶其他",体坛名栏汇
+https://migu.188766.xyz/?migutoken=c138590669ee85b6c506f0c6042a5ed0&id=%E4%BD%93%E5%9D%9B%E5%90%8D%E6%A0%8F%E6%B1%87&type=yy
+#EXTINF:-1 tvg-id="咪咕24小时体育台" tvg-name="咪咕24小时体育台" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/咪咕24小时体育台.png" group-title="冰茶其他",咪咕24小时体育台
+https://migu.188766.xyz/?migutoken=e6f42e49d2ac1f360a41099e6f8bfd47&id=%E5%92%AA%E5%92%9524%E5%B0%8F%E6%97%B6%E4%BD%93%E8%82%B2%E5%8F%B0&type=yy
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/CETV1.png" group-title="冰茶其他",CETV-1
+https://migu.188766.xyz/?migutoken=c79b3439db6acd47257bc96d15ebcbe9&id=CETV1&type=yy
+#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/CETV2.png" group-title="冰茶其他",CETV-2
+https://migu.188766.xyz/?migutoken=70c0673a4489d1f6f14e2fa4656f3bb1&id=CETV2&type=yy
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/CETV4.png" group-title="冰茶其他",CETV-4
+https://migu.188766.xyz/?migutoken=2f7b43fc370f312c58f663ed5c3779fe&id=CETV4&type=yy
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/卡酷少儿.png" group-title="冰茶地方",卡酷少儿
+https://migu.188766.xyz/?migutoken=d2bb7cbce508d8fbcf4ff55d7b890c01&id=%E5%8C%97%E4%BA%AC%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF&type=yy
+#EXTINF:-1 tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京影视.png" group-title="冰茶地方",北京影视
+https://migu.188766.xyz/?migutoken=3eae0bacca87a3ba59ab8de327181be2&id=%E5%8C%97%E4%BA%AC%E5%BD%B1%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京文艺.png" group-title="冰茶地方",北京文艺
+https://migu.188766.xyz/?migutoken=a52fe305b639281da810c347d3844130&id=%E5%8C%97%E4%BA%AC%E6%96%87%E8%89%BA&type=yy
+#EXTINF:-1 tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京财经.png" group-title="冰茶地方",北京财经
+https://migu.188766.xyz/?migutoken=58158252d72130fedc08b8bd9800f3e1&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
+#EXTINF:-1 tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京生活.png" group-title="冰茶地方",北京生活
+https://migu.188766.xyz/?migutoken=78357a86e6623242e30511cb444a7434&id=%E5%8C%97%E4%BA%ACi%E7%94%9F%E6%B4%BB&type=yy
+#EXTINF:-1 tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京新闻.png" group-title="冰茶地方",北京新闻
+https://migu.188766.xyz/?migutoken=86765614d4ca710d18bdec0b895ba7c4&id=%E5%8C%97%E4%BA%AC%E6%96%B0%E9%97%BB&type=yy
+#EXTINF:-1 tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京体育休闲.png" group-title="冰茶地方",北京体育休闲
+https://migu.188766.xyz/?migutoken=7527279ea2d7e366da4924eaade9dce1&id=%E5%8C%97%E4%BA%AC%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2&type=yy
+#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京纪实科教.png" group-title="冰茶地方",北京纪实科教
+https://migu.188766.xyz/?migutoken=fc33067932fc12b42deccd276aaf4fdf&id=%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99&type=yy
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/河南梨园.png" group-title="冰茶地方",河南梨园
+https://migu.188766.xyz/?migutoken=09796c0c4d6e1cb6875a07672d4a746b&id=%E6%A2%A8%E5%9B%AD%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-id="河南新闻" tvg-name="河南新闻" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/河南新闻.png" group-title="冰茶地方",河南新闻
+https://migu.188766.xyz/?migutoken=6e05446f9238f292223d4715261df462&id=%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/河南都市.png" group-title="冰茶地方",河南都市
+https://migu.188766.xyz/?migutoken=6d6cd404d20fff2ec74ccc8d266bf41c&id=%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-id="河南民生" tvg-name="河南民生" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/河南民生.png" group-title="冰茶地方",河南民生
+https://migu.188766.xyz/?migutoken=743886cf91db18d1c5f761b4389b8fb1&id=%E6%B0%91%E7%94%9F%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-id="河南电视剧" tvg-name="河南电视剧" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/河南电视剧.png" group-title="冰茶地方",河南电视剧
+https://migu.188766.xyz/?migutoken=273a3dddc506065715ecd57ffd7eac12&id=%E7%94%B5%E8%A7%86%E5%89%A7%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-id="河南公共" tvg-name="河南公共" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/河南公共.png" group-title="冰茶地方",河南公共
+https://migu.188766.xyz/?migutoken=65716e0b0864bfa7f4bef7117f5b9490&id=%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-id="河南公共" tvg-name="河南公共" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/河南法治.png" group-title="冰茶地方",河南法治
+https://migu.188766.xyz/?migutoken=8d4b449389f964e8dc812f1888827195&id=%E6%B3%95%E6%B2%BB%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-id="河南武术" tvg-name="河南武术" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/武术世界.png" group-title="冰茶地方",河南武术
+https://migu.188766.xyz/?migutoken=e222f21311f5471a4c6b87d9feb0c176&id=%E6%AD%A6%E6%9C%AF%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-id="河南睛彩中原" tvg-name="河南睛彩中原" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/河南睛彩中原.png" group-title="冰茶地方",河南睛彩中原
+https://migu.188766.xyz/?migutoken=5275bb393d08dce1c214a0a24f0c6d55&id=%E7%9D%9B%E5%BD%A9%E4%B8%AD%E5%8E%9F&type=yy
+#EXTINF:-1 tvg-id="河南移动戏曲" tvg-name="河南移动戏曲" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/移动戏曲.png" group-title="冰茶地方",河南移动戏曲
+https://migu.188766.xyz/?migutoken=3a7ed96a278363a5c96a164781aa9965&id=%E7%A7%BB%E5%8A%A8%E6%88%8F%E6%9B%B2%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-id="河南文物宝库" tvg-name="河南文物宝库" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/文物宝库.png" group-title="冰茶地方",河南文物宝库
+https://migu.188766.xyz/?migutoken=5e601d870dc2621387a8b65b2e78544b&id=%E6%96%87%E7%89%A9%E5%AE%9D%E5%BA%93&type=yy
+#EXTINF:-1 tvg-id="河南象视界" tvg-name="河南象视界" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/河南象视界.png" group-title="冰茶地方",河南象视界
+https://migu.188766.xyz/?migutoken=7396a23828445840e6ee0e9c26e4372e&id=%E8%B1%A1%E8%A7%86%E7%95%8C&type=yy
+#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/上海新闻综合.png" group-title="冰茶地方",上海新闻综合
+https://migu.188766.xyz/?migutoken=11b0a1af772fc0b9b74086e61372bf5d&id=xwzh&type=sz
+#EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/上海第一财经.png" group-title="冰茶地方",上海第一财经
+https://migu.188766.xyz/?migutoken=730be7eff90086b448f0073a9953ca92&id=dycj&type=sz
+#EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/上海第一财经.png" group-title="冰茶地方",上海第一财经
+https://migu.188766.xyz/?migutoken=053fa6df2a28ea86bb0357be3c71c108&id=%E4%B8%8A%E6%B5%B7%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F&type=yy
+#EXTINF:-1 tvg-id="上海新纪实" tvg-name="上海新纪实" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/新纪实频道.png" group-title="冰茶地方",上海新纪实
+https://migu.188766.xyz/?migutoken=cffe13e928575981ef1c941f44867131&id=xjs&type=sz
+#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/上海都市.png" group-title="冰茶地方",上海都市
+https://migu.188766.xyz/?migutoken=09c68e99d572222a68b28ef2d265e95f&id=ds&type=sz
+#EXTINF:-1 tvg-id="上海乐游" tvg-name="乐游" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/乐游.png" group-title="冰茶地方",上海乐游
+https://migu.188766.xyz/?migutoken=0e08e6c70d620be74cc0013a33c059c3&id=ly&type=sz
+#EXTINF:-1 tvg-id="上海魔都眼" tvg-name="上海魔都眼" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/上海魔都眼.png" group-title="冰茶地方",上海魔都眼
+https://migu.188766.xyz/?migutoken=189db5bda7068b676b1b2c6bafa8cb2b&id=mdy&type=sz
+#EXTINF:-1 tvg-id="浙江公共新闻" tvg-name="浙江公共新闻" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/浙江新闻.png" group-title="冰茶地方",浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/浙江国际.png" group-title="冰茶地方",浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/浙江少儿.png" group-title="冰茶地方",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江教科影视" tvg-name="浙江教科影视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/浙江教科影视.png" group-title="冰茶地方",浙江教科
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 tvg-id="之江纪录" tvg-name="之江纪录" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/之江纪录.png" group-title="冰茶地方",之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/浙江民生休闲.png" group-title="冰茶地方",浙江民生
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江经视" tvg-name="浙江经视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/浙江经济生活.png" group-title="冰茶地方",浙江经济
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/钱江都市.png" group-title="冰茶地方",浙江钱江
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 tvg-id="内蒙古农牧" tvg-name="内蒙古农牧" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/内蒙古农牧.png" group-title="冰茶地方",内蒙古农牧
+http://play1-qk.nmtv.cn:80/live/1686561299036179.m3u8
+#EXTINF:-1 tvg-id="内蒙古新闻综合" tvg-name="内蒙古新闻综合" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/内蒙古新闻综合.png" group-title="冰茶地方",内蒙古新闻综合
+http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
+#EXTINF:-1 tvg-id="内蒙古少儿" tvg-name="内蒙古少儿" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/内蒙古少儿.png" group-title="冰茶地方",内蒙古少儿
+http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
+#EXTINF:-1 tvg-id="内蒙古文体娱乐" tvg-name="内蒙古文体娱乐" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/内蒙古文体娱乐.png" group-title="冰茶地方",内蒙古文体娱乐
+http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
+#EXTINF:-1 tvg-id="内蒙古经济生活" tvg-name="内蒙古经济生活" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/内蒙古经济生活.png" group-title="冰茶地方",内蒙古经济生活
+http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
+#EXTINF:-1 tvg-id="内蒙古蒙语卫视" tvg-name="内蒙古蒙语卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/内蒙古蒙语卫视.png" group-title="冰茶地方",内蒙古蒙语卫视
+http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
+#EXTINF:-1 tvg-id="内蒙古蒙语文化" tvg-name="内蒙古蒙语文化" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/内蒙古蒙语文化.png" group-title="冰茶地方",内蒙古蒙语文化
+http://play1-qk.nmtv.cn/live/1686561065304370.m3u8
+#EXTINF:-1 tvg-id="江苏新闻" tvg-name="江苏新闻" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/江苏公共新闻.png" group-title="冰茶地方",江苏新闻
+https://migu.188766.xyz/?migutoken=a4451d50ac7cc7a0633669cc225b607b&id=%E5%85%AC%E5%85%B1%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-id="江苏国际" tvg-name="江苏国际" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/江苏国际.png" group-title="冰茶地方",江苏国际
+https://migu.188766.xyz/?migutoken=91e255aa32ea1202d13526a9daabecbe&id=%E6%B1%9F%E8%8B%8F%E5%9B%BD%E9%99%85&type=yy
+#EXTINF:-1 tvg-id="江苏综艺" tvg-name="江苏综艺" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/江苏综艺.png" group-title="冰茶地方",江苏综艺
+https://migu.188766.xyz/?migutoken=f3a7b308449d9dda513b7536ee865584&id=%E6%B1%9F%E8%8B%8F%E7%BB%BC%E8%89%BA%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-id="江苏影视" tvg-name="江苏影视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/江苏影视.png" group-title="冰茶地方",江苏影视
+https://migu.188766.xyz/?migutoken=e2528f0e3b640721cf6cdad27f6d286e&id=%E6%B1%9F%E8%8B%8F%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-id="江苏教育" tvg-name="江苏教育" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/江苏教育.png" group-title="冰茶地方",江苏教育
+https://migu.188766.xyz/?migutoken=8155f0e7d6b107f8c2a3691cbfce64c9&id=%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2&type=yy
+#EXTINF:-1 tvg-id="江苏体育" tvg-name="江苏体育" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/体育休闲频道.png" group-title="冰茶地方",江苏体育
+https://migu.188766.xyz/?migutoken=429eeb5d48103681107858cbc1295ec2&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/南京新闻综合频道.png" group-title="冰茶地方",南京新闻综合
+https://migu.188766.xyz/?migutoken=27cc959875a9605538868b8eca78fa76&id=%E5%8D%97%E4%BA%AC%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-id="南京教科" tvg-name="南京教科" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/南京教科频道.png" group-title="冰茶地方",南京教科
+https://migu.188766.xyz/?migutoken=26664dcd1c583f9ff334c757bcdefa28&id=%E5%8D%97%E4%BA%AC%E6%95%99%E7%A7%91%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-id="南京十八" tvg-name="南京十八" tvg-logo="https://fy.188766.xyz/logo//sln162/iptv-back/logo/南京十八频道.png" group-title="冰茶地方",南京十八
+https://migu.188766.xyz/?migutoken=c18a7ee86b9fdd2ff6be388ce360b335&id=%E5%8D%97%E4%BA%AC%E5%8D%81%E5%85%AB%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-id="盐城新闻综合" tvg-name="盐城新闻综合" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/盐城新闻综合.png" group-title="冰茶地方",盐城新闻综合
+https://migu.188766.xyz/?migutoken=52c4a2733ae5ab5e1d0f762ec4d680d0&id=%E7%9B%90%E5%9F%8E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
+#EXTINF:-1 tvg-id="淮安新闻综合" tvg-name="淮安新闻综合" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/淮安新闻综合.png" group-title="冰茶地方",淮安新闻综合
+https://migu.188766.xyz/?migutoken=f117c8f79b8111876ad8050489587ba8&id=%E6%B7%AE%E5%AE%89%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
+#EXTINF:-1 tvg-id="泰州新闻综合" tvg-name="泰州新闻综合" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/泰州新闻综合.png" group-title="冰茶地方",泰州新闻综合
+https://migu.188766.xyz/?migutoken=bdb149f67be0eb1d3724ea76613f0956&id=%E6%B3%B0%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
+#EXTINF:-1 tvg-id="连云港新闻综合" tvg-name="连云港新闻综合" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/连云港新闻综合.png" group-title="冰茶地方",连云港新闻综合
+https://migu.188766.xyz/?migutoken=c71affbefd88c18fd7ad13365b7a222f&id=%E8%BF%9E%E4%BA%91%E6%B8%AF%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
+#EXTINF:-1 tvg-id="宿迁新闻综合" tvg-name="宿迁新闻综合" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/宿迁新闻综合.png" group-title="冰茶地方",宿迁新闻综合
+https://migu.188766.xyz/?migutoken=356c56dc000ab14c59bb0f09f1e37174&id=%E5%AE%BF%E8%BF%81%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
+#EXTINF:-1 tvg-id="徐州新闻综合" tvg-name="徐州新闻综合" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/徐州新闻综合.png" group-title="冰茶地方",徐州新闻综合
+https://migu.188766.xyz/?migutoken=8efb467e9e2d33826e59c47276d4787f&id=%E5%BE%90%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
 
 纪实,#genre#
 新动力量创一流,https://mursor.ottiptv.cc/migu/713589837.m3u8?migutoken=934d9272c2f664c241358e1a706cd9ebfb9569b890f33921e14a2ba3588e1597bdc0689a7fa832849f78bce0f96f70f8d50edd0eb12845310916439c942ee8275390bd95b54b3e825c645749bb
