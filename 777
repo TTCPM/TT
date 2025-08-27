@@ -50,17 +50,16 @@ CCTV17,https://mursor.ottiptv.cc/migu/673168256.m3u8?migutoken=e36f3bbfb79f8f978
 兵团卫视,https://mursor.ottiptv.cc/mcp/bintuan.m3u8
 
 超清频道,#genre#
-CCTV4k,https://mursor.ottiptv.cc/mxw/cctv4k.m3u8
-咪咕4K-1,http://192.168.1.2:35455/itv/3000000010000005180.m3u8
-咪咕4K-2,http://192.168.1.2:35455/itv/3000000010000015686.m3u8
-北京卫视,https://migu.188766.xyz/?migutoken=7e3764b3d092f852d79609cbb58243a1&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
-广东卫视,http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
-广东卫视,http://vvip.lqcc.xyz:8092/stream/channelid/1248069700?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+CCTV4K,https://mursor.ottiptv.cc/mxw/cctv4k.m3u8
+
+北京卫视4K,https://migu.188766.xyz/?migutoken=7e3764b3d092f852d79609cbb58243a1&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
+广东卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
+广东卫视4K,http://vvip.lqcc.xyz:8092/stream/channelid/1248069700?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
-LOUPE4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+
 FASHIONONE,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
+
 冰茶央视,#genre#
 CCTV1,https://migu.188766.xyz/?migutoken=7d2a558420b2394b6907d8b6e7d5d966&id=CCTV1&pp=1
 CCTV2,https://migu.188766.xyz/?migutoken=33f48e7fc6449823c86e9248a4314339&id=CCTV2&pp=1
@@ -120,6 +119,20 @@ CCTV4美洲,https://migu.188766.xyz/?migutoken=cc7f458c2cef0fb564e48f24ec7cd7ab&
 大湾区卫视,https://migu.188766.xyz/?migutoken=9b1d9ad987c542e1d8d73478bff1fc99&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
 香港卫视,https://migu.188766.xyz/?migutoken=5d84de8f3ae3f28a7f3c8eacb0fa626a&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&pp=1
 冰茶港台,#genre#
+翡翠台,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
+翡翠台 backup,http://api.mg.itv888.cn:8080/hls/ac8b06eb0c8/index.m3u8
+iNews 新闻台,http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8
+J 2,http://api.mg.itv888.cn:8080/hls/c18815664e8/index.m3u8
+珍珠台,http://api.mg.itv888.cn:8080/hls/63e9ea6e5df/index.m3u8
+凤凰香港,http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8
+HOY资讯台,http://api.mg.itv888.cn:8080/hls/5e12ccd9191/index.m3u8
+RHK 31,http://api.mg.itv888.cn:8080/hls/7f79a251429/index.m3u8
+VIUTV1,http://api.mg.itv888.cn:8080/hls/13d52dc29d5/index.m3u8
+RHK 32,http://api.mg.itv888.cn:8080/hls/18c550eab1e/index.m3
+凤凰卫视,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
+凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
+Viu6,http://api.mg.itv888.cn:8080/hls/0408f039a12/index.m3u8
+
 凤凰中文,https://migu.188766.xyz/?migutoken=3ab2a3a8fb28ab93d2f050bc3c431348&id=fhzw&pp=1
 凤凰资讯,https://migu.188766.xyz/?migutoken=ea5c14ba146f4dabcf3c6d40b8babe60&id=fhzx&pp=1
 凤凰香港,https://migu.188766.xyz/?migutoken=00ce23f7a39554bfb0464636a6f9fb39&id=fhhk&pp=1
