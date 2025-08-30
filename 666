@@ -1,6 +1,6 @@
+
 #EXTM3U x-tvg-url="https://fy.188766.xyz/e.xml"
-#EXTM3U x-tvg-url="https://fy.188766.xyz/e.xml"
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 https://mursor.ottiptv.cc/migu/608807420.m3u8?migutoken=0750a700442bfa1c44cf8ae9d858158ee31e6f7b22d7f31261cee86f03a1d5cccc9328f38bdf0af12949b3fa2eac63528361e94fa741e3564012a5f6ee5458e5a5a7975ae6a6f1fb389adc4ead
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
