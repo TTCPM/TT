@@ -35,26 +35,6 @@ NOW新闻,http://bxtv.3a.ink/api.php?id=now
 天映频道,http://122.53.222.9:9981/stream/channelid/1069391940?profile=pass
 nba,http://122.53.222.9:9981/stream/channelid/1044534831?profile=pass
 央视频道,#genre#
-CCTV1,https://migu.188766.xyz/?migutoken=84c198e7bbab3991a4b2a8d57f9ee346&id=CCTV1&pp=1
-CCTV2,https://migu.188766.xyz/?migutoken=8f944bb76c68ca1d05a0b3d29c4234c6&id=CCTV2&pp=1
-CCTV3,https://migu.188766.xyz/?migutoken=d3f5db37e4361ca53853b0d5e129cbd7&id=CCTV3&pp=1
-CCTV4,https://migu.188766.xyz/?migutoken=dbe491311a246c002730ab4a636b7bdd&id=CCTV4&pp=1
-CCTV5,https://migu.188766.xyz/?migutoken=c41b2c92cc4ead49cb33f14e6b59c0b6&id=CCTV5&pp=1
-CCTV5+,https://migu.188766.xyz/?migutoken=9110d4f33334226618e832fd79f2e81e&id=CCTV5p&pp=1
-CCTV6,https://migu.188766.xyz/?migutoken=85f3fdc0069786697aa63d780cf7e3a5&id=CCTV6&pp=1
-CCTV7,https://migu.188766.xyz/?migutoken=f7740bc0fa6c4b23fac6367dbb94ae48&id=CCTV7&pp=1
-CCTV8,https://migu.188766.xyz/?migutoken=66b00b617f4bfcaffd1c8397cdf117d1&id=CCTV8&pp=1
-CCTV9,https://migu.188766.xyz/?migutoken=3b5097943501fa65719f985d0dc480e7&id=CCTV9&pp=1
-CCTV10,https://migu.188766.xyz/?migutoken=9e354b4019d14b1a7f9783f51dc6848b&id=CCTV10&pp=1
-CCTV11,https://migu.188766.xyz/?migutoken=48e44f70fa699c1eddb16496cd281082&id=CCTV11&pp=1
-CCTV12,https://migu.188766.xyz/?migutoken=72dd0f9f03eb2635e701e7da3c56dccf&id=CCTV12&pp=1
-CCTV13,https://migu.188766.xyz/?migutoken=36c1029bf8ade36c4021aaa5175648ed&id=CCTV13&pp=1
-CCTV14,https://migu.188766.xyz/?migutoken=3d5818d071ab3bbf1ed088bad5381609&id=CCTV14&pp=1
-CCTV15,https://migu.188766.xyz/?migutoken=ea5f0fa89620a93a1264216d175477c6&id=CCTV15&pp=1
-CCTV16,https://migu.188766.xyz/?migutoken=c4dcd6df743c6695c572377fb69b1bab&id=CCTV16&pp=1
-CCTV17,https://migu.188766.xyz/?migutoken=2653267cea41d2626ab9324b48505f9b&id=CCTV17&pp=1
-CCTV4欧洲,https://migu.188766.xyz/?migutoken=4e9f3c6dcf0bf8812e6ccab56ff46457&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
-CCTV4美洲,https://migu.188766.xyz/?migutoken=5ad9c12258b8aae94e55e03fb7001736&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
 
 CCTV1,http://110.181.238.30:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$大同电信10
 CCTV1,http://110.181.232.202:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$大同电信11
