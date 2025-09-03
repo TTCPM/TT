@@ -1,4 +1,4 @@
-好好上班#genre#
+
 JULI,#genre#
 翡翠台,https://mytv.946985.qzz.io/hls/fct/playlist.m3u8
 翡翠台,https://cdn6.946985.qzz.io/live/fct/stream.m3u8
@@ -655,8 +655,6 @@ MDIITMA,http://hls.tmacaraibes.com/live/index.m3u8
 
 
 香港频道,#genre#
-
-
 Plus综合频高,http://php.jdshipin.com/PLTV/iptv.php?id=tvbp
 Plus综合频高,http://php.jdshipin.com/PLTV/iptv.php?id=j2
 TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
@@ -781,15 +779,7 @@ RTHK-35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/s
 香港_C+_,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
 
-
-
-
-
 港澳台,#genre#
-
-中天新闻,http://tw-ty-line-11-1-5.sudatech.store:20319/of-4gtv-4gtv009/index.m3u8?proxy=true
-环宇新闻,http://tw-ty-line-11-1-5.sudatech.store:20319/litv-longturn14/index.m3u8?proxy=true
-环宇新闻台湾,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv156/index.m3u8?proxy=true
 凤凰卫视频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
