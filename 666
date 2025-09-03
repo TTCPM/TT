@@ -31,7 +31,7 @@ https://mursor.ottiptv.cc/migu/624878356.m3u8?migutoken=e599ec4aaf0494d5931b0ca7
 https://mursor.ottiptv.cc/migu/673168140.m3u8?migutoken=f2f0a4882e1e43b7b3484130834902ee59c14a42b7e01b04c532569ac8fbf2287bd814d48d0075bce53cfcc051010e18cfe40de0dea63b794cadf04b4430b5b89f3025ed239aed3a9b111bd80a
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/874/202204010054_1626677759168_H169_1080.jpg" group-title="央视频道", CCTV10科教
 https://mursor.ottiptv.cc/migu/624878405.m3u8?migutoken=49b4a0bd97a9465f0e16c22004d205bfadf06267456b1a44e8eb6e539b8fe7628500fc78f5664d9a2dcb0a7d360ef473bfb3b4565b90fd5f7c6c0aee00d8709a6365700c00fc5765ebe511b329
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/988/610/202204010054_1626677917611_H169_1080.jpg" group-title="央央视频道", CCTV11戏曲
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/988/610/202204010054_1626677917611_H169_1080.jpg" group-title="央视频道", CCTV11戏曲
 https://mursor.ottiptv.cc/migu/667987558.m3u8?migutoken=710d3ae1c016b3c840cff11804f8e81d5fb2f3619e917230064d60d5c2ef0ef9d3b344993386a5d46a0896e4788446da03ac6e3d3a471e74b8d5e64cd608c411007506e6d6f1ac4c954dfad292
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/627/202204010053_1626678104342_H169_1080.jpg" group-title="央视频道", CCTV12社会与法
 https://mursor.ottiptv.cc/migu/673168185.m3u8?migutoken=dbe9897791ac169a695f4772103fa6d35570d1d0c883f4c269ee2710c0f635779b6424ad7420711017fb1a346d97789bd1222a345dfd4c2655fec4d2a24152642cbc3f57a072e55bdd23b803eb
@@ -63,65 +63,36 @@ https://mursor.ottiptv.cc/migu/884121956.m3u8?migutoken=510d1fd58dd698a558780f98
 https://mursor.ottiptv.cc/migu/624878970.m3u8?migutoken=625bcde8b8f108d2dfc68aa4f09b688501d93960f415362733d845743f8c7bbfc96e1477c0ae9974338c444e3a9d195d9fa12b72ec5f0a9b7059dcf8d41266d399d5c7104d2a83953611092eac
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2202/196/407/202204010052_1642124762081_H169_1080.jpg" group-title="央视频道", CGTN
 https://mursor.ottiptv.cc/migu/609017205.m3u8?migutoken=5b6f9adace2d1637d52406eed201f4eca86c6f51c05c823bcef2d7141a033c21d6247f91329bee829a1b38511e192d9fa9bb2f5f05816838ab9e2c71bec054cae64cbb14dd88bdf698d5b0a238
-#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://11.112114.xyz/logo/cctv16.png" group-title="央视",cctv16-MST
+
+#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://11.112114.xyz/logo/cctv16.png" group-title="央视MCP",cctv16-MST
 https://mursor.ottiptv.cc/mst/cctv16.m3u8
-#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://11.112114.xyz/logo/cctv16.png" group-title="央视",cctv16-MCP
+#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://11.112114.xyz/logo/cctv16.png" group-title="央视MCP",cctv16-MCP
 https://mursor.ottiptv.cc/mcp/cctv16.m3u8
-#EXTINF:-1,tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://11.112114.xyz/logo/cctv4k.png" group-title="央视",cctv4k-MXW
+#EXTINF:-1,tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://11.112114.xyz/logo/cctv4k.png" group-title="央视MCP",cctv4k-MXW
 https://mursor.ottiptv.cc/mxw/cctv4k.m3u8
-#EXTINF:-1,tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://11.112114.xyz/logo/cctv4k.png" group-title="央视",cctv4k-MCP
+#EXTINF:-1,tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://11.112114.xyz/logo/cctv4k.png" group-title="央视MCP",cctv4k-MCP
 https://mursor.ottiptv.cc/mcp/cctv4k.m3u8
-#EXTINF:-1,tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="https://11.112114.xyz/logo/cctv8k.png" group-title="央视",cctv8k-MCP
+#EXTINF:-1,tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="https://11.112114.xyz/logo/cctv8k.png" group-title="央视MCP",cctv8k-MCP
 https://mursor.ottiptv.cc/mcp/cctv8k.m3u8
-#EXTINF:-1,tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://11.112114.xyz/logo/第一剧场.png" group-title="央视",第一剧场-MCP
+#EXTINF:-1,tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://11.112114.xyz/logo/第一剧场.png" group-title="央视MCP",第一剧场-MCP
 https://mursor.ottiptv.cc/mcp/dyjc.m3u8
-#EXTINF:-1,tvg-id="cctv8k" tvg-name="风云剧场" tvg-logo="https://11.112114.xyz/logo/风云剧场.png" group-title="央视",风云剧场-MCP
+#EXTINF:-1,tvg-id="cctv8k" tvg-name="风云剧场" tvg-logo="https://11.112114.xyz/logo/风云剧场.png" group-title="央视MCP",风云剧场-MCP
 https://mursor.ottiptv.cc/mcp/fyjc.m3u8
-#EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://11.112114.xyz/logo/怀旧剧场.png" group-title="央视",怀旧剧场-MCP
+#EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://11.112114.xyz/logo/怀旧剧场.png" group-title="央视MCP",怀旧剧场-MCP
 https://mursor.ottiptv.cc/mcp/hjjc.m3u8
-#EXTINF:-1,tvg-id="CGTNALBY" tvg-name="CGTNALBY" tvg-logo="https://11.112114.xyz/logo/CGTNALBY.png" group-title="央视",cgtnar-MCP
+#EXTINF:-1,tvg-id="CGTNALBY" tvg-name="CGTNALBY" tvg-logo="https://11.112114.xyz/logo/CGTNALBY.png" group-title="央视MCP",cgtnar-MCP
 https://mursor.ottiptv.cc/mcp/cgtnar.m3u8
-#EXTINF:-1,tvg-id="cgtndocumentary" tvg-name="cgtndocumentary" tvg-logo="https://11.112114.xyz/logo/cgtndocumentary.png" group-title="央视",cgtndoc-MCP
+#EXTINF:-1,tvg-id="cgtndocumentary" tvg-name="cgtndocumentary" tvg-logo="https://11.112114.xyz/logo/cgtndocumentary.png" group-title="央视MCPP",cgtndoc-MCP
 https://mursor.ottiptv.cc/mcp/cgtndoc.m3u8
-#EXTINF:-1,tvg-id="CGTNEN" tvg-name="CGTNEN" tvg-logo="https://11.112114.xyz/logo/CGTN.png" group-title="央视",cgtn-MCP
+#EXTINF:-1,tvg-id="CGTNEN" tvg-name="CGTNEN" tvg-logo="https://11.112114.xyz/logo/CGTN.png" group-title="央央视MCP",cgtn-MCP
 https://mursor.ottiptv.cc/mcp/cgtn.m3u8
-#EXTINF:-1,tvg-id="cgtnfrench" tvg-name="cgtnfrench" tvg-logo="https://11.112114.xyz/logo/cgtnfrench.png" group-title="央视",cgtnfr-MCP
+#EXTINF:-1,tvg-id="cgtnfrench" tvg-name="cgtnfrench" tvg-logo="https://11.112114.xyz/logo/cgtnfrench.png" group-title="央视MCP",cgtnfr-MCP
 https://mursor.ottiptv.cc/mcp/cgtnfr.m3u8
-#EXTINF:-1,tvg-id="cgtnru" tvg-name="cgtnru" tvg-logo="https://11.112114.xyz/logo/CGTN1.png" group-title="央视",cgtnru-MCP
+#EXTINF:-1,tvg-id="cgtnru" tvg-name="cgtnru" tvg-logo="https://11.112114.xyz/logo/CGTN1.png" group-title="央视MCP",cgtnru-MCP
 https://mursor.ottiptv.cc/mcp/cgtnru.m3u8
-#EXTINF:-1,tvg-id="cgtnsp" tvg-name="cgtnsp" tvg-logo="https://11.112114.xyz/logo/CGTN1.png" group-title="央视",cgtnsp-MCP
+#EXTINF:-1,tvg-id="cgtnsp" tvg-name="cgtnsp" tvg-logo="https://11.112114.xyz/logo/CGTN1.png" group-title="央央视MCP",cgtnsp-MCP
 https://mursor.ottiptv.cc/mcp/cgtnsp.m3u8
 
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/v1/image/5910/022/185/202508040856_5100043384_H169_1080.jpg" group-title="卫视", 东方卫视
-https://mursor.ottiptv.cc/migu/651632648.m3u8?migutoken=f5cef18086f578d7631e837168728eb329258070f9cc3ce1d8c9b52ba17bdbaa2ffc35fc6dc617d7baf76b750aaa12a0532c7b3151a926a126a73d4514d494968e17d385a6ee51c0f66b2ec015
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/199/408/202104022140_5100156802_H169_1080.jpg" group-title="卫视", 江苏卫视
-https://mursor.ottiptv.cc/migu/623899368.m3u8?migutoken=2a182317e0fe368cb907419c021a2ed01db6dba694c7393011ac7a7382d12c2c73b97660b06f04e5e7b77721a7d504e9e7df6be107cbe6f718b95fd76fcbb2250ffab0c442da5b5dd2d9854d0c
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2202/428/795/202107191524_2202428795_H169_1080.jpg" group-title="卫视", 广东卫视
-https://mursor.ottiptv.cc/migu/608831231.m3u8?migutoken=2bd5491fa0e7d7b90d126618fbc3ff5c5c6d5e6855d7fb8bab085fd44a40229a5a7a964418fc33c22ffbea5efe582faff3c82ac0fd5205885401e896001c851544cd2a0b500fda50f03e50c368
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/492/202303201551_1658134112236_H169_1080.jpg" group-title="卫视", 江西卫视
-https://mursor.ottiptv.cc/migu/783847495.m3u8?migutoken=cf7de88cca4ed47359df3c826d72b11707a1a37216a06a74b149a5654b273346a9d8f602cc890d3e92793824047f8208677ed57866b8a137ce5815fb874d9021f29e431bf7c0c5c2d1a3dd77a1
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/585/202304031400_1679994685582_H169_1080.jpg" group-title="卫视", 河南卫视
-https://mursor.ottiptv.cc/migu/790187291.m3u8?migutoken=140c3c91b9dc23f1cc2be77ab3a08e5ede7205bea64f7b661a67bc9b42cc1fe3e0a1786c8f43f916806db36df076e418581fcdbd1c76d24642f8691f25072d2883e148ce6c238cf5c0e8451e90
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/020/475/202207191732_1658131375175_H169_1080.jpg" group-title="卫视", 陕西卫视
-https://mursor.ottiptv.cc/migu/738910838.m3u8?migutoken=706d04e66aab1170adad677dc58c7dc4f0e1179fa799cb49da119b0d1d80570ba509e4fd717446184876f9f8a3f43cfe0b303aaa67cf33da3dff1750ab131f7392fe8f3f335743ccbb95370679
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/322/852/202304081513_1677570732561_H169_1080.jpg" group-title="卫视", 大湾区卫视
-https://mursor.ottiptv.cc/migu/608917627.m3u8?migutoken=614ccb7a288a6bd921b93bf62c6b98425018c58ad5ebb09c3a190b8bc72fa7e3b25b0e6fc45b3f104ae3fad3d93c5ad136a56f6a8d49222d391940e25c39d362eea47ee69b88d92b7c244be198
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/163/202501231715_1658138621263_H169_1080.jpg" group-title="卫视", 湖北卫视
-https://mursor.ottiptv.cc/migu/947472496.m3u8?migutoken=28338ea91aabaa7746679b79189198f86450873b9ddc0759a05c6342613eac86b4a9a2b11df91b3680fe8ad29ddc4a3f98aae1492afb59a665aa3fdc6b8e4b9ae87a996f4b7578ffd6930abc5b
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/164/202501231715_1658138745288_H169_1080.jpg" group-title="卫视", 吉林卫视
-https://mursor.ottiptv.cc/migu/947472500.m3u8?migutoken=8b082f75ec4d9827f45028253943ffdd8e554c91854f6f4f686431ba8aace1e58825f8b4386519402ef1dc013c170c1dd0453b460ddd586b3d5639f4bee55dd1a64d93acc924902cb7f9bd9d06
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/166/202501231715_1658138568499_H169_1080.jpg" group-title="卫视", 青海卫视
-https://mursor.ottiptv.cc/migu/947472506.m3u8?migutoken=4b80aaa29eb89e6d437f38284a2f05eddb69c8957e48ffaf99732e2c3cb6b1ebd8879fe273a5a2350573efcb3fc06dce3c88f06a10ce89e5e92b308a2969c442a44ea1ded142d3cd2a8d06b068
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/v1/image/5910/022/182/202507151427_1744624877831_H169_1080.jpg" group-title="卫视", 东南卫视
-https://mursor.ottiptv.cc/migu/849116810.m3u8?migutoken=e85c60416284c0890d803d9f181113499ec91f5375176549abb3398a5bad20d4817f44a493101bd7437d94e31b8d718164315651df8777b9ed1da8c896e430a4d151a612c32cb4bf77d08f6ae8
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/165/202501231715_1658138887282_H169_1080.jpg" group-title="卫视", 海南卫视
-https://mursor.ottiptv.cc/migu/947472502.m3u8?migutoken=a65056b07da18fe717f5cba2d92bee1b5f630f570395bd9259a9d22a6213f90cc614f25ee97401b4d523dafe05aa996ed96c1ada427b1b13ea44d142e625bf47379d1dba2a4840402fff97f81c
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/v1/image/5910/022/183/202507151427_1690875414853_H169_1080.jpg" group-title="卫视", 海峡卫视
-https://mursor.ottiptv.cc/migu/849119120.m3u8?migutoken=6e490012f588b85cec81b0a7288206df847693ef7217889c57adca6cae1cdbfbe28670037848271d705ee37838e112e880ebba2e5c7ea00faa70e65ded1f1e5791def58084bdf623517880f3b7
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/v1/image/5910/022/186/202508051621_1754370268870_H169_1080.jpg" group-title="卫视", 中国农林卫视
-https://mursor.ottiptv.cc/migu/956904896.m3u8?migutoken=dc8db3c4f6c6adc6677ed80ec03d53f0b0dfeb5079385029bbd8a601db125a732934499724382948bcc583f16ea6be4b876c7d91c87f7d3d2dd9d324a90cfb27ab92eddad7dcfd13cd671e2912
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/v1/image/5910/022/192/202508061552_1754385897430_H169_1080.jpg" group-title="卫视", 兵团卫视
-https://mursor.ottiptv.cc/migu/956923145.m3u8?migutoken=fd56105fece68075d089ed22b33a3a56db4c1472bcec3094433a72794469c553d8f0dc4f844c1758c24b452774dfe7dfc887ba91de9fbe69998fc13bbc63ddd2beea1cf6c5e697fce176b33901
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/002/275/202107191641_5100001716_H169_1080.jpg" group-title="地方", 上海新闻综合
 https://mursor.ottiptv.cc/migu/651632657.m3u8?migutoken=0b9133793427c855ea886bcd2c4ce8915f51f9fa5b10991c45f7508ac1e82815dfbdf36029ed074401e6732490f981ace769b684935db22a9c8bf1b90705de580036fb2b8ba525ebdd9a38546e
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/002/274/202105271333_5100001715_2_HSJ720H.jpg" group-title="地方", 上视东方影视
@@ -182,6 +153,7 @@ https://mursor.ottiptv.cc/migu/956909303.m3u8?migutoken=e53be70b8fb647fd39dd1154
 https://mursor.ottiptv.cc/migu/956909289.m3u8?migutoken=8982f97a8c334fcff1c8643e73a5103b1fb8173425e3d6b6894d3e43bf077350a7deba91cb9dddd0fffd509805cc2a6d89048807a5ee4de70e140639c83a2909024a39ce9988a1921f98e3de7c
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/v1/image/5910/022/193/202508061552_1754385775557_H169_1080.jpg" group-title="地方", 财富天下
 https://mursor.ottiptv.cc/migu/956923159.m3u8?migutoken=fb0ab237084ffbf9c00496673bb164e9a557dfc48a00c213fe7a06124cd23763c65f59bed560600712ec0ed6c099b20dce860366614106d9e918477865a6075af4628d1bc4257b973554e54045
+
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/242/089/202508211805_1755769495190_H169_1080.jpg" group-title="影视", 经典香港电影
 https://mursor.ottiptv.cc/migu/625703337.m3u8?migutoken=8985b16e43ad5076d806441259e65665a399ca6744e263da09fe01fa4dd59d58673afd8ca89a3c7aafd5b4d3f4bb89c47a6f797d0cbc0d0d058e32654121e380f12890a511d348e68d36f8cf70
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/230/666/202507181733_1752831177769_H169_1080.jpg" group-title="影视", 高能悬疑 推理时刻
@@ -205,16 +177,13 @@ https://mursor.ottiptv.cc/migu/614961829.m3u8?migutoken=4b38603553dd9e09f4195c0b
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/019/527/202506181115_1750216473927_H169_1080.jpg" group-title="影视", 血色山河·抗日战争影像志
 https://mursor.ottiptv.cc/migu/713600957.m3u8?migutoken=82fde0d1f0895d7b29be55f15c9499c5a0dd267ddc7b0fa63ca57f2a96f4b70841cfe3814ad9065570608c30601556d356b85374f368d20ddac2c1e1e429952f0eb7a759a26bef5ffaccbc9c10
 
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/315/654/202204010047_5101034202_H169_1080.jpg" group-title="综艺", 最强综艺趴
-https://mursor.ottiptv.cc/migu/629942228.m3u8
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2206/172/388/202304101530_2206172388_H169_1080.jpg" group-title="少儿", 嘉佳卡通
 https://mursor.ottiptv.cc/migu/614952364.m3u8?migutoken=87e5b0bfac87c9ba3c62e2cb501b021f5efe59888714178c07d199d919b2ad41a26dc411faa63564725796ecd69bc4c6a36d0a2aa39e7ea4d838b6fd157e46cd44dce507cc55721f39d357cfdd
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/315/652/202204010055_5101034205_H169_1080.jpg" group-title="少儿", 经典动画大集合
 https://mursor.ottiptv.cc/migu/629942219.m3u8?migutoken=cb7dd368e8895c6a6890397bb553bcdc41ecaae51c8119158768a47e22c6f7e5138c731704b38fc3420372663508560682cbf86017086eb3141ba1a57fffb6e1cc307656c9f16ac1ce9e16754a
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/019/523/202506060000_1749138932995_H169_1080.jpg" group-title="纪实", 新动力量创一流
 https://mursor.ottiptv.cc/migu/713589837.m3u8?migutoken=35bbf33afe47e70f13fd762b4344e616fd8e02899680e7c58a9b96818b92839f1fc6bb28141897f13a79b14bcc7de042ac74b6c143869a1f9213ea6f3fcc37acc174ec6d1888f4b65630bfb255
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/613/479/202210281603_5102115888_HSJ720H.jpg" group-title="印象天下", 钱塘江
-https://mursor.ottiptv.cc/migu/647370520.m3u8?migutoken=b8a3db361d0c8a6260057fa5281750573150d9474b59266cc45cdd84d6c2cf56fea4713ddc7e5f1a3f007d14b94c5772337ee52df4aa56b773f452f5cdf9b1313c86c36944f886d3b4e18ccae7
+
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/462/658/202506201045_1750387453057_H169_1080.jpg" group-title="体育", 五环传奇
 https://mursor.ottiptv.cc/migu/707671890.m3u8?migutoken=8283cbdb8d44702e489c6112805d17abd50a49e3ade35f688cb553775c347b4fb2517bf66110bcfed3e894ff34068d772bf9d75f00f548ce53bdfded22ba7e6f3c5f4c3dcea73b06106b1a3970
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/592/947/202204010047_5101034296_H169_1080.jpg" group-title="体育", 赛事最经典
@@ -227,6 +196,7 @@ https://mursor.ottiptv.cc/migu/629943305.m3u8?migutoken=5f0b5cbcd65918df5813d226
 https://mursor.ottiptv.cc/migu/637444975.m3u8?migutoken=c2764e59f32e6a212563def2b2556a15a4e518354f101ae0a5b44b657cca538524a953fa2fdee6ef5dd6f3cbd49f53182883022729be976fa1c1292f357be5c8ac38cafcaf3dfec55cf7fadd4c
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/751/211/202106111236_5102223687_201903181136295010914_HSJ720H.jpg" group-title="体育", 咪咕24小时体育台
 https://mursor.ottiptv.cc/migu/654102378.m3u8?migutoken=d68594f6e42c836ba1e95cc148dfdd399e53e3fcfc620a6562d946cbeb37c3e0d2515415781b40f29668de76cdb91b179722057812706a45f7ac9905795a3ca6705af302a960e6e3d304dbff37
+
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/150/202407181432_1721283643483_H169_1080.jpg" group-title="教育", CETV1
 https://mursor.ottiptv.cc/migu/923287154.m3u8?migutoken=b38479e9aea7a5a85d1f370ae61af225df8239afcd38db7a19a05f1216b010e40c507580d705da661d4ba568da4887d2e4d03c48f26d0d93bd1e1d2c92ac11756c902130816c939c87f8e00e88
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/152/202407181432_1721283773509_H169_1080.jpg" group-title="教育", CETV2
@@ -235,77 +205,8 @@ https://mursor.ottiptv.cc/migu/923287211.m3u8?migutoken=3259b68c0fa6bfbdf3ec00e8
 https://mursor.ottiptv.cc/migu/923287339.m3u8?migutoken=b280e8ad3b24926f0d2dce75c08dea19faf08c97028e16ffec8f7732dd689aacec3f278c35a6c84df082da7cda1b883c1cfc228e8644a70640224e67011c21964b271533d74f3ff84621b05484
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/019/355/202405081702_1715158104256_H169_1080.jpg" group-title="教育", 中学生
 https://mursor.ottiptv.cc/migu/708869532.m3u8?migutoken=dd986ac7712e54ea393391444799d4a208c74bb745ad8085519de0642cd760f3a361e25b98f5e259d11ac65173c67fc912860210982e38490aa1fd7ef1a3b5367fa000aeb1968e9dd2d1d750f8
-
 #EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://11.112114.xyz/logo/中国教育1台.png" group-title="教育",中国教育电视台-MCP
 https://mursor.ottiptv.cc/mcp/cetv1.m3u8
-#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视-MCP
-https://mursor.ottiptv.cc/mcp/beijing.m3u8
-#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://11.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视-MCP
-https://mursor.ottiptv.cc/mcp/hunan.m3u8
-#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://11.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视-MCP
-https://mursor.ottiptv.cc/mcp/jiangsu.m3u8
-#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视-MCP
-https://mursor.ottiptv.cc/mcp/dongfang.m3u8
-#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://11.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视-MCP
-https://mursor.ottiptv.cc/mcp/zhejiang.m3u8
-#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://11.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北卫视-MCP
-https://mursor.ottiptv.cc/mcp/hubei.m3u8
-#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://11.112114.xyz/logo/天津卫视.png" group-title="卫视",天津卫视-MCP
-https://mursor.ottiptv.cc/mcp/tianjing.m3u8
-#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视-MCP
-https://mursor.ottiptv.cc/mcp/shandong.m3u8
-#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://11.112114.xyz/logo/辽宁卫视.png" group-title="卫视",辽宁卫视-MCP
-https://mursor.ottiptv.cc/mcp/liaoning.m3u8
-#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://11.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视-MCP
-https://mursor.ottiptv.cc/mcp/anhui.m3u8
-#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://11.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视-MCP
-https://mursor.ottiptv.cc/mcp/heilongjiang.m3u8
-#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://11.112114.xyz/logo/贵州卫视.png" group-title="卫视",贵州卫视-MCP
-https://mursor.ottiptv.cc/mcp/guizhou.m3u8
-#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://11.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视-MCP
-https://mursor.ottiptv.cc/mcp/dongnan.m3u8
-#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://11.112114.xyz/logo/重庆卫视.png" group-title="卫视",重庆卫视-MCP
-https://mursor.ottiptv.cc/mcp/chongqing.m3u8
-#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://11.112114.xyz/logo/江西卫视.png" group-title="卫视",江西卫视-MCP
-https://mursor.ottiptv.cc/mcp/jiangxi.m3u8
-#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://11.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视-MCP
-https://mursor.ottiptv.cc/mcp/guangdong.m3u8
-#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://11.112114.xyz/logo/河北卫视.png" group-title="卫视",河北卫视-MCP
-https://mursor.ottiptv.cc/mcp/hebei.m3u8
-#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://11.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视-MCP
-https://mursor.ottiptv.cc/mcp/shenzheng.m3u8
-#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://11.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视-MCP
-https://mursor.ottiptv.cc/mcp/jiling.m3u8
-#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://11.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视-MCP
-https://mursor.ottiptv.cc/mcp/henan.m3u8
-#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://11.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视-MCP
-https://mursor.ottiptv.cc/mcp/sichuan.m3u8
-#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://11.112114.xyz/logo/河北卫视.png" group-title="卫视",河北卫视-MCP
-https://mursor.ottiptv.cc/mcp/hebei.m3u8
-#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://11.112114.xyz/logo/广西卫视.png" group-title="卫视",广西卫视-MCP
-https://mursor.ottiptv.cc/mcp/guangxi.m3u8
-#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://11.112114.xyz/logo/陕西卫视.png" group-title="卫视",陕西卫视-MCP
-https://mursor.ottiptv.cc/mcp/shanxiws.m3u8
-#EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://11.112114.xyz/logo/山西卫视.png" group-title="卫视",山西卫视-MCP
-https://mursor.ottiptv.cc/mcp/shanxi.m3u8
-#EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://11.112114.xyz/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视-MCP
-https://mursor.ottiptv.cc/mcp/neimenggu.m3u8
-#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://11.112114.xyz/logo/青海卫视.png" group-title="卫视",青海卫视-MCP
-https://mursor.ottiptv.cc/mcp/qinghai.m3u8
-#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://11.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视-MCP
-https://mursor.ottiptv.cc/mcp/hainan.m3u8
-#EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://11.112114.xyz/logo/宁夏卫视.png" group-title="卫视",宁夏卫视-MCP
-https://mursor.ottiptv.cc/mcp/ningxia.m3u8
-#EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视-MCP
-https://mursor.ottiptv.cc/mcp/xizang.m3u8
-#EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://11.112114.xyz/logo/新疆卫视.png" group-title="卫视",新疆卫视-MCP
-https://mursor.ottiptv.cc/mcp/xinjiang.m3u8
-#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://11.112114.xyz/logo/甘肃卫视.png" group-title="卫视",甘肃卫视-MCP
-https://mursor.ottiptv.cc/mcp/gansu.m3u8
-#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://11.112114.xyz/logo/云南卫视.png" group-title="卫视",云南卫视-MCP
-https://mursor.ottiptv.cc/mcp/yunnan.m3u8
-#EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://11.112114.xyz/logo/兵团卫视.png" group-title="卫视",兵团卫视-MCP
-https://mursor.ottiptv.cc/mcp/bintuan.m3u8
 
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
 https://mursor.ottiptv.cc/mcp/hunan.m3u8
@@ -409,16 +310,22 @@ https://mursor.ottiptv.cc/migu/923287211.m3u8?migutoken=58dbb8ad5ad539c0da365c81
 #EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/CETV4.png" group-title="数字频道",CETV-4
 https://mursor.ottiptv.cc/migu/923287339.m3u8?migutoken=165b545b4402eaba61cdc31defb6548a443d9b5eebb1d99392852bd799c553e8817e85eb324c512581ca9a1ed8e56e530144f79606cf44fe5b2d5e97b6da577e0f2adae2a90c2a55089c95880b
 
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京卫视4K.png" group-title="超清频道",北京卫视4K
+https://migu.188766.xyz/?migutoken=a1492c80f5dfdf7a521e54dfeffaf416&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/广东卫视4K.png" group-title="超清频道",广东卫视4K
+http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/广东卫视4K.png" group-title="超清频道",广东卫视4K
+http://vvip.lqcc.xyz:8092/stream/channelid/1248069700?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+#EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/苏州4K.png" group-title="超清频道",苏州4K
+https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+#EXTINF:-1 tvg-id="河北4K" tvg-name="河北4K" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/纯享4K.png" group-title="超清频道",河北4K
+https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 tvg-id="CCTV4k" tvg-name="CCTV4k" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/cctv4k.png" group-title="超清频道",CCTV4k
 https://mursor.ottiptv.cc/mxw/cctv4k.m3u8
-
 #EXTINF:-1 tvg-id="LOUPE4K" tvg-name="LOUPE4K" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/LOUPE.png" group-title="超清频道",Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
 #EXTINF:-1 tvg-id="FASHIONONE" tvg-name="FASHIONONE" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/FASHIONONE.png" group-title="超清频道",Fashion 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.1.0
 #EXTINF:-1 tvg-id="北京纪实科教8K" tvg-name="北京纪实科教8K" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/北京纪实科教8K.png" group-title="超清频道",北京纪实科教8K
 https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 
@@ -534,6 +441,7 @@ http://mursor.ottiptv.cc/huya/21059596
 http://mursor.ottiptv.cc/huya/21059554
 #EXTINF:-1 tvg-id="搞笑_陈翔六点半" tvg-name="搞笑_陈翔六点半" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",搞笑_陈翔六点半
 http://mursor.ottiptv.cc/huya/11274154
+
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/哔哩哔哩.png" group-title="游戏赛事",[B站]热门赛事
 http://mursor.ottiptv.cc/bilibili/2162281110
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/哔哩哔哩.png" group-title="游戏赛事",[B站]CS 2
@@ -1145,221 +1053,6 @@ http://mursor.ottiptv.cc/huya/29465851
 #EXTINF:-1 tvg-logo="https://tv-1.iill.top/LOGO/23650774&huya&logo" group-title="虎牙影视",多美剧场
 http://mursor.ottiptv.cc/huya/23650774
 
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京卫视4K.png" group-title="冰茶超清",北京卫视4K
-https://migu.188766.xyz/?migutoken=a1492c80f5dfdf7a521e54dfeffaf416&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/广东卫视4K.png" group-title="冰茶超清",广东卫视4K
-http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/广东卫视4K.png" group-title="冰茶超清",广东卫视4K
-http://vvip.lqcc.xyz:8092/stream/channelid/1248069700?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
-#EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/苏州4K.png" group-title="冰茶超清",苏州4K
-https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-#EXTINF:-1 tvg-id="河北4K" tvg-name="河北4K" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/纯享4K.png" group-title="冰茶超清",河北4K
-https://event.pull.hebtv.com:443/live/live101.m3u8
-
-
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/凤凰卫视中文台.png" group-title="冰茶港台",凤凰中文
-https://migu.188766.xyz/?migutoken=e7fdc97434b43de87d4f247cd25e6bc4&id=fhzw&pp=1
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/凤凰卫视资讯台.png" group-title="冰茶港台",凤凰资讯
-https://migu.188766.xyz/?migutoken=096c950e64c921f3bc41eebb26699bb2&id=fhzx&pp=1
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/凤凰卫视香港台.png" group-title="冰茶港台",凤凰香港
-https://migu.188766.xyz/?migutoken=61d8315deed9822f00f632888a29922b&id=fhhk&pp=1
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="冰茶港台",翡翠台
-https://migu.188766.xyz/?migutoken=f3735767a23214ad64c7a1b58e41bffb&id=jade_twn&type=dy
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="冰茶港台",翡翠台
-https://migu.188766.xyz/?migutoken=263c02e876e04e3fd8e99965965a96ad&id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&pp=1
-#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/无线新闻.png" group-title="冰茶港台",无线新闻
-https://migu.188766.xyz/?migutoken=80fa951f45d33d7a4ed489da7bca27fa&id=inews_twn&type=dy
-#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/TVB星河.png" group-title="冰茶港台",TVB星河
-https://migu.188766.xyz/?migutoken=11448a48299c865a7117d244f58cb323&id=Xinhe&type=dy
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/明珠台.png" group-title="冰茶港台",明珠台
-https://migu.188766.xyz/?migutoken=dfca1ea81cb8de5e2aa4d6acd90f71bc&id=pearl_twn&type=dy
-#EXTINF:-1 tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/华丽翡翠台.png" group-title="冰茶港台",华丽翡翠台
-https://migu.188766.xyz/?migutoken=51e9ba21b926f438c05cc70ad6c46f87&id=Tvbjade&type=dy
-#EXTINF:-1 tvg-id="千禧经典" tvg-name="千禧经典" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/千禧经典.png" group-title="冰茶港台",千禧经典
-https://migu.188766.xyz/?migutoken=1e42077665ee392c83a47660dd4f444d&id=Tvbclassic&type=dy
-#EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/天映经典.png" group-title="冰茶港台",天映经典
-https://migu.188766.xyz/?migutoken=45a9b7dbe8089b1d60b02b3f0eb012de&id=Celestial2&type=dy
-#EXTINF:-1 tvg-id="天映电影" tvg-name="天映电影" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/天映电影.png" group-title="冰茶港台",天映电影
-https://migu.188766.xyz/?migutoken=81cb76003369dde86d7418492945a98c&id=Celestial&type=dy
-#EXTINF:-1 tvg-id="Astro AOD" tvg-name="Astro AOD" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/AstroAOD.png" group-title="冰茶港台",Astro AOD
-https://migu.188766.xyz/?migutoken=cf12671e926d5deba50e9cf114d9dab4&id=Aodhd&type=dy
-#EXTINF:-1 tvg-id="Astro AEC" tvg-name="Astro AEC" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/AstroAEC.png" group-title="冰茶港台",Astro AEC
-https://migu.188766.xyz/?migutoken=9892f45e451b6125ab4a3998a9c4cf54&id=AEC&type=dy
-#EXTINF:-1 tvg-id="Astro QJ" tvg-name="Astro QJ" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/ASTROQUANJIA.png" group-title="冰茶港台",Astro QJ
-https://migu.188766.xyz/?migutoken=95c557bc6cc2eea2514495bfe090ca43&id=Quanjia&type=dy
-#EXTINF:-1 tvg-id="Astro 欢喜" tvg-name="Astro 欢喜" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/ASTRO欢喜.png" group-title="冰茶港台",Astro 欢喜
-https://migu.188766.xyz/?migutoken=e290816e300557856896a7bf3fdbd826&id=Huahee&type=dy
-
-
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CHC家庭影院.png" group-title="冰茶其他",CHC家庭影院
-https://migu.188766.xyz/?migutoken=eb097acad03bd7bb67212af1321cb2a2&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&pp=1
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CHC动作电影.png" group-title="冰茶其他",CHC动作电影
-https://migu.188766.xyz/?migutoken=2bac374d7d4aeb1981a6c0b95aff118a&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&pp=1
-#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CHC影迷电影.png" group-title="冰茶其他",CHC影迷电影
-https://migu.188766.xyz/?migutoken=5cefa2c8608285fdd54c7dcafda9f104&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&pp=1
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/五星体育.png" group-title="冰茶其他",五星体育
-https://migu.188766.xyz/?migutoken=bab4b24ee92289ee2b43f10f49d08fd6&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/五星体育.png" group-title="冰茶其他",五星体育
-https://gdcucc.v1.mk/gdcucc/wxty.m3u8
-#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/重温经典.png" group-title="冰茶其他",重温经典
-https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
-#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/东方影视.png" group-title="冰茶其他",东方影视
-https://migu.188766.xyz/?migutoken=f5eec7d6257491b7b9a4c2eacd1ac929&id=%E4%B8%8A%E8%A7%86%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86&type=yy
-#EXTINF:-1 tvg-id="新片放映厅" tvg-name="新片放映厅" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/新片放映厅.png" group-title="冰茶其他",新片放映厅
-https://migu.188766.xyz/?migutoken=b4f18e5532f039fc61c7f5d3174450cb&id=%E6%96%B0%E7%89%87%E6%94%BE%E6%98%A0%E5%8E%85&type=yy
-#EXTINF:-1 tvg-id="高清大片" tvg-name="高清大片" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/高清大片.png" group-title="冰茶其他",高清大片
-https://migu.188766.xyz/?migutoken=5602d967cd75471a17a04c2cf3843450&id=%E9%AB%98%E6%B8%85%E5%A4%A7%E7%89%87&type=yy
-#EXTINF:-1 tvg-id="南方影视" tvg-name="南方影视" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/南方影视.png" group-title="冰茶其他",南方影视
-https://migu.188766.xyz/?migutoken=5592e52f80dc9aba60372c36a29e5a65&id=%E5%8D%97%E6%96%B9%E5%BD%B1%E8%A7%86&type=yy
-#EXTINF:-1 tvg-id="红色轮播台" tvg-name="红色轮播台" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/红色轮播台.png" group-title="冰茶其他",红色轮播台
-https://migu.188766.xyz/?migutoken=bc52eb4332f77df09d16b40658cf45a8&id=%E7%BA%A2%E8%89%B2%E8%BD%AE%E6%92%AD%E5%8F%B0&type=yy
-#EXTINF:-1 tvg-id="掼蛋精英赛" tvg-name="掼蛋精英赛" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/掼蛋精英赛.png" group-title="冰茶其他",掼蛋精英赛
-https://migu.188766.xyz/?migutoken=8838b50e7b4f71b9595c48cf86070ccd&id=%E6%8E%BC%E8%9B%8B%E7%B2%BE%E8%8B%B1%E8%B5%9B&type=yy
-#EXTINF:-1 tvg-id="赛事最经典" tvg-name="赛事最经典" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/赛事最经典.png" group-title="冰茶其他",赛事最经典
-https://migu.188766.xyz/?migutoken=f8e0333c22dcd22d63b9b5e7895a23f3&id=%E8%B5%9B%E4%BA%8B%E6%9C%80%E7%BB%8F%E5%85%B8&type=yy
-#EXTINF:-1 tvg-id="华语乐坛最强音" tvg-name="华语乐坛最强音" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/华语乐坛最强音.png" group-title="冰茶其他",华语乐坛最强音
-https://migu.188766.xyz/?migutoken=a492631a954e9e4692ef6ca25eabcdfd&id=%E5%8D%8E%E8%AF%AD%E4%B9%90%E5%9D%9B%E6%9C%80%E5%BC%BA%E9%9F%B3&type=yy
-#EXTINF:-1 tvg-id="周杰伦现场" tvg-name="周杰伦现场" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/周杰伦现场.png" group-title="冰茶其他",周杰伦现场
-https://migu.188766.xyz/?migutoken=1793b885854e7045d452aac30ee7afe1&id=%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%8E%B0%E5%9C%BA&type=yy
-#EXTINF:-1 tvg-id="最强综艺趴" tvg-name="最强综艺趴" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/最强综艺趴.png" group-title="冰茶其他",最强综艺趴
-https://migu.188766.xyz/?migutoken=594704b02c55f15fe044ecda490a7e47&id=%E6%9C%80%E5%BC%BA%E7%BB%BC%E8%89%BA%E8%B6%B4&type=yy
-#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/嘉佳卡通.png" group-title="冰茶其他",嘉佳卡通
-https://migu.188766.xyz/?migutoken=37e1c961e269e06482310df1aa773b08&id=%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A&type=yy
-#EXTINF:-1 tvg-id="经典动画大集合" tvg-name="经典动画大集合" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/经典动画大集合.png" group-title="冰茶其他",经典动画大集合
-https://migu.188766.xyz/?migutoken=6b9a07ad4f3bdd0d7fc85d0aba9be947&id=%E7%BB%8F%E5%85%B8%E5%8A%A8%E7%94%BB%E5%A4%A7%E9%9B%86%E5%90%88&type=yy
-#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/优漫卡通频道.png" group-title="冰茶其他",优漫卡通
-https://migu.188766.xyz/?migutoken=fe7b8e46458d92995a1b1371eb28a395&id=%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A%E9%A2%91%E9%81%93&type=yy
-#EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/老故事.png" group-title="冰茶其他",老故事
-https://migu.188766.xyz/?migutoken=321d161bca5d197212bd489f0d84d578&id=%E8%80%81%E6%95%85%E4%BA%8B&type=yy
-#EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/发现之旅.png" group-title="冰茶其他",发现之旅
-https://migu.188766.xyz/?migutoken=6b3052df3fa4e94bce6fce4d395b4b08&id=%E5%8F%91%E7%8E%B0%E4%B9%8B%E6%97%85&type=yy
-#EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/中学生.png" group-title="冰茶其他",中学生
-https://migu.188766.xyz/?migutoken=d5e5d94af9776e31bc7955a8d9232ec7&id=%E4%B8%AD%E5%AD%A6%E7%94%9F&type=yy
-#EXTINF:-1 tvg-id="体坛名栏汇" tvg-name="体坛名栏汇" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/体坛名栏汇.png" group-title="冰茶其他",体坛名栏汇
-https://migu.188766.xyz/?migutoken=9d11833f3ea098d259ad9c07032a7dea&id=%E4%BD%93%E5%9D%9B%E5%90%8D%E6%A0%8F%E6%B1%87&type=yy
-#EXTINF:-1 tvg-id="咪咕24小时体育台" tvg-name="咪咕24小时体育台" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/咪咕24小时体育台.png" group-title="冰茶其他",咪咕24小时体育台
-https://migu.188766.xyz/?migutoken=3c619946a6dda0c45c87a164a3f5f5e7&id=%E5%92%AA%E5%92%9524%E5%B0%8F%E6%97%B6%E4%BD%93%E8%82%B2%E5%8F%B0&type=yy
-#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/CETV1.png" group-title="冰茶其他",CETV-1
-https://migu.188766.xyz/?migutoken=9bc02cb814f6ab4825caf28a454c88e3&id=CETV1&type=yy
-#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/CETV2.png" group-title="冰茶其他",CETV-2
-https://migu.188766.xyz/?migutoken=fbb75c82d264c2d8358c1c439649b9d1&id=CETV2&type=yy
-#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/CETV4.png" group-title="冰茶其他",CETV-4
-https://migu.188766.xyz/?migutoken=0703bd25a3f6762e5785411ece91c814&id=CETV4&type=yy
-#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://fy.188766.xyz/logo/taksssss/tv/icon/卡酷少儿.png" group-title="冰茶地方",卡酷少儿
-https://migu.188766.xyz/?migutoken=306e93ae5525c561ed4fb74b135a5ce7&id=%E5%8C%97%E4%BA%AC%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF&type=yy
-#EXTINF:-1 tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京影视.png" group-title="冰茶地方",北京影视
-https://migu.188766.xyz/?migutoken=1c9740c2f86dbbb9fb888718b9480eb8&id=%E5%8C%97%E4%BA%AC%E5%BD%B1%E8%A7%86&type=yy
-#EXTINF:-1 tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京文艺.png" group-title="冰茶地方",北京文艺
-https://migu.188766.xyz/?migutoken=1413d28255753e9adf227ec93001756a&id=%E5%8C%97%E4%BA%AC%E6%96%87%E8%89%BA&type=yy
-#EXTINF:-1 tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京财经.png" group-title="冰茶地方",北京财经
-https://migu.188766.xyz/?migutoken=8a9c69314c4b1291b7f7b73ded455389&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
-#EXTINF:-1 tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京生活.png" group-title="冰茶地方",北京生活
-https://migu.188766.xyz/?migutoken=c80d08fe185b93db47237c7953b2d256&id=%E5%8C%97%E4%BA%ACi%E7%94%9F%E6%B4%BB&type=yy
-#EXTINF:-1 tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京新闻.png" group-title="冰茶地方",北京新闻
-https://migu.188766.xyz/?migutoken=bc03db7dfa0a22956af0c7a3c989b2c0&id=%E5%8C%97%E4%BA%AC%E6%96%B0%E9%97%BB&type=yy
-#EXTINF:-1 tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京体育休闲.png" group-title="冰茶地方",北京体育休闲
-https://migu.188766.xyz/?migutoken=63739f4caf4ce6b7d50a7d1fceeab49f&id=%E5%8C%97%E4%BA%AC%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2&type=yy
-#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京纪实科教.png" group-title="冰茶地方",北京纪实科教
-https://migu.188766.xyz/?migutoken=7a474b553234847121f110aea1626e7f&id=%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99&type=yy
-#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/河南梨园.png" group-title="冰茶地方",河南梨园
-https://migu.188766.xyz/?migutoken=84d9ec2c9c71e355d177467e1a71f820&id=%E6%A2%A8%E5%9B%AD%E9%A2%91%E9%81%93&type=yy
-#EXTINF:-1 tvg-id="河南新闻" tvg-name="河南新闻" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/河南新闻.png" group-title="冰茶地方",河南新闻
-https://migu.188766.xyz/?migutoken=69b8b68e7c95eeab89a1c210151ff044&id=%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&type=yy
-#EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/河南都市.png" group-title="冰茶地方",河南都市
-https://migu.188766.xyz/?migutoken=30240089d012cd9fe0b36f12d0accfdf&id=%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93&type=yy
-#EXTINF:-1 tvg-id="河南民生" tvg-name="河南民生" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/河南民生.png" group-title="冰茶地方",河南民生
-https://migu.188766.xyz/?migutoken=b4b0319067df8b3f5db3002f069de8a3&id=%E6%B0%91%E7%94%9F%E9%A2%91%E9%81%93&type=yy
-#EXTINF:-1 tvg-id="河南电视剧" tvg-name="河南电视剧" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/河南电视剧.png" group-title="冰茶地方",河南电视剧
-https://migu.188766.xyz/?migutoken=4be6969979a4fdc8bb7e891a6eb26db6&id=%E7%94%B5%E8%A7%86%E5%89%A7%E9%A2%91%E9%81%93&type=yy
-#EXTINF:-1 tvg-id="河南公共" tvg-name="河南公共" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/河南公共.png" group-title="冰茶地方",河南公共
-https://migu.188766.xyz/?migutoken=1e3513e38afd11d646afb8bcb1208bcc&id=%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93&type=yy
-#EXTINF:-1 tvg-id="河南公共" tvg-name="河南公共" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/河南法治.png" group-title="冰茶地方",河南法治
-https://migu.188766.xyz/?migutoken=b4dae937f1fbe97d113701df18079cf1&id=%E6%B3%95%E6%B2%BB%E9%A2%91%E9%81%93&type=yy
-#EXTINF:-1 tvg-id="河南武术" tvg-name="河南武术" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/武术世界.png" group-title="冰茶地方",河南武术
-https://migu.188766.xyz/?migutoken=c748bb1d414dddc8b21aef079f110dfe&id=%E6%AD%A6%E6%9C%AF%E9%A2%91%E9%81%93&type=yy
-#EXTINF:-1 tvg-id="河南睛彩中原" tvg-name="河南睛彩中原" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/河南睛彩中原.png" group-title="冰茶地方",河南睛彩中原
-https://migu.188766.xyz/?migutoken=4c225bf5dcd9b140750153ae4ede8821&id=%E7%9D%9B%E5%BD%A9%E4%B8%AD%E5%8E%9F&type=yy
-#EXTINF:-1 tvg-id="河南移动戏曲" tvg-name="河南移动戏曲" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/移动戏曲.png" group-title="冰茶地方",河南移动戏曲
-https://migu.188766.xyz/?migutoken=c7c1fbd5e0afc8af871d68c0bc58e48f&id=%E7%A7%BB%E5%8A%A8%E6%88%8F%E6%9B%B2%E9%A2%91%E9%81%93&type=yy
-#EXTINF:-1 tvg-id="河南文物宝库" tvg-name="河南文物宝库" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/文物宝库.png" group-title="冰茶地方",河南文物宝库
-https://migu.188766.xyz/?migutoken=ceb0eb48fe3f25d44cf34c8d875d9edd&id=%E6%96%87%E7%89%A9%E5%AE%9D%E5%BA%93&type=yy
-#EXTINF:-1 tvg-id="河南象视界" tvg-name="河南象视界" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/河南象视界.png" group-title="冰茶地方",河南象视界
-https://migu.188766.xyz/?migutoken=9d0ab32465bb3a52440f4322ef562bca&id=%E8%B1%A1%E8%A7%86%E7%95%8C&type=yy
-#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/上海新闻综合.png" group-title="冰茶地方",上海新闻综合
-https://migu.188766.xyz/?migutoken=26326f85c52c9d104b1e45028b103cc9&id=xwzh&type=sz
-#EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/上海第一财经.png" group-title="冰茶地方",上海第一财经
-https://migu.188766.xyz/?migutoken=b7dc4a180ce55411d0be00bacf0eb820&id=dycj&type=sz
-#EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/上海第一财经.png" group-title="冰茶地方",上海第一财经
-https://migu.188766.xyz/?migutoken=8933d481fd30acf32211d770083a6a4a&id=%E4%B8%8A%E6%B5%B7%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F&type=yy
-#EXTINF:-1 tvg-id="上海新纪实" tvg-name="上海新纪实" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/新纪实频道.png" group-title="冰茶地方",上海新纪实
-https://migu.188766.xyz/?migutoken=a4d3369eaa1667043d032a2a7a29ea01&id=xjs&type=sz
-#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/上海都市.png" group-title="冰茶地方",上海都市
-https://migu.188766.xyz/?migutoken=61b0a3b93f32cc23212765b9992221f2&id=ds&type=sz
-#EXTINF:-1 tvg-id="上海乐游" tvg-name="乐游" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/乐游.png" group-title="冰茶地方",上海乐游
-https://migu.188766.xyz/?migutoken=0fb76b4c6d04b47409e2fc4f8951bad1&id=ly&type=sz
-#EXTINF:-1 tvg-id="上海魔都眼" tvg-name="上海魔都眼" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/上海魔都眼.png" group-title="冰茶地方",上海魔都眼
-https://migu.188766.xyz/?migutoken=caaeeed14d315f3f236e44dc2187cd9c&id=mdy&type=sz
-#EXTINF:-1 tvg-id="浙江公共新闻" tvg-name="浙江公共新闻" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/浙江新闻.png" group-title="冰茶地方",浙江新闻
-https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/浙江国际.png" group-title="冰茶地方",浙江国际
-https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/浙江少儿.png" group-title="冰茶地方",浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江教科影视" tvg-name="浙江教科影视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/浙江教科影视.png" group-title="冰茶地方",浙江教科
-https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 tvg-id="之江纪录" tvg-name="之江纪录" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/之江纪录.png" group-title="冰茶地方",之江纪录
-https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/浙江民生休闲.png" group-title="冰茶地方",浙江民生
-https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江经视" tvg-name="浙江经视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/浙江经济生活.png" group-title="冰茶地方",浙江经济
-https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/钱江都市.png" group-title="冰茶地方",浙江钱江
-https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 tvg-id="内蒙古农牧" tvg-name="内蒙古农牧" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/内蒙古农牧.png" group-title="冰茶地方",内蒙古农牧
-http://play1-qk.nmtv.cn:80/live/1686561299036179.m3u8
-#EXTINF:-1 tvg-id="内蒙古新闻综合" tvg-name="内蒙古新闻综合" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/内蒙古新闻综合.png" group-title="冰茶地方",内蒙古新闻综合
-http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
-#EXTINF:-1 tvg-id="内蒙古少儿" tvg-name="内蒙古少儿" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/内蒙古少儿.png" group-title="冰茶地方",内蒙古少儿
-http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
-#EXTINF:-1 tvg-id="内蒙古文体娱乐" tvg-name="内蒙古文体娱乐" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/内蒙古文体娱乐.png" group-title="冰茶地方",内蒙古文体娱乐
-http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
-#EXTINF:-1 tvg-id="内蒙古经济生活" tvg-name="内蒙古经济生活" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/内蒙古经济生活.png" group-title="冰茶地方",内蒙古经济生活
-http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
-#EXTINF:-1 tvg-id="内蒙古蒙语卫视" tvg-name="内蒙古蒙语卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/内蒙古蒙语卫视.png" group-title="冰茶地方",内蒙古蒙语卫视
-http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
-#EXTINF:-1 tvg-id="内蒙古蒙语文化" tvg-name="内蒙古蒙语文化" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/内蒙古蒙语文化.png" group-title="冰茶地方",内蒙古蒙语文化
-http://play1-qk.nmtv.cn/live/1686561065304370.m3u8
-#EXTINF:-1 tvg-id="江苏新闻" tvg-name="江苏新闻" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/江苏公共新闻.png" group-title="冰茶地方",江苏新闻
-https://migu.188766.xyz/?migutoken=c07b12f92de58c81e69b6620d124342c&id=%E5%85%AC%E5%85%B1%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&type=yy
-#EXTINF:-1 tvg-id="江苏国际" tvg-name="江苏国际" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/江苏国际.png" group-title="冰茶地方",江苏国际
-https://migu.188766.xyz/?migutoken=4516dc8ed77fd700fcbeb75eb37ea83d&id=%E6%B1%9F%E8%8B%8F%E5%9B%BD%E9%99%85&type=yy
-#EXTINF:-1 tvg-id="江苏综艺" tvg-name="江苏综艺" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/江苏综艺.png" group-title="冰茶地方",江苏综艺
-https://migu.188766.xyz/?migutoken=60b60afbbad7ad5b738d967964289268&id=%E6%B1%9F%E8%8B%8F%E7%BB%BC%E8%89%BA%E9%A2%91%E9%81%93&type=yy
-#EXTINF:-1 tvg-id="江苏影视" tvg-name="江苏影视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/江苏影视.png" group-title="冰茶地方",江苏影视
-https://migu.188766.xyz/?migutoken=a5e9fda14f18c99f8344d216c3793dd6&id=%E6%B1%9F%E8%8B%8F%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&type=yy
-#EXTINF:-1 tvg-id="江苏教育" tvg-name="江苏教育" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/江苏教育.png" group-title="冰茶地方",江苏教育
-https://migu.188766.xyz/?migutoken=5194962abaca877ee5aa03f72dda6de7&id=%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2&type=yy
-#EXTINF:-1 tvg-id="江苏体育" tvg-name="江苏体育" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/体育休闲频道.png" group-title="冰茶地方",江苏体育
-https://migu.188766.xyz/?migutoken=bea6f22011c8a31e379785aa47030394&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&type=yy
-#EXTINF:-1 tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/南京新闻综合频道.png" group-title="冰茶地方",南京新闻综合
-https://migu.188766.xyz/?migutoken=fb1fd11490e34c769591943dc968ad0f&id=%E5%8D%97%E4%BA%AC%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&type=yy
-#EXTINF:-1 tvg-id="南京教科" tvg-name="南京教科" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/南京教科频道.png" group-title="冰茶地方",南京教科
-https://migu.188766.xyz/?migutoken=4408ce9796695f183ad5ef1e9ecd9d19&id=%E5%8D%97%E4%BA%AC%E6%95%99%E7%A7%91%E9%A2%91%E9%81%93&type=yy
-#EXTINF:-1 tvg-id="南京十八" tvg-name="南京十八" tvg-logo="https://fy.188766.xyz/logo//sln162/iptv-back/logo/南京十八频道.png" group-title="冰茶地方",南京十八
-https://migu.188766.xyz/?migutoken=d3d52a0b52ec2edc2169f6ca50a42ae3&id=%E5%8D%97%E4%BA%AC%E5%8D%81%E5%85%AB%E9%A2%91%E9%81%93&type=yy
-#EXTINF:-1 tvg-id="盐城新闻综合" tvg-name="盐城新闻综合" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/盐城新闻综合.png" group-title="冰茶地方",盐城新闻综合
-https://migu.188766.xyz/?migutoken=609e1cdd7b60a325a4140c50f89f044e&id=%E7%9B%90%E5%9F%8E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
-#EXTINF:-1 tvg-id="淮安新闻综合" tvg-name="淮安新闻综合" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/淮安新闻综合.png" group-title="冰茶地方",淮安新闻综合
-https://migu.188766.xyz/?migutoken=444e509deccadf790f47da84cbac4e14&id=%E6%B7%AE%E5%AE%89%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
-#EXTINF:-1 tvg-id="泰州新闻综合" tvg-name="泰州新闻综合" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/泰州新闻综合.png" group-title="冰茶地方",泰州新闻综合
-https://migu.188766.xyz/?migutoken=0d344cc0e13d52fd9d5a5d717e73ed2a&id=%E6%B3%B0%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
-#EXTINF:-1 tvg-id="连云港新闻综合" tvg-name="连云港新闻综合" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/连云港新闻综合.png" group-title="冰茶地方",连云港新闻综合
-https://migu.188766.xyz/?migutoken=6975b394b18826563d0e0643eb27d975&id=%E8%BF%9E%E4%BA%91%E6%B8%AF%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
-#EXTINF:-1 tvg-id="宿迁新闻综合" tvg-name="宿迁新闻综合" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/宿迁新闻综合.png" group-title="冰茶地方",宿迁新闻综合
-https://migu.188766.xyz/?migutoken=f4d86dff47db0782949b964294040c9d&id=%E5%AE%BF%E8%BF%81%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
-#EXTINF:-1 tvg-id="徐州新闻综合" tvg-name="徐州新闻综合" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/徐州新闻综合.png" group-title="冰茶地方",徐州新闻综合
-https://migu.188766.xyz/?migutoken=6793fd3c1e10a0e9623f83350c43d984&id=%E5%BE%90%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
-
 
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="香港频道",翡翠台
@@ -1457,423 +1150,6 @@ http://php.jdshipin.com:8880/smt.php?id=Qiyi
 http://php.jdshipin.com:8880/smt.php?id=Quanjia
 #EXTINF:-1 tvg-id="Astro欢喜台" tvg-name="Astro欢喜台" tvg-logo="https://epg.v1.mk/logo/Astro欢喜台.png" group-title="香港频道",Astro欢喜台
 http://php.jdshipin.com:8880/smt.php?id=Huahee
-
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://php.946985.xyz/logo/翡翠台.png" group-title="MYTV",翡翠台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480
-https://mytvsuper.946985.qzz.io/__cl/slocalr43/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=0fd0e784f9572ba51de82421b1f8b377&ext_start_limit=1756491720&int_start_limit=1756491720&ts=1756491720&c=121779152
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://php.946985.xyz/logo/TVBPlus.png" group-title="MYTV",TVB Plus
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56603b65fa1d7383b6ef0e73b9ae69fa:5d9d8e957d2e45d8189a56fe8665aaaa
-https://mytvsuper.946985.qzz.io/__cl/slocalr87/__c/ott_B_hevc/__op/cenc_m/__f/index.mpd?sig=b88bcb471dff054ad3126ef7fee5408c&ext_start_limit=1756491720&int_start_limit=1756491720&ts=1756491720&c=121779152
-#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://php.946985.xyz/logo/无线新闻.png" group-title="MYTV",無綫新聞台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=90a0bd01d9f6cbb39839cd9b68fc26bc:51546d1f2af0547f0e961995b60a32a1
-https://mytvsuper.946985.qzz.io/__cl/slocalr43/__c/ott_C_hevc/__op/cenc_m/__f/index.mpd?sig=77b11c421f84a0ffd0adf4f8985a3883&ext_start_limit=1756491721&int_start_limit=1756491721&ts=1756491721&c=121779152
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://php.946985.xyz/logo/明珠台.png" group-title="MYTV",明珠台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e04facdd91354deee318c674993b74c1:8f97a629de680af93a652c3102b65898
-https://mytvsuper.946985.qzz.io/__cl/slocalr21/__c/ott_P_hevc/__op/cenc_m/__f/index.mpd?sig=56edc7406a0b1a246e0353819f98c269&ext_start_limit=1756491721&int_start_limit=1756491721&ts=1756491721&c=121779152
-#EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://php.946985.xyz/logo/凤凰中文.png" group-title="MYTV",鳳凰衛視中文台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7bca0771ba9205edb5d467ce2fdf0162:eb19c7e3cea34dc90645e33f983b15ab
-https://mytvsuper.946985.qzz.io/__cl/slocalr87/__c/ott_PCC_hevc/__op/cenc_m/__f/index.mpd?sig=d1f0398a724f2ef88d73a42a11539ae3&ext_start_limit=1756491721&int_start_limit=1756491721&ts=1756491721&c=121779152
-#EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="https://php.946985.xyz/logo/凤凰资讯.png" group-title="MYTV",鳳凰衛視資訊台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=83f7d313adfc0a5b978b9efa0421ce25:ecdc8065a46287bfb58e9f765e4eec2b
-https://mytvsuper.946985.qzz.io/__cl/slocalr65/__c/ott_PIN_hevc/__op/cenc_m/__f/index.mpd?sig=17009b7075360cb66393d4f8c90885a8&ext_start_limit=1756491722&int_start_limit=1756491722&ts=1756491722&c=121779152
-#EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-logo="https://php.946985.xyz/logo/凤凰香港.png" group-title="MYTV",鳳凰衛視香港台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cde62e1056eb3615dab7a3efd83f5eb4:b8685fbecf772e64154630829cf330a3
-https://mytvsuper.946985.qzz.io/__cl/slocalr65/__c/ott_PHK_hevc/__op/cenc_m/__f/index.mpd?sig=7188bb46824421cdcef8f828b5b895e7&ext_start_limit=1756491722&int_start_limit=1756491722&ts=1756491722&c=121779152
-#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://php.946985.xyz/logo/娱乐新闻.png" group-title="MYTV",娛樂新聞台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6fa0e47750b5e2fb6adf9b9a0ac431a3:a256220e6c2beaa82f4ca5fba4ec1f95
-https://mytvsuper.946985.qzz.io/__cl/slocalr21/__c/ott_CTVE_hevc/__op/cenc_m/__f/index.mpd?sig=74f7ac697bdac8d7cd211786cbf1ea60&ext_start_limit=1756491723&int_start_limit=1756491723&ts=1756491723&c=121779152
-#EXTINF:-1 tvg-id="SUPER FREE" tvg-name="SUPER FREE" tvg-logo="https://php.946985.xyz/logo/MytvSuper.png" group-title="MYTV",SUPER FREE
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0737b75ee8906c00bb7bb8f666da72a0:15f515458cdb5107452f943a111cbe89
-https://mytvsuper.946985.qzz.io/__cl/slocalr21/__c/ott_CWIN_hevc/__op/cenc_m/__f/index.mpd?sig=9499e58304cf2e8d627419d6654823ca&ext_start_limit=1756491723&int_start_limit=1756491723&ts=1756491723&c=121779152
-#EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://php.946985.xyz/logo/MytvSuper.png" group-title="MYTV",黃金翡翠台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8fe3db1a24969694ae3447f26473eb9f:5cce95833568b9e322f17c61387b306f
-https://mytvsuper.946985.qzz.io/__cl/slocalr43/__c/ott_TVG_hevc/__op/cenc_m/__f/index.mpd?sig=5dbfbd934a88aa7394d6b68b480e3e51&ext_start_limit=1756491724&int_start_limit=1756491724&ts=1756491724&c=121779152
-#EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://php.946985.xyz/logo/千禧经典.png" group-title="MYTV",千禧經典台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c308490b3198b62a988917253653692:660578b8966fe8012ad51b9aae7a5d78
-https://mytvsuper.946985.qzz.io/__cl/slocalr21/__c/ott_CTVC_hevc/__op/cenc_m/__f/index.mpd?sig=8e4d9dc08225481d329c801886abd798&ext_start_limit=1756491724&int_start_limit=1756491724&ts=1756491724&c=121779152
-#EXTINF:-1 tvg-id="華語劇台" tvg-name="華語劇台" tvg-logo="https://php.946985.xyz/logo/华语剧.png" group-title="MYTV",華語劇台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=baae227b5fc06e2545868d4a1c9ced14:8cd460458b0bdecca5c12791b6409278
-https://mytvsuper.946985.qzz.io/__cl/slocalr21/__c/ott_CDR3_hevc/__op/cenc_m/__f/index.mpd?sig=1739ae24c70a46755da2b93d0289583d&ext_start_limit=1756491725&int_start_limit=1756491725&ts=1756491725&c=121779152
-#EXTINF:-1 tvg-id="粵語片台" tvg-name="粵語片台" tvg-logo="https://php.946985.xyz/logo/粤语片.png" group-title="MYTV",粵語片台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5b90da7fd2f018bf85a757241075626f:75c0897b4cf5ce154ddae86eddb79cd3
-https://mytvsuper.946985.qzz.io/__cl/slocalr21/__c/ott_CCLM_hevc/__op/cenc_m/__f/index.mpd?sig=a439b37c32470500ffee5f27bebe5be5&ext_start_limit=1756491725&int_start_limit=1756491725&ts=1756491725&c=121779152
-#EXTINF:-1 tvg-id="亞洲劇台" tvg-name="亞洲劇台" tvg-logo="https://php.946985.xyz/logo/MytvSuper.png" group-title="MYTV",亞洲劇台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=df5c0e617dffc3e3c44cb733dccb33c0:7d00ec9cd4f54d5baf94c03edc8cfe25
-https://mytvsuper.946985.qzz.io/__cl/slocalr43/__c/ott_CTVS_hevc/__op/cenc_m/__f/index.mpd?sig=3e55af6c614086fb6468d288bd514880&ext_start_limit=1756491725&int_start_limit=1756491725&ts=1756491725&c=121779152
-#EXTINF:-1 tvg-id="黃金華劇台" tvg-name="黃金華劇台" tvg-logo="https://php.946985.xyz/logo/黄金华剧.png" group-title="MYTV",黃金華劇台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=acd93a5f665efd4feadb26f5ed48fd96:c6ce58ef9cce30638e0c2e9fc45a6dbd
-https://mytvsuper.946985.qzz.io/__cl/slocalr65/__c/ott_TVO_hevc/__op/cenc_m/__f/index.mpd?sig=07fe3ebc58178b49a71ef69f4b40a878&ext_start_limit=1756491726&int_start_limit=1756491726&ts=1756491726&c=121779152
-#EXTINF:-1 tvg-id="戲曲台" tvg-name="戲曲台" tvg-logo="https://php.946985.xyz/logo/MytvSuper.png" group-title="MYTV",戲曲台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c91c296ef6c46b3f2af1da257553bd17:d6e92d5e594f6f8e494a6e1c9df75298
-https://mytvsuper.946985.qzz.io/__cl/slocalr43/__c/ott_CCOC_hevc/__op/cenc_m/__f/index.mpd?sig=996051770e602fea8c3d915d532e690b&ext_start_limit=1756491726&int_start_limit=1756491726&ts=1756491726&c=121779152
-#EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://php.946985.xyz/logo/美亚电影.png" group-title="MYTV",美亞電影台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5d6f2afbd6b276312b0471a653828e1:ecbbb4a3ffa2200ae69058e20e71e91b
-https://mytvsuper.946985.qzz.io/__cl/slocalr21/__c/ott_CMAM_hevc/__op/cenc_m/__f/index.mpd?sig=d980658ba4cbb38ee8af2c59bdd31fd9&ext_start_limit=1756491727&int_start_limit=1756491727&ts=1756491727&c=121779152
-#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://php.946985.xyz/logo/Thrill.png" group-title="MYTV",Thrill
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b22355363ab2b09a6def54be0c89b9f2:4b196c2bf24b37e82a81031246de6efe
-https://mytvsuper.946985.qzz.io/__cl/slocalr43/__c/ott_CTHR_hevc/__op/cenc_m/__f/index.mpd?sig=35aed40cd0e29b0a646a5ced930625f8&ext_start_limit=1756491727&int_start_limit=1756491727&ts=1756491727&c=121779152
-#EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映經典頻道" tvg-logo="https://php.946985.xyz/logo/天映经典.png" group-title="MYTV",天映經典頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=627b6ca150887912bec47ae4a9b85269:2bf49b2105d20544a6db89c0577b9802
-https://mytvsuper.946985.qzz.io/__cl/slocalr21/__c/ott_CCCM_hevc/__op/cenc_m/__f/index.mpd?sig=46838104100b34bcc8c191a421083e87&ext_start_limit=1756491728&int_start_limit=1756491728&ts=1756491728&c=121779152
-#EXTINF:-1 tvg-id="中國電影頻道" tvg-name="中國電影頻道" tvg-logo="https://php.946985.xyz/logo/ChinaMovie.png" group-title="MYTV",中國電影頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cabb16d20e71b512f24e9ece0cb09396:2d43505980a22014ee1a476880982308
-https://mytvsuper.946985.qzz.io/__cl/slocalr21/__c/ott_CMC_hevc/__op/cenc_m/__f/index.mpd?sig=8b5ceab2432e6103f6f95845efac842b&ext_start_limit=1756491728&int_start_limit=1756491728&ts=1756491728&c=121779152
-#EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://php.946985.xyz/logo/RockAction.png" group-title="MYTV",ROCK Action
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=358eacad1f06e8e375493dabee96d865:461a02b2eb1232c6c100b95bd0bf40f8
-https://mytvsuper.946985.qzz.io/__cl/slocalr43/__c/ott_CRTX_hevc/__op/cenc_m/__f/index.mpd?sig=81e8ae27e5ba5727d95004c12c26e718&ext_start_limit=1756491728&int_start_limit=1756491728&ts=1756491728&c=121779152
-#EXTINF:-1 tvg-id="ROCK Extreme" tvg-name="ROCK Extreme" tvg-logo="https://php.946985.xyz/logo/RockExtreme.png" group-title="MYTV",ROCK Extreme
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56e7f3bf6e1f142a3ac51b2ca83e7919:ba733df582f18b4b9c990a52d61d2fc6
-https://mytvsuper.946985.qzz.io/__cl/slocalr43/__c/ott_RKEX_hevc/__op/cenc_m/__f/index.mpd?sig=96bbf7ed2f0b0b3e16779a49d0d95044&ext_start_limit=1756491729&int_start_limit=1756491729&ts=1756491729&c=121779152
-#EXTINF:-1 tvg-id="ROCK綜藝娛樂" tvg-name="ROCK綜藝娛樂" tvg-logo="https://php.946985.xyz/logo/RockEntertainment.png" group-title="MYTV",ROCK 綜藝娛樂
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=002d034731b6ac938ea7ba85bc3dc759:6694258c023d73492a10acb860bc6161
-https://mytvsuper.946985.qzz.io/__cl/slocalr43/__c/ott_CRTE_hevc/__op/cenc_m/__f/index.mpd?sig=874875df8cc32b0acbe85c9a272e805e&ext_start_limit=1756491729&int_start_limit=1756491729&ts=1756491729&c=121779152
-#EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://php.946985.xyz/logo/Kix.png" group-title="MYTV",KIX
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b4a44c5ef3217c55a357ad976d328b2:f3355e5a30722e631031b851642c27f1
-https://mytvsuper.946985.qzz.io/__cl/slocalr43/__c/ott_CKIX_hevc/__op/cenc_m/__f/index.mpd?sig=2aee48d9c4a76dcb1700759e344be23c&ext_start_limit=1756491730&int_start_limit=1756491730&ts=1756491730&c=121779152
-#EXTINF:-1 tvg-id="Love Nature HD" tvg-name="Love Nature HD" tvg-logo="https://php.946985.xyz/logo/LoveNature.png" group-title="MYTV",Love Nature
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03fb0f439f942f50d06bf23a511bf4f8:bae7115da07195263e50ae5fc8bbe4f3
-https://mytvsuper.946985.qzz.io/__cl/slocalr43/__c/ott_LNH_hevc/__op/cenc_m/__f/index.mpd?sig=4e0a3dc6540a8b7c06e3fbb9cede2652&ext_start_limit=1756491730&int_start_limit=1756491730&ts=1756491730&c=121779152
-#EXTINF:-1 tvg-id="Love Nature 4K" tvg-name="Love Nature 4K" tvg-logo="https://php.946985.xyz/logo/LoveNature4K.png" group-title="MYTV",Love Nature 4K
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=037c644cb92137ac5c8d653e952e4c8f:b3b2fcbe576a63cf3bbb9425da3de4cf
-https://mytvsuper.946985.qzz.io/__cl/slocalr21/__c/ott_LN4_hevc/__op/cenc_m/__f/index.mpd?sig=635785c527da118f197c9e610602c4fc&ext_start_limit=1756491730&int_start_limit=1756491730&ts=1756491730&c=121779152
-#EXTINF:-1 tvg-id="Global Trekker" tvg-name="Global Trekker" tvg-logo="https://php.946985.xyz/logo/GlobalTrekker.png" group-title="MYTV",Global Trekker
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a8f381c2a3114cc6c55f50b6ff0c78f3:86922e5993788488e1eca857c00d4fab
-https://mytvsuper.946985.qzz.io/__cl/slocalr43/__c/ott_SMS_hevc/__op/cenc_m/__f/index.mpd?sig=ee043d5f101153ff7cb41b71f4ce7b10&ext_start_limit=1756491731&int_start_limit=1756491731&ts=1756491731&c=121779152
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://php.946985.xyz/logo/AXN.png" group-title="MYTV",AXN
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=20bea0e14af0d3dcb63d4126e8b50172:07382de357a2b0cceabe82e0b37cb8de
-https://mytvsuper.946985.qzz.io/__cl/slocalr43/__c/ott_CAXN_hevc/__op/cenc_m/__f/index.mpd?sig=8ee31fb6e7e31d6c4aa76b51aee372d3&ext_start_limit=1756491731&int_start_limit=1756491731&ts=1756491731&c=121779152
-#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://php.946985.xyz/logo/Animax.png" group-title="MYTV",Animax
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b1a073dbd8272b0c99940db624ce8d74:9fec26ff4c6774a8bde881e5cb0fe82e
-https://mytvsuper.946985.qzz.io/__cl/slocalr43/__c/ott_CANI_hevc/__op/cenc_m/__f/index.mpd?sig=482e010730bed0af93e22897a2aa82b0&ext_start_limit=1756491732&int_start_limit=1756491732&ts=1756491732&c=121779152
-#EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-logo="https://php.946985.xyz/logo/tvN.png" group-title="MYTV",tvN
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=adcab9e8e5644ff35f04e4035cc6ad3b:d8e879e108a96fde6537c1b679c369b5
-https://mytvsuper.946985.qzz.io/__cl/slocalr43/__c/ott_CJTV_hevc/__op/cenc_m/__f/index.mpd?sig=fe9dc7cb5f1172c6fc7fcac7bd276bcc&ext_start_limit=1756491732&int_start_limit=1756491732&ts=1756491732&c=121779152
-#EXTINF:-1 tvg-id="無線衛星亞洲台" tvg-name="無線衛星亞洲台" tvg-logo="https://php.946985.xyz/logo/TVBS亚洲.png" group-title="MYTV",無線衛星亞洲台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad7b06658e8a36a06def6b3550bde35c:b672f89570a630abb1d2abb5030e6303
-https://mytvsuper.946985.qzz.io/__cl/slocalr65/__c/ott_CTS1_hevc/__op/cenc_m/__f/index.mpd?sig=fcb0896703ce9c4b0d5f1bfc6f8a7791&ext_start_limit=1756491732&int_start_limit=1756491732&ts=1756491732&c=121779152
-#EXTINF:-1 tvg-id="創世電視" tvg-name="創世電視" tvg-logo="https://php.946985.xyz/logo/创世电视.png" group-title="MYTV",創世電視
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=adef00c5ba927d01642b1e6f3cedc9fb:b45d912fec43b5bbd418ea7ea1fbcb60
-https://mytvsuper.946985.qzz.io/__cl/slocalr87/__c/ott_CRE_hevc/__op/cenc_m/__f/index.mpd?sig=ffc942bbfb47ccb48d8e22511f9c46d9&ext_start_limit=1756491733&int_start_limit=1756491733&ts=1756491733&c=121779152
-#EXTINF:-1 tvg-id="FashionBox" tvg-name="FashionBox" tvg-logo="https://php.946985.xyz/logo/FashionBox.png" group-title="MYTV",FashionBox
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4df52671ef55d2a7ac03db75e9bba2f7:4a3c16e8098c5021f32c7d4f66122477
-https://mytvsuper.946985.qzz.io/__cl/slocalr87/__c/ott_FBX_hevc/__op/cenc_m/__f/index.mpd?sig=a552416b300311fef2576b152eec0b2d&ext_start_limit=1756491733&int_start_limit=1756491733&ts=1756491733&c=121779152
-#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="Mezzo Live HD" tvg-logo="https://php.946985.xyz/logo/MezzoLive.png" group-title="MYTV",Mezzo Live HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e46f2747a9cf6822a608786bbc21d400:d8778fcf92c949e949a6700828f5f67e
-https://mytvsuper.946985.qzz.io/__cl/slocalr87/__c/ott_CMEZ_hevc/__op/cenc_m/__f/index.mpd?sig=25fd52175171c863f46d6dc4df807cd4&ext_start_limit=1756491734&int_start_limit=1756491734&ts=1756491734&c=121779152
-#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://php.946985.xyz/logo/PopC.png" group-title="MYTV",PopC
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=221591babff135a71961d09399d2c922:c80ca4c7b801a76a07179dfb7debb57d
-https://mytvsuper.946985.qzz.io/__cl/slocalr21/__c/ott_POPC_hevc/__op/cenc_m/__f/index.mpd?sig=12713409cb5caa5d7923997d46352505&ext_start_limit=1756491734&int_start_limit=1756491734&ts=1756491734&c=121779152
-#EXTINF:-1 tvg-id="無線衛星新聞台" tvg-name="無線衛星新聞台" tvg-logo="https://php.946985.xyz/logo/TVBS新闻.png" group-title="MYTV",無線衛星新聞台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=73aaeb9e84db423627018017059e0f9d:34148a56250459383f7ef7369073bf39
-https://mytvsuper.946985.qzz.io/__cl/slocalr87/__c/ott_CTSN_hevc/__op/cenc_m/__f/index.mpd?sig=8ae731facb6ef5e5dadc7238fad2ce7c&ext_start_limit=1756491735&int_start_limit=1756491735&ts=1756491735&c=121779152
-#EXTINF:-1 tvg-id="亞洲新聞台" tvg-name="亞洲新聞台" tvg-logo="https://php.946985.xyz/logo/CNA.png" group-title="MYTV",亞洲新聞台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ddc7bb2603628134334919a0d7327d1d:a5fcd8bb852371faedd13b684f5adede
-https://mytvsuper.946985.qzz.io/__cl/slocalr87/__c/ott_CCNA_hevc/__op/cenc_m/__f/index.mpd?sig=2a1610f63500426b1bf13d8beb79d8e6&ext_start_limit=1756491735&int_start_limit=1756491735&ts=1756491735&c=121779152
-#EXTINF:-1 tvg-id="半島電視台英語頻道" tvg-name="半島電視台英語頻道" tvg-logo="https://php.946985.xyz/logo/半岛电视台.png" group-title="MYTV",半島電視台英語頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=80c76105d3ae35dfe25f939d1fb83383:6d76e7ba039773bced47d78e6de4fcf0
-https://mytvsuper.946985.qzz.io/__cl/slocalr65/__c/ott_CJAZ_hevc/__op/cenc_m/__f/index.mpd?sig=b2e5e99059c0d1b17603eca9e1eac82c&ext_start_limit=1756491736&int_start_limit=1756491736&ts=1756491736&c=121779152
-#EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="https://php.946985.xyz/logo/FRANCE24.png" group-title="MYTV",France 24
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2d4f6b8755a918d2126a2ee78791cf0b:c392acc1a1a070d2bcdf518d99d88406
-https://mytvsuper.946985.qzz.io/__cl/slocalr87/__c/ott_CF24_hevc/__op/cenc_m/__f/index.mpd?sig=ccdc8ba8a0717d4ede8cfe3d2b41a0d4&ext_start_limit=1756491736&int_start_limit=1756491736&ts=1756491736&c=121779152
-#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://php.946985.xyz/logo/DW.png" group-title="MYTV",DW
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2bb557c09dfc01a27ab81778913f2a10:d00ca6eb9a83ffde846324109fb445ba
-https://mytvsuper.946985.qzz.io/__cl/slocalr87/__c/ott_CDW1_hevc/__op/cenc_m/__f/index.mpd?sig=9e11c7b4c0913a45313b3afa00df58d7&ext_start_limit=1756491737&int_start_limit=1756491737&ts=1756491737&c=121779152
-#EXTINF:-1 tvg-id="NHK World-Japan" tvg-name="NHK World-Japan" tvg-logo="https://php.946985.xyz/logo/NHKWORLD.png" group-title="MYTV",NHK World-Japan
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c2ecde1c31185ab61ed4689b87ae332:54895a656e053a73b39882e7a56d642b
-https://mytvsuper.946985.qzz.io/__cl/slocalr87/__c/ott_CNHK_hevc/__op/cenc_m/__f/index.mpd?sig=e78879416bedf5714540cfab3268ee02&ext_start_limit=1756491737&int_start_limit=1756491737&ts=1756491737&c=121779152
-#EXTINF:-1 tvg-id="Arirang TV" tvg-name="Arirang TV" tvg-logo="https://php.946985.xyz/logo/Arirang.png" group-title="MYTV",Arirang TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3ae14e72f585eaf14b18d8d9515d43f:ce0e375c3966263877078aadd815742e
-https://mytvsuper.946985.qzz.io/__cl/slocalr65/__c/ott_CARI_hevc/__op/cenc_m/__f/index.mpd?sig=59bb076c0a2a81e7b1fb23e43f2a062b&ext_start_limit=1756491737&int_start_limit=1756491737&ts=1756491737&c=121779152
-#EXTINF:-1 tvg-id="SUPER Sports" tvg-name="SUPER Sports" tvg-logo="https://php.946985.xyz/logo/MytvSuper.png" group-title="MYTV",SUPER Sports
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d57dc882191c22a9f8185ab7e9a629b:0d2b2edbea04dde8ff880d20e20261ad
-https://mytvsuper.946985.qzz.io/__cl/slocalr21/__c/ott_SSPT_hevc/__op/cenc_m/__f/index.mpd?sig=42e8a453d34881edd9ee12451be3b79b&ext_start_limit=1756491738&int_start_limit=1756491738&ts=1756491738&c=121779152
-#EXTINF:-1 tvg-id="myTV SUPER 18台" tvg-name="myTV SUPER 18台" tvg-logo="https://php.946985.xyz/logo/MytvSuper.png" group-title="MYTV",myTV SUPER 18台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=72de7d0a1850c8d40c5bdf9747a4ca7c:4967537ff0bc8209277160759de4adef
-https://mytvsuper.946985.qzz.io/__cl/slocalr43/__c/ott_C18_hevc/__op/cenc_m/__f/index.mpd?sig=4519fe00f2703b0b46e308adff94e3e6&ext_start_limit=1756491738&int_start_limit=1756491738&ts=1756491738&c=121779152
-#EXTINF:-1 tvg-id="28AI智慧賽馬" tvg-name="28AI智慧賽馬" tvg-logo="https://php.946985.xyz/logo/MytvSuper.png" group-title="MYTV",28 AI 智慧賽馬
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b778a3241e5fa3bb97d1cb9b57f9e09:3b1f318259fcf0dccd04742cd679fd25
-https://mytvsuper.946985.qzz.io/__cl/slocalr43/__c/ott_C28_hevc/__op/cenc_m/__f/index.mpd?sig=9e731835ef3ac247959b02dfb8c80e55&ext_start_limit=1756491738&int_start_limit=1756491738&ts=1756491738&c=121779152
-#EXTINF:-1 tvg-id="myTV SUPER直播足球2台" tvg-name="myTV SUPER直播足球2台" tvg-logo="https://php.946985.xyz/logo/MytvSuper.png" group-title="MYTV",myTV SUPER 直播足球2台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=024f2733fb9afad23490149c601ce47c:034db34d56263c79c7f41448f2a6cfc1
-https://mytvsuper.946985.qzz.io/__cl/slocalr87/__c/ott_EVT2_hevc/__op/cenc_m/__f/index.mpd?sig=c1cb3f38b1678b8bcfd2ec6eb4c9d889&ext_start_limit=1756491739&int_start_limit=1756491739&ts=1756491739&c=121779152
-#EXTINF:-1 tvg-id="myTV SUPER直播足球3台" tvg-name="myTV SUPER直播足球3台" tvg-logo="https://php.946985.xyz/logo/MytvSuper.png" group-title="MYTV",myTV SUPER 直播足球3台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=84f456002b780253dab5534e9713323c:65aeb769264f41037cec607813e91bae
-https://mytvsuper.946985.qzz.io/__cl/slocalr21/__c/ott_EVT3_hevc/__op/cenc_m/__f/index.mpd?sig=c0d2fad510e6e1b688a3420264df8c79&ext_start_limit=1756491739&int_start_limit=1756491739&ts=1756491739&c=121779152
-#EXTINF:-1 tvg-id="myTV SUPER直播足球4台" tvg-name="myTV SUPER直播足球4台" tvg-logo="https://php.946985.xyz/logo/MytvSuper.png" group-title="MYTV",myTV SUPER直播足球4台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=848d6d82c14ffd12adf4a7b49afdc978:3221125831a2f980139c34b35def3b0d
-https://mytvsuper.946985.qzz.io/__cl/slocalr65/__c/ott_EVT4_hevc/__op/cenc_m/__f/index.mpd?sig=947b1e27d7410beb32e453b05c36a49a&ext_start_limit=1756491740&int_start_limit=1756491740&ts=1756491740&c=121779152
-#EXTINF:-1 tvg-id="myTV SUPER直播足球5台" tvg-name="myTV SUPER直播足球5台" tvg-logo="https://php.946985.xyz/logo/MytvSuper.png" group-title="MYTV",myTV SUPER 直播足球5台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=54700d7a381b80ae395a312e03a9abeb:7c68d289628867bf691b42e90a50d349
-https://mytvsuper.946985.qzz.io/__cl/slocalr43/__c/ott_EVT5_hevc/__op/cenc_m/__f/index.mpd?sig=2edd33e9421543b84bebdb940215b06a&ext_start_limit=1756491740&int_start_limit=1756491740&ts=1756491740&c=121779152
-#EXTINF:-1 tvg-id="myTV SUPER直播足球6台" tvg-name="myTV SUPER直播足球6台" tvg-logo="https://php.946985.xyz/logo/MytvSuper.png" group-title="MYTV",myTV SUPER 直播足球6台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e069fc056280e4caa7d0ffb99024c05a:d3693103f232f28b4781bbc7e499c43a
-https://mytvsuper.946985.qzz.io/__cl/slocalr87/__c/ott_EVT6_hevc/__op/cenc_m/__f/index.mpd?sig=5fe3a5010f407173affdee043b429003&ext_start_limit=1756491740&int_start_limit=1756491740&ts=1756491740&c=121779152
-#EXTINF:-1 tvg-id="myTV SUPER直播足球7台" tvg-name="myTV SUPER直播足球7台" tvg-logo="https://php.946985.xyz/logo/MytvSuper.png" group-title="MYTV",myTV SUPER 直播足球7台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a81a757b16a3d431d4365d81f07f07:292f2fdc2002e8346cd2c18af4a3a4bc
-https://mytvsuper.946985.qzz.io/__cl/slocalr43/__c/ott_EVT7_hevc/__op/cenc_m/__f/index.mpd?sig=bd585df22150d5b8fb524e0ed87bdb60&ext_start_limit=1756491741&int_start_limit=1756491741&ts=1756491741&c=121779152
-#EXTINF:-1 tvg-id="互動窗 1" tvg-name="互動窗 1" tvg-logo="https://php.946985.xyz/logo/MytvSuper.png" group-title="MYTV",互動窗 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f07372db27b162d69adf9aa612ae3364:da1631a2b2a836c5b7a3d044a18a4f16
-https://mytvsuper.946985.qzz.io/__cl/slocalr21/__c/ott_C3_hevc/__op/cenc_m/__f/index.mpd?sig=2a9f9638e473d01e88cbd6b8e7d1c412&ext_start_limit=1756491741&int_start_limit=1756491741&ts=1756491741&c=121779152
-#EXTINF:-1 tvg-id="互動窗 2" tvg-name="互動窗 2" tvg-logo="https://php.946985.xyz/logo/MytvSuper.png" group-title="MYTV",互動窗 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1ba88eacde780c7567255b8b33026ae5:f7df792aab8992b79d72a8d01987ecb5
-https://mytvsuper.946985.qzz.io/__cl/slocalr43/__c/ott_C2_hevc/__op/cenc_m/__f/index.mpd?sig=368fdea3349c0da4b01f3df8004cc11c&ext_start_limit=1756491742&int_start_limit=1756491742&ts=1756491742&c=121779152
-#EXTINF:-1 tvg-id="SUPER Kids Channel" tvg-name="SUPER Kids Channel" tvg-logo="https://php.946985.xyz/logo/SUPERKidsChannel.png" group-title="MYTV",SUPER Kids Channel
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=42527ca90ad525ba2eac9979c93d3bca:b730006ad1da48b412ceb1f9e36a833d
-https://mytvsuper.946985.qzz.io/__cl/slocalr65/__c/ott_KID_hevc/__op/cenc_m/__f/index.mpd?sig=59e005710fc2eb3bd51d2765999351c8&ext_start_limit=1756491742&int_start_limit=1756491742&ts=1756491742&c=121779152
-#EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZooMoo" tvg-logo="https://php.946985.xyz/logo/ZooMoo.png" group-title="MYTV",ZooMoo
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c302eb50bef5a9589d97cb90982b05e:2603e646caafe22bc4e8a17b5a2dd55b
-https://mytvsuper.946985.qzz.io/__cl/slocalr43/__c/ott_ZOO_hevc/__op/cenc_m/__f/index.mpd?sig=2b9e2bd06ee2120436963fc86a2ed575&ext_start_limit=1756491743&int_start_limit=1756491743&ts=1756491743&c=121779152
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://php.946985.xyz/logo/Nickelodeon.png" group-title="MYTV",Nickelodeon
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0e69430290ed7b00af4db78419dcad8b:e4769b57a66e8e9737d6d86f317600c0
-https://mytvsuper.946985.qzz.io/__cl/slocalr43/__c/ott_CNIKO_hevc/__op/cenc_m/__f/index.mpd?sig=1464edc4e429502b1b00e0c22acb586f&ext_start_limit=1756491743&int_start_limit=1756491743&ts=1756491743&c=121779152
-#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="https://php.946985.xyz/logo/Nickjr.png" group-title="MYTV",Nick Jr.
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f1385d2a12a67b572b9d968eb850337:3086bcd49a909606a8686858c05c7e33
-https://mytvsuper.946985.qzz.io/__cl/slocalr21/__c/ott_CNIJR_hevc/__op/cenc_m/__f/index.mpd?sig=a7461d36173917017d64cfeea4349b34&ext_start_limit=1756491743&int_start_limit=1756491743&ts=1756491743&c=121779152
-#EXTINF:-1 tvg-id="SUPER獎門人" tvg-name="SUPER獎門人" tvg-logo="https://php.946985.xyz/logo/MytvSuper.png" group-title="MYTV",SUPER 獎門人
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=977869c9cd6aa804921a2e20724b9e6c:16f76fa19ae5199c920de5cfc1a6ca1e
-https://mytvsuper.946985.qzz.io/__cl/slocalr21/__c/ott_SVAR_hevc/__op/cenc_m/__f/index.mpd?sig=73a530385fe5797e04130c45bd06ca5a&ext_start_limit=1756491744&int_start_limit=1756491744&ts=1756491744&c=121779152
-#EXTINF:-1 tvg-id="SUPER EYT" tvg-name="SUPER EYT" tvg-logo="https://php.946985.xyz/logo/MytvSuper.png" group-title="MYTV",SUPER EYT
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c83f061a8685a0071fc62c65b6ab7af3:b8cf98951b940dca9174230430faf10d
-https://mytvsuper.946985.qzz.io/__cl/slocalr21/__c/ott_SEYT_hevc/__op/cenc_m/__f/index.mpd?sig=ab1d47e5c4d612e685819d79239ae4ea&ext_start_limit=1756491744&int_start_limit=1756491744&ts=1756491744&c=121779152
-#EXTINF:-1 tvg-id="SUPER識食" tvg-name="SUPER識食" tvg-logo="https://php.946985.xyz/logo/MytvSuper.png" group-title="MYTV",SUPER 識食
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2370118ce3d6fafe17502b0176abf9ae:357c7b5a9d01c25d8e30e46cc396de08
-https://mytvsuper.946985.qzz.io/__cl/slocalr43/__c/ott_SFOO_hevc/__op/cenc_m/__f/index.mpd?sig=d2651baca38e1ab7494ea0d27a08c901&ext_start_limit=1756491745&int_start_limit=1756491745&ts=1756491745&c=121779152
-#EXTINF:-1 tvg-id="SUPER識嘆" tvg-name="SUPER識嘆" tvg-logo="https://php.946985.xyz/logo/MytvSuper.png" group-title="MYTV",SUPER 識嘆
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=206a559933b51efbba226fe939040d68:c671ac5afccd7f2d26839e6d9b91d130
-https://mytvsuper.946985.qzz.io/__cl/slocalr21/__c/ott_STRA_hevc/__op/cenc_m/__f/index.mpd?sig=aedd0d00417a55424d3f759a87559279&ext_start_limit=1756491745&int_start_limit=1756491745&ts=1756491745&c=121779152
-#EXTINF:-1 tvg-id="SUPER Music" tvg-name="SUPER Music" tvg-logo="https://php.946985.xyz/logo/MytvSuper.png" group-title="MYTV",SUPER Music
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d321fc47b49372df79500c8b7a5e9fc:0c4be4e8f7ccedced7de0b7434493be4
-https://mytvsuper.946985.qzz.io/__cl/slocalr43/__c/ott_SMUS_hevc/__op/cenc_m/__f/index.mpd?sig=b56af736344a875ed8bfe86fcedc6cf5&ext_start_limit=1756491745&int_start_limit=1756491745&ts=1756491745&c=121779152
-#EXTINF:-1 tvg-id="SUPER金曲" tvg-name="SUPER金曲" tvg-logo="https://php.946985.xyz/logo/MytvSuper.png" group-title="MYTV",SUPER 金曲
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d841bf650caca3bf4441a536ae8580d5:c401a71b63dfa7bab1be378605973c2c
-https://mytvsuper.946985.qzz.io/__cl/slocalr43/__c/ott_SGOL_hevc/__op/cenc_m/__f/index.mpd?sig=1e4b72f8d9cbc92d7297881a5cba2c0f&ext_start_limit=1756491746&int_start_limit=1756491746&ts=1756491746&c=121779152
-#EXTINF:-1 tvg-id="SUPER煲劇" tvg-name="SUPER煲劇" tvg-logo="https://php.946985.xyz/logo/MytvSuper.png" group-title="MYTV",SUPER 煲劇
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=203638a2e2fd4786190a58393640de54:97e1ec12dda5ee64561e072d9825e3b0
-https://mytvsuper.946985.qzz.io/__cl/slocalr21/__c/ott_SSIT_hevc/__op/cenc_m/__f/index.mpd?sig=577a7521001805481b9531a832c9c05e&ext_start_limit=1756491746&int_start_limit=1756491746&ts=1756491746&c=121779152
-#EXTINF:-1 tvg-id="SUPER劇場" tvg-name="SUPER劇場" tvg-logo="https://php.946985.xyz/logo/MytvSuper.png" group-title="MYTV",SUPER 劇場
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b6c020768505fa6c7910726b8ca302f0:4b5cba6d27559e6f28a232791f068824
-https://mytvsuper.946985.qzz.io/__cl/slocalr43/__c/ott_STVM_hevc/__op/cenc_m/__f/index.mpd?sig=835e0c290a17b9b91f377a8cb44c3d50&ext_start_limit=1756491746&int_start_limit=1756491746&ts=1756491746&c=121779152
-#EXTINF:-1 tvg-id="SUPER話當年" tvg-name="SUPER話當年" tvg-logo="https://php.946985.xyz/logo/MytvSuper.png" group-title="MYTV",SUPER 話當年
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=248ed59a4671da39b3bb71f860760b91:b0bd7d1495e3df963ae21790551094e1
-https://mytvsuper.946985.qzz.io/__cl/slocalr21/__c/ott_SDOC_hevc/__op/cenc_m/__f/index.mpd?sig=9b30de358394df9d237ab4188a737236&ext_start_limit=1756491747&int_start_limit=1756491747&ts=1756491747&c=121779152
-#EXTINF:-1 tvg-id="中央電視台綜合頻道 (港澳版)" tvg-name="中央電視台綜合頻道 (港澳版)" tvg-logo="https://php.946985.xyz/logo/CCTV1.png" group-title="MYTV",中央電視台 綜合頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e50b18fee7cab76b9f2822e2ade8773a:2e2e8602b6d835ccf10ee56a9a7d91a2
-https://mytvsuper.946985.qzz.io/__cl/slocalr65/__c/ott_CC1_hevc/__op/cenc_m/__f/index.mpd?sig=b8d8561ceefdab0442e3bd1989d57ff6&ext_start_limit=1756491747&int_start_limit=1756491747&ts=1756491747&c=121779152
-#EXTINF:-1 tvg-id="中國中央電視台中文國際頻道" tvg-name="中國中央電視台中文國際頻道" tvg-logo="https://php.946985.xyz/logo/CCTV4.png" group-title="MYTV",中央電視台 中文國際頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9b2762e6912e2f37a1cad1df9af6dc6e:f4edc1240a3e852661c0607db463a6dd
-https://mytvsuper.946985.qzz.io/wozlive12/ulive_m_super/ott_CC4_h264_1.stream/manifest.mpd?sig=156cae408494a8a14c609eda804b10ec&ext_start_limit=1756491748&int_start_limit=1756491748&ts=1756491748&c=121779152
-#EXTINF:-1 tvg-id="中國中央電視台娛樂頻道" tvg-name="中國中央電視台娛樂頻道" tvg-logo="https://php.946985.xyz/logo/CCTV娱乐.png" group-title="MYTV",中央電視台 娛樂頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e173591f7ab25dbc47f6c05abcbb92c7:21c5e4987d1e255d0e171280ad13d815
-https://mytvsuper.946985.qzz.io/wozlive21/ulive_m_super/ott_CCE_h264_1.stream/manifest.mpd?sig=cb7a80561643e4c8bd894ca2561a0285&ext_start_limit=1756491748&int_start_limit=1756491748&ts=1756491748&c=121779152
-#EXTINF:-1 tvg-id="中國中央電視台戲曲頻道" tvg-name="中國中央電視台戲曲頻道" tvg-logo="https://php.946985.xyz/logo/CCTV戏曲.png" group-title="MYTV",中央電視台 戲曲頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=310ee76e894b8361fefdedf5c7b50983:f113fcca4a982e53ba2fc31e7fbf6e2c
-https://mytvsuper.946985.qzz.io/wozlive21/ulive_m_super/ott_CCO_h264_1.stream/manifest.mpd?sig=f3585c24d380035808793ac2c7e11d50&ext_start_limit=1756491749&int_start_limit=1756491749&ts=1756491749&c=121779152
-#EXTINF:-1 tvg-id="CGTN (中國環球電視網)記錄頻道" tvg-name="CGTN (中國環球電視網)記錄頻道" tvg-logo="https://php.946985.xyz/logo/CGTN纪录.png" group-title="MYTV",CGTN 記錄頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b570ae67cb063428b158eb2f91c6d77c:c573dabca79a17f81755c0d4b33384bc
-https://mytvsuper.946985.qzz.io/__cl/slocalr87/__c/ott_CGD_hevc/__op/cenc_m/__f/index.mpd?sig=85a790bc98f4a9c16a626789524103bc&ext_start_limit=1756491749&int_start_limit=1756491749&ts=1756491749&c=121779152
-#EXTINF:-1 tvg-id="CGTN (中國環球電視網)英語頻道" tvg-name="CGTN (中國環球電視網)英語頻道" tvg-logo="https://php.946985.xyz/logo/CGTN.png" group-title="MYTV",CGTN 英語頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4331903278b673916cc6940a8b8d9e7e:02a409115819de9acd9e907b053e3aa8
-https://mytvsuper.946985.qzz.io/__cl/slocalr65/__c/ott_CGE_hevc/__op/cenc_m/__f/index.mpd?sig=02cc7ee4f9303de8c82779e8dbc8eea0&ext_start_limit=1756491749&int_start_limit=1756491749&ts=1756491749&c=121779152
-#EXTINF:-1 tvg-id="雲南瀾湄國際衛視" tvg-name="雲南瀾湄國際衛視" tvg-logo="https://php.946985.xyz/logo/澜湄国际.png" group-title="MYTV",雲南瀾湄國際衛視
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ec2be4ec767b0a7b23bb9d665c39dab:738f330e2e319ee51ebcb8f2d0614f0a
-https://mytvsuper.946985.qzz.io/wozlive12/ulive_m_super/ott_YNTV_h264_1.stream/manifest.mpd?sig=621249bf92f35f778307799ad7f7f390&ext_start_limit=1756491750&int_start_limit=1756491750&ts=1756491750&c=121779152
-#EXTINF:-1 tvg-id="東方衛視國際頻道" tvg-name="東方衛視國際頻道" tvg-logo="https://php.946985.xyz/logo/东方卫视.png" group-title="MYTV",東方衛視國際頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9d6a139158dd1fcd807d1cfc8667e965:f643ba9204ebba7a5ffd3970cfbc794c
-https://mytvsuper.946985.qzz.io/__cl/slocalr65/__c/ott_DTV_hevc/__op/cenc_m/__f/index.mpd?sig=de4593fbab7534c6935d984f4e3a0bfe&ext_start_limit=1756491750&int_start_limit=1756491750&ts=1756491750&c=121779152
-#EXTINF:-1 tvg-id="安徽廣播電視台國際頻道" tvg-name="安徽廣播電視台國際頻道" tvg-logo="https://php.946985.xyz/logo/安徽卫视.png" group-title="MYTV",安徽廣播電視台國際頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=460151d2b91a7504c6e7fcdc2e5b3ccc:a2900973ab6de674a8535fd1627f8cce
-https://mytvsuper.946985.qzz.io/wozlive12/ulive_m_super/ott_AHTV_h264_1.stream/manifest.mpd?sig=01d2b3606660f636ca7aa6b03abd9163&ext_start_limit=1756491750&int_start_limit=1756491750&ts=1756491750&c=121779152
-#EXTINF:-1 tvg-id="北京電視台國際頻道" tvg-name="北京電視台國際頻道" tvg-logo="https://php.946985.xyz/logo/北京卫视.png" group-title="MYTV",北京電視台國際頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a8965a188153cee562c067ba66b0f0fb:c373bfab2e75b979beefbb6b370bcdc2
-https://mytvsuper.946985.qzz.io/wozlive12/ulive_m_super/ott_BJTV_h264_1.stream/manifest.mpd?sig=93fd39c2782e6f6e7ff049594e1d205e&ext_start_limit=1756491751&int_start_limit=1756491751&ts=1756491751&c=121779152
-#EXTINF:-1 tvg-id="廣西電視台國際頻道" tvg-name="廣西電視台國際頻道" tvg-logo="https://php.946985.xyz/logo/广西卫视.png" group-title="MYTV",廣西電視台國際頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e5d541db8252789f10a05d4b26325532:0b2fb5ab1b5c9df031e7086147a0f853
-https://mytvsuper.946985.qzz.io/wozlive21/ulive_m_super/ott_GXTV_h264_1.stream/manifest.mpd?sig=c5d1da7e54c2eb95d6847a9422f607cb&ext_start_limit=1756491751&int_start_limit=1756491751&ts=1756491751&c=121779152
-#EXTINF:-1 tvg-id="福建海峽衛視國際頻道" tvg-name="福建海峽衛視國際頻道" tvg-logo="https://php.946985.xyz/logo/海峡卫视.png" group-title="MYTV",福建海峽衛視國際頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d5e3a2fd144c5f196cbcb9d037b417d:7be2fcb0ee5efe52ff95b0866f183abb
-https://mytvsuper.946985.qzz.io/wozlive12/ulive_m_super/ott_FJTV_h264_1.stream/manifest.mpd?sig=32f37b99ff24d350f2da7e8faaf157e1&ext_start_limit=1756491752&int_start_limit=1756491752&ts=1756491752&c=121779152
-#EXTINF:-1 tvg-id="湖南電視台國際頻道" tvg-name="湖南電視台國際頻道" tvg-logo="https://php.946985.xyz/logo/湖南卫视.png" group-title="MYTV",湖南電視台國際頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a43885f5c495e3ce5b1162ecb5c35c03:e506caf7a71025850e8823c07a1b29dc
-https://mytvsuper.946985.qzz.io/wozlive21/ulive_m_super/ott_HNTV_h264_1.stream/manifest.mpd?sig=aae457709cf5ee494ed1fae04d2d3373&ext_start_limit=1756491752&int_start_limit=1756491752&ts=1756491752&c=121779152
-#EXTINF:-1 tvg-id="江蘇電視台國際頻道" tvg-name="江蘇電視台國際頻道" tvg-logo="https://php.946985.xyz/logo/江苏卫视.png" group-title="MYTV",江蘇電視台國際頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5287fd241995f7b097597c4349bea5b5:23398eb21eee12ddb9a9df1dd6373687
-https://mytvsuper.946985.qzz.io/wozlive21/ulive_m_super/ott_JSTV_h264_1.stream/manifest.mpd?sig=1853624382aae860ef2e86b72e3ce3a4&ext_start_limit=1756491752&int_start_limit=1756491752&ts=1756491752&c=121779152
-#EXTINF:-1 tvg-id="廣東廣播電視台大灣區衛視頻道" tvg-name="廣東廣播電視台大灣區衛視頻道" tvg-logo="https://php.946985.xyz/logo/广东卫视.png" group-title="MYTV",廣東廣播電視台大灣區衛視頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=25049a9d742e24329e009d2a8a02b4bd:914a1b9442ba239aaa5a8f63c6e10f83
-https://mytvsuper.946985.qzz.io/wozlive21/ulive_m_super/ott_GBTV_h264_1.stream/manifest.mpd?sig=d3fe6cfc7ca9c1ce56d97904690e2e40&ext_start_limit=1756491753&int_start_limit=1756491753&ts=1756491753&c=121779152
-#EXTINF:-1 tvg-id="浙江電視台國際頻道" tvg-name="浙江電視台國際頻道" tvg-logo="https://php.946985.xyz/logo/浙江卫视.png" group-title="MYTV",浙江電視台國際頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8799940a2a97f5eb997753983be48fe5:53c4b68330f10e5507d3c0647703031e
-https://mytvsuper.946985.qzz.io/wozlive21/ulive_m_super/ott_ZJTV_h264_1.stream/manifest.mpd?sig=b20f9c825b8fc102a86c4d4c39ac9dd6&ext_start_limit=1756491753&int_start_limit=1756491753&ts=1756491753&c=121779152
-#EXTINF:-1 tvg-id="深圳衛視國際頻道" tvg-name="深圳衛視國際頻道" tvg-logo="https://php.946985.xyz/logo/深圳卫视.png" group-title="MYTV",深圳衛視國際頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a265a47191734322dc32596c771887cc:5d19d055e814b3fcc521afe772ecf110
-https://mytvsuper.946985.qzz.io/wozlive12/ulive_m_super/ott_SZTV_h264_1.stream/manifest.mpd?sig=3e22bac76e04418d9f2903907039281b&ext_start_limit=1756491754&int_start_limit=1756491754&ts=1756491754&c=121779152
-
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="JULI",翡翠台
 https://mytv.946985.qzz.io/hls/fct/playlist.m3u8
