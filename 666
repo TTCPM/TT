@@ -82,15 +82,15 @@ https://mursor.ottiptv.cc/mcp/fyjc.m3u8
 https://mursor.ottiptv.cc/mcp/hjjc.m3u8
 #EXTINF:-1,tvg-id="CGTNALBY" tvg-name="CGTNALBY" tvg-logo="https://11.112114.xyz/logo/CGTNALBY.png" group-title="央视MCP",cgtnar-MCP
 https://mursor.ottiptv.cc/mcp/cgtnar.m3u8
-#EXTINF:-1,tvg-id="cgtndocumentary" tvg-name="cgtndocumentary" tvg-logo="https://11.112114.xyz/logo/cgtndocumentary.png" group-title="央视MCPP",cgtndoc-MCP
+#EXTINF:-1,tvg-id="cgtndocumentary" tvg-name="cgtndocumentary" tvg-logo="https://11.112114.xyz/logo/cgtndocumentary.png" group-title="央视MCP",cgtndoc-MCP
 https://mursor.ottiptv.cc/mcp/cgtndoc.m3u8
-#EXTINF:-1,tvg-id="CGTNEN" tvg-name="CGTNEN" tvg-logo="https://11.112114.xyz/logo/CGTN.png" group-title="央央视MCP",cgtn-MCP
+#EXTINF:-1,tvg-id="CGTNEN" tvg-name="CGTNEN" tvg-logo="https://11.112114.xyz/logo/CGTN.png" group-title="央视MCP",cgtn-MCP
 https://mursor.ottiptv.cc/mcp/cgtn.m3u8
 #EXTINF:-1,tvg-id="cgtnfrench" tvg-name="cgtnfrench" tvg-logo="https://11.112114.xyz/logo/cgtnfrench.png" group-title="央视MCP",cgtnfr-MCP
 https://mursor.ottiptv.cc/mcp/cgtnfr.m3u8
 #EXTINF:-1,tvg-id="cgtnru" tvg-name="cgtnru" tvg-logo="https://11.112114.xyz/logo/CGTN1.png" group-title="央视MCP",cgtnru-MCP
 https://mursor.ottiptv.cc/mcp/cgtnru.m3u8
-#EXTINF:-1,tvg-id="cgtnsp" tvg-name="cgtnsp" tvg-logo="https://11.112114.xyz/logo/CGTN1.png" group-title="央央视MCP",cgtnsp-MCP
+#EXTINF:-1,tvg-id="cgtnsp" tvg-name="cgtnsp" tvg-logo="https://11.112114.xyz/logo/CGTN1.png" group-title="央视MCP",cgtnsp-MCP
 https://mursor.ottiptv.cc/mcp/cgtnsp.m3u8
 
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/002/275/202107191641_5100001716_H169_1080.jpg" group-title="地方", 上海新闻综合
