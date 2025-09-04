@@ -1,4 +1,5 @@
-
+测试着完,#genre#
+要你管啊！,http://127.0.0.1:35651/aHR0cDovLzEyNy4wLjAuMTo5NTYwLzkwc2NuL2luZGV4Lm0zdTg/di5jaGFubmVsaWQ9MjE5MSZ2LnR5cGU9MSZpcHM9NjUuMjEuOTMuMjA3OjE5NTk1
 JULI,#genre#
 翡翠台,https://mytv.946985.qzz.io/hls/fct/playlist.m3u8
 翡翠台,https://cdn6.946985.qzz.io/live/fct/stream.m3u8
@@ -541,36 +542,6 @@ FASHIONONE,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_d
 
 
 冰茶港台,#genre#
-翡翠台,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
-翡翠台 backup,http://api.mg.itv888.cn:8080/hls/ac8b06eb0c8/index.m3u8
-iNews 新闻台,http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8
-J 2,http://api.mg.itv888.cn:8080/hls/c18815664e8/index.m3u8
-珍珠台,http://api.mg.itv888.cn:8080/hls/63e9ea6e5df/index.m3u8
-凤凰香港,http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8
-HOY资讯台,http://api.mg.itv888.cn:8080/hls/5e12ccd9191/index.m3u8
-RHK 31,http://api.mg.itv888.cn:8080/hls/7f79a251429/index.m3u8
-VIUTV1,http://api.mg.itv888.cn:8080/hls/13d52dc29d5/index.m3u8
-RHK 32,http://api.mg.itv888.cn:8080/hls/18c550eab1e/index.m3
-凤凰卫视,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
-凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
-Viu6,http://api.mg.itv888.cn:8080/hls/0408f039a12/index.m3u8
-
-凤凰中文,https://migu.188766.xyz/?migutoken=3ab2a3a8fb28ab93d2f050bc3c431348&id=fhzw&pp=1
-凤凰资讯,https://migu.188766.xyz/?migutoken=ea5c14ba146f4dabcf3c6d40b8babe60&id=fhzx&pp=1
-凤凰香港,https://migu.188766.xyz/?migutoken=00ce23f7a39554bfb0464636a6f9fb39&id=fhhk&pp=1
-翡翠台,https://migu.188766.xyz/?migutoken=0b9704ecde80cd9d560afad535c9eafc&id=jade_twn&type=dy
-翡翠台,https://migu.188766.xyz/?migutoken=038f40afaf78484c93b7f6eaaca4b7d5&id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&pp=1
-无线新闻,https://migu.188766.xyz/?migutoken=150790fba0024743e0c36dec82fc76d7&id=inews_twn&type=dy
-TVB星河,https://migu.188766.xyz/?migutoken=2bc7e7db7a2fec38d9c2c3939b01621c&id=Xinhe&type=dy
-明珠台,https://migu.188766.xyz/?migutoken=8f0c1ca19cd6414cba05e0d1a82165dc&id=pearl_twn&type=dy
-华丽翡翠台,https://migu.188766.xyz/?migutoken=7fb12b2d64c29f113e319fd227267709&id=Tvbjade&type=dy
-千禧经典,https://migu.188766.xyz/?migutoken=bb0027d579ee3e461c136505728593cd&id=Tvbclassic&type=dy
-天映经典,https://migu.188766.xyz/?migutoken=9e6bbf294d0e5e28011f365e68882d70&id=Celestial2&type=dy
-天映电影,https://migu.188766.xyz/?migutoken=daa82e421e340529e73d03988ac91ee0&id=Celestial&type=dy
-Astro AOD,https://migu.188766.xyz/?migutoken=5c7b6ea47ee166787f5d57f4cd4892a5&id=Aodhd&type=dy
-Astro AEC,https://migu.188766.xyz/?migutoken=4f4b2c0370f10d06877623eaa11b9812&id=AEC&type=dy
-Astro QJ,https://migu.188766.xyz/?migutoken=d347ae8904d8b9c49963df2d02c57fe1&id=Quanjia&type=dy
-Astro 欢喜,https://migu.188766.xyz/?migutoken=b929c99d78d47167db6b7e2bfcefa002&id=Huahee&type=dy
 
 
 
@@ -682,6 +653,20 @@ MDIITMA,http://hls.tmacaraibes.com/live/index.m3u8
 
 
 香港频道,#genre#
+翡翠台,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
+翡翠台 backup,http://api.mg.itv888.cn:8080/hls/ac8b06eb0c8/index.m3u8
+iNews 新闻台,http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8
+J 2,http://api.mg.itv888.cn:8080/hls/c18815664e8/index.m3u8
+珍珠台,http://api.mg.itv888.cn:8080/hls/63e9ea6e5df/index.m3u8
+凤凰香港,http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8
+HOY资讯台,http://api.mg.itv888.cn:8080/hls/5e12ccd9191/index.m3u8
+RHK 31,http://api.mg.itv888.cn:8080/hls/7f79a251429/index.m3u8
+VIUTV1,http://api.mg.itv888.cn:8080/hls/13d52dc29d5/index.m3u8
+RHK 32,http://api.mg.itv888.cn:8080/hls/18c550eab1e/index.m3
+凤凰卫视,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
+凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
+Viu6,http://api.mg.itv888.cn:8080/hls/0408f039a12/index.m3u8
+
 Plus综合频高,http://php.jdshipin.com/PLTV/iptv.php?id=tvbp
 Plus综合频高,http://php.jdshipin.com/PLTV/iptv.php?id=j2
 TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
@@ -870,13 +855,10 @@ CF·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAut
 英雄联盟1,https://live.iill.top/huya/660000
 无畏契约,https://live.iill.top/huya/660679
 王者荣耀2,https://live.iill.top/huya/660164
-
 使命召唤•手游,https://live.iill.top/huya/11718629
 逆战,https://live.iill.top/huya/nsl2021
-
 金铲铲之战,https://live.iill.top/huya/660579
 和平精英,https://live.iill.top/huya/660006
-
 穿越火线•手游,https://live.iill.top/huya/660102
 虎牙穿越火线,https://live.iill.top/huya/660101
 虎牙DOTA2,https://live.iill.top/huya/660118
@@ -922,6 +904,7 @@ B站CS 2,https://mursor.ottiptv.cc/bilibili/21622811
 
 轮播频道,#genre#
 成龙经典,https://mursor.ottiptv.cc/huya/11342386
+成龙经典,http://aiony.top:35455/huya/11342386
 俊才星驰,https://mursor.ottiptv.cc/huya/11342412
 俊才星驰,http://aiony.top:35455/huya/11342412
 天乐光影,https://mursor.ottiptv.cc/huya/29982675
@@ -957,7 +940,7 @@ B站CS 2,https://mursor.ottiptv.cc/bilibili/21622811
 刀刀剧场,https://mursor.ottiptv.cc/douyu/747764
 橙記港剧,https://mursor.ottiptv.cc/douyu/4549169
 热门港剧,https://mursor.ottiptv.cc/douyu/5522351
-第一滴血全集,https://mursor.ottiptv.cc/yy/1354932355
+第一滴血,https://mursor.ottiptv.cc/yy/1354932355
 
 速度与激情集,https://mursor.ottiptv.cc/yy/1382736911
 
