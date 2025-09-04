@@ -1,5 +1,17 @@
 
 央视频道,#genre#
+CCTV1,http://sckonlan.youankj.cn:8888/udp/239.93.0.184:5140
+CCTV2,http://sckonlan.youankj.cn:8888/udp/239.93.1.23:6000
+CCTV3,http://sckonlan.youankj.cn:8888/udp/239.93.0.109:5140
+CCTV5,http://sckonlan.youankj.cn:8888/udp/239.93.42.37:5140
+CCTV5+,http://sckonlan.youankj.cn:8888/udp/239.93.1.36:8004
+CCTV6,http://sckonlan.youankj.cn:8888/udp/239.93.42.38:5140
+CCTV7,http://sckonlan.youankj.cn:8888/udp/239.93.1.67:5140
+CCTV8,http://sckonlan.youankj.cn:8888/udp/239.93.42.39:5140
+CCTV10,http://sckonlan.youankj.cn:8888/udp/239.93.1.28:5140
+CCTV12,http://sckonlan.youankj.cn:8888/udp/239.93.1.30:8124
+CCTV13,http://sckonlan.youankj.cn:8888/udp/239.93.0.66:5140
+
 CCTV1,http://110.181.238.30:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$大同电信10
 CCTV1,http://110.181.232.202:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$大同电信11
 CCTV1,http://1.193.60.239:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$郑州电信
@@ -299,17 +311,6 @@ CCTV15,http://111.43.126.240:9003/hls/28/index.m3u8
 CCTV16,http://111.43.126.240:9003/hls/29/index.m3u8
 CCTV17,http://111.43.126.240:9003/hls/30/index.m3u8
 
-CCTV1,http://sckonlan.youankj.cn:8888/udp/239.93.0.184:5140
-CCTV2,http://sckonlan.youankj.cn:8888/udp/239.93.1.23:6000
-CCTV3,http://sckonlan.youankj.cn:8888/udp/239.93.0.109:5140
-CCTV5,http://sckonlan.youankj.cn:8888/udp/239.93.42.37:5140
-CCTV5+,http://sckonlan.youankj.cn:8888/udp/239.93.1.36:8004
-CCTV6,http://sckonlan.youankj.cn:8888/udp/239.93.42.38:5140
-CCTV7,http://sckonlan.youankj.cn:8888/udp/239.93.1.67:5140
-CCTV8,http://sckonlan.youankj.cn:8888/udp/239.93.42.39:5140
-CCTV10,http://sckonlan.youankj.cn:8888/udp/239.93.1.28:5140
-CCTV12,http://sckonlan.youankj.cn:8888/udp/239.93.1.30:8124
-CCTV13,http://sckonlan.youankj.cn:8888/udp/239.93.0.66:5140
 
 卫视频道,#genre#
 湖南卫视,http://111.43.126.240:9003/hls/37/index.m3u8
@@ -371,7 +372,6 @@ TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
 明珠台,http://bxtv.3a.ink/api.php?id=mz
 無線新聞台,http://bxtv.3a.ink/api.php?id=wxxw
 美亞電影台,http://bxtv.3a.ink/api.php?id=meiya
-
 VIUTV,http://bxtv.3a.ink/api.php?id=viutv
 千禧經典台,http://bxtv.3a.ink/api.php?id=qxjd
 翡翠台,http://bxtv.3a.ink/api.php?id=fct
@@ -528,7 +528,6 @@ nba,http://122.53.222.9:9981/stream/channelid/1044534831?profile=pass
 广东卫视4K,http://vvip.lqcc.xyz:8092/stream/channelid/1248069700?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
-
 FASHIONONE,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 
@@ -595,7 +594,6 @@ FASHIONONE,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_d
 华数魅力时尚,http://114.241.208.43:4022/rtp/239.3.1.196:9012#http://106.5.79.19:4022/rtp/239.252.220.137:5140#http://114.254.32.123:8888/rtp/239.3.1.196:9012#http://114.241.254.251:4022/rtp/239.3.1.196:9012#http://119.84.197.138:7777/rtp/235.254.198.115:1736#http://112.66.83.141:8188/rtp/239.253.64.231:5140
 
 综艺频道,#genre#
-
 王牌对王牌,https://mursor.ottiptv.cc/huya/29982625
 喜剧人大会,https://mursor.ottiptv.cc/huya/30080196
 海外TV,#genre#
