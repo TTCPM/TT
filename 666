@@ -6,7 +6,7 @@ EXTM3U x-tvg-url="https://11.112114.xyz/pp.xml"
 https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://11.112114.xyz/logo/五星体育.png" group-title="其他",五星体育
 https://gdcucc.v1.mk/gdcucc/wxty.m3u8
-#EXTM3U x-tvg-url="https://show.188766.xyz/e.xml"
+
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" http-user-agent="okHttp/Mod-1.2.0.1" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0.1
 https://mgtv.ottiptv.cc/migu/608807420.m3u8?migutoken=02a29ecf712cbe82a46785c3b03396ce9fb6d293d63839fa065915076aa7002c15422793bc912a0bd23facddd1aa77b7df9af62afdebbf47e8b2572787a2fd1ae2cd1097e07848392838cabb90
