@@ -186,8 +186,8 @@ FASHIONONE,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_d
 
 
 综艺频道,#genre#
-王牌对王牌,https://mursor.ottiptv.cc/huya/29982625
-喜剧人大会,https://mursor.ottiptv.cc/huya/30080196
+王牌对王牌,https://live.ottiptv.cc/huya/29982625
+喜剧人大会,https://live.ottiptv.cc/huya/30080196
 海外TV,#genre#
 MDIIFistmusic,http://hz1.teleport.cc/HLS/HD.m3u8
 MDIICTPAHA,http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
@@ -1323,6 +1323,9 @@ AMC电影,http://api.mytv666.top/api/hk.php?id=653361353439653839376635343762646
  中视,http://api.mytv666.top/api/hk.php?id=3464346135333265303837393831333236363336666134303261386664336234267469643d74762669643d313138
  中视,http://api.mytv666.top/api/hk.php?id=3366353036636664306332393565306231326664383865666337396366353366267469643d77696e74763132332669643d3637
  香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
+ 00,https://t33.cdn2020.com/video/m3u8/2025/09/25/8548475d/index.m3u8
+ 000,https://t33.cdn2020.com/video/m3u8/2025/09/25/eaea8a90/index.m3u8
+ 0001,https://t33.cdn2020.com/video/m3u8/2025/09/25/6e0615c8/index.m3u8
  台视新闻台,http://api.mytv666.top/api/hk.php?id=3734336535623139656265303339663361646637333131663633363331653863267469643d77696e74763132332669643d3439
  台视新闻,http://api.mytv666.top/api/hk.php?id=3663373532323635333633666462356635623632313130333233393162303838267469643d74762669643d313031
  台视,http://api.mytv666.top/api/hk.php?id=3635653132623764396265363436643739323138323765393036626237366463267469643d77696e74763132332669643d3636
@@ -1366,4 +1369,3 @@ AMC电影,http://api.mytv666.top/api/hk.php?id=653361353439653839376635343762646
  J2,http://bziyunshao.synology.me:8890/bysid/82.m3u8
  J2,http://bziyunshao.synology.me:8890/bysid/82
  HBO Family,http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
-
