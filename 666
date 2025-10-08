@@ -1,431 +1,206 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="没有共产就没有新中国" tvg-name="没有共产就没有新中国" tvg-logo="" group-title="",没有共产就没有新中国
-https://res.mq-link.com:4438/webapi/filestore/29c94d7dc5eb7b679c1abe4ac9927905258e014e.mp4?type=video&docid=50ea69&name=%E6%B2%A1%E6%9C%89%E5%85%B1%E4%BA%A7%E5%85%9A%E5%B0%B1%E6%B2%A1%E6%9C%89%E6%96%B0%E4%B8%AD%E5%9B%BD.mp4
-#EXTINF:-1 tvg-id="义勇军进行曲" tvg-name="义勇军进行曲" tvg-logo="" group-title="",义勇军进行曲
-https://res.mq-link.com:4438/webapi/filestore/a0e982bdd91a3fe2021714aa842d246d6051b28e.mp4?type=video&docid=750fff&name=%E4%B9%89%E5%8B%87%E5%86%9B%E8%BF%9B%E8%A1%8C%E6%9B%B2.mp4
-#EXTINF:-1 tvg-id="社会主义好" tvg-name="社会主义好" tvg-logo="" group-title="",社会主义好
-https://res.mq-link.com:4438/webapi/filestore/a7b2316f72bed6d626ecc01328faa83c85756c45.mp4?type=video&docid=88bf27&name=%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%A5%BD.mp4
-#EXTINF:-1 tvg-id="歌唱祖国" tvg-name="歌唱祖国" tvg-logo="" group-title="",歌唱祖国
-https://res.mq-link.com:4438/webapi/filestore/7c60661e08014bcc51cf7f395622c52309c0037a.mp4?type=video&docid=af123c&name=%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD.mp4
-#EXTINF:-1 tvg-id="我们走在大路上" tvg-name="我们走在大路上" tvg-logo="" group-title="",我们走在大路上
-https://res.mq-link.com:4438/webapi/filestore/1da7c0cd431c9219abc0fe7ad79196522315ad14.mp4?type=video&docid=fd68b3&name=%E6%88%91%E4%BB%AC%E8%B5%B0%E5%9C%A8%E5%A4%A7%E8%B7%AF%E4%B8%8A.mp4
-#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="" group-title="央视频道-",CCTV1综合
-http://iptv.4666888.xyz/iptv2A.php?id=cctv1
-#EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="" group-title="央视频道-",CCTV2财经
-http://iptv.4666888.xyz/iptv2A.php?id=cctv2
-#EXTINF:-1 tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" tvg-logo="" group-title="央视频道-",CCTV3综艺
-http://iptv.4666888.xyz/iptv2A.php?id=cctv3
-#EXTINF:-1 tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" tvg-logo="" group-title="央视频道-",CCTV4中文国际
-http://iptv.4666888.xyz/iptv2A.php?id=cctv4
-#EXTINF:-1 tvg-id="CCTV5体育" tvg-name="CCTV5体育" tvg-logo="" group-title="央视频道-",CCTV5体育
-http://iptv.4666888.xyz/iptv2A.php?id=cctv5
-#EXTINF:-1 tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" tvg-logo="" group-title="央视频道-",CCTV5+体育赛事
-http://iptv.4666888.xyz/iptv2A.php?id=cctv5p
-#EXTINF:-1 tvg-id="CCTV6电影" tvg-name="CCTV6电影" tvg-logo="" group-title="央视频道-",CCTV6电影
-http://iptv.4666888.xyz/iptv2A.php?id=cctv6
-#EXTINF:-1 tvg-id="CCTV7国防军事" tvg-name="CCTV7国防军事" tvg-logo="" group-title="央视频道-",CCTV7国防军事
-http://iptv.4666888.xyz/iptv2A.php?id=cctv7
-#EXTINF:-1 tvg-id="CCTV8电视剧" tvg-name="CCTV8电视剧" tvg-logo="" group-title="央视频道-",CCTV8电视剧
-http://iptv.4666888.xyz/iptv2A.php?id=cctv8
-#EXTINF:-1 tvg-id="CCTV9记录" tvg-name="CCTV9记录" tvg-logo="" group-title="央视频道-",CCTV9记录
-http://iptv.4666888.xyz/iptv2A.php?id=cctv9
-#EXTINF:-1 tvg-id="CCTV10科教" tvg-name="CCTV10科教" tvg-logo="" group-title="央视频道-",CCTV10科教
-http://iptv.4666888.xyz/iptv2A.php?id=cctv10
-#EXTINF:-1 tvg-id="CCTV11戏剧" tvg-name="CCTV11戏剧" tvg-logo="" group-title="央视频道-",CCTV11戏剧
-http://iptv.4666888.xyz/iptv2A.php?id=cctv11
-#EXTINF:-1 tvg-id="CCTV12社会与法" tvg-name="CCTV12社会与法" tvg-logo="" group-title="央视频道-",CCTV12社会与法
-http://iptv.4666888.xyz/iptv2A.php?id=cctv12
-#EXTINF:-1 tvg-id="CCTV13新闻" tvg-name="CCTV13新闻" tvg-logo="" group-title="央视频道-",CCTV13新闻
-http://iptv.4666888.xyz/iptv2A.php?id=cctv13
-#EXTINF:-1 tvg-id="CCTV14少儿" tvg-name="CCTV14少儿" tvg-logo="" group-title="央视频道-",CCTV14少儿
-http://iptv.4666888.xyz/iptv2A.php?id=cctv14
-#EXTINF:-1 tvg-id="CCTV15音乐" tvg-name="CCTV15音乐" tvg-logo="" group-title="央视频道-",CCTV15音乐
-http://iptv.4666888.xyz/iptv2A.php?id=cctv15
-#EXTINF:-1 tvg-id="CCTV16奥林匹克" tvg-name="CCTV16奥林匹克" tvg-logo="" group-title="央视频道-",CCTV16奥林匹克
-http://iptv.4666888.xyz/iptv2A.php?id=cctv16
-#EXTINF:-1 tvg-id="CCTV17农业农村" tvg-name="CCTV17农业农村" tvg-logo="" group-title="央视频道-",CCTV17农业农村
-http://iptv.4666888.xyz/iptv2A.php?id=cctv17
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="" group-title="卫视频道-",广东卫视
-http://iptv.4666888.xyz/iptv2A.php?id=广东卫视
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="" group-title="卫视频道-",深圳卫视
-http://iptv.4666888.xyz/iptv2A.php?id=深圳卫视
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="" group-title="卫视频道-",北京卫视
-http://iptv.4666888.xyz/iptv2A.php?id=北京卫视
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="" group-title="卫视频道-",天津卫视
-http://iptv.4666888.xyz/iptv2A.php?id=天津卫视
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="" group-title="卫视频道-",重庆卫视
-http://iptv.4666888.xyz/iptv2A.php?id=重庆卫视
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="" group-title="卫视频道-",东方卫视
-http://iptv.4666888.xyz/iptv2A.php?id=东方卫视
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="" group-title="卫视频道-",东南卫视
-http://iptv.4666888.xyz/iptv2A.php?id=东南卫视
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="" group-title="卫视频道-",湖南卫视
-http://iptv.4666888.xyz/iptv2A.php?id=湖南卫视
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="" group-title="卫视频道-",湖北卫视
-http://iptv.4666888.xyz/iptv2A.php?id=湖北卫视
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="" group-title="卫视频道-",江苏卫视
-http://iptv.4666888.xyz/iptv2A.php?id=江苏卫视
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="" group-title="卫视频道-",江西卫视
-http://iptv.4666888.xyz/iptv2A.php?id=江西卫视
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="" group-title="卫视频道-",河北卫视
-http://iptv.4666888.xyz/iptv2A.php?id=河北卫视
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="" group-title="卫视频道-",河南卫视
-http://iptv.4666888.xyz/iptv2A.php?id=河南卫视
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="" group-title="卫视频道-",浙江卫视
-http://iptv.4666888.xyz/iptv2A.php?id=浙江卫视
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="" group-title="卫视频道-",四川卫视
-http://iptv.4666888.xyz/iptv2A.php?id=四川卫视
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="" group-title="卫视频道-",山东卫视
-http://iptv.4666888.xyz/iptv2A.php?id=山东卫视
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="" group-title="卫视频道-",海南卫视
-http://iptv.4666888.xyz/iptv2A.php?id=海南卫视
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="" group-title="卫视频道-",广西卫视
-http://iptv.4666888.xyz/iptv2A.php?id=广西卫视
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="" group-title="卫视频道-",辽宁卫视
-http://iptv.4666888.xyz/iptv2A.php?id=辽宁卫视
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="" group-title="卫视频道-",安徽卫视
-http://iptv.4666888.xyz/iptv2A.php?id=安徽卫视
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="" group-title="卫视频道-",吉林卫视
-http://iptv.4666888.xyz/iptv2A.php?id=吉林卫视
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="" group-title="卫视频道-",贵州卫视
-http://iptv.4666888.xyz/iptv2A.php?id=贵州卫视
-#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="" group-title="卫视频道-",甘肃卫视
-http://iptv.4666888.xyz/iptv2A.php?id=甘肃卫视
-#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="" group-title="卫视频道-",青海卫视
-http://iptv.4666888.xyz/iptv2A.php?id=青海卫视
-#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="" group-title="卫视频道-",陕西卫视
-http://iptv.4666888.xyz/iptv2A.php?id=陕西卫视
-#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="" group-title="卫视频道-",云南卫视
-http://iptv.4666888.xyz/iptv2A.php?id=云南卫视
-#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="" group-title="卫视频道-",山西卫视
-http://iptv.4666888.xyz/iptv2A.php?id=山西卫视
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="" group-title="卫视频道-",黑龙江卫视
-http://iptv.4666888.xyz/iptv2A.php?id=黑龙江卫视
-#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="" group-title="卫视频道-",西藏卫视
-http://iptv.4666888.xyz/iptv2A.php?id=西藏卫视
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="" group-title="卫视频道-",内蒙古卫视
-http://iptv.4666888.xyz/iptv2A.php?id=内蒙古卫视
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="" group-title="卫视频道-",宁夏卫视
-http://iptv.4666888.xyz/iptv2A.php?id=宁夏卫视
-#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="" group-title="卫视频道-",新疆卫视
-http://iptv.4666888.xyz/iptv2A.php?id=新疆卫视
-#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="" group-title="卫视频道-",兵团卫视
-http://iptv.4666888.xyz/iptv2A.php?id=兵团卫视
-#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="" group-title="卫视频道-",海峡卫视
-http://iptv.4666888.xyz/iptv2A.php?id=海峡卫视
-#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="" group-title="卫视频道-",厦门卫视
-http://iptv.4666888.xyz/iptv2A.php?id=厦门卫视
-#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="" group-title="卫视频道-",三沙卫视
-http://iptv.4666888.xyz/iptv2A.php?id=三沙卫视
-#EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="" group-title="卫视频道-",康巴卫视
-http://iptv.4666888.xyz/iptv2A.php?id=康巴卫视
-#EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="" group-title="卫视频道-",山东教育卫视
-http://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
-#EXTINF:-1 tvg-id="风云TV-TG群" tvg-name="风云TV-TG群" tvg-logo="" group-title="港澳频道-",风云TV-TG群
-https://t.me/qytv888
-#EXTINF:-1 tvg-id="https://t.me/qytv888" tvg-name="https://t.me/qytv888" tvg-logo="" group-title="港澳频道-",https://t.me/qytv888
-https://t.me/qytv888
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="" group-title="港澳频道-",凤凰中文
-http://iptv.4666888.xyz/iptv2A.php?id=60
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="" group-title="港澳频道-",凤凰资讯
-http://iptv.4666888.xyz/iptv2A.php?id=61
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="" group-title="港澳频道-",凤凰香港
-http://iptv.4666888.xyz/iptv2A.php?id=62
-#EXTINF:-1 tvg-id="TVB翡翠" tvg-name="TVB翡翠" tvg-logo="" group-title="港澳频道-",TVB翡翠
-http://iptv.4666888.xyz/iptv2A.php?id=63
-#EXTINF:-1 tvg-id="TVB_PULS" tvg-name="TVB_PULS" tvg-logo="" group-title="港澳频道-",TVB_PULS
-http://iptv.4666888.xyz/iptv2A.php?id=64
-#EXTINF:-1 tvg-id="TVB无线新闻" tvg-name="TVB无线新闻" tvg-logo="" group-title="港澳频道-",TVB无线新闻
-http://iptv.4666888.xyz/iptv2A.php?id=65
-#EXTINF:-1 tvg-id="TVB明珠" tvg-name="TVB明珠" tvg-logo="" group-title="港澳频道-",TVB明珠
-http://iptv.4666888.xyz/iptv2A.php?id=66
-#EXTINF:-1 tvg-id="TVB生活" tvg-name="TVB生活" tvg-logo="" group-title="港澳频道-",TVB生活
-http://iptv.4666888.xyz/iptv2A.php?id=67
-#EXTINF:-1 tvg-id="TVB星河(粤)" tvg-name="TVB星河(粤)" tvg-logo="" group-title="港澳频道-",TVB星河(粤)
-http://iptv.4666888.xyz/iptv2A.php?id=68
-#EXTINF:-1 tvg-id="TVB星河(国)" tvg-name="TVB星河(国)" tvg-logo="" group-title="港澳频道-",TVB星河(国)
-http://iptv.4666888.xyz/iptv2A.php?id=69
-#EXTINF:-1 tvg-id="TVB武侠粤" tvg-name="TVB武侠粤" tvg-logo="" group-title="港澳频道-",TVB武侠粤
-http://iptv.4666888.xyz/iptv2A.php?id=9
-#EXTINF:-1 tvg-id="TVB武侠国" tvg-name="TVB武侠国" tvg-logo="" group-title="港澳频道-",TVB武侠国
-http://iptv.4666888.xyz/iptv2A.php?id=10
-#EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" tvg-logo="" group-title="港澳频道-",TVB1
-http://iptv.4666888.xyz/iptv2A.php?id=70
-#EXTINF:-1 tvg-id="TVBJ1" tvg-name="TVBJ1" tvg-logo="" group-title="港澳频道-",TVBJ1
-http://iptv.4666888.xyz/iptv2A.php?id=71
-#EXTINF:-1 tvg-id="TVBE" tvg-name="TVBE" tvg-logo="" group-title="港澳频道-",TVBE
-http://iptv.4666888.xyz/iptv2A.php?id=75
-#EXTINF:-1 tvg-id="TVB翡翠剧集" tvg-name="TVB翡翠剧集" tvg-logo="" group-title="港澳频道-",TVB翡翠剧集
-http://iptv.4666888.xyz/iptv2A.php?id=72
-#EXTINF:-1 tvg-id="TVB明珠剧集" tvg-name="TVB明珠剧集" tvg-logo="" group-title="港澳频道-",TVB明珠剧集
-http://iptv.4666888.xyz/iptv2A.php?id=73
-#EXTINF:-1 tvg-id="TVB新闻娱乐" tvg-name="TVB新闻娱乐" tvg-logo="" group-title="港澳频道-",TVB新闻娱乐
-http://iptv.4666888.xyz/iptv2A.php?id=74
-#EXTINF:-1 tvg-id="TVB千禧经典" tvg-name="TVB千禧经典" tvg-logo="" group-title="港澳频道-",TVB千禧经典
-http://iptv.4666888.xyz/iptv2A.php?id=76
-#EXTINF:-1 tvg-id="TVB黄金华剧" tvg-name="TVB黄金华剧" tvg-logo="" group-title="港澳频道-",TVB黄金华剧
-http://iptv.4666888.xyz/iptv2A.php?id=80
-#EXTINF:-1 tvg-id="Now新闻" tvg-name="Now新闻" tvg-logo="" group-title="港澳频道-",Now新闻
-http://iptv.4666888.xyz/iptv2A.php?id=81
-#EXTINF:-1 tvg-id="Now财经" tvg-name="Now财经" tvg-logo="" group-title="港澳频道-",Now财经
-http://iptv.4666888.xyz/iptv2A.php?id=82
-#EXTINF:-1 tvg-id="Now财经" tvg-name="Now财经" tvg-logo="" group-title="港澳频道-",Now财经
-http://iptv.4666888.xyz/iptv2A.php?id=83
-#EXTINF:-1 tvg-id="Now华剧" tvg-name="Now华剧" tvg-logo="" group-title="港澳频道-",Now华剧
-http://iptv.4666888.xyz/iptv2A.php?id=84
-#EXTINF:-1 tvg-id="VIU剧集" tvg-name="VIU剧集" tvg-logo="" group-title="港澳频道-",VIU剧集
-http://iptv.4666888.xyz/iptv2A.php?id=85
-#EXTINF:-1 tvg-id="Now爆谷" tvg-name="Now爆谷" tvg-logo="" group-title="港澳频道-",Now爆谷
-http://iptv.4666888.xyz/iptv2A.php?id=6
-#EXTINF:-1 tvg-id="Now星影" tvg-name="Now星影" tvg-logo="" group-title="港澳频道-",Now星影
-http://iptv.4666888.xyz/iptv2A.php?id=7
-#EXTINF:-1 tvg-id="HOY76" tvg-name="HOY76" tvg-logo="" group-title="港澳频道-",HOY76
-http://iptv.4666888.xyz/iptv2A.php?id=87
-#EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="" group-title="港澳频道-",HOY77
-http://iptv.4666888.xyz/iptv2A.php?id=88
-#EXTINF:-1 tvg-id="HOY78" tvg-name="HOY78" tvg-logo="" group-title="港澳频道-",HOY78
-http://iptv.4666888.xyz/iptv2A.php?id=89
-#EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="" group-title="港澳频道-",VIUTV
-http://iptv.4666888.xyz/iptv2A.php?id=90
-#EXTINF:-1 tvg-id="viutv6" tvg-name="viutv6" tvg-logo="" group-title="港澳频道-",viutv6
-http://iptv.4666888.xyz/iptv2A.php?id=91
-#EXTINF:-1 tvg-id="RHK31" tvg-name="RHK31" tvg-logo="" group-title="港澳频道-",RHK31
-http://iptv.4666888.xyz/iptv2A.php?id=92
-#EXTINF:-1 tvg-id="RHK32" tvg-name="RHK32" tvg-logo="" group-title="港澳频道-",RHK32
-http://iptv.4666888.xyz/iptv2A.php?id=93
-#EXTINF:-1 tvg-id="mytvsuper亚洲剧" tvg-name="mytvsuper亚洲剧" tvg-logo="" group-title="港澳频道-",mytvsuper亚洲剧
-http://iptv.4666888.xyz/iptv2A.php?id=94
-#EXTINF:-1 tvg-id="mytvsuper黄金翡翠" tvg-name="mytvsuper黄金翡翠" tvg-logo="" group-title="港澳频道-",mytvsuper黄金翡翠
-http://iptv.4666888.xyz/iptv2A.php?id=95
-#EXTINF:-1 tvg-id="mytvsuper黄金翡翠" tvg-name="mytvsuper黄金翡翠" tvg-logo="" group-title="港澳频道-",mytvsuper黄金翡翠
-http://iptv.4666888.xyz/iptv2A.php?id=96
-#EXTINF:-1 tvg-id="mytvsuper经典" tvg-name="mytvsuper经典" tvg-logo="" group-title="港澳频道-",mytvsuper经典
-http://iptv.4666888.xyz/iptv2A.php?id=97
-#EXTINF:-1 tvg-id="mytvsuper华剧" tvg-name="mytvsuper华剧" tvg-logo="" group-title="港澳频道-",mytvsuper华剧
-http://iptv.4666888.xyz/iptv2A.php?id=98
-#EXTINF:-1 tvg-id="mytvsuper少儿" tvg-name="mytvsuper少儿" tvg-logo="" group-title="港澳频道-",mytvsuper少儿
-http://iptv.4666888.xyz/iptv2A.php?id=99
-#EXTINF:-1 tvg-id="mytvsuper戏典" tvg-name="mytvsuper戏典" tvg-logo="" group-title="港澳频道-",mytvsuper戏典
-http://iptv.4666888.xyz/iptv2A.php?id=100
-#EXTINF:-1 tvg-id="mytvsuper粤语片" tvg-name="mytvsuper粤语片" tvg-logo="" group-title="港澳频道-",mytvsuper粤语片
-http://iptv.4666888.xyz/iptv2A.php?id=101
-#EXTINF:-1 tvg-id="mytvsuper华剧" tvg-name="mytvsuper华剧" tvg-logo="" group-title="港澳频道-",mytvsuper华剧
-http://iptv.4666888.xyz/iptv2A.php?id=102
-#EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="" group-title="港澳频道-",天映经典
-http://iptv.4666888.xyz/iptv2A.php?id=77
-#EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="" group-title="港澳频道-",天映经典
-http://iptv.4666888.xyz/iptv2A.php?id=78
-#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="" group-title="港澳频道-",PopC
-http://iptv.4666888.xyz/iptv2A.php?id=5
-#EXTINF:-1 tvg-id="美亚电影国" tvg-name="美亚电影国" tvg-logo="" group-title="港澳频道-",美亚电影国
-http://iptv.4666888.xyz/iptv2A.php?id=11
-#EXTINF:-1 tvg-id="美亚电影粤" tvg-name="美亚电影粤" tvg-logo="" group-title="港澳频道-",美亚电影粤
-http://iptv.4666888.xyz/iptv2A.php?id=12
-#EXTINF:-1 tvg-id="中国电影" tvg-name="中国电影" tvg-logo="" group-title="港澳频道-",中国电影
-http://iptv.4666888.xyz/iptv2A.php?id=13
-#EXTINF:-1 tvg-id="有线18" tvg-name="有线18" tvg-logo="" group-title="港澳频道-",有线18
-http://iptv.4666888.xyz/iptv2A.php?id=29
-#EXTINF:-1 tvg-id="无线18" tvg-name="无线18" tvg-logo="" group-title="港澳频道-",无线18
-http://iptv.4666888.xyz/iptv2A.php?id=37
-#EXTINF:-1 tvg-id="88赛马" tvg-name="88赛马" tvg-logo="" group-title="港澳频道-",88赛马
-http://iptv.4666888.xyz/iptv2A.php?id=38
-#EXTINF:-1 tvg-id="astro aod" tvg-name="astro aod" tvg-logo="" group-title="港澳频道-",astro aod
-http://iptv.4666888.xyz/iptv2A.php?id=174
-#EXTINF:-1 tvg-id="astro欢喜" tvg-name="astro欢喜" tvg-logo="" group-title="港澳频道-",astro欢喜
-http://iptv.4666888.xyz/iptv2A.php?id=175
-#EXTINF:-1 tvg-id="HUB娱家" tvg-name="HUB娱家" tvg-logo="" group-title="港澳频道-",HUB娱家
-http://iptv.4666888.xyz/iptv2A.php?id=176
-#EXTINF:-1 tvg-id="HUB都会" tvg-name="HUB都会" tvg-logo="" group-title="港澳频道-",HUB都会
-http://iptv.4666888.xyz/iptv2A.php?id=177
-#EXTINF:-1 tvg-id="新时代1" tvg-name="新时代1" tvg-logo="" group-title="港澳频道-",新时代1
-http://iptv.4666888.xyz/iptv2A.php?id=178
-#EXTINF:-1 tvg-id="新时代2" tvg-name="新时代2" tvg-logo="" group-title="港澳频道-",新时代2
-http://iptv.4666888.xyz/iptv2A.php?id=179
-#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="" group-title="台湾频道-",TVBS新闻
-http://iptv.4666888.xyz/iptv2A.php?id=145
-#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="" group-title="台湾频道-",中天新闻
-http://iptv.4666888.xyz/iptv2A.php?id=141
-#EXTINF:-1 tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="" group-title="台湾频道-",非凡新闻
-http://iptv.4666888.xyz/iptv2A.php?id=122
-#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="" group-title="台湾频道-",寰宇新闻
-http://iptv.4666888.xyz/iptv2A.php?id=123
-#EXTINF:-1 tvg-id="华视新闻" tvg-name="华视新闻" tvg-logo="" group-title="台湾频道-",华视新闻
-http://iptv.4666888.xyz/iptv2A.php?id=117
-#EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="" group-title="台湾频道-",民视新闻
-http://iptv.4666888.xyz/iptv2A.php?id=109
-#EXTINF:-1 tvg-id="公视" tvg-name="公视" tvg-logo="" group-title="台湾频道-",公视
-http://iptv.4666888.xyz/iptv2A.php?id=107
-#EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="" group-title="台湾频道-",民视
-http://iptv.4666888.xyz/iptv2A.php?id=108
-#EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="" group-title="台湾频道-",台视
-http://iptv.4666888.xyz/iptv2A.php?id=113
-#EXTINF:-1 tvg-id="华艺中文" tvg-name="华艺中文" tvg-logo="" group-title="台湾频道-",华艺中文
-http://iptv.4666888.xyz/iptv2A.php?id=156
-#EXTINF:-1 tvg-id="八八第一" tvg-name="八八第一" tvg-logo="" group-title="台湾频道-",八八第一
-http://iptv.4666888.xyz/iptv2A.php?id=143
-#EXTINF:-1 tvg-id="八大精彩" tvg-name="八大精彩" tvg-logo="" group-title="台湾频道-",八大精彩
-http://iptv.4666888.xyz/iptv2A.php?id=144
-#EXTINF:-1 tvg-id="TVBS精彩" tvg-name="TVBS精彩" tvg-logo="" group-title="台湾频道-",TVBS精彩
-http://iptv.4666888.xyz/iptv2A.php?id=146
-#EXTINF:-1 tvg-id="TVBS欢乐" tvg-name="TVBS欢乐" tvg-logo="" group-title="台湾频道-",TVBS欢乐
-http://iptv.4666888.xyz/iptv2A.php?id=147
-#EXTINF:-1 tvg-id="中视经典" tvg-name="中视经典" tvg-logo="" group-title="台湾频道-",中视经典
-http://iptv.4666888.xyz/iptv2A.php?id=103
-#EXTINF:-1 tvg-id="民视影剧" tvg-name="民视影剧" tvg-logo="" group-title="台湾频道-",民视影剧
-http://iptv.4666888.xyz/iptv2A.php?id=110
-#EXTINF:-1 tvg-id="民视旅游" tvg-name="民视旅游" tvg-logo="" group-title="台湾频道-",民视旅游
-http://iptv.4666888.xyz/iptv2A.php?id=111
-#EXTINF:-1 tvg-id="民视综艺" tvg-name="民视综艺" tvg-logo="" group-title="台湾频道-",民视综艺
-http://iptv.4666888.xyz/iptv2A.php?id=112
-#EXTINF:-1 tvg-id="台视综合" tvg-name="台视综合" tvg-logo="" group-title="台湾频道-",台视综合
-http://iptv.4666888.xyz/iptv2A.php?id=114
-#EXTINF:-1 tvg-id="台视财经" tvg-name="台视财经" tvg-logo="" group-title="台湾频道-",台视财经
-http://iptv.4666888.xyz/iptv2A.php?id=115
-#EXTINF:-1 tvg-id="年代MUCH" tvg-name="年代MUCH" tvg-logo="" group-title="台湾频道-",年代MUCH
-http://iptv.4666888.xyz/iptv2A.php?id=121
-#EXTINF:-1 tvg-id="东森LIVE" tvg-name="东森LIVE" tvg-logo="" group-title="台湾频道-",东森LIVE
-http://iptv.4666888.xyz/iptv2A.php?id=140
-#EXTINF:-1 tvg-id="东森超视34.5" tvg-name="东森超视34.5" tvg-logo="" group-title="台湾频道-",东森超视34.5
-http://iptv.4666888.xyz/iptv2A.php?id=125
-#EXTINF:-1 tvg-id="东森美洲" tvg-name="东森美洲" tvg-logo="" group-title="台湾频道-",东森美洲
-http://iptv.4666888.xyz/iptv2A.php?id=126
-#EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" tvg-logo="" group-title="台湾频道-",东森超视
-http://iptv.4666888.xyz/iptv2A.php?id=128
-#EXTINF:-1 tvg-id="momo亲子" tvg-name="momo亲子" tvg-logo="" group-title="台湾频道-",momo亲子
-http://iptv.4666888.xyz/iptv2A.php?id=129
-#EXTINF:-1 tvg-id="国兴卫视" tvg-name="国兴卫视" tvg-logo="" group-title="台湾频道-",国兴卫视
-http://iptv.4666888.xyz/iptv2A.php?id=130
-#EXTINF:-1 tvg-id="公视戏剧" tvg-name="公视戏剧" tvg-logo="" group-title="台湾频道-",公视戏剧
-http://iptv.4666888.xyz/iptv2A.php?id=106
-#EXTINF:-1 tvg-id="壹电影" tvg-name="壹电影" tvg-logo="" group-title="台湾频道-",壹电影
-http://iptv.4666888.xyz/iptv2A.php?id=120
-#EXTINF:-1 tvg-id="龙华日韩" tvg-name="龙华日韩" tvg-logo="" group-title="台湾频道-",龙华日韩
-http://iptv.4666888.xyz/iptv2A.php?id=131
-#EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="" group-title="台湾频道-",龙华电影
-http://iptv.4666888.xyz/iptv2A.php?id=132
-#EXTINF:-1 tvg-id="龙华戏剧" tvg-name="龙华戏剧" tvg-logo="" group-title="台湾频道-",龙华戏剧
-http://iptv.4666888.xyz/iptv2A.php?id=133
-#EXTINF:-1 tvg-id="龙华卡通" tvg-name="龙华卡通" tvg-logo="" group-title="台湾频道-",龙华卡通
-http://iptv.4666888.xyz/iptv2A.php?id=135
-#EXTINF:-1 tvg-id="龙华经典" tvg-name="龙华经典" tvg-logo="" group-title="台湾频道-",龙华经典
-http://iptv.4666888.xyz/iptv2A.php?id=136
-#EXTINF:-1 tvg-id="台湾戏剧" tvg-name="台湾戏剧" tvg-logo="" group-title="台湾频道-",台湾戏剧
-http://iptv.4666888.xyz/iptv2A.php?id=116
-#EXTINF:-1 tvg-id="台湾霹雳" tvg-name="台湾霹雳" tvg-logo="" group-title="台湾频道-",台湾霹雳
-http://iptv.4666888.xyz/iptv2A.php?id=118
-#EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="" group-title="台湾频道-",东森电影
-http://iptv.4666888.xyz/iptv2A.php?id=15
-#EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" tvg-logo="" group-title="台湾频道-",东森洋片
-http://iptv.4666888.xyz/iptv2A.php?id=16
-#EXTINF:-1 tvg-id="三立都会" tvg-name="三立都会" tvg-logo="" group-title="台湾频道-",三立都会
-http://iptv.4666888.xyz/iptv2A.php?id=137
-#EXTINF:-1 tvg-id="三立综合" tvg-name="三立综合" tvg-logo="" group-title="台湾频道-",三立综合
-http://iptv.4666888.xyz/iptv2A.php?id=138
-#EXTINF:-1 tvg-id="三立国际" tvg-name="三立国际" tvg-logo="" group-title="台湾频道-",三立国际
-http://iptv.4666888.xyz/iptv2A.php?id=139
-#EXTINF:-1 tvg-id="靖天综合" tvg-name="靖天综合" tvg-logo="" group-title="台湾频道-",靖天综合
-http://iptv.4666888.xyz/iptv2A.php?id=148
-#EXTINF:-1 tvg-id="靖天日本" tvg-name="靖天日本" tvg-logo="" group-title="台湾频道-",靖天日本
-http://iptv.4666888.xyz/iptv2A.php?id=149
-#EXTINF:-1 tvg-id="靖天卡通" tvg-name="靖天卡通" tvg-logo="" group-title="台湾频道-",靖天卡通
-http://iptv.4666888.xyz/iptv2A.php?id=150
-#EXTINF:-1 tvg-id="靖洋卡通" tvg-name="靖洋卡通" tvg-logo="" group-title="台湾频道-",靖洋卡通
-http://iptv.4666888.xyz/iptv2A.php?id=151
-#EXTINF:-1 tvg-id="靖天国际" tvg-name="靖天国际" tvg-logo="" group-title="台湾频道-",靖天国际
-http://iptv.4666888.xyz/iptv2A.php?id=152
-#EXTINF:-1 tvg-id="靖天育乐" tvg-name="靖天育乐" tvg-logo="" group-title="台湾频道-",靖天育乐
-http://iptv.4666888.xyz/iptv2A.php?id=153
-#EXTINF:-1 tvg-id="靖天映画" tvg-name="靖天映画" tvg-logo="" group-title="台湾频道-",靖天映画
-http://iptv.4666888.xyz/iptv2A.php?id=154
-#EXTINF:-1 tvg-id="靖天欢乐" tvg-name="靖天欢乐" tvg-logo="" group-title="台湾频道-",靖天欢乐
-http://iptv.4666888.xyz/iptv2A.php?id=155
-#EXTINF:-1 tvg-id="采昌影剧" tvg-name="采昌影剧" tvg-logo="" group-title="台湾频道-",采昌影剧
-http://iptv.4666888.xyz/iptv2A.php?id=168
-#EXTINF:-1 tvg-id="HakkATV客家电视" tvg-name="HakkATV客家电视" tvg-logo="" group-title="台湾频道-",HakkATV客家电视
-http://iptv.4666888.xyz/iptv2A.php?id=169
-#EXTINF:-1 tvg-id="TITV原住民" tvg-name="TITV原住民" tvg-logo="" group-title="台湾频道-",TITV原住民
-http://iptv.4666888.xyz/iptv2A.php?id=170
-#EXTINF:-1 tvg-id="MTV live" tvg-name="MTV live" tvg-logo="" group-title="台湾频道-",MTV live
-http://iptv.4666888.xyz/iptv2A.php?id=171
-#EXTINF:-1 tvg-id="猪哥亮哥厅秀" tvg-name="猪哥亮哥厅秀" tvg-logo="" group-title="台湾频道-",猪哥亮哥厅秀
-http://iptv.4666888.xyz/iptv2A.php?id=173
-#EXTINF:-1 tvg-id="亚洲旅游" tvg-name="亚洲旅游" tvg-logo="" group-title="台湾频道-",亚洲旅游
-http://iptv.4666888.xyz/iptv2A.php?id=158
-#EXTINF:-1 tvg-id="EYETV旅游" tvg-name="EYETV旅游" tvg-logo="" group-title="台湾频道-",EYETV旅游
-http://iptv.4666888.xyz/iptv2A.php?id=160
-#EXTINF:-1 tvg-id="EYETV戏剧" tvg-name="EYETV戏剧" tvg-logo="" group-title="台湾频道-",EYETV戏剧
-http://iptv.4666888.xyz/iptv2A.php?id=161
-#EXTINF:-1 tvg-id="爱尔达日韩" tvg-name="爱尔达日韩" tvg-logo="" group-title="台湾频道-",爱尔达日韩
-http://iptv.4666888.xyz/iptv2A.php?id=162
-#EXTINF:-1 tvg-id="爱尔达影剧" tvg-name="爱尔达影剧" tvg-logo="" group-title="台湾频道-",爱尔达影剧
-http://iptv.4666888.xyz/iptv2A.php?id=163
-#EXTINF:-1 tvg-id="爱尔达综合" tvg-name="爱尔达综合" tvg-logo="" group-title="台湾频道-",爱尔达综合
-http://iptv.4666888.xyz/iptv2A.php?id=164
-#EXTINF:-1 tvg-id="爱尔达娱乐" tvg-name="爱尔达娱乐" tvg-logo="" group-title="台湾频道-",爱尔达娱乐
-http://iptv.4666888.xyz/iptv2A.php?id=165
-#EXTINF:-1 tvg-id="爱尔达生活旅游" tvg-name="爱尔达生活旅游" tvg-logo="" group-title="台湾频道-",爱尔达生活旅游
-http://iptv.4666888.xyz/iptv2A.php?id=166
-#EXTINF:-1 tvg-id="小公视" tvg-name="小公视" tvg-logo="" group-title="台湾频道-",小公视
-http://iptv.4666888.xyz/iptv2A.php?id=105
-#EXTINF:-1 tvg-id="MytvZooMoo" tvg-name="MytvZooMoo" tvg-logo="" group-title="台湾频道-",MytvZooMoo
-http://iptv.4666888.xyz/iptv2A.php?id=1
-#EXTINF:-1 tvg-id="Nickeledeon" tvg-name="Nickeledeon" tvg-logo="" group-title="台湾频道-",Nickeledeon
-http://iptv.4666888.xyz/iptv2A.php?id=2
-#EXTINF:-1 tvg-id="MytvNickJr" tvg-name="MytvNickJr" tvg-logo="" group-title="台湾频道-",MytvNickJr
-http://iptv.4666888.xyz/iptv2A.php?id=3
-#EXTINF:-1 tvg-id="ifunanime" tvg-name="ifunanime" tvg-logo="" group-title="台湾频道-",ifunanime
-http://iptv.4666888.xyz/iptv2A.php?id=4
-#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="" group-title="台湾频道-",TVN
-http://iptv.4666888.xyz/iptv2A.php?id=17
-#EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="" group-title="台湾频道-",KIX
-http://iptv.4666888.xyz/iptv2A.php?id=18
-#EXTINF:-1 tvg-id="RockAction" tvg-name="RockAction" tvg-logo="" group-title="台湾频道-",RockAction
-http://iptv.4666888.xyz/iptv2A.php?id=19
-#EXTINF:-1 tvg-id="RockEntertainment" tvg-name="RockEntertainment" tvg-logo="" group-title="台湾频道-",RockEntertainment
-http://iptv.4666888.xyz/iptv2A.php?id=20
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="" group-title="台湾频道-",AXN
-http://iptv.4666888.xyz/iptv2A.php?id=21
-#EXTINF:-1 tvg-id="AnimaxC" tvg-name="AnimaxC" tvg-logo="" group-title="台湾频道-",AnimaxC
-http://iptv.4666888.xyz/iptv2A.php?id=22
-#EXTINF:-1 tvg-id="warnertv华纳" tvg-name="warnertv华纳" tvg-logo="" group-title="台湾频道-",warnertv华纳
-http://iptv.4666888.xyz/iptv2A.php?id=23
-#EXTINF:-1 tvg-id="cinemaxwj" tvg-name="cinemaxwj" tvg-logo="" group-title="台湾频道-",cinemaxwj
-http://iptv.4666888.xyz/iptv2A.php?id=24
-#EXTINF:-1 tvg-id="HBOHD" tvg-name="HBOHD" tvg-logo="" group-title="台湾频道-",HBOHD
-http://iptv.4666888.xyz/iptv2A.php?id=25
-#EXTINF:-1 tvg-id="amcmovies" tvg-name="amcmovies" tvg-logo="" group-title="台湾频道-",amcmovies
-http://iptv.4666888.xyz/iptv2A.php?id=27
-#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="" group-title="台湾频道-",Thrill
-http://iptv.4666888.xyz/iptv2A.php?id=183
-#EXTINF:-1 tvg-id="taiwan+" tvg-name="taiwan+" tvg-logo="" group-title="台湾频道-",taiwan+
-http://iptv.4666888.xyz/iptv2A.php?id=159
-#EXTINF:-1 tvg-id="智林体育" tvg-name="智林体育" tvg-logo="" group-title="体育频道-",智林体育
-http://iptv.4666888.xyz/iptv2A.php?id=58
-#EXTINF:-1 tvg-id="Z频道" tvg-name="Z频道" tvg-logo="" group-title="体育频道-",Z频道
-http://iptv.4666888.xyz/iptv2A.php?id=167
-#EXTINF:-1 tvg-id="GINXEsportsTV" tvg-name="GINXEsportsTV" tvg-logo="" group-title="体育频道-",GINXEsportsTV
-http://iptv.4666888.xyz/iptv2A.php?id=49
-#EXTINF:-1 tvg-id="爱尔达体育1" tvg-name="爱尔达体育1" tvg-logo="" group-title="体育频道-",爱尔达体育1
-http://iptv.4666888.xyz/iptv2A.php?id=45
-#EXTINF:-1 tvg-id="爱尔达体育2" tvg-name="爱尔达体育2" tvg-logo="" group-title="体育频道-",爱尔达体育2
-http://iptv.4666888.xyz/iptv2A.php?id=46
-#EXTINF:-1 tvg-id="爱尔达体育3" tvg-name="爱尔达体育3" tvg-logo="" group-title="体育频道-",爱尔达体育3
-http://iptv.4666888.xyz/iptv2A.php?id=47
-#EXTINF:-1 tvg-id="爱尔达体育4" tvg-name="爱尔达体育4" tvg-logo="" group-title="体育频道-",爱尔达体育4
-http://iptv.4666888.xyz/iptv2A.php?id=48
-#EXTINF:-1 tvg-id="搏斯运动1" tvg-name="搏斯运动1" tvg-logo="" group-title="体育频道-",搏斯运动1
-http://iptv.4666888.xyz/iptv2A.php?id=50
-#EXTINF:-1 tvg-id="搏斯运动2" tvg-name="搏斯运动2" tvg-logo="" group-title="体育频道-",搏斯运动2
-http://iptv.4666888.xyz/iptv2A.php?id=51
-#EXTINF:-1 tvg-id="搏斯高球1" tvg-name="搏斯高球1" tvg-logo="" group-title="体育频道-",搏斯高球1
-http://iptv.4666888.xyz/iptv2A.php?id=52
-#EXTINF:-1 tvg-id="搏斯高球2" tvg-name="搏斯高球2" tvg-logo="" group-title="体育频道-",搏斯高球2
-http://iptv.4666888.xyz/iptv2A.php?id=53
-#EXTINF:-1 tvg-id="搏斯网球" tvg-name="搏斯网球" tvg-logo="" group-title="体育频道-",搏斯网球
-http://iptv.4666888.xyz/iptv2A.php?id=54
-#EXTINF:-1 tvg-id="搏斯无限" tvg-name="搏斯无限" tvg-logo="" group-title="体育频道-",搏斯无限
-http://iptv.4666888.xyz/iptv2A.php?id=55
-#EXTINF:-1 tvg-id="搏斯无限2" tvg-name="搏斯无限2" tvg-logo="" group-title="体育频道-",搏斯无限2
-http://iptv.4666888.xyz/iptv2A.php?id=56
-#EXTINF:-1 tvg-id="搏斯魅力" tvg-name="搏斯魅力" tvg-logo="" group-title="体育频道-",搏斯魅力
-http://iptv.4666888.xyz/iptv2A.php?id=57
+#EXTM3U x-tvg-url="https://7pal.short.gy/alex-epg" tvg-shift=0
+#EXTM3U add this link to any i.p.t.v players (recommend TiviMate and iMPlayer): https://7pal.short.gy/alxstream or https://bit.ly/sports4kuhd
+#EXTM3U Join Discord server: https://7pal.short.gy/discord
+#EXTM3U Disclaimer: Links were collected by the bot on the internet like Google did. For legal issues, please contact appropriate media file owners/hosters.
+#EXTINF:-1 tvg-id="Info.Guide.Dummy.us" tvg-logo="https://i.imgur.com/3XIe0au.png" group-title="",🌍 Intro 🌍
+https://7pal.short.gy/intro
+
+--- 📺 Sports | 4K UHD
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="Sports | 4K UHD",Sky Sports Main Event UHD
+https://7pal.short.gy/SSMEuhd
+#EXTINF:-1 tvg-id="Astro.Sports.UHD.my" tvg-logo="https://i.imgur.com/3cW86E5.png" group-title="Sports | 4K UHD",Astro Sports UHD
+https://7pal.short.gy/astrouhd
+#EXTINF:-1 tvg-id="4k_DIGITAL_Mono_EN.bein" tvg-logo="https://i.imgur.com/eb3S5pZ.png" group-title="Sports | 4K UHD",beIN 4K
+https://7pal.short.gy/bein-uhd
+#EXTINF:-1 tvg-id="Now.Sports.4K.1.hk" tvg-logo="https://i.postimg.cc/TP5pTkgg/611-e.png" group-title="Sports | 4K UHD",Now Sports 1 4k
+https://7pal.short.gy/nowsport4k
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png" group-title="Sports | 4K UHD",Hub Premier 2 UHD
+https://7pal.short.gy/HubP2uhd
+#EXTINF:-1 tvg-id="V.sport.ULTRA.HD.fi" tvg-logo="https://i.imgur.com/Q2qDLpV.png" group-title="Sports | 4K UHD",V Sport UltraHD
+https://7pal.short.gy/VSportUHD
+#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/13fost1689746391.png" group-title="Sports | 4K UHD",TNT Sport Ultimate
+https://7pal.short.gy/TNTUltimate
+#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.imgur.com/PUaJPaE.png" group-title="Sports | 4K UHD",ElevenSport1 4K
+https://7pal.short.gy/11sports1
+#EXTINF:-1 tvg-id="Prima.4K.ro" tvg-logo="https://i.imgur.com/TrumXXV.png" group-title="Sports | 4K UHD",Prima4K
+https://7pal.short.gy/prima4k
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="Sports | 4K UHD",Sky Sports F1 UHD
+https://7pal.short.gy/SSF1uhd
+#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-logo="https://i.imgur.com/jVI5bge.png" group-title="Sports | 4K UHD",Ziggo Sport UHD
+https://7pal.short.gy/ZiggoSport
+#EXTINF:-1 tvg-id="Sport.5.4K.il" tvg-logo="https://pixvid.org/images/2025/01/23/Sport5.png" group-title="Sports | 4K UHD",Sport5_4k
+https://7pal.short.gy/5sport
+#EXTINF:-1 tvg-id="Eurosport.4K.ro" tvg-logo="https://i.imgur.com/DVSdQFj.png" group-title="Sports | 4K UHD",EuroSport 4K 
+https://7pal.short.gy/eusport4k
+#EXTINF:-1 tvg-id="M+.LALIGA.TV.es" tvg-logo="https://i.imgur.com/26c7mQb.png" group-title="Sports | 4K UHD",M+LaLiga UHD 
+https://7pal.short.gy/mplusuhd
+#EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="Sports | 4K UHD",NESN UHD
+https://7pal.short.gy/nesnuhd
+
+--- 📺 Sports | EPL
+#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="Sports | EPL", Hub Premier1 FHD
+https://7pal.short.gy/HPremier1
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://i.imgur.com/fxsOa7l.png" group-title="Sports | EPL", Hub Premier2 FHD
+https://7pal.short.gy/HPremier2
+#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://i.imgur.com/EIVrelH.png" group-title="Sports | EPL", Hub Premier3 FHD
+https://7pal.short.gy/HPremier3
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.1.hk" tvg-logo="https://i.imgur.com/WWi5Cjx.png" group-title="Sports | EPL", Now Sports Premier League1 FHD
+https://7pal.short.gy/nowhkp1
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk" tvg-logo="https://i.imgur.com/Gr1qxbC.png" group-title="Sports | EPL", Now Sports PremierLeague 2 FHD
+https://7pal.short.gy/nowhkp2
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.3.hk" tvg-logo="https://i.imgur.com/kKFsIHz.png" group-title="Sports | EPL", Now Sports Premier League 3 FHD
+https://7pal.short.gy/nowhkp3
+#EXTINF:-1 tvg-id="Astro.Premier.League.my" tvg-logo="https://i.imgur.com/M4nTRLb.png" group-title="Sports | EPL", Astro Premier League FHD
+https://7pal.short.gy/astross1
+#EXTINF:-1 tvg-id="Astro.Premier.League.2.my" tvg-logo="https://i.imgur.com/f6hG3Ok.png" group-title="Sports | EPL", Astro Premier League 2 FHD
+https://7pal.short.gy/astross2
+#EXTINF:-1 tvg-id="Astro.Grandstand.my" tvg-logo="https://i.imgur.com/u92HNWn.png" group-title="Sports | EPL", Astro Grandstand FHD
+https://7pal.short.gy/astross3
+#EXTINF:-1 tvg-id="Astro.Football.my" tvg-logo="https://i.imgur.com/ixUEirO.png" group-title="Sports | EPL", Astro Football FHD
+https://7pal.short.gy/astross4
+#EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://i.imgur.com/a7ZwpAe.png" group-title="Sports | EPL", USA NetWork FHD
+https://7pal.short.gy/usanetwork
+
+--- 📺 Sports | UK
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="Sports | UK", TNT Sports 1 FHD
+https://7pal.short.gy/tntspts1
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="Sports | UK", TNT Sports 2 FHD
+https://7pal.short.gy/tntspts2
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png" group-title="Sports | UK", TNT Sports 3 FHD
+https://7pal.short.gy/tntspts3
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png" group-title="Sports | UK", TNT Sports 4 FHD
+https://7pal.short.gy/tntspts4
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="Sports | UK", Sky Sports Main Event FHD
+https://7pal.short.gy/SkSpMainE
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="Sports | UK", Sky Sports PremierLeague FHD
+https://7pal.short.gy/ssportspl
+#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://i.imgur.com/V5FbXRm.png" group-title="Sports | UK", Sky Sports Football FHD
+https://7pal.short.gy/ssportsfb
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="Sports | UK", Sky Sports F1 FHD
+https://7pal.short.gy/ssportsf1
+#EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://i.imgur.com/ZNUDU1r.png" group-title="Sports | UK", Sky Sports Tennis FHD
+https://7pal.short.gy/ssportstn
+#EXTINF:-1 tvg-id="SkySp+.uk" tvg-logo="https://pixvid.org/images/2025/01/21/Sky_Sportsplus.png" group-title="Sports | UK", Sky Sports+ FHD
+https://7pal.short.gy/ssportplus
+#EXTINF:-1 tvg-id="SkySp.Cricket.uk" tvg-logo="https://i.imgur.com/ZXq4kGB.png" group-title="Sports | UK", Sky Sports Criket FHD
+https://7pal.short.gy/ssportscrk
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://i.imgur.com/RKUHQi8.png" group-title="Sports | UK", Sky Sports Golf FHD
+https://7pal.short.gy/ssportsgf
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://i.imgur.com/buUigAI.png" group-title="Sports | UK", Sky Sports News-FHD
+https://7pal.short.gy/ssportsnw
+#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://i.imgur.com/i1yzHZj.png" group-title="Sports | UK", Sky Sports Action FHD
+https://7pal.short.gy/ssportsat
+#EXTINF:-1 tvg-id="SkySpBoxOff.uk" tvg-logo="https://pixvid.org/images/2025/01/23/ssports-bo.png" group-title="Sports | UK", Sky Sports Box Office
+https://7pal.short.gy/ssportsbo
+
+
+--- 📺 Sports | NZ
+#EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="Sports | NZ", Sky Sport1 NZ FHD
+https://7pal.short.gy/skyspt1nz
+#EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="Sports | NZ", Sky Sport2 NZ FHD
+https://7pal.short.gy/skyspt2nz
+#EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="Sports | NZ", Sky Sport3 NZ FHD
+https://7pal.short.gy/skyspt3nz
+#EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png" group-title="Sports | NZ", Sky Sport4 NZ FHD
+https://7pal.short.gy/skyspt4nz
+#EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-logo="https://i.postimg.cc/3wyyckxp/sky_sport_5.png" group-title="Sports | NZ", Sky Sport5 NZ FHD
+https://7pal.short.gy/skyspt5nz
+#EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png" group-title="Sports | NZ", Sky Sport6 NZ FHD
+https://7pal.short.gy/skyspt6nz
+#EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="Sports | NZ", Sky Sport7 NZ FHD
+https://7pal.short.gy/skyspt7nz
+#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="Sports | NZ", Sky Sport Premier League FHD
+https://7pal.short.gy/skyspt8nz
+
+--- 📺 Sports | AU
+#EXTINF:-1 tvg-id="FoxCricket.au" tvg-logo="https://pixvid.org/images/2025/01/31/Fox501.png" group-title="Sports | AU", Fox Sports 501
+https://7pal.short.gy/fox501au
+#EXTINF:-1 tvg-id="FoxLeague.au" tvg-logo="https://i.imgur.com/7G0lOta.png" group-title="Sports | AU", Fox Sports 502
+https://7pal.short.gy/fox502au
+#EXTINF:-1 tvg-id="FoxSports503.au" tvg-logo="https://i.imgur.com/fndl6gs.png" group-title="Sports | AU", Fox Sports 503
+https://7pal.short.gy/fox503au
+#EXTINF:-1 tvg-id="FoxFooty.au" tvg-logo="https://i.imgur.com/0tZxstM.png" group-title="Sports | AU", Fox Sports 504
+https://7pal.short.gy/fox504au
+#EXTINF:-1 tvg-id="FoxSports505.au" tvg-logo="https://i.imgur.com/pnrLdcb.png" group-title="Sports | AU", Fox Sports 505
+https://7pal.short.gy/fox505au
+#EXTINF:-1 tvg-id="FoxSports506.au" tvg-logo="https://i.imgur.com/XkOpNPe.png group-title="Sports | AU", Fox Sports 506
+https://7pal.short.gy/fox506au
+#EXTINF:-1 tvg-id="FoxSportsMore.au" tvg-logo="https://i.imgur.com/PeDP6zC.png" group-title="Sports | AU", Fox Sports 507
+https://7pal.short.gy/fox507au
+
+
+--- 📺 Sports | CA
+#EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-logo="https://i.imgur.com/ttlElcO.png" group-title="Sports | CA", Sportsnet ONE
+https://7pal.short.gy/sptsnet1
+#EXTINF:-1 tvg-id="Sportsnet.360.ca" tvg-logo="https://i.imgur.com/oKnzVLr.png" group-title="Sports | CA", Sportsnet 360
+https://7pal.short.gy/sptsnet360
+#EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" tvg-logo="https://i.imgur.com/UDfhP02.png" group-title="Sports | CA", Sportsnet Ontario
+https://7pal.short.gy/sptsneton
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://i.imgur.com/VUPAGWN.png" group-title="Sports | CA", TSN1
+https://7pal.short.gy/tsn1ca
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://i.imgur.com/SWscg4w.png" group-title="Sports | CA", TSN2
+https://7pal.short.gy/tsn2ca
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://i.imgur.com/KBQSJxA.png" group-title="Sports | CA", TSN3
+https://7pal.short.gy/tsn3ca
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://i.imgur.com/ofAoWIg.png" group-title="Sports | CA", TSN4
+https://7pal.short.gy/tsn4ca
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://i.imgur.com/6M4zAci.png" group-title="Sports | CA", TSN5
+https://7pal.short.gy/tsn5ca
+
+
+--- 📺 Sports | US
+#EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://i.imgur.com/uo7pHjF.png" group-title="Sports | US", CBS Sport Network
+https://7pal.short.gy/cbssptnw
+#EXTINF:-1 tvg-id="MSG.(Madison.Square.Gardens).us" tvg-logo="https://i.imgur.com/OLFLQi1.jpg" group-title="Sports | US", MSG
+https://7pal.short.gy/msgusa
+#EXTINF:-1 tvg-id="MSG.Plus.us" tvg-logo="https://i.imgur.com/OLFLQi1.jpg" group-title="Sports | US", MSG+
+https://7pal.short.gy/msgsn
+#EXTINF:-1 tvg-id="NFL.Network.us" tvg-logo="https://i.imgur.com/XKBiWym.jpg" group-title="Sports | US", NFL Network
+https://7pal.short.gy/nflnw
+#EXTINF:-1 tvg-id="NFL.RedZone.us" tvg-logo="https://i.imgur.com/R4P4iyv.png" group-title="Sports | US", USA: NFL Redzone
+https://7pal.short.gy/nflredz
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg" group-title="Sports | US", ESPN 
+https://7pal.short.gy/espnus
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg" group-title="Sports | US" ESPN2 
+https://7pal.short.gy/espn2
+#EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://i.imgur.com/Nq4lPP4.png" group-title="Sports | US", WWE Network
+https://7pal.short.gy/wwenw
+#EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-logo="https://i.imgur.com/qAT0jSA.png" group-title="Sports | US", NBA TV
+https://7pal.short.gy/nbatvus
+#EXTINF:-1 tvg-id="MLB.Network.us" tvg-logo="https://i.imgur.com/ZGrahiw.png" group-title="Sports | US", MLB Network
+https://7pal.short.gy/mlbnw
+#EXTINF:-1 tvg-id="NHL.Network.USA.us" tvg-logo="https://i.imgur.com/tx3IEJV.png" group-title="Sports | US", NHL Network
+https://7pal.short.gy/nhlnw
+#EXTINF:-1 tvg-id="The.Fight.Network.(United.States).(TFN).us" tvg-logo="https://i.imgur.com/74er6Jm.png" group-title="Sports | US", UFC 24/7
+https://7pal.short.gy/ufc247
+#EXTINF:-1 tvg-id="The.Tennis.Channel.us" tvg-logo="https://i.imgur.com/QCT1frc.png" group-title="Sports | US", Tennis Channel
+https://7pal.short.gy/tennisc
+#EXTINF:-1 tvg-id="SEC.Network.us" tvg-logo="https://i.imgur.com/Syh6HDB.png" group-title="Sports | US", SEC Network
+https://7pal.short.gy/secnw
+#EXTINF:-1 tvg-id="YES.Network.us" tvg-logo="https://i.imgur.com/TNICRph.png" group-title="Sports | US", YES Network
+https://7pal.short.gy/yesnw
+#EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-logo="https://pixvid.org/images/2025/01/25/fs1.png" group-title="Sports | US",FS 1
+https://7pal.short.gy/fs1us
+#EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-logo="https://pixvid.org/images/2025/01/25/fs2.png" group-title="Sports | US", FS 2
+https://7pal.short.gy/fs2us
+
+--- 📺 Sports | World
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/1Ob8v6K.png" group-title="Sports | World", Premier Sports 1 FHD
+https://7pal.short.gy/prsport1
+#EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/IwezEnz.png" group-title="Sports | World", Premier Sports 2 FHD
+https://7pal.short.gy/prsport2
+
+#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-logo="https://i.imgur.com/jVI5bge.png" group-title="Sports | World",Ziggo Sport FHD
+https://7pal.short.gy/zigosfhd
+
+--- 📺 Sports | Events
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 1
+https://7pal.short.gy/event1
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 2
+https://7pal.short.gy/event2
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 3
+https://7pal.short.gy/event3
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 4
+https://7pal.short.gy/event4
+
+
