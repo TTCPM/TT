@@ -145,12 +145,15 @@ CETV1,https://httop.top/ysp-cetv1
 兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 
 超清频道,#genre#
-
+CCTV-16奥林匹克4K,http://183.220.107.138:4022/rtp/239.10.0.187:5140
+北京卫视4K超高清,http://183.220.107.138:4022/rtp/239.10.0.91:5140
+北京卫视4K超高清,http://183.220.107.138:4022/rtp/239.10.0.92:5140
 广东卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
 广东卫视4K,http://vvip.lqcc.xyz:8092/stream/channelid/1248069700?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 苏州4k,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
+TVB翡翠台4K,https://cdn.163189.xyz/live/fct4k/stream.m3u8
 综合频道,#genre#
 
 睛彩篮球,http://183.220.107.138:4022/rtp/239.11.0.122:5140
