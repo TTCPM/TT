@@ -62,7 +62,7 @@ CETV4,https://zby.130519.xyz/PLTV/11/224/3221226069/index.m3u8
 CGTN,https://zby.130519.xyz/PLTV/11/224/3221226016/index.m3u8
 CETV1,https://httop.top/ysp-cetv1
 
-
+CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 卫视频道,#genre#
 北京卫视,https://httop.top/ysp-北京卫视
 东方卫视,https://httop.top/ysp-东方卫视
@@ -251,99 +251,45 @@ IPTV高网,http://183.220.107.138:4022/rtp/239.10.0.164:5140
 香港频道,#genre#
 
 港澳台频道,#genre#
-Amc电影,http://live4play.uk/livehttpplay?channel_id=12036
-AMC電影台,http://61.221.215.25:8800/hls/43/index.m3u8
-asia-afn频标,http://live4play.uk/livehttpplay?channel_id=20115
-asia动物,http://live4play.uk/livehttpplay?channel_id=20113
-AsrtAEC,https://smt.1789.dpdns.org/smt3.2.1.php?id=AEC
-AsrtoQJ,https://smt.1789.dpdns.org/smt3.2.1.php?id=Quanjia
-Asrt欢喜,https://smt.1789.dpdns.org/smt3.2.1.php?id=Huahee
-Asrt奇艺,https://smt.1789.dpdns.org/smt3.2.1.php?id=Qiyi
+
 Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
 Astro AOD,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
 Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
-astro QJ,http://php.jdshipin.com:8880/smt.php?id=Quanjia
-astroAec,http://php.jdshipin.com:8880/smt.php?id=AEC
-AstroRio频标,http://php.jdshipin.com/PLTV/iptv.php?id=aod
-astro爱奇艺,http://php.jdshipin.com:8880/smt.php?id=Qiyi
-astro欢喜,http://php.jdshipin.com:8880/smt.php?id=Huahee
-Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
-Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
-BBC地球,http://108.181.20.197/livehttpplay?channel_id=20044
-BBC地球,http://live4play.uk/livehttpplay?channel_id=20044
-C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8
-C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/02.m3u8
-C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
-CHANNEL8,http://108.181.20.197/livehttpplay?channel_id=10132
-CHC动作电影,http://113.195.172.192:808/hls/114/index.m3u8
-CHC家庭影院,http://113.195.172.192:808/hls/113/index.m3u8
-CHC影迷电影,http://113.195.172.192:808/hls/112/index.m3u8
-cn卡通频道,http://live4play.uk/livehttpplay?channel_id=20048
-DAZN体育1,http://live4play.uk/livehttpplay?channel_id=10104
-DAZN体育2,http://live4play.uk/livehttpplay?channel_id=10105
-Discover,http://live4play.uk/livehttpplay?channel_id=20110
-ElaT体育壹,http://live4play.uk/livehttpplay?channel_id=20129
-ELEVENSPORTS1,http://108.181.20.197/livehttpplay?channel_id=10104
-ELEVENSPORTS2,http://108.181.20.197/livehttpplay?channel_id=10105
-ELEVEN体育2,http://108.181.20.197/livehttpplay?channel_id=20107
-ELTA体育1,http://108.181.20.197/livehttpplay?channel_id=20043
-FGM电影,http://108.181.20.197/livehttpplay?channel_id=10123
-Fgm电影,http://live4play.uk/livehttpplay?channel_id=10123
-Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-HBO Family,http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
-HBO1,http://108.181.20.197/livehttpplay?channel_id=20093
-HBO2,http://108.181.20.197/livehttpplay?channel_id=20314
-HBOFAMILY,http://108.181.20.197/livehttpplay?channel_id=20092
-HBOHITS,http://108.181.20.197/livehttpplay?channel_id=20091
-HBo电影1,http://live4play.uk/livehttpplay?channel_id=20091
-HBo电影3,http://live4play.uk/livehttpplay?channel_id=20093
+Astro QJ,http://php.jdshipin.com:8880/smt.php?id=Quanjia
+Astro AEC,http://php.jdshipin.com:8880/smt.php?id=AEC
+Astro 爱奇艺,http://php.jdshipin.com:8880/smt.php?id=Qiyi
+Astro 欢喜台,http://php.jdshipin.com:8880/smt.php?id=Huahee
+Astro 欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
+Astro AOD,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
+
 HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-HOY76,http://bziyunshao.synology.me:8891/bysid/76
-HOY77,http://bziyunshao.synology.me:8891/bysid/77
-HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
-HOY77,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
-HOY78,http://108.181.20.197/livehttpplay?channel_id=20191
-HOY78,http://bziyunshao.synology.me:8891/bysid/78
-HOY资讯台,http://api.mg.itv888.cn:8080/hls/5e12ccd9191/index.m3u8
-iNews 新闻台,http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8
-J 2,http://api.mg.itv888.cn:8080/hls/c18815664e8/index.m3u8
-nba,http://122.53.222.9:9981/stream/channelid/1044534831?profile=pass
-NHK新闻英,http://61.221.215.25:8800/hls/51/index.m3u8
-nowsports,https://stream1.freetv.fun/nowsports-1.ctv
-NOW新闻,http://108.181.20.197/livehttpplay?channel_id=20041
+HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+HOY TV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
+HOY 资讯台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv3
+NBA,http://122.53.222.9:9981/stream/channelid/1044534831?profile=pass
+
 NOW新闻,http://bxtv.3a.ink/api.php?id=now
-Now新闻,http://live4play.uk/livehttpplay?channel_id=20041
-NOW新闻台,http://cdn.163189.xyz/163189/now
-Now英超体贰,http://hkenlive.uk/livehttpplay?channel_id=13025
-Now英超体壹,http://hkenlive.uk/livehttpplay?channel_id=13010
-Now英超直贰,http://hkenlive.uk/livehttpplay?channel_id=13012
-Now英超直叁,http://hkenlive.uk/livehttpplay?channel_id=13008
-Now英超直肆,http://hkenlive.uk/livehttpplay?channel_id=13009
-Now英超直壹,http://hkenlive.uk/livehttpplay?channel_id=13011
+NOW新闻,http://cdn.163189.xyz/163189/now
+
 Plus综合频高,http://php.jdshipin.com/PLTV/iptv.php?id=j2
 Plus综合频高,http://php.jdshipin.com/PLTV/iptv.php?id=tvbp
 POPC,http://bxtv.3a.ink/api.php?id=popc
-RHK 31,http://api.mg.itv888.cn:8080/hls/7f79a251429/index.m3u8
-RHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
-RHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-RTHK31,http://bziyunshao.synology.me:8892/bysid/31
+
+RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
 RTHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
-RTHK-31频道,http://beishan008.asuscomm.com:8892/bysid/31.m3u8
-RTHK31频高,http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
+RTHK31,http://beishan008.asuscomm.com:8892/bysid/31.m3u8
+RTHK31,http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
 RTHK32,http://bziyunshao.synology.me:8892/bysid/32
 RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-RTHK-32,http://vallest.uk/livehttpplay?channel_id=30067
-RTHK-32频道,http://beishan008.asuscomm.com:8892/bysid/32.m3u8
-RTHK32频高,http://php.jdshipin.com/PLTV/iptv.php?id=rthk32
 RTHK33,http://bziyunshao.synology.me:8892/bysid/33
-RTHK-33频道,http://beishan008.asuscomm.com:8892/bysid/33.m3u8
-RTHK-34频道,http://beishan008.asuscomm.com:8892/bysid/34.m3u8
+RTHK33,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+RTHK34,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk34
+
 Russian,http://cdn.adultiptv.net/russian.m3u8
 TVB J1,https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
 TVB J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
