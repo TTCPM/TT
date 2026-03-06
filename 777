@@ -1,4 +1,24 @@
 央卫频道,#genre#
+
+CCTV1综合,http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV2财经,http://74.91.26.218:82/live/cctv2hd.m3u8
+CCTV3综艺,http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV4中文国际,http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV5体育,http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV6电影,http://74.91.26.218:82/live/cctv6hd.m3u8
+CCTV7国防军事,http://74.91.26.218:82/live/cctv7hd.m3u8
+CCTV8电视剧,http://74.91.26.218:82/live/cctv8hd.m3u8
+CCTV9纪录,http://74.91.26.218:82/live/cctv9hd.m3u8
+CCTV10科教,http://74.91.26.218:82/live/cctv10hd.m3u8
+CCTV11戏曲,http://74.91.26.218:82/live/cctv11hd.m3u8
+CCTV12社会与法,http://74.91.26.218:82/live/cctv12hd.m3u8
+CCTV13新闻,http://74.91.26.218:82/live/cctv13hd.m3u8
+CCTV14少儿,http://74.91.26.218:82/live/cctv14hd.m3u8
+CCTV15音乐,http://74.91.26.218:82/live/cctv15hd.m3u8
+CCTV16奥利匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
+CCTV17农业农村,http://74.91.26.218:82/live/cctv17hd.m3u8
+CCTV5+体育赛事,http://74.91.26.218:82/live/cctv5p.m3u8
+
 CCTV-1 综合,http://116.76.254.170:44330/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-2 财经,http://116.76.254.170:44330/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-3 综艺,http://116.76.254.170:44330/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -375,6 +395,17 @@ ZooMoo',http://tl.061833.xyz/tl/zoomoo
 邵氏电影,https://stream1.freetv.fun/d8f66a980ecbfcf9ff9db3b098d87b06793378b6f0d84e28717bfb2da14c2124.m3u8
 
 备用频道,#genre#
+龙华日韩,https://litv.goiptv.de5.net/litv.php?id=litv-xinchuang11
+龙华偶像,https://litv.goiptv.de5.net/litv.php?id=litv-xinchuang12
+博斯无限2,https://litv.goiptv.de5.net/litv.php?id=litv-xinchuang13
+寰宇新闻台,https://litv.goiptv.de5.net/litv.php?id=litv-longturn14
+寰宇新闻台湾台,https://litv.goiptv.de5.net/litv.php?id=litv-longturn15
+亚洲旅游台,https://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv076
+龙华戏剧,https://litv.goiptv.de5.net/litv.php?id=litv-xinchuang18
+Smart知识台,https://litv.goiptv.de5.net/litv.php?id=litv-xinchuang19
+生活英语台,https://litv.goiptv.de5.net/litv.php?id=litv-xinchuang20
+龙华经典,https://litv.goiptv.de5.net/litv.php?id=litv-xinchuang21
+台湾戏剧台,https://litv.goiptv.de5.net/litv.php?id=litv-xinchuang22
 
 天映频道,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial
 天映经典,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
