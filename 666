@@ -1,237 +1,751 @@
-#EXTM3U x-tvg-url="https://develop202.github.io/migu_video/playback.xml,https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml,https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml" catchup="append" catchup-source="&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 svg-id="CCTV1缁煎悎" svg-name="CCTV1缁煎悎" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2201/057/821/202204010054_1626677671392_H32_1080.webp" group-title="澶",CCTV1缁煎悎
-http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/600/index.m3u8?msisdn=20260306232454caae9058b94141789eb6d1b4853e8539&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260306232454&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=114.245.219.76&SecurityKey=20260306232454&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=e0aae8dc9e39965a5cc01374bbfa1713&ddCalcu=3e10e7a01a8ae0f8bdbc497e331909c6c55a
-#EXTINF:-1 svg-id="CCTV2璐㈢粡" svg-name="CCTV2璐㈢粡" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/346/945/202205311432_1626678578843_H32_1080.webp" group-title="澶",CCTV2璐㈢粡
-http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/600/index.m3u8?msisdn=2026030623245501584f9d659645a08e7e09f6f99dde2b&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20260306232455&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=114.245.219.76&SecurityKey=20260306232455&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=dcca8e2f6a597c87e5c70f94438d27b1&ddCalcu=1dbce7c02a1d808e324f469af50977cc58e7
-#EXTINF:-1 svg-id="CCTV3缁艰壓" svg-name="CCTV3缁艰壓" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/864/202204010055_1626679244629_H32_1080.webp" group-title="澶",CCTV3缁艰壓
-http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/1000/index.m3u8?msisdn=20260306232456b719d3bf9d0b42c3ae96aa913489595c&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20260306232456&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=114.245.219.76&SecurityKey=20260306232456&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=48da288f37c8677db67518ed3b106dbe&ddCalcu=e4b8edd06a402018b83fd3e78c18567767bd
-#EXTINF:-1 svg-id="CCTV4涓枃鍥介檯" svg-name="CCTV4涓枃鍥介檯" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/346/947/202204010054_1626679413842_H32_1080.webp" group-title="澶",CCTV4涓枃鍥介檯
-http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv4hd/600/index.m3u8?msisdn=20260306232456179430e65df649b8bb2dcb06f458ecc6&mdspid=&spid=699004&netType=0&sid=5500346947&pid=2028597139&timestamp=20260306232456&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=114.245.219.76&SecurityKey=20260306232456&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=28add8bc2f42982daffef38b58905175&ddCalcu=5278e1a05d10d0988b5cb28f34f2e9f8f2ad
-#EXTINF:-1 svg-id="CCTV5浣撹偛" svg-name="CCTV5浣撹偛" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/516/171/202204010048_1626679603804_H32_1080.webp" group-title="澶",CCTV5浣撹偛
-http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/600/index.m3u8?msisdn=20260306232457b375e2bcd54147068ead229f855d50c8&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20260306232457&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=114.245.219.76&SecurityKey=20260306232457&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=3b80087825f0046a9cfe1e4aa240949a&ddCalcu=a39be4809010004827a8a245ef10e0f4c69a
-#EXTINF:-1 svg-id="CCTV5+浣撹偛璧涗簨" svg-name="CCTV5+浣撹偛璧涗簨" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/516/288/202204010048_1626679712843_H32_1080.webp" group-title="澶",CCTV5+浣撹偛璧涗簨
-http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/600/index.m3u8?msisdn=2026030623245854e7aab9f83c4fc59da73aa6f3f60b3f&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20260306232458&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=114.245.219.76&SecurityKey=20260306232458&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=b17e9be51e04cc1439fd89508fe472fe&ddCalcu=ebf1e2707e1490ebfe85015e9084dcfc9134
-#EXTINF:-1 svg-id="CCTV6鐢靛奖" svg-name="CCTV6鐢靛奖" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/872/202204010054_1626679914432_H32_1080.webp" group-title="澶",CCTV6鐢靛奖
-http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv6hd/1000/index.m3u8?msisdn=202603062324592300d054b8014d3b988c172073bb9533&mdspid=&spid=699004&netType=0&sid=5500212872&pid=2028597139&timestamp=20260306232459&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=114.245.219.76&SecurityKey=20260306232459&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=84a513c4966dfc76bc009dbe4282bbed&ddCalcu=d8e4eba0b54210832c44e9b6d69d0f0cc7b6
-#EXTINF:-1 svg-id="CCTV7鍥介槻鍐涗簨" svg-name="CCTV7鍥介槻鍐涗簨" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/622/202204010054_1626680119210_H32_1080.webp" group-title="澶",CCTV7鍥介槻鍐涗簨
-http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/50/index.m3u8?msisdn=20260306232459b1dbfb13ab174c9a9e80cc25ce6745b9&mdspid=&spid=699004&netType=0&sid=5501083622&pid=2028597139&timestamp=20260306232459&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168121&ParentNodeID=-99&assertID=5501083622&client_ip=114.245.219.76&SecurityKey=20260306232459&promotionId=&mvid=5102910278&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=8c723f3bdf01d4db2e9058ad0670be3b&ddCalcu=b83cee70b230307f630bddaf80510d94ed2b
-#EXTINF:-1 svg-id="CCTV8鐢佃鍓�" svg-name="CCTV8鐢佃鍓�" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/868/202204010049_1626677150014_H32_1080.webp" group-title="澶",CCTV8鐢佃鍓�
-http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv8hd/1000/index.m3u8?msisdn=202603062325005093c24577e14ffd836d1f7643d19d96&mdspid=&spid=699004&netType=0&sid=5500212868&pid=2028597139&timestamp=20260306232500&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=114.245.219.76&SecurityKey=20260306232500&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=80d4d9d9f301e90e7dbe0b04b168579a&ddCalcu=a890e7d05448d0691db94f03b001eeb9d07e
-#EXTINF:-1 svg-id="CCTV9绾綍" svg-name="CCTV9绾綍" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/624/202204010054_1626677545059_H32_1080.webp" group-title="澶",CCTV9绾綍
-http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/50/index.m3u8?msisdn=20260306232501c55ac66980cd4701b32b522c6596f253&mdspid=&spid=699004&netType=0&sid=5501083624&pid=2028597139&timestamp=20260306232501&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=114.245.219.76&SecurityKey=20260306232501&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=1126f47e0667ebff73c96b7313e625f4&ddCalcu=41f1e5202636f0e4371e3076b6679ecb3f7f
-#EXTINF:-1 svg-id="CCTV10绉戞暀" svg-name="CCTV10绉戞暀" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/874/202204010054_1626677767922_H32_1080.webp" group-title="澶",CCTV10绉戞暀
-http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv10hd/1000/index.m3u8?msisdn=202603062325016e3ea224dc0d4bb3bde5a607a360c6fb&mdspid=&spid=699004&netType=0&sid=5500212874&pid=2028597139&timestamp=20260306232501&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878405&ParentNodeID=-99&assertID=5500212874&client_ip=114.245.219.76&SecurityKey=20260306232501&promotionId=&mvid=5100001696&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=b6d464ba8e4a3c80ad4e0462c0616682&ddCalcu=2b86e6d0644160640bca286e440ae34cd8a0
-#EXTINF:-1 svg-id="CCTV11鎴忔洸" svg-name="CCTV11鎴忔洸" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/988/610/202204010054_1626677922732_H32_1080.webp" group-title="澶",CCTV11鎴忔洸
-http://gslbmgsplive.miguvideo.com/migu/kailu/cctv11hd/50/20200103/index.m3u8?msisdn=20260306232502c9fcf82612464e27a2eea5135eb2c43f&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139&timestamp=20260306232502&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=114.245.219.76&SecurityKey=20260306232502&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=0c7fd3ae81e6fa562d76e922fb65c4df&ddCalcu=f0dce470cf75d063bafe28219ee66f7ad526
-#EXTINF:-1 svg-id="CCTV12绀句細涓庢硶" svg-name="CCTV12绀句細涓庢硶" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/627/202204010053_1626678108629_H32_1080.webp" group-title="澶",CCTV12绀句細涓庢硶
-http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/50/index.m3u8?msisdn=2026030623250340359d0d7d134bdf93919cfc11c71446&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20260306232503&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=114.245.219.76&SecurityKey=20260306232503&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=9cae2d9df3232d16dcb4b4548353330e&ddCalcu=e90ce3a03e33205d398d4f5342b342bdc1d6
-#EXTINF:-1 svg-id="CCTV13鏂伴椈" svg-name="CCTV13鏂伴椈" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2202/208/864/202204010051_2202208864_H32_1080.webp" group-title="澶",CCTV13鏂伴椈
-http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/1000/index.m3u8?msisdn=2026030623250429435544f68940acb4f9694fce94a9f8&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20260306232504&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=114.245.219.76&SecurityKey=20260306232504&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=599535c639a58002800d0a9587fc1a13&ddCalcu=3519ea90158c30f57c865399aa05d8000082
-#EXTINF:-1 svg-id="CCTV14灏戝効" svg-name="CCTV14灏戝効" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/875/202204010054_1626678147073_H32_1080.webp" group-title="澶",CCTV14灏戝効
-http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv14hd/1000/index.m3u8?msisdn=2026030623250499d70e3c9e9445f098e70bf2d9f6103f&mdspid=&spid=699004&netType=0&sid=5500212875&pid=2028597139&timestamp=20260306232504&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=114.245.219.76&SecurityKey=20260306232504&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=782c553de1dfafb4fdf10a6d9a18abf4&ddCalcu=47f8eb20ac485015a39dde61ad0f1affdbf4
-#EXTINF:-1 svg-id="CCTV15闊充箰" svg-name="CCTV15闊充箰" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/628/202204010054_1626678245130_H32_1080.webp" group-title="澶",CCTV15闊充箰
-http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/50/index.m3u8?msisdn=20260306232505362e2e2a8e794b2885a4f0bb6dd65ec0&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20260306232505&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=114.245.219.76&SecurityKey=20260306232505&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=1a175367b53aaf42f7473cd2049b23ee&ddCalcu=e1eae310273b509346072bd5c33a7a4f74f2
-#EXTINF:-1 svg-id="CCTV17鍐滀笟鍐滄潙" svg-name="CCTV17鍐滀笟鍐滄潙" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/631/202204010052_1626678428060_H32_1080.webp" group-title="澶",CCTV17鍐滀笟鍐滄潙
-http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/50/index.m3u8?msisdn=20260306232506c634193db0bb4a3587aeb1c8ec38b96b&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20260306232506&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=114.245.219.76&SecurityKey=20260306232506&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=fb1fe11325fc0829f6db0210b5c5a300&ddCalcu=0f0be310af35e0c151b302152f0cb0d862f9
-#EXTINF:-1 svg-id="CCTV4娆ф床" svg-name="CCTV4娆ф床" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/315/202204010055_1626831010992_H32_1080.webp" group-title="澶",CCTV4娆ф床
-http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/50/index.m3u8?msisdn=20260306232507bcfb2c130e274fbca9cc82d48cd53180&mdspid=&spid=699004&netType=0&sid=2200179315&pid=2028597139&timestamp=20260306232507&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807419&ParentNodeID=-99&assertID=2200179315&client_ip=114.245.219.76&SecurityKey=20260306232507&promotionId=&mvid=2200179315&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=5ce2fc766ed8b90b3422cfc1ac3df274&ddCalcu=457ce2e0f28df03cc7a616cefdc82b29403b
-#EXTINF:-1 svg-id="CCTV4缇庢床" svg-name="CCTV4缇庢床" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/344/202204010055_1626830746239_H32_1080.webp" group-title="澶",CCTV4缇庢床
-http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/50/index.m3u8?msisdn=202603062325077e69b56dd5ad419bb224b04becd353bb&mdspid=&spid=699004&netType=0&sid=2200179344&pid=2028597139&timestamp=20260306232507&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807416&ParentNodeID=-99&assertID=2200179344&client_ip=114.245.219.76&SecurityKey=20260306232507&promotionId=&mvid=2200179344&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=7f94321b3005f9db8a3e9735b42781e7&ddCalcu=77efe1908487302241bb53307095ef39ad8b
-#EXTINF:-1 svg-id="CGTN澶栬绾綍" svg-name="CGTN澶栬绾綍" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/356/202502251602_1740470541608_H32_1080.webp" group-title="澶",CGTN澶栬绾綍
-http://gslbmgsplive.miguvideo.com/envivo_v/2018/SD/cctv/doc/1000/index.m3u8?msisdn=20260306232508c61fc756e2a8460780a4c02ef0ae3c27&mdspid=&spid=699004&netType=0&sid=2200179356&pid=2028597139&timestamp=20260306232508&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609006487&ParentNodeID=-99&assertID=2200179356&client_ip=114.245.219.76&SecurityKey=20260306232508&promotionId=&mvid=2200179356&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=76a3d196b7ecbd5116da7e8c8aed5118&ddCalcu=8716e1a0539dd0e1a986cb87ee7cabdd6511
-#EXTINF:-1 svg-id="CGTN闃挎媺浼" svg-name="CGTN闃挎媺浼" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/303/202502251557_1740470230464_H32_1080.webp" group-title="澶",CGTN闃挎媺浼
-http://gslbmgsplive.miguvideo.com/envivo_v/SD/cctv/alabo/1000/index.m3u8?msisdn=202603062325097b00969a41c84aef9d5a7db1829e4e13&mdspid=&spid=699004&netType=0&sid=2200179303&pid=2028597139&timestamp=20260306232509&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609154345&ParentNodeID=-99&assertID=2200179303&client_ip=114.245.219.76&SecurityKey=20260306232509&promotionId=&mvid=2200179303&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=2f35cceacbf42b101868f795da9bf06b&ddCalcu=b26fe030f59bc09caeda5c9b7ff4826b8110
-#EXTINF:-1 svg-id="CGTN瑗跨彮鐗欒" svg-name="CGTN瑗跨彮鐗欒" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/337/202502251600_1740470437874_H32_1080.webp" group-title="澶",CGTN瑗跨彮鐗欒
-http://gslbmgsplive.miguvideo.com/envivo_v/2018/SD/cctv/xibanya/1000/index.m3u8?msisdn=2026030623251071a501a4c6a541638815442165356b24&mdspid=&spid=699004&netType=0&sid=2200179337&pid=2028597139&timestamp=20260306232510&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609006450&ParentNodeID=-99&assertID=2200179337&client_ip=114.245.219.76&SecurityKey=20260306232510&promotionId=&mvid=2200179337&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=40735279ff0836ebf19934a5fd02b3f4&ddCalcu=44f0e370b3925002d7f95faf403893961efb
-#EXTINF:-1 svg-id="CGTN娉曡" svg-name="CGTN娉曡" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/324/202502251559_1740470371334_H32_1080.webp" group-title="澶",CGTN娉曡
-http://gslbmgsplive.miguvideo.com/envivo_v/2018/SD/cctv/fayu/1000/index.m3u8?msisdn=2026030623251061fb86a847ed48ea932d59118454c99e&mdspid=&spid=699004&netType=0&sid=2200179324&pid=2028597139&timestamp=20260306232510&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609006476&ParentNodeID=-99&assertID=2200179324&client_ip=114.245.219.76&SecurityKey=20260306232510&promotionId=&mvid=2200179324&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=d3123efda67a1a1dd23c477749721179&ddCalcu=9d73e1101292307e9f4d7a76774ac13a21dd
-#EXTINF:-1 svg-id="CGTN淇勮" svg-name="CGTN淇勮" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/179/332/202502251558_1740470314603_H32_1080.webp" group-title="澶",CGTN淇勮
-http://gslbmgsplive.miguvideo.com/envivo_v/2018/SD/cctv/eyu/1000/index.m3u8?msisdn=20260306232511d16e3c64a8c347608abf1aaee865b777&mdspid=&spid=699004&netType=0&sid=2200179332&pid=2028597139&timestamp=20260306232511&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609006446&ParentNodeID=-99&assertID=2200179332&client_ip=114.245.219.76&SecurityKey=20260306232511&promotionId=&mvid=2200179332&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=4ad2d69befd69772e9f196efd14dc837&ddCalcu=743ae8d0c29dd04619dbfeef6d9619f797e2
-#EXTINF:-1 svg-id="鑰佹晠浜�" svg-name="鑰佹晠浜�" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/002/202405081702_1715158648861_H32_1080.webp" group-title="澶",鑰佹晠浜�
-http://gslbmgsplive.miguvideo.com/migu/kailu/cctvlaogushi/50/20231109/index.m3u8?msisdn=20260306232512631878553e1547d39e6a3fe47e0b8190&mdspid=&spid=699004&netType=0&sid=5910022002&pid=2028597139&timestamp=20260306232512&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=884121956&ParentNodeID=-99&assertID=5910022002&client_ip=114.245.219.76&SecurityKey=20260306232512&promotionId=&mvid=5900006372&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=e4160cf581289fe755f5caa70e2c3f8a&ddCalcu=ae84ef10364c002cef0578a1a2c859ff5e57
-#EXTINF:-1 svg-id="鍙戠幇涔嬫梾" svg-name="鍙戠幇涔嬫梾" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/893/202405081702_1715158828498_H32_1080.webp" group-title="澶",鍙戠幇涔嬫梾
-http://gslbmgsplive.miguvideo.com/wd_r3/cnr/faxianzhilv/1000/index.m3u8?msisdn=2026030623251370ec5491c9894f9c8a05eafcfc01e851&mdspid=&spid=699004&netType=0&sid=5500212893&pid=2028597139&timestamp=20260306232513&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878970&ParentNodeID=-99&assertID=5500212893&client_ip=114.245.219.76&SecurityKey=20260306232513&promotionId=&mvid=5100001701&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=038306afdc2cf0ccf17b8db1c1f3aead&ddCalcu=d0a3ee80a34300f61acf1dbcd28cbf701cfc
-#EXTINF:-1 svg-id="涓鐢�" svg-name="涓鐢�" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/019/355/202405081702_1715158115119_H32_1080.webp" group-title="澶",涓鐢�
-http://gslbmgsplive.miguvideo.com/migu/kailu/20210415/cctvzhongxuesheng/50/index.m3u8?msisdn=2026030623251423dada3603ae434898c57de35b38b328&mdspid=&spid=699004&netType=0&sid=5910019355&pid=2028597139&timestamp=20260306232514&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=708869532&ParentNodeID=-99&assertID=5910019355&client_ip=114.245.219.76&SecurityKey=20260306232514&promotionId=&mvid=5900002149&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=aea0e322db36b34d9609eedd5de98edc&ddCalcu=cadeeea08089e0e3d252dddbe3e69b03649d
-#EXTINF:-1 svg-id="CGTN" svg-name="CGTN" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2202/196/407/202204010052_1642124778350_H32_1080.webp" group-title="澶",CGTN
-http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/cctvnews/1000/index.m3u8?msisdn=2026030623251551e5b224f0f14bffada6bed9aa94c993&mdspid=&spid=699004&netType=0&sid=2202196407&pid=2028597139&timestamp=20260306232515&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609017205&ParentNodeID=-99&assertID=2202196407&client_ip=114.245.219.76&SecurityKey=20260306232515&promotionId=&mvid=2202196407&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=4b0ffc00cf736785398f74b31c0c79b2&ddCalcu=24bbe9007f9cf00cc0103cbf4773f6879835
-#EXTINF:-1 svg-id="璧涗簨鏈€缁忓吀" svg-name="璧涗簨鏈€缁忓吀" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/592/947/202204010047_5101034296_H32_1080.webp" group-title="浣撹偛",璧涗簨鏈€缁忓吀
-http://gslbmgsplive.miguvideo.com/wd_r3/cctv/saishijingdian/600/index.m3u8?msisdn=2026030623251593f8d71f3dbf443786b65e358598dd16&mdspid=&spid=699004&netType=0&sid=5500592947&pid=2028597139&timestamp=20260306232515&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=646596895&ParentNodeID=-99&assertID=5500592947&client_ip=114.245.219.76&SecurityKey=20260306232515&promotionId=&mvid=5101034296&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=f2af95bfc4606ecca72c3ea2861738eb&ddCalcu=bfe2e8a03f6790156b8f2ca4e630c62e7cac
-#EXTINF:-1 svg-id="浣撳潧鍚嶆爮姹�" svg-name="浣撳潧鍚嶆爮姹�" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/687/202204010048_5101034219_H32_1080.webp" group-title="浣撹偛",浣撳潧鍚嶆爮姹�
-http://gslbmgsplive.miguvideo.com/wd_r3/cctv/titanminglan/600/index.m3u8?msisdn=20260306232516606ea20d5afd47b19e6c65719cd96731&mdspid=&spid=699004&netType=0&sid=5500315687&pid=2028597139&timestamp=20260306232516&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=629943305&ParentNodeID=-99&assertID=5500315687&client_ip=114.245.219.76&SecurityKey=20260306232516&promotionId=&mvid=5101034219&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=ae0f48ea90250b70b1b4df0a9c2ddfdc&ddCalcu=cadeef00df9d4028ce9aa900f2d540bb17b0
-#EXTINF:-1 svg-id="鍥涙捣閽撻奔" svg-name="鍥涙捣閽撻奔" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/184/202508040856_5100132656_H32_1080.webp" group-title="浣撹偛",鍥涙捣閽撻奔
-http://gslbmgsplive.miguvideo.com/wd_r4/peoplecn/shdiaoyu/600/index.m3u8?msisdn=202603062325165b7120f45ead4a7f82d7577386474e5d&mdspid=&spid=600697&netType=0&sid=5910022184&pid=2028597139&timestamp=20260306232516&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=637444975&ParentNodeID=-99&assertID=5910022184&client_ip=114.245.219.76&SecurityKey=20260306232516&promotionId=&mvid=5100132656&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=eaee97f7ef52f15b767c080b91400c1c&ddCalcu=ce1aece00e7090471f97be0f8502cf71657b
-#EXTINF:-1 svg-id="闄曡タ浣撹偛浼戦棽棰戦亾" svg-name="闄曡タ浣撹偛浼戦棽棰戦亾" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/189/202512011438_1764571080735_H32_1080.webp" group-title="浣撹偛",闄曡タ浣撹偛浼戦棽棰戦亾
-http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/50/20250804/index.m3u8?msisdn=20260306232517019a1e8557c0400b8502bb62a3cefb0e&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20260306232517&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=114.245.219.76&SecurityKey=20260306232517&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=5d052cec61cc68fbeac9dc30c372b620&ddCalcu=052de600b562207c3ecc0631ccdc96c8afeb
-#EXTINF:-1 svg-id="姝︽湳涓栫晫" svg-name="姝︽湳涓栫晫" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/201/202509251348_1758698474363_H32_1080.webp" group-title="浣撹偛",姝︽湳涓栫晫
-http://gslbmgsplive.miguvideo.com/migu/kailu/wssj/50/20250915/index.m3u8?msisdn=202603062325181092454cc70548c4bbd4a72678272220&mdspid=&spid=600697&netType=0&sid=5910022201&pid=2028597139&timestamp=20260306232518&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=958475359&ParentNodeID=-99&assertID=5910022201&client_ip=114.245.219.76&SecurityKey=20260306232518&promotionId=&mvid=5900006724&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=161ba15b96520b85fccbdcee61f86f24&ddCalcu=4126ef106b88a0f1156be9e6c5d2b0cbc8f5
-#EXTINF:-1 svg-id="蹇箰鍨傞挀" svg-name="蹇箰鍨傞挀" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/317/202512290851_1766567876635_H32_1080.webp" group-title="浣撹偛",蹇箰鍨傞挀
-http://gslbmgsplive.miguvideo.com/migu/kailu/ydcmklcd/50/20251225/index.m3u8?msisdn=20260306232519cbcc495dbf43431dab6cdb0bc7444997&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260306232519&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=114.245.219.76&SecurityKey=20260306232519&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=da0a4217fa56743d7f0b532d23e65d00&ddCalcu=0d0aed005a1640e23127df2a3556b704f37d
-#EXTINF:-1 svg-id="杈藉畞骞挎挱鐢佃鍙颁綋鑲蹭紤闂查閬�" svg-name="杈藉畞骞挎挱鐢佃鍙颁綋鑲蹭紤闂查閬�" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/329/202512311920_1766735267312_H32_1080.webp" group-title="浣撹偛",杈藉畞骞挎挱鐢佃鍙颁綋鑲蹭紤闂查閬�
-http://gslbmgsplive.miguvideo.com/migu/kailu/lntyxx/50/20251225/index.m3u8?msisdn=20260306232520238368b53ada445ab74ea70627bda5a8&mdspid=&spid=600697&netType=0&sid=5910022329&pid=2028597139&timestamp=20260306232520&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067526&ParentNodeID=-99&assertID=5910022329&client_ip=114.245.219.76&SecurityKey=20260306232520&promotionId=&mvid=5900006790&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=f8cde9dea80649bf9dc7abbccb64cfd4&ddCalcu=4fd8efc0cd24e069bdcecab8b0a674c9db9f
-#EXTINF:-1 svg-id="涓滄柟鍗" svg-name="涓滄柟鍗" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/185/202508040856_5100043384_H32_1080.webp" group-title="鍗",涓滄柟鍗
-http://gslbmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/600/index.m3u8?msisdn=2026030623252039951a7b60d242829d79713b818db6a0&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139&timestamp=20260306232520&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=114.245.219.76&SecurityKey=20260306232520&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=370d9b4bf2d10f5c495aab3f71b05a8b&ddCalcu=b387ea005d1090bb147bff32bda1a05f954c
-#EXTINF:-1 svg-id="姹熻嫃鍗" svg-name="姹熻嫃鍗" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/199/408/202104022140_5100156802_H32_1080.webp" group-title="鍗",姹熻嫃鍗
-http://gslbmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/600/index.m3u8?msisdn=20260306232521fec485d4ead641ca87623df08c359c85&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20260306232521&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=114.245.219.76&SecurityKey=20260306232521&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=975ccddb492e1da59e1947699452b021&ddCalcu=1927e050bc32c05d4d9b9469724e911dea95
-#EXTINF:-1 svg-id="骞夸笢鍗" svg-name="骞夸笢鍗" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2202/428/795/202107191524_2202428795_H32_1080.webp" group-title="鍗",骞夸笢鍗
-http://gslbmgsplive.miguvideo.com/ws_w/2018/gdws/gdws711/1000/index.m3u8?msisdn=20260306232521283b6b8ddba543708ed352b3c246bdd7&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20260306232521&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=114.245.219.76&SecurityKey=20260306232521&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=c9f6007355585ca950502aa247d236b7&ddCalcu=7cb9e6f0368200d0774325a5a528055c0a59
-#EXTINF:-1 svg-id="鍖椾含鍗" svg-name="鍖椾含鍗" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/306/202512091630_1765269008692_H32_1080.webp" group-title="鍗",鍖椾含鍗
-http://gslbmgsplive.miguvideo.com/migu/kailu/bjws/50/20251127/index.m3u8?msisdn=20260306232522ba8948a56ac846fe8150474e8fe0070e&mdspid=&spid=600697&netType=0&sid=5910022306&pid=2028597139&timestamp=20260306232522&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=630287636&ParentNodeID=-99&assertID=5910022306&client_ip=114.245.219.76&SecurityKey=20260306232522&promotionId=&mvid=5101042960&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=c3007420419075f6bceefe2be66e6771&ddCalcu=1c73e700600e706462e0b421e9f0e7e5cfb6
-#EXTINF:-1 svg-id="杈藉畞鍗" svg-name="杈藉畞鍗" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/198/202509221600_5101043014_H32_1080.webp" group-title="鍗",杈藉畞鍗
-http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/1000/index.m3u8?msisdn=202603062325239e8e9dfa08be460d972a65da064d86a4&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20260306232523&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=114.245.219.76&SecurityKey=20260306232523&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=4eca9f2ff43645cb14827c11fc07d76e&ddCalcu=e46ee7c0da07900fc2ff1f14c37624854c1b
-#EXTINF:-1 svg-id="娌冲寳鍗" svg-name="娌冲寳鍗" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/316/202512310003_1766556161260_H32_1080.webp" group-title="鍗",娌冲寳鍗
-http://gslbmgsplive.miguvideo.com/migu/kailu/hbws/50/20251225/index.m3u8?msisdn=20260306232524a47d58e61c264456abab28337f61942e&mdspid=&spid=600725&netType=0&sid=5910022316&pid=2028597139&timestamp=20260306232524&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962042070&ParentNodeID=-99&assertID=5910022316&client_ip=114.245.219.76&SecurityKey=20260306232524&promotionId=&mvid=5900006782&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=e7547a82eb79106712f7de19e57b487f&ddCalcu=fe77e850442b707a58e29e1be7d971f02617
-#EXTINF:-1 svg-id="姹熻タ鍗" svg-name="姹熻タ鍗" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/021/492/202303201551_1658134104486_H32_1080.webp" group-title="鍗",姹熻タ鍗
-http://gslbmgsplive.miguvideo.com/migu/kailu/jxwshd/50/20190820/index.m3u8?msisdn=20260306232525a921fa26c02046ba884fb2b879cdf20b&mdspid=&spid=600633&netType=0&sid=5910021492&pid=2028597139&timestamp=20260306232525&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=114.245.219.76&SecurityKey=20260306232525&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=e9c286bbe1f29b9d244e5c6716ec91e1&ddCalcu=1ee9e1c0923c80e66b1b7e61cf52e94b492d
-#EXTINF:-1 svg-id="娌冲崡鍗" svg-name="娌冲崡鍗" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/021/585/202304031400_1679994692427_H32_1080.webp" group-title="鍗",娌冲崡鍗
-http://gslbmgsplive.miguvideo.com/wd-henanwssd-600/index.m3u8?msisdn=20260306232525d4cb120d869c4116bcb9003de47031d9&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139&timestamp=20260306232525&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=114.245.219.76&SecurityKey=20260306232525&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=8455bd7d48b9f2a0eef5427ed49f9f88&ddCalcu=8884ef50950fb09d47dde4782b495ff2eae0
-#EXTINF:-1 svg-id="闄曡タ鍗" svg-name="闄曡タ鍗" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/020/475/202207191732_1658131370190_H32_1080.webp" group-title="鍗",闄曡タ鍗
-http://gslbmgsplive.miguvideo.com/migu/kailu/shan3xiws/50/20220809/index.m3u8?msisdn=2026030623252680bdd2ee4be043139079a4e739da6bb2&mdspid=&spid=600633&netType=0&sid=5910020475&pid=2028597139&timestamp=20260306232526&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910838&ParentNodeID=-99&assertID=5910020475&client_ip=114.245.219.76&SecurityKey=20260306232526&promotionId=&mvid=5900004331&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=63853fe1ca2d660dda760f1905794205&ddCalcu=5603e2804589307f5e019c1af20d6676a0dd
-#EXTINF:-1 svg-id="澶ф咕鍖哄崼瑙�" svg-name="澶ф咕鍖哄崼瑙�" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/322/852/202304081513_1677570739176_H32_1080.webp" group-title="鍗",澶ф咕鍖哄崼瑙�
-http://gslbmgsplive.miguvideo.com/wd_r3/2018/nfmedia/nfws/1000/index.m3u8?msisdn=202603062325274a621248cd6d4d768991a21c0a82d5a9&mdspid=&spid=699054&netType=0&sid=2200322852&pid=2028597139&timestamp=20260306232527&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608917627&ParentNodeID=-99&assertID=2200322852&client_ip=114.245.219.76&SecurityKey=20260306232527&promotionId=&mvid=2200322852&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=4d924a01aee0f888bc7e5a8fc8cf84e3&ddCalcu=34ede490828f40ca80c1fa8eae50ef78c8b8
-#EXTINF:-1 svg-id="婀栧寳鍗" svg-name="婀栧寳鍗" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/163/202501231715_1658138615859_H32_1080.webp" group-title="鍗",婀栧寳鍗
-http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/hubeiwshd/1000/index.m3u8?msisdn=2026030623252842d08427b87b4267876291cd17e8f8db&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20260306232528&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=114.245.219.76&SecurityKey=20260306232528&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=8b2b8af2f69d029799a1719678224e28&ddCalcu=882bee204b72802a8f726f96197d10a29997
-#EXTINF:-1 svg-id="鍚夋灄鍗" svg-name="鍚夋灄鍗" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/164/202501231715_1658138733016_H32_1080.webp" group-title="鍗",鍚夋灄鍗
-http://gslbmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/index.m3u8?msisdn=20260306232529a437c4d03d684e56b79eaa73b2eb5493&mdspid=&spid=600633&netType=0&sid=5910022164&pid=2028597139&timestamp=20260306232529&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472500&ParentNodeID=-99&assertID=5910022164&client_ip=114.245.219.76&SecurityKey=20260306232529&promotionId=&mvid=5900004357&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=d233aef32a7657c468d5a1e1815e6d64&ddCalcu=4d62ed30637ea05e1f8312ea17a655d78c64
-#EXTINF:-1 svg-id="闈掓捣鍗" svg-name="闈掓捣鍗" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/166/202501231715_1658138545016_H32_1080.webp" group-title="鍗",闈掓捣鍗
-http://gslbmgsplive.miguvideo.com/envivo_w/2018/SD/qinghai/1000/index.m3u8?msisdn=20260306232529244ae875c98f440a92a4d84f1e5e9120&mdspid=&spid=600633&netType=0&sid=5910022166&pid=2028597139&timestamp=20260306232529&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472506&ParentNodeID=-99&assertID=5910022166&client_ip=114.245.219.76&SecurityKey=20260306232529&promotionId=&mvid=5900004353&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=3eceb9bc3c18158bfbbedc45d2aa22d8&ddCalcu=83dee2c02e7ab0a92bdc534cc1d8e1b5b8fb
-#EXTINF:-1 svg-id="娴峰崡鍗" svg-name="娴峰崡鍗" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/165/202501231715_1658138869802_H32_1080.webp" group-title="鍗",娴峰崡鍗
-http://gslbmgsplive.miguvideo.com/envivo_x/SD/lvyou/711/index.m3u8?msisdn=20260306232530bfe0dea4b4f2473e937bc5b4a038cad2&mdspid=&spid=600633&netType=0&sid=5910022165&pid=2028597139&timestamp=20260306232530&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472502&ParentNodeID=-99&assertID=5910022165&client_ip=114.245.219.76&SecurityKey=20260306232530&promotionId=&mvid=5900004359&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=cb968bf5494b71ce7780d6fddd8a4abe&ddCalcu=ecbbea90467a808bdfd5d4f964db07817c7e
-#EXTINF:-1 svg-id="涓浗鍐滄灄鍗" svg-name="涓浗鍐滄灄鍗" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/186/202508051621_1754370274934_H32_1080.webp" group-title="鍗",涓浗鍐滄灄鍗
-http://gslbmgsplive.miguvideo.com/migu/kailu/zgnlws/50/20250804/index.m3u8?msisdn=2026030623253129eb75834c4849a09dc2b3bdb3353bf6&mdspid=&spid=600572&netType=0&sid=5910022186&pid=2028597139&timestamp=20260306232531&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956904896&ParentNodeID=-99&assertID=5910022186&client_ip=114.245.219.76&SecurityKey=20260306232531&promotionId=&mvid=5900006709&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=a837abf89eee25b0c53d2a4fd608c55c&ddCalcu=ca58e530c768a00b6fd8f94eae2ed2355bc0
-#EXTINF:-1 svg-id="鍏靛洟鍗" svg-name="鍏靛洟鍗" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/192/202508061552_1754385902654_H32_1080.webp" group-title="鍗",鍏靛洟鍗
-http://gslbmgsplive.miguvideo.com/migu/kailu/btws/50/20250804/index.m3u8?msisdn=2026030623253265ca43df02d74983b619f23f2fe8b830&mdspid=&spid=600697&netType=0&sid=5910022192&pid=2028597139&timestamp=20260306232532&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956923145&ParentNodeID=-99&assertID=5910022192&client_ip=114.245.219.76&SecurityKey=20260306232532&promotionId=&mvid=5900006716&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=157db8edac0bd10148937363db0bd509&ddCalcu=9105e570dd6bb008bedd3a6c307b3d918041
-#EXTINF:-1 svg-id="瀹佸鍗" svg-name="瀹佸鍗" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/262/202510241641_1658131953051_H32_1080.webp" group-title="鍗",瀹佸鍗
-http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/ningxia/1000/index.m3u8?msisdn=20260306232533c5aa209929e9471c8fe3193de224531f&mdspid=&spid=600697&netType=0&sid=5910022262&pid=2028597139&timestamp=20260306232533&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910535&ParentNodeID=-99&assertID=5910022262&client_ip=114.245.219.76&SecurityKey=20260306232533&promotionId=&mvid=5900004337&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=3fa05c53734a8132a962e3477f1c7b57&ddCalcu=735feba0708c501cf573774334ea286193a2
-#EXTINF:-1 svg-id="閲嶅簡鍗" svg-name="閲嶅簡鍗" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/305/202512021827_1658131240998_H32_1080.webp" group-title="鍗",閲嶅簡鍗
-http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/index.m3u8?msisdn=20260306232534b7195f4c334044b69834b171850268f0&mdspid=&spid=600697&netType=0&sid=5910022305&pid=2028597139&timestamp=20260306232534&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910914&ParentNodeID=-99&assertID=5910022305&client_ip=114.245.219.76&SecurityKey=20260306232534&promotionId=&mvid=5900004329&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=2d02494c0279b5d639ef0560df4a9a02&ddCalcu=220dea00928a4049f4dc00625709fbe59d36
-#EXTINF:-1 svg-id="涓夋矙鍗" svg-name="涓夋矙鍗" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/307/202512081329_1764320715088_H32_1080.webp" group-title="鍗",涓夋矙鍗
-http://gslbmgsplive.miguvideo.com/migu/kailu/ssws/50/20251127/index.m3u8?msisdn=20260306232535597e7b20b79e4f8fb014cb431e8c13a6&mdspid=&spid=600697&netType=0&sid=5910022307&pid=2028597139&timestamp=20260306232535&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961023778&ParentNodeID=-99&assertID=5910022307&client_ip=114.245.219.76&SecurityKey=20260306232535&promotionId=&mvid=5900006777&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=2ef71421f9d3cd7b9f2b30fc1e9fc140&ddCalcu=024ee1f0c71f1094e211cff90d33bc2df79b
-#EXTINF:-1 svg-id="涓婃捣鏂伴椈缁煎悎" svg-name="涓婃捣鏂伴椈缁煎悎" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/325/202512311824_5100001716_H32_1080.webp" group-title="鍦版柟",涓婃捣鏂伴椈缁煎悎
-http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/600/index.m3u8?msisdn=202603062325358b91db6d63b94b02a880ac9964592b93&mdspid=&spid=600697&netType=0&sid=5910022325&pid=2028597139&timestamp=20260306232535&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632657&ParentNodeID=-99&assertID=5910022325&client_ip=114.245.219.76&SecurityKey=20260306232535&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=0bc9db736abf6d61a085e0732900e3cb&ddCalcu=b0cbe3c0e910d00b9723367a0bef568d06a1
-#EXTINF:-1 svg-id="涓婅涓滄柟褰辫" svg-name="涓婅涓滄柟褰辫" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/002/274/202105271333_5100001715_2_H32_1080.webp" group-title="鍦版柟",涓婅涓滄柟褰辫
-http://gslbmgsplive.miguvideo.com/wd_r4/dfl/dianshijuhd/600/index.m3u8?msisdn=20260306232536d89429cad5f24effbdc68b314c77bd30&mdspid=&spid=699212&netType=0&sid=5500002274&pid=2028597139&timestamp=20260306232536&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=617290047&ParentNodeID=-99&assertID=5500002274&client_ip=114.245.219.76&SecurityKey=20260306232536&promotionId=&mvid=5100001715&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=537be85caa567365230829ab0e83716d&ddCalcu=d563e1707b73e088e50cbaaa952687033625
-#EXTINF:-1 svg-id="涓婃捣绗竴璐㈢粡" svg-name="涓婃捣绗竴璐㈢粡" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2201/008/312/202209271630_2201008312_H32_1080.webp" group-title="鍦版柟",涓婃捣绗竴璐㈢粡
-http://gslbmgsplive.miguvideo.com/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=20260306232536e474d02a666c4cedb08c53fc493f3c87&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20260306232536&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=114.245.219.76&SecurityKey=20260306232536&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=5662f4bf1ba25f788105cb680781cbbc&ddCalcu=c5b6eb60c281f0847b0f816bbac2550f1788
-#EXTINF:-1 svg-id="鍗椾含鏂伴椈缁煎悎棰戦亾" svg-name="鍗椾含鏂伴椈缁煎悎棰戦亾" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/021/863/202307121521_1689144372702_H32_1080.webp" group-title="鍦版柟",鍗椾含鏂伴椈缁煎悎棰戦亾
-http://gslbmgsplive.miguvideo.com/migu/kailu/nanjingxwzh/50/20230719/index.m3u8?msisdn=20260306232537554beb944975496497b5cee615f73630&mdspid=&spid=699067&netType=0&sid=5910021863&pid=2028597139&timestamp=20260306232537&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=838109047&ParentNodeID=-99&assertID=5910021863&client_ip=114.245.219.76&SecurityKey=20260306232537&promotionId=&mvid=5900006203&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=7f3fccf28b0ab8f3f80c9c3402634b04&ddCalcu=470feb304f83c06c2f02483bc09acb088ff3
-#EXTINF:-1 svg-id="鍗椾含鏁欑棰戦亾" svg-name="鍗椾含鏁欑棰戦亾" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/021/865/202307121700_1689146730747_H32_1080.webp" group-title="鍦版柟",鍗椾含鏁欑棰戦亾
-http://gslbmgsplive.miguvideo.com/migu/kailu/nanjingkj/50/20230719/index.m3u8?msisdn=2026030623253883129d9c17af481ca54eb5bfb6da6485&mdspid=&spid=699067&netType=0&sid=5910021865&pid=2028597139&timestamp=20260306232538&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=838153729&ParentNodeID=-99&assertID=5910021865&client_ip=114.245.219.76&SecurityKey=20260306232538&promotionId=&mvid=5900006205&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=019168a6a9c1aa2b660ff41b870db66b&ddCalcu=b061e690b18d60087a86ba194cf1fa0a626b
-#EXTINF:-1 svg-id="鍗椾含鍗佸叓棰戦亾" svg-name="鍗椾含鍗佸叓棰戦亾" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/021/864/202307121658_1689146948769_H32_1080.webp" group-title="鍦版柟",鍗椾含鍗佸叓棰戦亾
-http://gslbmgsplive.miguvideo.com/migu/kailu/nanjingsb/50/20230719/index.m3u8?msisdn=202603062325391aa2daee027a41f6a3e939aaec3525e7&mdspid=&spid=699067&netType=0&sid=5910021864&pid=2028597139&timestamp=20260306232539&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=838151753&ParentNodeID=-99&assertID=5910021864&client_ip=114.245.219.76&SecurityKey=20260306232539&promotionId=&mvid=5900006207&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=abc3d6fbcbaa2f0fc0ef40c8be9f858c&ddCalcu=ca8be5c0838fd096efbb8ccb0a4af2ef00cf
-#EXTINF:-1 svg-id="浣撹偛浼戦棽棰戦亾" svg-name="浣撹偛浼戦棽棰戦亾" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/554/202104022139_5100186459_H32_1080.webp" group-title="鍦版柟",浣撹偛浼戦棽棰戦亾
-http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jstiyu/600/index.m3u8?msisdn=2026030623254074d51ca4e5254042b7288bf97cc771f5&mdspid=&spid=699067&netType=0&sid=5500260554&pid=2028597139&timestamp=20260306232540&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064707&ParentNodeID=-99&assertID=5500260554&client_ip=114.245.219.76&SecurityKey=20260306232540&promotionId=&mvid=5100186459&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=d86cfa003b52fb35273677af9b001fc2&ddCalcu=2dc8ef601c60f00ab090f3ab75726f3b7325
-#EXTINF:-1 svg-id="姹熻嫃鍩庡競棰戦亾" svg-name="姹熻嫃鍩庡競棰戦亾" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/508/202104022138_5100186409_H32_1080.webp" group-title="鍦版柟",姹熻嫃鍩庡競棰戦亾
-http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jschengshi/600/index.m3u8?msisdn=202603062325406b9a2a3639194877aa23d45066e694d0&mdspid=&spid=699067&netType=0&sid=5500260508&pid=2028597139&timestamp=20260306232540&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064714&ParentNodeID=-99&assertID=5500260508&client_ip=114.245.219.76&SecurityKey=20260306232540&promotionId=&mvid=5100186409&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=bef3302fe742d1eecf25c50fe4a69604&ddCalcu=4b0ee6f0936630a042effe0754c25d21fece
-#EXTINF:-1 svg-id="姹熻嫃鍥介檯" svg-name="姹熻嫃鍥介檯" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/577/202104022139_5100186482_H32_1080.webp" group-title="鍦版柟",姹熻嫃鍥介檯
-http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jsguoji/600/index.m3u8?msisdn=20260306232541edf1e21929714209adf986c6d1e24b5a&mdspid=&spid=699067&netType=0&sid=5500260577&pid=2028597139&timestamp=20260306232541&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064674&ParentNodeID=-99&assertID=5500260577&client_ip=114.245.219.76&SecurityKey=20260306232541&promotionId=&mvid=5100186482&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=1e1b537441e389e2591aebb4e3e89acd&ddCalcu=d1ceea109b6850e337e444b1bee3a8199e52
-#EXTINF:-1 svg-id="姹熻嫃鏁欒偛" svg-name="姹熻嫃鏁欒偛" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/287/493/202104022139_5101012819_H32_1080.webp" group-title="鍦版柟",姹熻嫃鏁欒偛
-http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jsjiaoyu/600/index.m3u8?msisdn=202603062325421a9e5302de1448e0b18777b3a230c331&mdspid=&spid=699067&netType=0&sid=5500287493&pid=2028597139&timestamp=20260306232542&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=628008321&ParentNodeID=-99&assertID=5500287493&client_ip=114.245.219.76&SecurityKey=20260306232542&promotionId=&mvid=5101012819&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=dcfb9903de2504832a516c6fd770aa2a&ddCalcu=ad2ceaf0ab80907970d3fd6ec2651054a823
-#EXTINF:-1 svg-id="姹熻嫃褰辫棰戦亾" svg-name="姹熻嫃褰辫棰戦亾" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/517/202104022138_5100186424_H32_1080.webp" group-title="鍦版柟",姹熻嫃褰辫棰戦亾
-http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jsyingshi/600/index.m3u8?msisdn=20260306232543701d163d7e644be8929b07d69164b503&mdspid=&spid=699067&netType=0&sid=5500260517&pid=2028597139&timestamp=20260306232543&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064697&ParentNodeID=-99&assertID=5500260517&client_ip=114.245.219.76&SecurityKey=20260306232543&promotionId=&mvid=5100186424&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=7f145df78f0b3207318010d1f0432dc8&ddCalcu=87cfed102463504d0ff718df001b03821037
-#EXTINF:-1 svg-id="姹熻嫃缁艰壓棰戦亾" svg-name="姹熻嫃缁艰壓棰戦亾" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/513/202104022039_5100186420_H32_1080.webp" group-title="鍦版柟",姹熻嫃缁艰壓棰戦亾
-http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jszongyi/600/index.m3u8?msisdn=20260306232544fb6f623704294910be4096c687bb1827&mdspid=&spid=699067&netType=0&sid=5500260513&pid=2028597139&timestamp=20260306232544&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626065193&ParentNodeID=-99&assertID=5500260513&client_ip=114.245.219.76&SecurityKey=20260306232544&promotionId=&mvid=5100186420&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=d20119a842425094b2bd16c441071b40&ddCalcu=0d42eb00116710091a4844c26412d5b029b4
-#EXTINF:-1 svg-id="鍏叡鏂伴椈棰戦亾" svg-name="鍏叡鏂伴椈棰戦亾" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/520/202104022138_5100186429_H32_1080.webp" group-title="鍦版柟",鍏叡鏂伴椈棰戦亾
-http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jsgonggong/600/index.m3u8?msisdn=20260306232544c815463156bf4cba96aace94e6576d25&mdspid=&spid=699067&netType=0&sid=5500260520&pid=2028597139&timestamp=20260306232544&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064693&ParentNodeID=-99&assertID=5500260520&client_ip=114.245.219.76&SecurityKey=20260306232544&promotionId=&mvid=5100186429&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=c636e6179e274b194b975e8faab946a7&ddCalcu=7ca6e6304669e0b6a1a7f98ee257749bb149
-#EXTINF:-1 svg-id="鐩愬煄鏂伴椈缁煎悎" svg-name="鐩愬煄鏂伴椈缁煎悎" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/469/360/202212301654_5102012617_H32_1080.webp" group-title="鍦版柟",鐩愬煄鏂伴椈缁煎悎
-http://gslbmgsplive.miguvideo.com/migu/kailu/ycxwzh/50/20250604/index.m3u8?msisdn=2026030623254530c37e86e5954691897f565a5a80c21c&mdspid=&spid=699067&netType=0&sid=5500469360&pid=2028597139&timestamp=20260306232545&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731825&ParentNodeID=-99&assertID=5500469360&client_ip=114.245.219.76&SecurityKey=20260306232545&promotionId=&mvid=5102012617&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=8486eb2fd3d08034b115a2e82b069b65&ddCalcu=5864eb809696e00bb22f8de32da0581013b4
-#EXTINF:-1 svg-id="娣畨鏂伴椈缁煎悎" svg-name="娣畨鏂伴椈缁煎悎" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/469/363/202104022141_5102012618_H32_1080.webp" group-title="鍦版柟",娣畨鏂伴椈缁煎悎
-http://gslbmgsplive.miguvideo.com/wd_r2/jstv/haxinwenzonghe/600/index.m3u8?msisdn=202603062325460f571624e9eb4227b62da24b6ddbe721&mdspid=&spid=699067&netType=0&sid=5500469363&pid=2028597139&timestamp=20260306232546&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731826&ParentNodeID=-99&assertID=5500469363&client_ip=114.245.219.76&SecurityKey=20260306232546&promotionId=&mvid=5102012618&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=e87ba5f0dd6421ee611c0956faf83432&ddCalcu=2e38e4703b98a0f5aff06d5d9604c2111e6e
-#EXTINF:-1 svg-id="娉板窞鏂伴椈缁煎悎" svg-name="娉板窞鏂伴椈缁煎悎" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/469/354/202104071213_5102012615_H32_1080.webp" group-title="鍦版柟",娉板窞鏂伴椈缁煎悎
-http://gslbmgsplive.miguvideo.com/wd_r2/jstv/tzxinwenzonghe/600/index.m3u8?msisdn=202603062325474bb052a79f0e4ef6bccceb1aaf51273b&mdspid=&spid=699067&netType=0&sid=5500469354&pid=2028597139&timestamp=20260306232547&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731818&ParentNodeID=-99&assertID=5500469354&client_ip=114.245.219.76&SecurityKey=20260306232547&promotionId=&mvid=5102012615&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=92a864aa6d1e72594b5b57cc3d741be4&ddCalcu=49e2eba018946074da3ac6cd715eb752b549
-#EXTINF:-1 svg-id="杩炰簯娓柊闂荤患鍚�" svg-name="杩炰簯娓柊闂荤患鍚�" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/469/369/202104022140_5102012621_H32_1080.webp" group-title="鍦版柟",杩炰簯娓柊闂荤患鍚�
-http://gslbmgsplive.miguvideo.com/wd_r2/jstv/lygxinwenzonghe/600/index.m3u8?msisdn=2026030623254877a309f30af341c9a5cf2a7d31899c78&mdspid=&spid=699067&netType=0&sid=5500469369&pid=2028597139&timestamp=20260306232548&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731715&ParentNodeID=-99&assertID=5500469369&client_ip=114.245.219.76&SecurityKey=20260306232548&promotionId=&mvid=5102012621&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=b61b5a47f0793f8c66ec480ba1574fd7&ddCalcu=7bd6ef104b97505a14a7bf008749c3ef686c
-#EXTINF:-1 svg-id="瀹胯縼鏂伴椈缁煎悎" svg-name="瀹胯縼鏂伴椈缁煎悎" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/469/357/202104022141_5102012616_H32_1080.webp" group-title="鍦版柟",瀹胯縼鏂伴椈缁煎悎
-http://gslbmgsplive.miguvideo.com/wd_r2/jstv/sqxinwenzonghe/600/index.m3u8?msisdn=2026030623254851d5196a7cc84fb6ba408abe52f7f544&mdspid=&spid=699067&netType=0&sid=5500469357&pid=2028597139&timestamp=20260306232548&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731832&ParentNodeID=-99&assertID=5500469357&client_ip=114.245.219.76&SecurityKey=20260306232548&promotionId=&mvid=5102012616&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=ea06b3d3cb1a59ad2142f875bbbc7a89&ddCalcu=9e8aea00769cb0b3bdb35c7b81fa25491a2d
-#EXTINF:-1 svg-id="寰愬窞鏂伴椈缁煎悎" svg-name="寰愬窞鏂伴椈缁煎悎" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/469/368/202104022141_5102012620_H32_1080.webp" group-title="鍦版柟",寰愬窞鏂伴椈缁煎悎
-http://gslbmgsplive.miguvideo.com/wd_r2/jstv/xzxinwenzonghe/600/index.m3u8?msisdn=202603062325495e12ccd0b76145a0a5a73a2e39b42a0c&mdspid=&spid=699067&netType=0&sid=5500469368&pid=2028597139&timestamp=20260306232549&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731747&ParentNodeID=-99&assertID=5500469368&client_ip=114.245.219.76&SecurityKey=20260306232549&promotionId=&mvid=5102012620&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=713ab02f33d4c508a9d2f01dfc998aa2&ddCalcu=27a1ea308a99b090c2ffd3130df42cd590a8
-#EXTINF:-1 svg-id="浼樻极鍗￠€氶閬�" svg-name="浼樻极鍗￠€氶閬�" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/553/202104022139_5100186455_H32_1080.webp" group-title="鍦版柟",浼樻极鍗￠€氶閬�
-http://gslbmgsplive.miguvideo.com/wd_r2/jstv/ymkt/600/index.m3u8?msisdn=20260306232550053f1b5341a34aa19aec10868a33c883&mdspid=&spid=699067&netType=0&sid=5500260553&pid=2028597139&timestamp=20260306232550&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064703&ParentNodeID=-99&assertID=5500260553&client_ip=114.245.219.76&SecurityKey=20260306232550&promotionId=&mvid=5100186455&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=8fc2e8e2ec3c4f6a8a96c484ae63abd3&ddCalcu=38dfebc0a263e068eea24e8c43cc649fa68a
-#EXTINF:-1 svg-id="姹熼槾鏂伴椈缁煎悎" svg-name="姹熼槾鏂伴椈缁煎悎" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/177/202506121842_1749616874292_H32_1080.webp" group-title="鍦版柟",姹熼槾鏂伴椈缁煎悎
-http://gslbmgsplive.miguvideo.com/migu/kailu/jyxwzh/50/20250604/index.m3u8?msisdn=20260306232551948928ff749a45aa85cfcb1172fc3c95&mdspid=&spid=699067&netType=0&sid=5910022177&pid=2028597139&timestamp=20260306232551&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=955227979&ParentNodeID=-99&assertID=5910022177&client_ip=114.245.219.76&SecurityKey=20260306232551&promotionId=&mvid=5900006705&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=3c1f06177c3a274ff24a3b97d5ce056a&ddCalcu=a36ce5100f5e00c651d7779cb33aa24724ff
-#EXTINF:-1 svg-id="鍗楅€氭柊闂荤患鍚�" svg-name="鍗楅€氭柊闂荤患鍚�" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/178/202506121842_1749617000499_H32_1080.webp" group-title="鍦版柟",鍗楅€氭柊闂荤患鍚�
-http://gslbmgsplive.miguvideo.com/migu/kailu/ntxwzh/50/20250604/index.m3u8?msisdn=202603062325527165f311a2834065b24b763b97b612b7&mdspid=&spid=699067&netType=0&sid=5910022178&pid=2028597139&timestamp=20260306232552&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=955227985&ParentNodeID=-99&assertID=5910022178&client_ip=114.245.219.76&SecurityKey=20260306232552&promotionId=&mvid=5900006706&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=8ee74c621a573ec19469bedea36490b3&ddCalcu=38bee0e09754406c36a2e1dae5b7936e4c91
-#EXTINF:-1 svg-id="瀹滃叴鏂伴椈缁煎悎" svg-name="瀹滃叴鏂伴椈缁煎悎" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/179/202506121843_1749617094510_H32_1080.webp" group-title="鍦版柟",瀹滃叴鏂伴椈缁煎悎
-http://gslbmgsplive.miguvideo.com/migu/kailu/yxxwzh/50/20250604/index.m3u8?msisdn=20260306232552d24f57b165594078b7c98bd019ac3e6e&mdspid=&spid=699067&netType=0&sid=5910022179&pid=2028597139&timestamp=20260306232552&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=955227996&ParentNodeID=-99&assertID=5910022179&client_ip=114.245.219.76&SecurityKey=20260306232552&promotionId=&mvid=5900006707&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=7ece71db7fdc3b59c01b9363f4cfe9e7&ddCalcu=77eee9c0ee5f70c14dfb376f3d9cb31b05c9
-#EXTINF:-1 svg-id="婧ф按鏂伴椈缁煎悎" svg-name="婧ф按鏂伴椈缁煎悎" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/469/349/202506201638_1750408486645_H32_1080.webp" group-title="鍦版柟",婧ф按鏂伴椈缁煎悎
-http://gslbmgsplive.miguvideo.com/migu/kailu/wxxwzh/50/20250604/index.m3u8?msisdn=20260306232553cd6677563fae4aa4b9061e310e0f441f&mdspid=&spid=699067&netType=0&sid=5500469349&pid=2028597139&timestamp=20260306232553&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639737327&ParentNodeID=-99&assertID=5500469349&client_ip=114.245.219.76&SecurityKey=20260306232553&promotionId=&mvid=5102012612&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=85e60046e78f33392ba08741762c4115&ddCalcu=5815e1e0469c002064761e47788f03a3b329
-#EXTINF:-1 svg-id="闄曡タ閾堕緞棰戦亾" svg-name="闄曡タ閾堕緞棰戦亾" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/191/202508051746_1754371397446_H32_1080.webp" group-title="鍦版柟",闄曡タ閾堕緞棰戦亾
-http://gslbmgsplive.miguvideo.com/migu/kailu/sxylpd/50/20250804/index.m3u8?msisdn=202603062325542b4cab1f77c247859e01e8fc188520fb&mdspid=&spid=600572&netType=0&sid=5910022191&pid=2028597139&timestamp=20260306232554&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909362&ParentNodeID=-99&assertID=5910022191&client_ip=114.245.219.76&SecurityKey=20260306232554&promotionId=&mvid=5900006714&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=7c6d162a729b19e97cfd970bef9b2f67&ddCalcu=776cef602d6b1096f2eab702799bd1f9ce79
-#EXTINF:-1 svg-id="闄曡タ閮藉競闈掓槬棰戦亾" svg-name="闄曡タ閮藉競闈掓槬棰戦亾" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/190/202508051746_1754371284700_H32_1080.webp" group-title="鍦版柟",闄曡タ閮藉競闈掓槬棰戦亾
-http://gslbmgsplive.miguvideo.com/migu/kailu/sxdsqc/50/20250804/index.m3u8?msisdn=20260306232555e709bc7f003442ee90cfd9dfd0e19c7c&mdspid=&spid=600572&netType=0&sid=5910022190&pid=2028597139&timestamp=20260306232555&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909358&ParentNodeID=-99&assertID=5910022190&client_ip=114.245.219.76&SecurityKey=20260306232555&promotionId=&mvid=5900006713&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=3a0fcf91fb212af1af9c71a92b5d8c58&ddCalcu=835aec008f6dc05fb9219fab1271c29affa1
-#EXTINF:-1 svg-id="闄曡タ绉﹁厰棰戦亾" svg-name="闄曡タ绉﹁厰棰戦亾" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/188/202508051741_1754370560985_H32_1080.webp" group-title="鍦版柟",闄曡タ绉﹁厰棰戦亾
-http://gslbmgsplive.miguvideo.com/migu/kailu/sxqqpd/50/20250804/index.m3u8?msisdn=202603062325551cd7a10e69b64eeaafa78f53101731e2&mdspid=&spid=600572&netType=0&sid=5910022188&pid=2028597139&timestamp=20260306232555&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909303&ParentNodeID=-99&assertID=5910022188&client_ip=114.245.219.76&SecurityKey=20260306232555&promotionId=&mvid=5900006711&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=fd9892b0a189ac25bf733dd056b0a4dc&ddCalcu=cfdde490a86090b26b500ad1d8393a7cf2b5
-#EXTINF:-1 svg-id="闄曡タ鏂伴椈璧勮棰戦亾" svg-name="闄曡タ鏂伴椈璧勮棰戦亾" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/187/202512011439_1764571160925_H32_1080.webp" group-title="鍦版柟",闄曡タ鏂伴椈璧勮棰戦亾
-http://gslbmgsplive.miguvideo.com/migu/kailu/sxxwzx/50/20250804/index.m3u8?msisdn=2026030623255655ed1e0ad544461e8b39f77913ca26c0&mdspid=&spid=600572&netType=0&sid=5910022187&pid=2028597139&timestamp=20260306232556&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909289&ParentNodeID=-99&assertID=5910022187&client_ip=114.245.219.76&SecurityKey=20260306232556&promotionId=&mvid=5900006710&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=fd138432ade0cc35189e7fd6d46411c2&ddCalcu=2fcde1101364806443d26addfe70ec9c8315
-#EXTINF:-1 svg-id="璐㈠瘜澶╀笅" svg-name="璐㈠瘜澶╀笅" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/193/202508061552_1754385779498_H32_1080.webp" group-title="鍦版柟",璐㈠瘜澶╀笅
-http://gslbmgsplive.miguvideo.com/migu/kailu/cftx/50/20250804/index.m3u8?msisdn=20260306232557d61331e1a87f4200bbe4eb25b222a4e6&mdspid=&spid=600697&netType=0&sid=5910022193&pid=2028597139&timestamp=20260306232557&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956923159&ParentNodeID=-99&assertID=5910022193&client_ip=114.245.219.76&SecurityKey=20260306232557&promotionId=&mvid=5900006715&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=7326f5461535a11e2656a35ffa52a716&ddCalcu=6713e720a662f055a4f6f15533a56a51612e
-#EXTINF:-1 svg-id="闀囨睙鏂伴椈缁煎悎" svg-name="闀囨睙鏂伴椈缁煎悎" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/469/365/202104022141_5102012619_H32_1080.webp" group-title="鍦版柟",闀囨睙鏂伴椈缁煎悎
-http://gslbmgsplive.miguvideo.com/migu/kailu/zjxwzh/50/20251127/index.m3u8?msisdn=20260306232558b3745de16247439381a12f9e92f1eed5&mdspid=&spid=699067&netType=0&sid=5500469365&pid=2028597139&timestamp=20260306232558&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731783&ParentNodeID=-99&assertID=5500469365&client_ip=114.245.219.76&SecurityKey=20260306232558&promotionId=&mvid=5102012619&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=82972902af0f097855132831074b301f&ddCalcu=f812e090379b204970021a3f802f30195758
-#EXTINF:-1 svg-id="杈藉畞骞挎挱鐢佃鍙板叕鍏遍閬�" svg-name="杈藉畞骞挎挱鐢佃鍙板叕鍏遍閬�" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/323/202512310910_1766735322616_H32_1080.webp" group-title="鍦版柟",杈藉畞骞挎挱鐢佃鍙板叕鍏遍閬�
-http://gslbmgsplive.miguvideo.com/migu/kailu/lngg/50/20251225/index.m3u8?msisdn=20260306232559242f529884ea46f3b6dfdb7c5a841e15&mdspid=&spid=600697&netType=0&sid=5910022323&pid=2028597139&timestamp=20260306232559&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962045223&ParentNodeID=-99&assertID=5910022323&client_ip=114.245.219.76&SecurityKey=20260306232559&promotionId=&mvid=5900006791&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=64b6a6aca7078bfce10e71db1708af70&ddCalcu=0674efb0a628a0067a1cbad71077e80b1fec
-#EXTINF:-1 svg-id="杈藉畞骞挎挱鐢佃鍙扮敓娲婚閬�" svg-name="杈藉畞骞挎挱鐢佃鍙扮敓娲婚閬�" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/324/202512310910_1766735378296_H32_1080.webp" group-title="鍦版柟",杈藉畞骞挎挱鐢佃鍙扮敓娲婚閬�
-http://gslbmgsplive.miguvideo.com/migu/kailu/lnsh/50/20251225/index.m3u8?msisdn=202603062325594da27570fbf748929eb3cbf3fe9713ab&mdspid=&spid=600697&netType=0&sid=5910022324&pid=2028597139&timestamp=20260306232559&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962045226&ParentNodeID=-99&assertID=5910022324&client_ip=114.245.219.76&SecurityKey=20260306232559&promotionId=&mvid=5900006792&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=59327c262c2d4398ecea84d9daf84e50&ddCalcu=0559ee30422870fca2d692dc428da4e3c9e8
-#EXTINF:-1 svg-id="杈藉畞骞挎挱鐢佃鍙板奖瑙嗗墽棰戦亾" svg-name="杈藉畞骞挎挱鐢佃鍙板奖瑙嗗墽棰戦亾" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/326/202512311919_1766735207197_H32_1080.webp" group-title="鍦版柟",杈藉畞骞挎挱鐢佃鍙板奖瑙嗗墽棰戦亾
-http://gslbmgsplive.miguvideo.com/migu/kailu/lnysj/50/20251225/index.m3u8?msisdn=202603062326003304a1e670c74fb185890b81cc83fdb9&mdspid=&spid=600697&netType=0&sid=5910022326&pid=2028597139&timestamp=20260306232600&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067517&ParentNodeID=-99&assertID=5910022326&client_ip=114.245.219.76&SecurityKey=20260306232600&promotionId=&mvid=5900006789&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=02bea97aee9fbb54ea943635c80b0997&ddCalcu=7092e9b00e2ba00987ca5e3e693f4b9ba5e4
-#EXTINF:-1 svg-id="瀹佸骞挎挱鐢佃鍙版枃鏃呴閬�" svg-name="瀹佸骞挎挱鐢佃鍙版枃鏃呴閬�" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/328/202512311920_1766735094938_H32_1080.webp" group-title="鍦版柟",瀹佸骞挎挱鐢佃鍙版枃鏃呴閬�
-http://gslbmgsplive.miguvideo.com/migu/kailu/nxwl/50/20251225/index.m3u8?msisdn=20260306232601adc8b0431cce462f95042b58a7d3db99&mdspid=&spid=600697&netType=0&sid=5910022328&pid=2028597139&timestamp=20260306232601&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067523&ParentNodeID=-99&assertID=5910022328&client_ip=114.245.219.76&SecurityKey=20260306232601&promotionId=&mvid=5900006788&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=116ad7bce8c96a2d78ea36a77993e8e3&ddCalcu=31e1e860ea23d0979b7c7ea86c39a6ea827d
-#EXTINF:-1 svg-id="瀹佸骞挎挱鐢佃鍙扮粡娴庨閬�" svg-name="瀹佸骞挎挱鐢佃鍙扮粡娴庨閬�" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/327/202512311920_1766734845550_H32_1080.webp" group-title="鍦版柟",瀹佸骞挎挱鐢佃鍙扮粡娴庨閬�
-http://gslbmgsplive.miguvideo.com/migu/kailu/nxjj/50/20251225/index.m3u8?msisdn=20260306232602909c0948b64e4d2e8400bf940c858c51&mdspid=&spid=600697&netType=0&sid=5910022327&pid=2028597139&timestamp=20260306232602&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067520&ParentNodeID=-99&assertID=5910022327&client_ip=114.245.219.76&SecurityKey=20260306232602&promotionId=&mvid=5900006787&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=181b93532ab30a9b5bda014761c20859&ddCalcu=9158e8100b2290c31563724a1b03a0dab95b
-#EXTINF:-1 svg-id="缁忓吀棣欐腐鐢靛奖" svg-name="缁忓吀棣欐腐鐢靛奖" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/242/089/202508211805_1755769511908_H32_1080.webp" group-title="褰辫",缁忓吀棣欐腐鐢靛奖
-http://gslbmgsplive.miguvideo.com/wd_r2/virtuallive/5100180869/75/index.m3u8?msisdn=202603062326022abbb5803d2d4052a7ed1e03cc3b7088&mdspid=&spid=800033&netType=0&sid=5500242089&pid=2028597139&timestamp=20260306232602&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=625703337&ParentNodeID=-99&assertID=5500242089&client_ip=114.245.219.76&SecurityKey=20260306232602&promotionId=&mvid=5100180869&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=a250bba05f5fc58b40c0866035769ebe&ddCalcu=eab2ee509056b07b5a30056f658f0cc5084b
-#EXTINF:-1 svg-id="鎶楁垬缁忓吀褰辩墖" svg-name="鎶楁垬缁忓吀褰辩墖" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/002/717/202507241513_1753340553498_H32_1080.webp" group-title="褰辫",鎶楁垬缁忓吀褰辩墖
-http://gslbmgsplive.miguvideo.com/wd-virtuallive5100002089-75/index.m3u8?msisdn=2026030623260316f8f291619f4c68bfed874d6c795705&mdspid=&spid=800033&netType=0&sid=5500002717&pid=2028597139&timestamp=20260306232603&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=617432318&ParentNodeID=-99&assertID=5500002717&client_ip=114.245.219.76&SecurityKey=20260306232603&promotionId=&mvid=5100002089&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=4efaad23537a6da85a89786f5be11084&ddCalcu=448ee0f01a71a0edb253f563877a968daa58
-#EXTINF:-1 svg-id="鏂扮墖鏀炬槧鍘�" svg-name="鏂扮墖鏀炬槧鍘�" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/035/175/202405061742_1714988159903_H32_1080.webp" group-title="褰辫",鏂扮墖鏀炬槧鍘�
-http://gslbmgsplive.miguvideo.com/wd-virtuallive5100030975-75/index.m3u8?msisdn=20260306232604760717d6b4da486490ab360548d78366&mdspid=&spid=800033&netType=0&sid=5500035175&pid=2028597139&timestamp=20260306232604&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=619495952&ParentNodeID=-99&assertID=5500035175&client_ip=114.245.219.76&SecurityKey=20260306232604&promotionId=&mvid=5100030975&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=f86072a132fc7b452a5a77c3bd9fc232&ddCalcu=2f38e260c09f7092dab133c27f7ca75ba425
-#EXTINF:-1 svg-id="CHC褰辫糠鐢靛奖" svg-name="CHC褰辫糠鐢靛奖" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/176/202504161629_1744788999453_H32_1080.webp" group-title="褰辫",CHC褰辫糠鐢靛奖
-http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/50/20250415/index.m3u8?msisdn=202603062326047c0c783d2ca342c3bd08c586eb88ca6b&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20260306232604&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=114.245.219.76&SecurityKey=20260306232604&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=8488856929b9e4420f9b2e6c0f581af8&ddCalcu=88f4ea8018288055f609c269eb29be94f402
-#EXTINF:-1 svg-id="鍜岀編涔￠€旇疆鎾彴" svg-name="鍜岀編涔￠€旇疆鎾彴" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/019/525/202504151721_1744708812840_H32_1080.webp" group-title="褰辫",鍜岀編涔￠€旇疆鎾彴
-http://gslbmgsplive.miguvideo.com/migu/virtuallive2/5900002411/50/20210706/index.m3u8?msisdn=20260306232606d1466a67a20a418c92284f5db5bdeaa0&mdspid=&spid=800033&netType=0&sid=5910019525&pid=2028597139&timestamp=20260306232606&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=713591450&ParentNodeID=-99&assertID=5910019525&client_ip=114.245.219.76&SecurityKey=20260306232606&promotionId=&mvid=5900002421&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=d33e48346630832247d6e3eb03903787&ddCalcu=7d83e7303e3040983304b6e633e068d37242
-#EXTINF:-1 svg-id="涓浗澶╂皵" svg-name="涓浗澶╂皵" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/296/202511061701_1762241901460_H32_1080.webp" group-title="鏂伴椈",涓浗澶╂皵
-http://gslbmgsplive.miguvideo.com/migu/kailu/zgtq/50/20251103/index.m3u8?msisdn=202603062326078ae324bb4d0b4852b6f27f96af5aa070&mdspid=&spid=600697&netType=0&sid=5910022296&pid=2028597139&timestamp=20260306232607&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=959986621&ParentNodeID=-99&assertID=5910022296&client_ip=114.245.219.76&SecurityKey=20260306232607&promotionId=&mvid=5900006772&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=4351123bef302a5854f178c4a6781be8&ddCalcu=84e3eb501198107263ab4ecf837012fa4558
-#EXTINF:-1 svg-id="CETV1" svg-name="CETV1" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/150/202407181432_1721283631491_H32_1080.webp" group-title="鏁欒偛",CETV1
-http://gslbmgsplive.miguvideo.com/migu/kailu/cetv1/50/20240709/index.m3u8?msisdn=2026030623260773a0659bc3e945cb89d5cbce19be38d4&mdspid=&spid=699004&netType=0&sid=5910022150&pid=2028597139&timestamp=20260306232607&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287154&ParentNodeID=-99&assertID=5910022150&client_ip=114.245.219.76&SecurityKey=20260306232607&promotionId=&mvid=5900006636&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=9dcfa4fbf2f3e2e8e04df4c021789855&ddCalcu=595de8c09f38a0741f2b0fc24ff3de420ee8
-#EXTINF:-1 svg-id="CETV2" svg-name="CETV2" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/152/202407181432_1721283782530_H32_1080.webp" group-title="鏁欒偛",CETV2
-http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/50/20240709/index.m3u8?msisdn=20260306232608c0647589585e4625a3209a116b264775&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20260306232608&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=114.245.219.76&SecurityKey=20260306232608&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=7ed644f277d47810bcf9807c0fdd17ba&ddCalcu=a7bee7d0163d40d4ff02c7770d8497f8c1b0
-#EXTINF:-1 svg-id="CETV4" svg-name="CETV4" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/154/202407181433_1721283870297_H32_1080.webp" group-title="鏁欒偛",CETV4
-http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8?msisdn=202603062326096f36fc01d8fa4059b6941e3f1ae56c77&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20260306232609&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=114.245.219.76&SecurityKey=20260306232609&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=a784298b051b69c1cd6ceba39e28c8c5&ddCalcu=5ac7e880c4382029e89b30a5b1ebc669dcc1
-#EXTINF:-1 svg-id="灞变笢鏁欒偛" svg-name="灞变笢鏁欒偛" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/199/202509241938_1758698577926_H32_1080.webp" group-title="鏁欒偛",灞变笢鏁欒偛
-http://gslbmgsplive.miguvideo.com/migu/kailu/sdjyws/50/20250915/index.m3u8?msisdn=20260306232610f606cc0a8bf340faa2d7cd05d6653b43&mdspid=&spid=600697&netType=0&sid=5910022199&pid=2028597139&timestamp=20260306232610&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609154353&ParentNodeID=-99&assertID=5910022199&client_ip=114.245.219.76&SecurityKey=20260306232610&promotionId=&mvid=2200208305&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=cebf231824b21308c9d8dc5421ee78ee&ddCalcu=eceee8b07f9e20e311284254cbd281d390c8
-#EXTINF:-1 svg-id="鐔婄尗棰戦亾01楂樻竻" svg-name="鐔婄尗棰戦亾01楂樻竻" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2202/634/723/202206081044_2202634723_H32_1080.webp" group-title="鐔婄尗",鐔婄尗棰戦亾01楂樻竻
-http://gslbmgsplive.miguvideo.com/ws_x/2018/xiongmao/HD/1000/index.m3u8?msisdn=20260306232610902cbed0e16c40fa97ad90610b9c1259&mdspid=&spid=699004&netType=0&sid=2202634723&pid=2028597139&timestamp=20260306232610&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609158151&ParentNodeID=-99&assertID=2202634723&client_ip=114.245.219.76&SecurityKey=20260306232610&promotionId=&mvid=2202634723&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=93253ccfe610fdd874e629fa34d95acf&ddCalcu=f9c3ea20559930dc4c3faef691206fed4d78
-#EXTINF:-1 svg-id="鐔婄尗棰戦亾1" svg-name="鐔婄尗棰戦亾1" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/200/699/202209211759_2200200699_H32_1080.webp" group-title="鐔婄尗",鐔婄尗棰戦亾1
-http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/xiongmao01/1000/index.m3u8?msisdn=2026030623261124a02e4580f743e48e7a0c9965fa1f6a&mdspid=&spid=699004&netType=0&sid=2200200699&pid=2028597139&timestamp=20260306232611&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608933610&ParentNodeID=-99&assertID=2200200699&client_ip=114.245.219.76&SecurityKey=20260306232611&promotionId=&mvid=2200200699&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=aa7d2ef566fc94014d26ee906e19cec5&ddCalcu=5acaee70cd89201eef650696efec6924d041
-#EXTINF:-1 svg-id="鐔婄尗棰戦亾2" svg-name="鐔婄尗棰戦亾2" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/200/717/202209211759_2200200717_H32_1080.webp" group-title="鐔婄尗",鐔婄尗棰戦亾2
-http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/xiongmao02/1000/index.m3u8?msisdn=202603062326125831fcba83d046509f5f332f30bdfbca&mdspid=&spid=699004&netType=0&sid=2200200717&pid=2028597139&timestamp=20260306232612&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608933640&ParentNodeID=-99&assertID=2200200717&client_ip=114.245.219.76&SecurityKey=20260306232612&promotionId=&mvid=2200200717&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=19ae3c518031d52ea3046164463b7f5a&ddCalcu=a159efa07e8b303c6541486013614d0532ae
-#EXTINF:-1 svg-id="鐔婄尗棰戦亾3" svg-name="鐔婄尗棰戦亾3" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/200/738/202209211759_2200200738_H32_1080.webp" group-title="鐔婄尗",鐔婄尗棰戦亾3
-http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/xiongmao03/1000/index.m3u8?msisdn=2026030623261207b54c72b8824cca8361a7a0fefbbe2c&mdspid=&spid=699004&netType=0&sid=2200200738&pid=2028597139&timestamp=20260306232612&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608934619&ParentNodeID=-99&assertID=2200200738&client_ip=114.245.219.76&SecurityKey=20260306232612&promotionId=&mvid=2200200738&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=f10cb3c021a8f8e5e38bb8114ddd794f&ddCalcu=ff41e9007c8db0d3dc4012118ab8bf883ee5
-#EXTINF:-1 svg-id="鐔婄尗棰戦亾4" svg-name="鐔婄尗棰戦亾4" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/200/771/202209211800_2200200771_H32_1080.webp" group-title="鐔婄尗",鐔婄尗棰戦亾4
-http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/xiongmao04/1000/index.m3u8?msisdn=202603062326136cd5b6c0cef649b0a04333821031c3a7&mdspid=&spid=699004&netType=0&sid=2200200771&pid=2028597139&timestamp=20260306232613&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608934721&ParentNodeID=-99&assertID=2200200771&client_ip=114.245.219.76&SecurityKey=20260306232613&promotionId=&mvid=2200200771&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=22622a41085eeb7a02af1d8522c93f16&ddCalcu=6212ef60328920ca24215088d51efeab270a
-#EXTINF:-1 svg-id="鐔婄尗棰戦亾5" svg-name="鐔婄尗棰戦亾5" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/200/791/202209211800_2200200791_H32_1080.webp" group-title="鐔婄尗",鐔婄尗棰戦亾5
-http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/xiongmao05/1000/index.m3u8?msisdn=2026030623261410bd43e2568b403d9f27a259177e63e2&mdspid=&spid=699004&netType=0&sid=2200200791&pid=2028597139&timestamp=20260306232614&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608935104&ParentNodeID=-99&assertID=2200200791&client_ip=114.245.219.76&SecurityKey=20260306232614&promotionId=&mvid=2200200791&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=dd78da0c56d7c7608e32efe15a80ef60&ddCalcu=0d6def70e880d08aa05c15e6fde72c37e680
-#EXTINF:-1 svg-id="鐔婄尗棰戦亾6" svg-name="鐔婄尗棰戦亾6" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/200/817/202209211800_2200200817_H32_1080.webp" group-title="鐔婄尗",鐔婄尗棰戦亾6
-http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/xiongmao06/1000/index.m3u8?msisdn=20260306232615bf453d6730cb4ebc8df63795e1c0914b&mdspid=&spid=699004&netType=0&sid=2200200817&pid=2028597139&timestamp=20260306232615&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608935797&ParentNodeID=-99&assertID=2200200817&client_ip=114.245.219.76&SecurityKey=20260306232615&promotionId=&mvid=2200200817&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=ee6f97cb0d221753f47d6376199ccc0f&ddCalcu=fe0eec60cf8c90979c1b607d3262d17745f3
-#EXTINF:-1 svg-id="鐔婄尗棰戦亾7" svg-name="鐔婄尗棰戦亾7" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/192/831/202209211800_2200192831_H32_1080.webp" group-title="鐔婄尗",鐔婄尗棰戦亾7
-http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/xiongmao07/1000/index.m3u8?msisdn=2026030623261559825ef68be04dfb9535953282c725ad&mdspid=&spid=699004&netType=0&sid=2200192831&pid=2028597139&timestamp=20260306232615&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609169286&ParentNodeID=-99&assertID=2200192831&client_ip=114.245.219.76&SecurityKey=20260306232615&promotionId=&mvid=2200192831&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=c0b852c7098ded9bba13e83ca3bc2e58&ddCalcu=8c50eeb0289c50b23ca7c03988ed3e1da9bb
-#EXTINF:-1 svg-id="鐔婄尗棰戦亾8" svg-name="鐔婄尗棰戦亾8" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/192/881/202209211800_2200192881_H32_1080.webp" group-title="鐔婄尗",鐔婄尗棰戦亾8
-http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/xiongmao08/1000/index.m3u8?msisdn=202603062326162921910037144022acecd7770be2b6f8&mdspid=&spid=699004&netType=0&sid=2200192881&pid=2028597139&timestamp=20260306232616&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609169287&ParentNodeID=-99&assertID=2200192881&client_ip=114.245.219.76&SecurityKey=20260306232616&promotionId=&mvid=2200192881&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=c3fb35e7d3c13dd8055b16988afc8753&ddCalcu=3c53e7f08b9c30f5ae878d936c11b35d5d08
-#EXTINF:-1 svg-id="鐔婄尗棰戦亾9" svg-name="鐔婄尗棰戦亾9" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/192/899/202209211800_2200192899_H32_1080.webp" group-title="鐔婄尗",鐔婄尗棰戦亾9
-http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/xiongmao09/1000/index.m3u8?msisdn=202603062326173e39708b32004aeabe7b60ec8581e558&mdspid=&spid=699004&netType=0&sid=2200192899&pid=2028597139&timestamp=20260306232617&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609169226&ParentNodeID=-99&assertID=2200192899&client_ip=114.245.219.76&SecurityKey=20260306232617&promotionId=&mvid=2200192899&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=7c6abd368369f7f55e08e290f8eba8d8&ddCalcu=87dce860aa9bb0ed83f6089326e98f07ef55
-#EXTINF:-1 svg-id="鐔婄尗棰戦亾10" svg-name="鐔婄尗棰戦亾10" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2200/192/937/202209211800_2200192937_H32_1080.webp" group-title="鐔婄尗",鐔婄尗棰戦亾10
-http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/xiongmao10/1000/index.m3u8?msisdn=202603062326181cfd1e64e3b34ce2bb431602bd0eb94b&mdspid=&spid=699004&netType=0&sid=2200192937&pid=2028597139&timestamp=20260306232618&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609169285&ParentNodeID=-99&assertID=2200192937&client_ip=114.245.219.76&SecurityKey=20260306232618&promotionId=&mvid=2200192937&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=3cb89253bd76a97eccd115332d49fda5&ddCalcu=53acedb0f8999042d5233b3d57161ad9c7ce
-#EXTINF:-1 svg-id="鏈€寮虹患鑹鸿洞" svg-name="鏈€寮虹患鑹鸿洞" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/654/202204010047_5101034202_H32_1080.webp" group-title="缁艰壓",鏈€寮虹患鑹鸿洞
-http://gslbmgsplive.miguvideo.com/wd_r3/cctv/zuiqiangzongyi/600/index.m3u8?msisdn=202603062326184e8b1b3997254e259aaa76ab4d537fa8&mdspid=&spid=699004&netType=0&sid=5500315654&pid=2028597139&timestamp=20260306232618&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=629942228&ParentNodeID=-99&assertID=5500315654&client_ip=114.245.219.76&SecurityKey=20260306232618&promotionId=&mvid=5101034202&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=48832d8e74771791f59a82a0ea7797a4&ddCalcu=44a8e7809397207da8ee07a42787a19759f1
-#EXTINF:-1 svg-id="鍢変匠鍗￠€�" svg-name="鍢変匠鍗￠€�" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2206/172/388/202304101530_2206172388_H32_1080.webp" group-title="灏戝効",鍢変匠鍗￠€�
-http://gslbmgsplive.miguvideo.com/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?msisdn=20260306232619efc7d0f03ba44a66a1be8f6d89d6a498&mdspid=&spid=699054&netType=0&sid=2206172388&pid=2028597139&timestamp=20260306232619&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=614952364&ParentNodeID=-99&assertID=2206172388&client_ip=114.245.219.76&SecurityKey=20260306232619&promotionId=&mvid=2206172388&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=72bba5763c305f116d6e2dc2b1db3ba5&ddCalcu=57a2ebb03b4ba0d517b623ccd320e56fd161
-#EXTINF:-1 svg-id="缁忓吀鍔ㄧ敾澶ч泦鍚�" svg-name="缁忓吀鍔ㄧ敾澶ч泦鍚�" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/652/202204010055_5101034205_H32_1080.webp" group-title="灏戝効",缁忓吀鍔ㄧ敾澶ч泦鍚�
-http://gslbmgsplive.miguvideo.com/wd_r3/cctv/jingdiandonghua/600/index.m3u8?msisdn=202603062326198cb563fc392449a5aa0d35442a4ed4e3&mdspid=&spid=699004&netType=0&sid=5500315652&pid=2028597139&timestamp=20260306232619&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=629942219&ParentNodeID=-99&assertID=5500315652&client_ip=114.245.219.76&SecurityKey=20260306232619&promotionId=&mvid=5101034205&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=2b884bc03b1b8df2697aca87367673c3&ddCalcu=32cbe3807896407b6c30738ba1cba87d9f62
-#EXTINF:-1 svg-id="鏂板姩婕�" svg-name="鏂板姩婕�" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/319/202512290851_1766568052605_H32_1080.webp" group-title="灏戝効",鏂板姩婕�
-http://gslbmgsplive.miguvideo.com/migu/kailu/ydcmxdm/50/20251225/index.m3u8?msisdn=20260306232620fe5ffcdbbb4843faa1e7e5f199fba7a7&mdspid=&spid=600603&netType=0&sid=5910022319&pid=2028597139&timestamp=20260306232620&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930269&ParentNodeID=-99&assertID=5910022319&client_ip=114.245.219.76&SecurityKey=20260306232620&promotionId=&mvid=5900006786&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=e666606de8afbd7bdc865c0a624313d6&ddCalcu=6ed6e36016136040266dae08ca5f6b8dc7db
-#EXTINF:-1 svg-id="鏂板姩鍔涢噺鍒涗竴娴�" svg-name="鏂板姩鍔涢噺鍒涗竴娴�" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/019/523/202506060000_1749138941378_H32_1080.webp" group-title="绾疄",鏂板姩鍔涢噺鍒涗竴娴�
-http://gslbmgsplive.miguvideo.com/migu/virtuallive2/5900002409/50/20210706/index.m3u8?msisdn=202603062326207e072ab4a80048d7a5d555c621f27e8e&mdspid=&spid=800033&netType=0&sid=5910019523&pid=2028597139&timestamp=20260306232620&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=713589837&ParentNodeID=-99&assertID=5910019523&client_ip=114.245.219.76&SecurityKey=20260306232620&promotionId=&mvid=5900002419&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=4dd61137cf295d0db6274077b2c614fe&ddCalcu=e4fde4d0163610c123b77c7f0249752d60bd
-#EXTINF:-1 svg-id="涓崕鐗逛骇" svg-name="涓崕鐗逛骇" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/295/202511061701_1762241728018_H32_1080.webp" group-title="绾疄",涓崕鐗逛骇
-http://gslbmgsplive.miguvideo.com/migu/kailu/zhtc/50/20251103/index.m3u8?msisdn=202603062326213db3af15c883419ba665fdfd0b384f68&mdspid=&spid=600697&netType=0&sid=5910022295&pid=2028597139&timestamp=20260306232621&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=959986618&ParentNodeID=-99&assertID=5910022295&client_ip=114.245.219.76&SecurityKey=20260306232621&promotionId=&mvid=5900006771&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=6566d75b6dd2df2aba9567fe955e5edc&ddCalcu=c6d5ee60569ed057559be6fd7d625d9fa2ba
-#EXTINF:-1 svg-id="鐜悆鏃呮父" svg-name="鐜悆鏃呮父" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/200/202509251348_1758698362959_H32_1080.webp" group-title="绾疄",鐜悆鏃呮父
-http://gslbmgsplive.miguvideo.com/migu/kailu/hqly/50/20250915/index.m3u8?msisdn=202603062326222d47830f93f5493fa91c7e3d1d261fa4&mdspid=&spid=600697&netType=0&sid=5910022200&pid=2028597139&timestamp=20260306232622&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=958475356&ParentNodeID=-99&assertID=5910022200&client_ip=114.245.219.76&SecurityKey=20260306232622&promotionId=&mvid=5900006723&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=a922c8b286021982dc420f02b396df05&ddCalcu=5a09ef20d286c0983bb22806f0022149c8d2
-#EXTINF:-1 svg-id="鑼�" svg-name="鑼�" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/320/202512290851_1766567984830_H32_1080.webp" group-title="绾疄",鑼�
-http://gslbmgsplive.miguvideo.com/migu/kailu/ydcmc/50/20251225/index.m3u8?msisdn=20260306232623b2667b2ceac64390a89b6fccc51bd115&mdspid=&spid=600603&netType=0&sid=5910022320&pid=2028597139&timestamp=20260306232623&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930369&ParentNodeID=-99&assertID=5910022320&client_ip=114.245.219.76&SecurityKey=20260306232623&promotionId=&mvid=5900006785&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=2cd6bf094f152a72dc1d3d8fbd0baa99&ddCalcu=929cead0a61bb00fd0b9f48fd135d21ac7d2
+#EXTM3U
+
+#EXTINF:-1 tvg-id="mio Sports" tvg-name="mio Sports" tvg-logo="" group-title="🇸🇬singtel测试",mio Sports
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec5fd70c74614556ae6cd5b0bd51435d:6b87f4cba36cf5207539f8f2e37857ae
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5111/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="mio Sports 2" tvg-name="mio Sports 2" tvg-logo="" group-title="🇸🇬singtel测试",mio Sports 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dcc234e37249479cb0ff0c37e4cb04eb:3fb57fcc16fa6ef20e28c34f5baf88f6
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5112/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="mio Sports 3" tvg-name="mio Sports 3" tvg-logo="" group-title="🇸🇬singtel测试",mio Sports 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f5aef28cfe24b09ba7a90c1e77658ef:fdcdf0912d95bb372c7a4aa92f8b0478
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5113/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="SPOTV (HD)" tvg-name="SPOTV (HD)" tvg-logo="" group-title="🇸🇬singtel测试",SPOTV (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18b2582215aa487d8c3282c2b3215d79:879d729f9834152ec66fdde64c65c216
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6114/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="SPOTV 2 (HD)" tvg-name="SPOTV 2 (HD)" tvg-logo="" group-title="🇸🇬singtel测试",SPOTV 2 (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a26e6dfcb9e64247ae2b42027006f896:877e16a7a0ae2ab52a435e2f7d7fb6f1
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6115/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="EUROSPORT (HD)" tvg-name="EUROSPORT (HD)" tvg-logo="" group-title="🇸🇬singtel测试",EUROSPORT (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ccde08b000474c15bf008fbba7353ad2:76f8bbc1974644d9cf5fe3c7b8c187ac
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6116/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Premier Sports" tvg-name="Premier Sports" tvg-logo="" group-title="🇸🇬singtel测试",Premier Sports
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a29b989a9794432aa2a65cb071bcd686:12eb6076163963e7279ca6b0a20a7801
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5118/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Fight Sports (HD)" tvg-name="Fight Sports (HD)" tvg-logo="" group-title="🇸🇬singtel测试",Fight Sports (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=079f84f2539b44ecaf14b8afa6cc145d:ad312aaac3afc04150d8f320192b5800
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6119/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Cricbuzz (HD)" tvg-name="Cricbuzz (HD)" tvg-logo="" group-title="🇸🇬singtel测试",Cricbuzz (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6a92875062945e3a38e89ad9a80ade5:c8a264af3d454a5dbe6b9b77fd26b891
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6123/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Cricbuzz 2 (HD)" tvg-name="Cricbuzz 2 (HD)" tvg-logo="" group-title="🇸🇬singtel测试",Cricbuzz 2 (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b860ae4ae9f4bf2b422a08ec97c88f9:4daa44fae0af2391bb6a5cbe12fe0312
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6124/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="beIN SPORTS (HD)" tvg-name="beIN SPORTS (HD)" tvg-logo="" group-title="🇸🇬singtel测试",beIN SPORTS (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e4cb41e8bddd4a10b64c200426a9ab22:59a83da56ed995a07ba22f1716479b9f
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6126/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="beIN SPORTS 2 (HD)" tvg-name="beIN SPORTS 2 (HD)" tvg-logo="" group-title="🇸🇬singtel测试",beIN SPORTS 2 (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9216a28340b442bda2135bf356665664:891b637d93f6c29cbd7f4eeda42f7952
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6127/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="beIN SPORTS 3 (HD)" tvg-name="beIN SPORTS 3 (HD)" tvg-logo="" group-title="🇸🇬singtel测试",beIN SPORTS 3 (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f57a214e13ee474594c36f90fdcdfbb6:3a108ab09778a58f55d5871b28d6c090
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6110/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Sky News HD" tvg-name="Sky News HD" tvg-logo="" group-title="🇸🇬singtel测试",Sky News HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e549b462da084872a9b006f09b489ac4:ab90b752b599160306eb424697639ac4
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5151/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="CGTN (HD)" tvg-name="CGTN (HD)" tvg-logo="" group-title="🇸🇬singtel测试",CGTN (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa79547d12104cccb98a7f8607567329:50910e0525dfd0b72baa824eff3af690
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5155/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="NHK World - Japan" tvg-name="NHK World - Japan" tvg-logo="" group-title="🇸🇬singtel测试",NHK World - Japan
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1953936b018747a6aa2ea4a61497661b:1c354f7fe79a8d44d7ed62d8a7262cee
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5157/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="France 24 (English)" tvg-name="France 24 (English)" tvg-logo="" group-title="🇸🇬singtel测试",France 24 (English)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57081fdd49d442f08eea23c0e1927da9:b8b1b4137ea363051c96698c4b9936ee
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5041/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="DW (English)" tvg-name="DW (English)" tvg-logo="" group-title="🇸🇬singtel测试",DW (English)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27b5ffa87eff43b49f91aa42377c0ceb:d59c9b67b698d51d0b02cc08f8460f32
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5161/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="FOX News Channel HD" tvg-name="FOX News Channel HD" tvg-logo="" group-title="🇸🇬singtel测试",FOX News Channel HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d92ae8f28e64311bf685cb0c5e5dbf2:462e88cb65563670c87798883bb5ac81
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5165/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="BBC News (HD)" tvg-name="BBC News (HD)" tvg-logo="" group-title="🇸🇬singtel测试",BBC News (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee776d2814a14242a0d6ae04c0db158b:ac49c9232f692939fb15478e43ab82ff
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6166/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="CNN International" tvg-name="CNN International" tvg-logo="" group-title="🇸🇬singtel测试",CNN International
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f2cebab43db4910bbdfd35735e700df:3775f9e4b1f0b0c29f7f6f68dc4a6aae
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5167/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Bloomberg TV (HD)" tvg-name="Bloomberg TV (HD)" tvg-logo="" group-title="🇸🇬singtel测试",Bloomberg TV (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12c6fb2303da4ad098ba65c35c14a918:3d617351e7c46eea673fc214a9bfdbd4
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5171/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Bloomberg Originals" tvg-name="Bloomberg Originals" tvg-logo="" group-title="🇸🇬singtel测试",Bloomberg Originals
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85853c1a98c04ac9bc1bccfade75e227:58aaabd8ea4da6a3d5283be52050d46a
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5172/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="CNBC Asia (HD)" tvg-name="CNBC Asia (HD)" tvg-logo="" group-title="🇸🇬singtel测试",CNBC Asia (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af156ad692ce4ba09a3ec24b8416a30d:f936103552bcb99112bf3cbc07fba11f
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5173/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Discovery Ch (HD)" tvg-name="Discovery Ch (HD)" tvg-logo="" group-title="🇸🇬singtel测试",Discovery Ch (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a1008a9be7d4be2a7106efc8efb450e:7d3c490a6509ad864a45f764ce59bb7a
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5202/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="BBC Earth (HD)" tvg-name="BBC Earth (HD)" tvg-logo="" group-title="🇸🇬singtel测试",BBC Earth (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a5fc33657854d1a8eb3ac863fb283d1:d319e326b6541df8c25d13913e7839a5
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6203/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Discovery Asia (HD)" tvg-name="Discovery Asia (HD)" tvg-logo="" group-title="🇸🇬singtel测试",Discovery Asia (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26ed73f1c19a4845b7bbea4ba6833d2a:2789b73b0f944b6b80b5e1d01bfd369f
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5204/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="C+I (HD)" tvg-name="C+I (HD)" tvg-logo="" group-title="🇸🇬singtel测试",C+I (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a80378f0eea4db6ae3a4290308056f1:f1f476d6487b6a4a25e26fac3e3385bd
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5206/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Animal Planet (HD)" tvg-name="Animal Planet (HD)" tvg-logo="" group-title="🇸🇬singtel测试",Animal Planet (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4abc4b798544a26b3f51b189d7ee561:7e7eccafa63576d0b6341612654d7e31
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5208/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="HISTORY (HD)" tvg-name="HISTORY (HD)" tvg-logo="" group-title="🇸🇬singtel测试",HISTORY (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce8a2bf299064479a9e5a26b445a6ed7:97583162b070ad6765673634559fe1e6
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5209/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="CGTN-Documentary" tvg-name="CGTN-Documentary" tvg-logo="" group-title="🇸🇬singtel测试",CGTN-Documentary
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7dedc2369da441c98ab1e0fe67b3b41b:0f4a5b43e42a9a1ceb894d24ce666fc4
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5211/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Global Trekker (HD)" tvg-name="Global Trekker (HD)" tvg-logo="" group-title="🇸🇬singtel测试",Global Trekker (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3c4004128b7944aa95921e35ac189f40:11af38cbf775dd8f858755cab06dc966
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5212/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Love Nature (HD)" tvg-name="Love Nature (HD)" tvg-logo="" group-title="🇸🇬singtel测试",Love Nature (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0322ce5db07426e9dd4c8791e58ebec:54e5a13c63329cb75ac7c8a49e2da396
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5215/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Cartoon Network (HD)" tvg-name="Cartoon Network (HD)" tvg-logo="" group-title="🇸🇬singtel测试",Cartoon Network (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=630d281c4f6443dda9f9ab6ee36a09dc:19dfd04eaf2476ffbc3a13452f196359
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5226/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Cartoonito (HD)" tvg-name="Cartoonito (HD)" tvg-logo="" group-title="🇸🇬singtel测试",Cartoonito (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=48772207bd6d4a1b9f20de9bdf34ae29:7091b0f8dafa718d16c46edae997435f
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5228/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="CBeebies (HD)" tvg-name="CBeebies (HD)" tvg-logo="" group-title="🇸🇬singtel测试",CBeebies (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3819f132699f496e96fd6a2a2ce79508:9ce9ebaaa01e5e36154a9a646bfb5f6b
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6236/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Nick Jr (HD)" tvg-name="Nick Jr (HD)" tvg-logo="" group-title="🇸🇬singtel测试",Nick Jr (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2554871361984f2cbab58381c6c8b229:70c748d7b90f18c93a0a0fcfa51ad7a0
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5238/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Nickelodeon Asia HD" tvg-name="Nickelodeon Asia HD" tvg-logo="" group-title="🇸🇬singtel测试",Nickelodeon Asia HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0cbbf4e1194449099bcab539d9d42f07:51c97cf2376ee6c8854f8de682f2ed91
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5240/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="HGTV (HD)" tvg-name="HGTV (HD)" tvg-logo="" group-title="🇸🇬singtel测试",HGTV (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e831fc6a335c4dd89be92689d3aa14b7:4c3db08bd3d2a9370810d78b1db7577c
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5250/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="ABC Australia" tvg-name="ABC Australia" tvg-logo="" group-title="🇸🇬singtel测试",ABC Australia
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ce43037c83c4b148ad5e68f3320e684:b2c2a0f4ec426246f5c7cf0a3c676665
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5251/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Food Network (HD)" tvg-name="Food Network (HD)" tvg-logo="" group-title="🇸🇬singtel测试",Food Network (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1011a88ef23340c297e5802bcd5aafd8:a44f5bcf9f1ebbb3984091f7ba02ae6d
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5252/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="TLC (HD)" tvg-name="TLC (HD)" tvg-logo="" group-title="🇸🇬singtel测试",TLC (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc966e79870440c0ba0731d4859c02e8:83ec9bd6d74dbd3261755cc058031695
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5254/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="BBC Lifestyle (HD)" tvg-name="BBC Lifestyle (HD)" tvg-logo="" group-title="🇸🇬singtel测试",BBC Lifestyle (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=92baccd03fea45819231fcdfad9ff8ea:3fb93d669108378af23b2771cb6570ad
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6255/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="AFN (HD)" tvg-name="AFN (HD)" tvg-logo="" group-title="🇸🇬singtel测试",AFN (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26dbc5cc37194563989e34ca653b5301:d7741c2b5348f332c013a4cfeb660a8c
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5256/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="TRACE Sport Stars HD" tvg-name="TRACE Sport Stars HD" tvg-logo="" group-title="🇸🇬singtel测试",TRACE Sport Stars HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=75fab94a2ab243fa988b6eb36cc658ea:59e231996609a6dca8e0b6d5f5cb8a86
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5257/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Arirang TV (HD)" tvg-name="Arirang TV (HD)" tvg-logo="" group-title="🇸🇬singtel测试",Arirang TV (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26ff259a861744f28d194cbfe9c892d2:d60911f8d8098ef02367da2dbfaa7db6
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5258/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="(HD) Outdoor Channel" tvg-name="(HD) Outdoor Channel" tvg-logo="" group-title="🇸🇬singtel测试",(HD) Outdoor Channel
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30794d535c6447e0971269cb7a84d788:032a26d6366a985c887f55979a21b693
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5119/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="HITS MOVIES (HD)" tvg-name="HITS MOVIES (HD)" tvg-logo="" group-title="🇸🇬singtel测试",HITS MOVIES (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2340fea3e0c24124a3479c859ddac2ce:5dc342b94095aa721d21ffe19f116e9a
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6301/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Lifetime (HD)" tvg-name="Lifetime (HD)" tvg-logo="" group-title="🇸🇬singtel测试",Lifetime (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a88589c89554f06a04fa3adf7e9e9be:79d0a5bee09fe4b99eb1f7480e68abaa
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5302/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="HITS NOW (HD)" tvg-name="HITS NOW (HD)" tvg-logo="" group-title="🇸🇬singtel测试",HITS NOW (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a65588b63f924579a536ce52247d7201:0e9e9f26841770abbfaa5c7513091612
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5303/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="AXN (HD)" tvg-name="AXN (HD)" tvg-logo="" group-title="🇸🇬singtel测试",AXN (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f56070adb71c4e85baa79df7ccea0ffe:c6e5e666870af56dc3ecb33ff97f7b70
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5304/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="ROCK Action (HD)" tvg-name="ROCK Action (HD)" tvg-logo="" group-title="🇸🇬singtel测试",ROCK Action (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6527ae5da46b45f692ad09bf7764e821:bf90e1646455ee4eb0eeb55d4e165d9a
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5310/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="ROCK ENT (HD)" tvg-name="ROCK ENT (HD)" tvg-logo="" group-title="🇸🇬singtel测试",ROCK ENT (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=28fe783d0a1c44b291b918f3542ab04a:1c9d0bdcb2fb322dcd428955dc0e4ddb
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5318/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="HITS (HD)" tvg-name="HITS (HD)" tvg-logo="" group-title="🇸🇬singtel测试",HITS (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b690c75a66d34f9d989dc7c333014fb9:82415d00023b1ab86b2f3c5642f060da
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5326/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="ANIPLUS HD" tvg-name="ANIPLUS HD" tvg-logo="" group-title="🇸🇬singtel测试",ANIPLUS HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=564616a4de064fcdbd54ce7478bb8c7b:6c1e123fb31c81f437bb5c0f44d55a5a
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5340/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Animax (HD)" tvg-name="Animax (HD)" tvg-logo="" group-title="🇸🇬singtel测试",Animax (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea16d113e1724e7c99adb7f7c6560eb0:84ff4efdbbce828dc99035dfc8c639cb
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5342/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="" group-title="🇸🇬singtel测试",HBO HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90a7c4e14d1a47abb66a0b5a1fa18a25:4d2262b0aba544330ab8b0945f815495
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6420/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="HBO Signature (HD)" tvg-name="HBO Signature (HD)" tvg-logo="" group-title="🇸🇬singtel测试",HBO Signature (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab2c0b9a8717440bbc83e21824bcb0e8:6bba9e1f5742249a8212162943069013
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6421/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="HBO Family (HD)" tvg-name="HBO Family (HD)" tvg-logo="" group-title="🇸🇬singtel测试",HBO Family (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a5542b9ddc84e598ed0b83a4c3fdea9:fee657eaa100b024b61e14421b07062c
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6422/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="HBO Hits (HD)" tvg-name="HBO Hits (HD)" tvg-logo="" group-title="🇸🇬singtel测试",HBO Hits (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09738f83df3c4b828361b194f9cd9b99:cad881a1ad277cffdb368c13a3674e25
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6423/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="CINEMAX (HD)" tvg-name="CINEMAX (HD)" tvg-logo="" group-title="🇸🇬singtel测试",CINEMAX (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ede07ccf082456da8dfa7c86dfeadc0:5c9ae71b5da8cd2bda9a1a4c346455f9
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6424/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="e-Le (HD)" tvg-name="e-Le (HD)" tvg-logo="" group-title="🇸🇬singtel测试",e-Le (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=83dea75029954534b0b4842b523b5cf9:e99e600f3356e93c8828260cc1c27a44
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5501/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Jia Le Channel (HD)" tvg-name="Jia Le Channel (HD)" tvg-logo="" group-title="🇸🇬singtel测试",Jia Le Channel (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4cd69ec1abd4d98af22f6fed43b5289:f6f7dc261a80203c6757e12d6db7f53b
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5502/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Ju Le Cool" tvg-name="Ju Le Cool" tvg-logo="" group-title="🇸🇬singtel测试",Ju Le Cool
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d33bb6f9e8814a20aca5dc0583b311c9:13815e30cc9917b2b3aaafbdd34d9654
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5503/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="TVBS Asia" tvg-name="TVBS Asia" tvg-logo="" group-title="🇸🇬singtel测试",TVBS Asia
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f572f8f771ba49ec8aeafed559d3ed82:94bd4c89dcf2e7ed6378f9f1334eb32f
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6507/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="TVB Jade (HD)" tvg-name="TVB Jade (HD)" tvg-logo="" group-title="🇸🇬singtel测试",TVB Jade (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a95bddcecc1a4077b36fbf06a1808727:42a8c23540f3b9d993c45d3afb887533
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5511/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="now Jelli (HD)" tvg-name="now Jelli (HD)" tvg-logo="" group-title="🇸🇬singtel测试",now Jelli (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=54fc63a90df7473cab8d9b2efabe5195:ab0391092f1129660bf8f78bd3bb977a
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5512/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="ONE HD (Mandarin)" tvg-name="ONE HD (Mandarin)" tvg-logo="" group-title="🇸🇬singtel测试",ONE HD (Mandarin)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c322351154a646b1a913db9f595ee00c:60c969d729cb1f9652e8921539ea3aac
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5513/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="TVBS News" tvg-name="TVBS News" tvg-logo="" group-title="🇸🇬singtel测试",TVBS News
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d564aa175ee42a3899fe22654d855ae:1a5d18c21ae105640b966c10f2ceed46
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6516/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="TVB Xing He (HD)" tvg-name="TVB Xing He (HD)" tvg-logo="" group-title="🇸🇬singtel测试",TVB Xing He (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c9822bd4fcea4b6b9c98424c4627f57f:c79faaf4fb6a61f66e02fc9f5e1457a7
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5517/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="tvN HD (Mandarin)" tvg-name="tvN HD (Mandarin)" tvg-logo="" group-title="🇸🇬singtel测试",tvN HD (Mandarin)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d046c0a26620451abe3ddf8aaa3214d2:1d28f4268d99333f8cb21f7d75264843
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5518/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="ETTV Asia (HD)" tvg-name="ETTV Asia (HD)" tvg-logo="" group-title="🇸🇬singtel测试",ETTV Asia (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=db83ed2bdb944c898315705c6e7d945f:351c85a863b7335e93d2f500507ee479
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5521/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="KBS World (HD)" tvg-name="KBS World (HD)" tvg-logo="" group-title="🇸🇬singtel测试",KBS World (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1e7541042de48d3b3e9ec5d37f85646:4214e1d43cb7fbc0310ce30cb8f97b30
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5038/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="CCTV Entertainment" tvg-name="CCTV Entertainment" tvg-logo="" group-title="🇸🇬singtel测试",CCTV Entertainment
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4834e8d83f3412c9c37d932228ebeeb:3c53c5f6e9da93877556498f7f2735fe
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5534/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Dragon TV Intl" tvg-name="Dragon TV Intl" tvg-logo="" group-title="🇸🇬singtel测试",Dragon TV Intl
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bad3667d7462489c8951154f7c94d86c:f7b6a879c88cb47e8ba9ba40b6da4b1d
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5535/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Hunan International" tvg-name="Hunan International" tvg-logo="" group-title="🇸🇬singtel测试",Hunan International
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d7a1d2d03c245488c8d39613fa02bf5:b955326e3ddfd1af034b61f5a971a091
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5536/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="BRTV International" tvg-name="BRTV International" tvg-logo="" group-title="🇸🇬singtel测试",BRTV International
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f07a3023f8f64240832db18c9a852d41:9a8ae469483b5432aa045d9a47de0ff7
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5537/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="China Movie Channel" tvg-name="China Movie Channel" tvg-logo="" group-title="🇸🇬singtel测试",China Movie Channel
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9bdeb27dcde3462283481478e473c1f7:14f9603dab5d52e6d59b32a24c54c435
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5538/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Phoenix InfoNews" tvg-name="Phoenix InfoNews" tvg-logo="" group-title="🇸🇬singtel测试",Phoenix InfoNews
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=62ac453677de46bca18c77de3157090d:673bb64ebf7bc88fc63343412b5ded09
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6547/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="CCTV-4 (HD)" tvg-name="CCTV-4 (HD)" tvg-logo="" group-title="🇸🇬singtel测试",CCTV-4 (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9984d9b41c704d9da7a06b4715e8e5ad:f7a42d52d105da0c5cbc1621d57a02c4
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5555/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="CTI Asia (HD)" tvg-name="CTI Asia (HD)" tvg-logo="" group-title="🇸🇬singtel测试",CTI Asia (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=78b17367e3e24e54a77a65e5ef11b5f3:4568bd3fd256e160310041326059558d
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5557/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="ETTV Asia News (HD)" tvg-name="ETTV Asia News (HD)" tvg-logo="" group-title="🇸🇬singtel测试",ETTV Asia News (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a91c64e46844d03a261d6868690f0bb:a9c7a516b35f02079d6ef30625d2cc59
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5561/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="CM+" tvg-name="CM+" tvg-logo="" group-title="🇸🇬singtel测试",CM+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=894eb4c6b699404a9970442407db3cb0:d08b04ab49f600f24b9f72892ab13ac0
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6571/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="CCM" tvg-name="CCM" tvg-logo="" group-title="🇸🇬singtel测试",CCM
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec66be1327d94e9196f3d16d8aba5d2f:2ea9ef451ac308197e7613684c3bc83f
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5580/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Celestial Movies(HD)" tvg-name="Celestial Movies(HD)" tvg-logo="" group-title="🇸🇬singtel测试",Celestial Movies(HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7979f2bda9e1416e8eb618d18ffd2be0:3562e534372dda0c17561bc9bfb0d066
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5585/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Astro Prima HD" tvg-name="Astro Prima HD" tvg-logo="" group-title="🇸🇬singtel测试",Astro Prima HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b426e6828780434c9dfaa69d27e2cadf:18f311f66422bcd2ee12dc636d2aab04
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5602/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="ONE HD (Malay)" tvg-name="ONE HD (Malay)" tvg-logo="" group-title="🇸🇬singtel测试",ONE HD (Malay)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0158807e63e046e29733ff4110feba96:8f62ac9624bc4b0f3186b521e4971dee
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5604/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Pesona HD" tvg-name="Pesona HD" tvg-logo="" group-title="🇸🇬singtel测试",Pesona HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d862f9c20d3459fb8036e22b35bd81b:6c3dfe1d85c8815a997df8821807989f
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5607/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Astro Ria HD" tvg-name="Astro Ria HD" tvg-logo="" group-title="🇸🇬singtel测试",Astro Ria HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=052a205286474e1e882ed9101ece063c:ff659f3c050e99e026a58448bd92bd8b
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5608/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Citra Drama (HD)" tvg-name="Citra Drama (HD)" tvg-logo="" group-title="🇸🇬singtel测试",Citra Drama (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=153524f9bc774291a31e50f0649709a0:932c486a0811188a83630550a393276d
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5610/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Drama Channel" tvg-name="Drama Channel" tvg-logo="" group-title="🇸🇬singtel测试",Drama Channel
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d661548866d4400b11c87e4951460a9:c8a987e20785979cb8e70ec2a46aa303
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5618/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="tvN HD" tvg-name="tvN HD" tvg-logo="" group-title="🇸🇬singtel测试",tvN HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d31af9bbb387415d97a601af6fe0e156:59e6ae2e6436eea7fb7d0033ae9b8bde
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5619/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Sun TV HD" tvg-name="Sun TV HD" tvg-logo="" group-title="🇸🇬singtel测试",Sun TV HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96d2839c7a0243009aa57a0f0f4ecbbe:7dcb0106979cff9c3e48162123803cdf
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5622/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Colors Tamil HD" tvg-name="Colors Tamil HD" tvg-logo="" group-title="🇸🇬singtel测试",Colors Tamil HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25a70f0ade1a41c9b7573abd20a8f7c7:df9b8f6925734e98bd348f56db6bcb64
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5623/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Zee Thirai" tvg-name="Zee Thirai" tvg-logo="" group-title="🇸🇬singtel测试",Zee Thirai
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6060797cba894f6e900e72d60a515a40:c5fbced517bf3dc56b26de56e977403b
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5624/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="KTV HD" tvg-name="KTV HD" tvg-logo="" group-title="🇸🇬singtel测试",KTV HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=38880bad620d49e897f02eeae49ee7f7:af60f8a2072c2168b0deeeb21c951edc
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5625/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Sun Music HD" tvg-name="Sun Music HD" tvg-logo="" group-title="🇸🇬singtel测试",Sun Music HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=626001dcfe574c03b0695d2017b38f4d:449d1775d448941ab4940336d63cd94c
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5627/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Adithya TV" tvg-name="Adithya TV" tvg-logo="" group-title="🇸🇬singtel测试",Adithya TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a1e1e33a55ed4376b05d40b6cd915b7c:08021adba0a1a62f8121b0cdc1ed36bf
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5628/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Sony YAY" tvg-name="Sony YAY" tvg-logo="" group-title="🇸🇬singtel测试",Sony YAY
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f42374a990e643b98f070c79c58eb183:8588bb211c4baba9c8ab9ef8358979c2
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5630/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Zee Tamil HD" tvg-name="Zee Tamil HD" tvg-logo="" group-title="🇸🇬singtel测试",Zee Tamil HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ae5cd9f67c541bdb767c8f8184a0291:a847123d8755fced34259d6bd9583474
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5632/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Vijay TV (HD)" tvg-name="Vijay TV (HD)" tvg-logo="" group-title="🇸🇬singtel测试",Vijay TV (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9131b099b89421a906a259d4c5431c4:86af6f2adf9bdea3af7f35261e355d7e
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5634/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Asianet" tvg-name="Asianet" tvg-logo="" group-title="🇸🇬singtel测试",Asianet
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e9b44abc7dcf4c2db883852d7ea48055:60af6356e823858963e30c20d86eac47
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5638/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Asianet Movies" tvg-name="Asianet Movies" tvg-logo="" group-title="🇸🇬singtel测试",Asianet Movies
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7bb3480862494d48b0f3831bbba20535:06781c7ac2c10ae794ee49ad2b034b2f
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5639/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="SET (HINDI)" tvg-name="SET (HINDI)" tvg-logo="" group-title="🇸🇬singtel测试",SET (HINDI)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=41d449463d81483da9cfbbcc7759dc2f:788e4f82d182421325c34c3b891cafbd
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5644/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Zee TV" tvg-name="Zee TV" tvg-logo="" group-title="🇸🇬singtel测试",Zee TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f31536293934158adc7ca8b382e6069:68d5a038c91917058254158973545dc2
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5646/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="SAB TV" tvg-name="SAB TV" tvg-logo="" group-title="🇸🇬singtel测试",SAB TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17c264fda0f5454c859b04e6c93520d0:4c051ec159f18f77bce6ab9569b1b551
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5648/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Colors" tvg-name="Colors" tvg-logo="" group-title="🇸🇬singtel测试",Colors
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df34c838a4e44f95bf08e00edbebbb17:e684f15f343690e080cb13820d7fb3eb
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5652/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Star Bharat" tvg-name="Star Bharat" tvg-logo="" group-title="🇸🇬singtel测试",Star Bharat
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f82a99c66d54b7db30cf5e1c3651c52:478f1174fb730b9c51b6af785bff9309
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5654/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="STAR Plus" tvg-name="STAR Plus" tvg-logo="" group-title="🇸🇬singtel测试",STAR Plus
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2d2c87bd09fa4ca48281a3b65320588b:ddc76c2a8581e57f6572eaaa158202a1
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5656/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="MTV India" tvg-name="MTV India" tvg-logo="" group-title="🇸🇬singtel测试",MTV India
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3de50ad6c4de487ab405fb4b65d3c224:3b5a5600846a39336701eaf05026c282
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5658/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="STAR Gold" tvg-name="STAR Gold" tvg-logo="" group-title="🇸🇬singtel测试",STAR Gold
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f996cbfd21e45f7b453007338955dcb:3125f89ab315a19d5e31e4fe6c59a672
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5662/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Sony MAX" tvg-name="Sony MAX" tvg-logo="" group-title="🇸🇬singtel测试",Sony MAX
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8fc10c0c4a45415c817decc26ebf8c94:612869228df2bfbb71fc42c215dac739
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5668/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="maa movies" tvg-name="maa movies" tvg-logo="" group-title="🇸🇬singtel测试",maa movies
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56c3d7c4db7d4df5ba3aa0634e54b59b:e26bc17831d3a31cb827738b36223f49
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5670/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Star Maa" tvg-name="Star Maa" tvg-logo="" group-title="🇸🇬singtel测试",Star Maa
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e499561f02144db885f4885b0dea65e:e299558baa5d390c0076a7a70e48d9fc
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5671/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Times Now" tvg-name="Times Now" tvg-logo="" group-title="🇸🇬singtel测试",Times Now
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7361c85ef12a49dc9b106c85727ad1f8:2cbe038b1d717482a94bb0ed8e3d5684
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5676/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Zoom TV" tvg-name="Zoom TV" tvg-logo="" group-title="🇸🇬singtel测试",Zoom TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e137c5e4ca0b4d4eb594da3c625a8e7e:b6d0a31ef3f8f7d10029ec67255f2287
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5677/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="WION" tvg-name="WION" tvg-logo="" group-title="🇸🇬singtel测试",WION
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fa49814a50e4e35b2f5be8f190c693d:5dbc05a9fd04fe9b9723ffe08808c07b
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5680/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="NHK World Premium HD" tvg-name="NHK World Premium HD" tvg-logo="" group-title="🇸🇬singtel测试",NHK World Premium HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a63f50e1b3243918ccf3b2040c240a3:f62c20ad63e4b78cbfec70c44b40df98
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5682/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="France 24 (French)" tvg-name="France 24 (French)" tvg-logo="" group-title="🇸🇬singtel测试",France 24 (French)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e385f42388074adf95bf4a339cdd7c36:682c9e04d1859c7c23be3c1f276a09d3
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5040/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="GMA Pinoy TV" tvg-name="GMA Pinoy TV" tvg-logo="" group-title="🇸🇬singtel测试",GMA Pinoy TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d7038680a9542d8b3d4a5d0e2fb006d:e737f0bde24a2341a6e3d660c90adb4c
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5056/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="GMA Life TV" tvg-name="GMA Life TV" tvg-logo="" group-title="🇸🇬singtel测试",GMA Life TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3135fe3b80f4467aee8ed5b2465587e:823a8a0b1f7691a76603c7ae51614a17
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5689/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="GMA News TV Intl" tvg-name="GMA News TV Intl" tvg-logo="" group-title="🇸🇬singtel测试",GMA News TV Intl
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac4cf21d00514d9d8a66734ec034dd9a:097f92a143e910eb5986dbf0da469260
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5690/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="Cinema One Global" tvg-name="Cinema One Global" tvg-logo="" group-title="🇸🇬singtel测试",Cinema One Global
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dfe78717200b403fbaa39478e5eee105:2177d35e32ac37a2e451787699a35874
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6692/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="The Filipino Ch (HD)" tvg-name="The Filipino Ch (HD)" tvg-logo="" group-title="🇸🇬singtel测试",The Filipino Ch (HD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=97d0ab7778ac4400900ca3728a6032da:32a863f9c6e49a8fd6b5fbc234d2a27f
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5693/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="ABS-CBN News Channel" tvg-name="ABS-CBN News Channel" tvg-logo="" group-title="🇸🇬singtel测试",ABS-CBN News Channel
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc2d8b5d622c437d94853989a21b4db3:4345544befacb3798550dce69d64917e
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6694/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
