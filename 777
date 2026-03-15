@@ -1,4 +1,8 @@
 今年要挣100W,#genre#
+中国天气，http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv&playlive=1&authid=0
+每日经济，http://swiftplay.hxkjmedia.com/tv/spbW.m3u8
+澎湃景区，https://play-a2.quklive.com/live/1765245429980053.m3u8
+环球直播，https://live.iill.top/douyu/9036111
 CCTV1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1md
 CCTV2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2md
 CCTV3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3md
@@ -437,7 +441,7 @@ ZooMoo',http://tl.061833.xyz/tl/zoomoo
 虎牙八点档,https://live.ottiptv.cc/huya/880261
 异人之下,https://live.ottiptv.cc/huya/11352869
 柯南剧场,https://live.ottiptv.cc/huya/30080148
-音乐石榴,https://live.ottiptv.cc/huya/17091681
+
 发哥归来,https://live.ottiptv.cc/huya/11342387
 完美世界,https://live.ottiptv.cc/huya/11336579
 
@@ -559,14 +563,11 @@ NOW新闻台,https://cdn.163189.xyz/163189/now
 华文四套,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 华文五套,https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 
-#====================其他====================
+
 重温经典,http://8.138.7.223/tv/lotustv.m3u8
 新视觉HD,http://120.76.248.139/live/bfgd/4200000249.m3u8
 星光院线,http://zqh2333.top:2222/rtp/239.93.24.139:5140
 
-中国天气，http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv&playlive=1&authid=0
-每日经济，http://swiftplay.hxkjmedia.com/tv/spbW.m3u8
-澎湃景区，https://play-a2.quklive.com/live/1765245429980053.m3u8
 淘电影，http://mingjd.cn:7077/rtp/239.3.1.250:8001
 [OK]淘娱乐，http://mingjd.cn:7077/udp/239.3.1.100:8001
 [OK]淘剧场，http://mingjd.cn:7077/udp/239.3.1.95:8001
@@ -577,17 +578,17 @@ NOW新闻台,https://cdn.163189.xyz/163189/now
 [需鉴权]CHC影迷电影，http://m.061899.xyz/mg/ymdy
 [需鉴权]CHC家庭影院，http://m.061899.xyz/mg/jtyy
 
-[OK]短剧直播，http://8.155.43.98:35455/douyu/4011851
-[OK]经典鬼片3000部，https://yylunbo.ottiptv.cc/yy/29460894
-[OK]🎵点歌台，http://8.155.43.98:35455/douyu/85894
-[OK]🎵周杰伦MV，http://8.155.43.98:35455/douyu/122402
-[OK]🎵TDIRadioTV，https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
-[OK]🎵音乐快斗，http://8.155.43.98:35455/douyu/8324627
-[OK]🎵音乐Wu哥，http://8.155.43.98:35455/douyu/8667755
-[OK]🎵MusicTV，https://secured.albportal.net:2083/AlbKanaleMusicTv/index.m3u8
+音乐电台,#genre#
+🎵点歌台，http://8.155.43.98:35455/douyu/85894
+🎵周杰伦MV，http://8.155.43.98:35455/douyu/122402
+🎵TDIRadioTV，https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
+🎵音乐快斗，http://8.155.43.98:35455/douyu/8324627
+🎵音乐Wu哥，http://8.155.43.98:35455/douyu/8667755
+🎵MusicTV，https://secured.albportal.net:2083/AlbKanaleMusicTv/index.m3u8
+🎵音乐石榴,https://live.ottiptv.cc/huya/17091681
 
-[OK]美女直播1，http://8.155.43.98:35455/douyu/12659775
-[OK]环球直播，https://live.iill.top/douyu/9036111
+
+
 
 [RTSP/RTMP]CCTV3-综艺，rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000391
 [RTSP/RTMP]CCTV13-新闻，rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000514
