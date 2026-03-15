@@ -387,7 +387,7 @@ CCTV少儿,http://115.190.252.60:20508/se.php?id=cctv14
 广东少儿,http://115.190.252.60:20508/se.php?id=gdse
 嘉佳卡通,http://115.190.252.60:20508/se.php?id=jjkt2
 南京少儿,http://115.190.252.60:20508/se.php?id=njse
-深圳少儿,http://115.190.252.60:20508/se.php?id=szse
+
 甘肃少儿,http://115.190.252.60:20508/se.php?id=gsse
 新疆少儿,http://115.190.252.60:20508/se.php?id=xjse
 内蒙古少儿,http://115.190.252.60:20508/se.php?id=nmgse
@@ -396,11 +396,11 @@ CCTV少儿,http://115.190.252.60:20508/se.php?id=cctv14
 嘉佳卡通,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdjjkt
 优漫卡通,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ymkt
 金鹰卡通,http://61.184.46.85:85/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
-靖洋卡通,http://220.135.64.124:5050/4gtv-4gtv057/index.m3u8?proxy=true
+
 嘉佳卡通,http://tvtj1.jxwltx.com:8003/live1328.m3u8
 优漫卡通,http://tvtj1.jxwltx.com:8003/custom11.m3u8
 经典卡通,http://220.135.64.124:5050/4gtv-live022/index.m3u8?proxy=true
-龙华卡通,http://220.135.64.124:5050/li-litv-longturn01/index.m3u8?proxy=true
+龙华卡通,http://220.135.64.124:5050/li-litv-longturn01/index.m3u8
 北京少儿,http://m.061899.xyz/mg/bjkk
 福建少儿,http://183.250.156.180:9999/newlive/live/hls/26/live.m3u8
 卡酷少儿,http://61.184.46.85:85/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -416,8 +416,7 @@ EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunk
 广东少儿,http://tvtj1.jxwltx.com:8003/live1570.m3u8
 河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=1893427200&k=d4a455b288ebbc0f53903f4750372b0f
 EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
-广东少儿,http://rihou.cc:555/tv/[AtI]广东少儿
-广东少儿,http://tvtj1.jxwltx.com:8003/live1570.m3u8
+
 
 
 
