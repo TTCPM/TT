@@ -292,7 +292,11 @@ CCTV5+体育赛事,http://74.91.26.218:82/live/cctv5p.m3u8
 兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 
 超清频道,#genre#
-
+湖南卫视4K，http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+江苏卫视4K，http://118.122.144.115:8888/newlive/live/hls/20/live.m3u8
+浙江卫视4K，https://ali-xwl.cztv.com/live/channel4k2160p.m3u8
+东方卫视4K，http://j.s.bkpcp.top/jj/dfws
+北京卫视4K，http://106.53.99.30/tv/bj.php?id=bjws4k
 江苏卫视4K,http://8.138.7.223/tv/jsws4k.php
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 深圳卫视4K,http://nn.7x9d.cn/深圳最新.php?id=szws4k
@@ -305,13 +309,13 @@ CCTV5+体育赛事,http://74.91.26.218:82/live/cctv5p.m3u8
 东方卫视4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 东方卫视4K,http://106.53.99.30/tv/api.php?id=dfws4k
 [VGA]4ktraveltv,https://t.freetv.fun/live/4k-travel-tv.m3u8
-cctv-4k超高清,https://t.freetv.fun/live/cctv-4kchao-gao-qing.m3u8
-cctv-4k高清,https://t.freetv.fun/live/cctv-4kgao-qing-4.m3u8
-cctv-4k高清,https://t.freetv.fun/live/cctv-4kgao-qing-5.m3u8
-cctv-4k高清,http://222.186.27.222/hlslive-tx-1-cdn.ysp.cctv.cn/ysp/2029810303.m3u8
+cctv4K高清,https://t.freetv.fun/live/cctv-4kchao-gao-qing.m3u8
+cctv4K高清,https://t.freetv.fun/live/cctv-4kgao-qing-4.m3u8
+cctv4K高清,https://t.freetv.fun/live/cctv-4kgao-qing-5.m3u8
+cctv4K高清,http://222.186.27.222/hlslive-tx-1-cdn.ysp.cctv.cn/ysp/2029810303.m3u8
 CCTV8K,http://43.156.8.127:5050/ysp?id=2026774101&amp;pid=600156816&amp;q=fhd
-CCTV8K高清,http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026774101_dlna.m3u8
-CCTV-8K超高清,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
+CCTV8K,http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026774101_dlna.m3u8
+CCTV8K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 
 北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.91:5140
 广东卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.94:5140#http://106.53.99.30/tv/api.php?id=gdws
@@ -560,17 +564,10 @@ NOW新闻台,https://cdn.163189.xyz/163189/now
 新视觉HD,http://120.76.248.139/live/bfgd/4200000249.m3u8
 星光院线,http://zqh2333.top:2222/rtp/239.93.24.139:5140
 
-[OK]中国天气，http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv&playlive=1&authid=0
-[OK]每日经济，http://swiftplay.hxkjmedia.com/tv/spbW.m3u8
-[OK]澎湃景区，https://play-a2.quklive.com/live/1765245429980053.m3u8
-[OK]❤️CCTV8K，http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
-[OK]❤️CCTV16-4K，http://74.91.26.218:82/live/cctv16hd.m3u8
-[OK]❤️湖南卫视4K，http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-[OK]❤️江苏卫视4K，http://118.122.144.115:8888/newlive/live/hls/20/live.m3u8
-[OK]❤️浙江卫视4K，https://ali-xwl.cztv.com/live/channel4k2160p.m3u8
-[需鉴权]❤️东方卫视4K，http://j.s.bkpcp.top/jj/dfws
-[OK]❤️北京卫视4K，http://106.53.99.30/tv/bj.php?id=bjws4k
-[OK]淘电影，http://mingjd.cn:7077/rtp/239.3.1.250:8001
+中国天气，http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv&playlive=1&authid=0
+每日经济，http://swiftplay.hxkjmedia.com/tv/spbW.m3u8
+澎湃景区，https://play-a2.quklive.com/live/1765245429980053.m3u8
+淘电影，http://mingjd.cn:7077/rtp/239.3.1.250:8001
 [OK]淘娱乐，http://mingjd.cn:7077/udp/239.3.1.100:8001
 [OK]淘剧场，http://mingjd.cn:7077/udp/239.3.1.95:8001
 [OK]淘Baby，http://mingjd.cn:7077/udp/239.3.1.238:8001
@@ -579,21 +576,17 @@ NOW新闻台,https://cdn.163189.xyz/163189/now
 [需鉴权]CHC动作电影，http://m.061899.xyz/mg/dzdy
 [需鉴权]CHC影迷电影，http://m.061899.xyz/mg/ymdy
 [需鉴权]CHC家庭影院，http://m.061899.xyz/mg/jtyy
-[OK]至臻4K，http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=m
-[OK]短剧直播，https://live.iill.top/douyu/4011851
+
+[OK]短剧直播，http://8.155.43.98:35455/douyu/4011851
 [OK]经典鬼片3000部，https://yylunbo.ottiptv.cc/yy/29460894
-[OK]🎵点歌台，https://live.iill.top/douyu/85894
-[OK]🎵周杰伦MV，https://live.iill.top/douyu/122402
+[OK]🎵点歌台，http://8.155.43.98:35455/douyu/85894
+[OK]🎵周杰伦MV，http://8.155.43.98:35455/douyu/122402
 [OK]🎵TDIRadioTV，https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
-[OK]🎵音乐快斗，https://live.iill.top/douyu/8324627
-[OK]🎵音乐Wu哥，https://live.iill.top/douyu/8667755
+[OK]🎵音乐快斗，http://8.155.43.98:35455/douyu/8324627
+[OK]🎵音乐Wu哥，http://8.155.43.98:35455/douyu/8667755
 [OK]🎵MusicTV，https://secured.albportal.net:2083/AlbKanaleMusicTv/index.m3u8
-[OK]💿︎《只对你有感觉，https://cccimg.com/view.php/9f0e473bdd720c4c3baea5a4204bb0bb.mp4
-[OK]💿︎《偏爱》，https://cccimg.com/view.php/2f6e5d7266ef67e9519ce62eb1d52f41.mp4
-[OK]💿︎《只为你着迷》，https://cccimg.com/view.php/613d8841f06608f00ba9b5da4389909b.mp4
-[OK]💿︎《暴风雨》，https://cccimg.com/view.php/0aab701a118e376a8ab71cee42f65d13.mp4
-[OK]💿︎《为你而活》，https://cccimg.com/view.php/5dac126534a3ddc5a7ec4be9cfdddd76.mp4
-[OK]美女直播1，https://live.iill.top/douyu/12659775
+
+[OK]美女直播1，http://8.155.43.98:35455/douyu/12659775
 [OK]环球直播，https://live.iill.top/douyu/9036111
 
 [RTSP/RTMP]CCTV3-综艺，rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000391
