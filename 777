@@ -321,12 +321,9 @@ CCTV5+,http://74.91.26.218:82/live/cctv5p.m3u8
 超清频道,#genre#
 新视觉HD,http://120.76.248.139/live/bfgd/4200000249.m3u8
 新视觉HD,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
-广东台4K瓒呴珮娓,http://8.140.57.83:88/zgst.php?t=3&column=350&id=93733
-北京台4K瓒呴珮娓,http://8.140.57.83:88/zgst.php?t=3&column=350&id=91417
-鍥涘窛鍗4K瓒呴珮娓,http://8.140.57.83:88/zgst.php?t=3&column=350&id=95965
-深圳台4K瓒呴珮娓,http://8.140.57.83:88/zgst.php?t=2&m3u8=https://livepull-tcms.sztv.com.cn/live/sz4KB.m3u8
-鑻忓窞4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-骞垮窞鍗楀浗閮藉競4K,https://tencentplaybusiness.gztv.com/live/nanguodushi.m3u8
+
+苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+南国都市4K,https://tencentplaybusiness.gztv.com/live/nanguodushi.m3u8
 
 北京卫视4K,http://106.53.99.30/tv/bj.php?id=bjws4k
 东方卫视4K,http://106.53.99.30/tv/api.php?id=dfws4k
