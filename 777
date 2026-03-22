@@ -565,7 +565,6 @@ TVB系列,#genre#
 明珠台(字幕),https://mytv.cdn.loc.cc/o12.php?id=mzt
 Now星影国hk,http://rihou.cc:555/tv/[Hv]Now星影
 NOW新闻台,https://cdn.163189.xyz/163189/now
-
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
 凤凰香港,https://cdn6.163189.xyz/163189/fhhk
@@ -573,7 +572,46 @@ NOW新闻台,https://cdn.163189.xyz/163189/now
 HOY77,https://cdn6.163189.xyz/163189/hoy
 RTHK31,https://cdn.163189.xyz/163189/rthk31
 RTHK32,https://cdn.163189.xyz/163189/rthk32
+凤凰中文,https://cdn6.163189.xyz/163189/fhzw
+凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
+凤凰香港,https://cdn6.163189.xyz/163189/fhhk
+翡翠台4K,https://o11.163189.xyz/stream/tvb/fct4k/
+翡翠台,https://cdn6.163189.xyz/163189/fct
+明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
+娱乐新闻,https://cdn6.163189.xyz/163189/ylxw
+无线新闻,https://cdn6.163189.xyz/163189/wxxw
+TVB1,https://6.cdn.loc.cc/163189.php?id=tvb1
+TVBPLUS,http://74.91.26.218:82/live/j2.m3u8
+华丽翡翠,https://o11.163189.xyz/stream/live/hlt/
+华丽翡翠(新加坡),http://o11.163189.xyz/stream/live/jade/
+Now新闻,http://cdn.163189.xyz/163189/now
+HOY76,http://pull-vivek.speedws.com/live/aaahoy76.flv
+HOY77,http://pull-vivek.speedws.com/live/aaahoy77.flv
+HOY78,http://pull-vivek.speedws.com/live/aaahoy78.flv
+VIUTV,https://cdn.163189.xyz/163189/viu
+TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
+TVB千禧经典,https://o11.163189.xyz/stream/live/tvbc/
+TVB武侠,https://cdn6.163189.xyz/163189/yzwx
+爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
+AstroAEC,https://o11.163189.xyz/stream/live/aec/
+AstroAOD,https://o11.163189.xyz/stream/live/aod/
+AstroQJ,https://smt.1678520.xyz/smt3.2.3.php?id=Quanjia
+Astro欢喜台,https://smt.1678520.xyz/smt3.2.3.php?id=Huahee
+八度空间,https://smt.1678520.xyz/smt3.2.1.php?id=TV8
+RTHK31,http://cdn.163189.xyz/163189/rthk31
+RTHK32,http://cdn.163189.xyz/163189/rthk32
+Channel[V],http://rihou.cc:555/tv/Channel+V
+亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612420/live.m3u8
+香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+欧洲华文卫视,http://oh.eztv.vip/live/eztv1.m3u8
+环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 
+天映频道,http://pull-vivek.speedws.com/live/aaatypd.flv
+天映经典,http://pull-vivek.speedws.com/live/aaatyjd.flv
+澳门体育,http://cdn6.163189.xyz/163189/amty
+澳门综艺,http://cdn6.163189.xyz/163189/amzy
+澳门Macau,https://cdn6.163189.xyz/163189/as
+澳视澳门,https://cdn6.163189.xyz/163189/asam
 新加坡,#genre#
 八度空间,https://cdn6.163189.xyz/163189/8tv
 CH5,https://cdn6.163189.xyz/163189/ch5
@@ -581,7 +619,6 @@ CH8,https://cdn6.163189.xyz/163189/ch8
 CHU,https://cdn6.163189.xyz/163189/chu
 
 台湾地区,#genre#
-
 中视,http://74.91.26.218:82/live/ctv.m3u8
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
 台视,http://74.91.26.218:82/live/ttv.m3u8
@@ -1019,48 +1056,7 @@ CCTV6,http://112.27.235.94:8000/hls/7/index.m3u8
 中牟生活,http://zmgd.zyrnet.com:8888/hls/20/index.m3u8
 邵氏电影,http://rihou.cc:555/tv/[FY]邵氏喜剧
 
-【香港】,#genre#
-凤凰中文,https://cdn6.163189.xyz/163189/fhzw
-凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
-凤凰香港,https://cdn6.163189.xyz/163189/fhhk
-翡翠台4K,https://o11.163189.xyz/stream/tvb/fct4k/
-翡翠台,https://cdn6.163189.xyz/163189/fct
-明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
-娱乐新闻,https://cdn6.163189.xyz/163189/ylxw
-无线新闻,https://cdn6.163189.xyz/163189/wxxw
-TVB1,https://6.cdn.loc.cc/163189.php?id=tvb1
-TVBPLUS,http://74.91.26.218:82/live/j2.m3u8
-华丽翡翠,https://o11.163189.xyz/stream/live/hlt/
-华丽翡翠(新加坡),http://o11.163189.xyz/stream/live/jade/
-Now新闻,http://cdn.163189.xyz/163189/now
-HOY76,http://pull-vivek.speedws.com/live/aaahoy76.flv
-HOY77,http://pull-vivek.speedws.com/live/aaahoy77.flv
-HOY78,http://pull-vivek.speedws.com/live/aaahoy78.flv
-VIUTV,https://cdn.163189.xyz/163189/viu
-TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
-TVB千禧经典,https://o11.163189.xyz/stream/live/tvbc/
-TVB武侠,https://cdn6.163189.xyz/163189/yzwx
-爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
-AstroAEC,https://o11.163189.xyz/stream/live/aec/
-AstroAOD,https://o11.163189.xyz/stream/live/aod/
-AstroQJ,https://smt.1678520.xyz/smt3.2.3.php?id=Quanjia
-Astro欢喜台,https://smt.1678520.xyz/smt3.2.3.php?id=Huahee
-八度空间,https://smt.1678520.xyz/smt3.2.1.php?id=TV8
-RTHK31,http://cdn.163189.xyz/163189/rthk31
-RTHK32,http://cdn.163189.xyz/163189/rthk32
-Channel[V],http://rihou.cc:555/tv/Channel+V
-亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612420/live.m3u8
-香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-欧洲华文卫视,http://oh.eztv.vip/live/eztv1.m3u8
-环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
-澳门体育,http://cdn6.163189.xyz/163189/amty
-澳门综艺,http://cdn6.163189.xyz/163189/amzy
-澳门Macau,https://cdn6.163189.xyz/163189/as
-澳视澳门,https://cdn6.163189.xyz/163189/asam
-天映频道,http://pull-vivek.speedws.com/live/aaatypd.flv
-天映经典,http://pull-vivek.speedws.com/live/aaatyjd.flv
 
-【台湾】,#genre#
 
 
 【美国】,#genre#
@@ -1202,14 +1198,6 @@ NewKID4,https://stream.ads.ottera.tv/playlist.m3u8?network_id=888
 韩国音乐,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 RNA,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
 
-体育,#genre#
-四海钓鱼,http://wfenf.x3322.net:7788/637444975
-快乐垂钓,http://wfenf.x3322.net:7788/961930263
-红牛TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-安徽综艺体育,http://112.27.235.94:8000/hls/25/index.m3u8
-[RTSP/RTMP]纬来体育,rtmp://f13h.mine.nu/sat/tv721
-MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
-PROSportInternational,https://proshls.wns.live/hls/stream.m3u8
 
 
 
@@ -1250,7 +1238,7 @@ Mytime,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytime
 
 
 【赛事咪咕】,#genre#
-抖姐舞陪你看,http://rihou.cc:555/tv/t
+
 赛事睛彩竞技,http://rihou.cc:555/tv/[mg]睛彩竞技
 赛事睛彩篮球,http://rihou.cc:555/tv/[mg]睛彩篮球
 赛事睛彩青少,http://rihou.cc:555/tv/[mg]睛彩青少
