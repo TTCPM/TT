@@ -1,5 +1,0 @@
-git clone https://github.com/TTCPM/TT.git
-cd TT
-git rm tv/bc.txt
-git commit -m "删除 tv/bc.txt 文件"
-git push
