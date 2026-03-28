@@ -1,751 +1,696 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="mio Sports" tvg-name="mio Sports" tvg-logo="" group-title="🇸🇬singtel测试",mio Sports
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec5fd70c74614556ae6cd5b0bd51435d:6b87f4cba36cf5207539f8f2e37857ae
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5111/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="mio Sports 2" tvg-name="mio Sports 2" tvg-logo="" group-title="🇸🇬singtel测试",mio Sports 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dcc234e37249479cb0ff0c37e4cb04eb:3fb57fcc16fa6ef20e28c34f5baf88f6
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5112/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="mio Sports 3" tvg-name="mio Sports 3" tvg-logo="" group-title="🇸🇬singtel测试",mio Sports 3
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2f5aef28cfe24b09ba7a90c1e77658ef:fdcdf0912d95bb372c7a4aa92f8b0478
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5113/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="SPOTV (HD)" tvg-name="SPOTV (HD)" tvg-logo="" group-title="🇸🇬singtel测试",SPOTV (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=18b2582215aa487d8c3282c2b3215d79:879d729f9834152ec66fdde64c65c216
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6114/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="SPOTV 2 (HD)" tvg-name="SPOTV 2 (HD)" tvg-logo="" group-title="🇸🇬singtel测试",SPOTV 2 (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a26e6dfcb9e64247ae2b42027006f896:877e16a7a0ae2ab52a435e2f7d7fb6f1
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6115/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="EUROSPORT (HD)" tvg-name="EUROSPORT (HD)" tvg-logo="" group-title="🇸🇬singtel测试",EUROSPORT (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ccde08b000474c15bf008fbba7353ad2:76f8bbc1974644d9cf5fe3c7b8c187ac
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6116/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Premier Sports" tvg-name="Premier Sports" tvg-logo="" group-title="🇸🇬singtel测试",Premier Sports
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a29b989a9794432aa2a65cb071bcd686:12eb6076163963e7279ca6b0a20a7801
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5118/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Fight Sports (HD)" tvg-name="Fight Sports (HD)" tvg-logo="" group-title="🇸🇬singtel测试",Fight Sports (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=079f84f2539b44ecaf14b8afa6cc145d:ad312aaac3afc04150d8f320192b5800
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6119/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Cricbuzz (HD)" tvg-name="Cricbuzz (HD)" tvg-logo="" group-title="🇸🇬singtel测试",Cricbuzz (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6a92875062945e3a38e89ad9a80ade5:c8a264af3d454a5dbe6b9b77fd26b891
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6123/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Cricbuzz 2 (HD)" tvg-name="Cricbuzz 2 (HD)" tvg-logo="" group-title="🇸🇬singtel测试",Cricbuzz 2 (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5b860ae4ae9f4bf2b422a08ec97c88f9:4daa44fae0af2391bb6a5cbe12fe0312
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6124/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="beIN SPORTS (HD)" tvg-name="beIN SPORTS (HD)" tvg-logo="" group-title="🇸🇬singtel测试",beIN SPORTS (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e4cb41e8bddd4a10b64c200426a9ab22:59a83da56ed995a07ba22f1716479b9f
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6126/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="beIN SPORTS 2 (HD)" tvg-name="beIN SPORTS 2 (HD)" tvg-logo="" group-title="🇸🇬singtel测试",beIN SPORTS 2 (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9216a28340b442bda2135bf356665664:891b637d93f6c29cbd7f4eeda42f7952
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6127/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="beIN SPORTS 3 (HD)" tvg-name="beIN SPORTS 3 (HD)" tvg-logo="" group-title="🇸🇬singtel测试",beIN SPORTS 3 (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f57a214e13ee474594c36f90fdcdfbb6:3a108ab09778a58f55d5871b28d6c090
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6110/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Sky News HD" tvg-name="Sky News HD" tvg-logo="" group-title="🇸🇬singtel测试",Sky News HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e549b462da084872a9b006f09b489ac4:ab90b752b599160306eb424697639ac4
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5151/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="CGTN (HD)" tvg-name="CGTN (HD)" tvg-logo="" group-title="🇸🇬singtel测试",CGTN (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa79547d12104cccb98a7f8607567329:50910e0525dfd0b72baa824eff3af690
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5155/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="NHK World - Japan" tvg-name="NHK World - Japan" tvg-logo="" group-title="🇸🇬singtel测试",NHK World - Japan
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1953936b018747a6aa2ea4a61497661b:1c354f7fe79a8d44d7ed62d8a7262cee
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5157/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="France 24 (English)" tvg-name="France 24 (English)" tvg-logo="" group-title="🇸🇬singtel测试",France 24 (English)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57081fdd49d442f08eea23c0e1927da9:b8b1b4137ea363051c96698c4b9936ee
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5041/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="DW (English)" tvg-name="DW (English)" tvg-logo="" group-title="🇸🇬singtel测试",DW (English)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=27b5ffa87eff43b49f91aa42377c0ceb:d59c9b67b698d51d0b02cc08f8460f32
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5161/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="FOX News Channel HD" tvg-name="FOX News Channel HD" tvg-logo="" group-title="🇸🇬singtel测试",FOX News Channel HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d92ae8f28e64311bf685cb0c5e5dbf2:462e88cb65563670c87798883bb5ac81
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5165/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="BBC News (HD)" tvg-name="BBC News (HD)" tvg-logo="" group-title="🇸🇬singtel测试",BBC News (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ee776d2814a14242a0d6ae04c0db158b:ac49c9232f692939fb15478e43ab82ff
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6166/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="CNN International" tvg-name="CNN International" tvg-logo="" group-title="🇸🇬singtel测试",CNN International
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6f2cebab43db4910bbdfd35735e700df:3775f9e4b1f0b0c29f7f6f68dc4a6aae
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5167/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Bloomberg TV (HD)" tvg-name="Bloomberg TV (HD)" tvg-logo="" group-title="🇸🇬singtel测试",Bloomberg TV (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=12c6fb2303da4ad098ba65c35c14a918:3d617351e7c46eea673fc214a9bfdbd4
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5171/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Bloomberg Originals" tvg-name="Bloomberg Originals" tvg-logo="" group-title="🇸🇬singtel测试",Bloomberg Originals
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=85853c1a98c04ac9bc1bccfade75e227:58aaabd8ea4da6a3d5283be52050d46a
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5172/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="CNBC Asia (HD)" tvg-name="CNBC Asia (HD)" tvg-logo="" group-title="🇸🇬singtel测试",CNBC Asia (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af156ad692ce4ba09a3ec24b8416a30d:f936103552bcb99112bf3cbc07fba11f
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5173/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Discovery Ch (HD)" tvg-name="Discovery Ch (HD)" tvg-logo="" group-title="🇸🇬singtel测试",Discovery Ch (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8a1008a9be7d4be2a7106efc8efb450e:7d3c490a6509ad864a45f764ce59bb7a
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5202/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="BBC Earth (HD)" tvg-name="BBC Earth (HD)" tvg-logo="" group-title="🇸🇬singtel测试",BBC Earth (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5fc33657854d1a8eb3ac863fb283d1:d319e326b6541df8c25d13913e7839a5
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6203/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Discovery Asia (HD)" tvg-name="Discovery Asia (HD)" tvg-logo="" group-title="🇸🇬singtel测试",Discovery Asia (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26ed73f1c19a4845b7bbea4ba6833d2a:2789b73b0f944b6b80b5e1d01bfd369f
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5204/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="C+I (HD)" tvg-name="C+I (HD)" tvg-logo="" group-title="🇸🇬singtel测试",C+I (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9a80378f0eea4db6ae3a4290308056f1:f1f476d6487b6a4a25e26fac3e3385bd
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5206/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Animal Planet (HD)" tvg-name="Animal Planet (HD)" tvg-logo="" group-title="🇸🇬singtel测试",Animal Planet (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d4abc4b798544a26b3f51b189d7ee561:7e7eccafa63576d0b6341612654d7e31
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5208/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="HISTORY (HD)" tvg-name="HISTORY (HD)" tvg-logo="" group-title="🇸🇬singtel测试",HISTORY (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce8a2bf299064479a9e5a26b445a6ed7:97583162b070ad6765673634559fe1e6
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5209/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="CGTN-Documentary" tvg-name="CGTN-Documentary" tvg-logo="" group-title="🇸🇬singtel测试",CGTN-Documentary
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7dedc2369da441c98ab1e0fe67b3b41b:0f4a5b43e42a9a1ceb894d24ce666fc4
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5211/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Global Trekker (HD)" tvg-name="Global Trekker (HD)" tvg-logo="" group-title="🇸🇬singtel测试",Global Trekker (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3c4004128b7944aa95921e35ac189f40:11af38cbf775dd8f858755cab06dc966
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5212/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Love Nature (HD)" tvg-name="Love Nature (HD)" tvg-logo="" group-title="🇸🇬singtel测试",Love Nature (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c0322ce5db07426e9dd4c8791e58ebec:54e5a13c63329cb75ac7c8a49e2da396
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5215/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Cartoon Network (HD)" tvg-name="Cartoon Network (HD)" tvg-logo="" group-title="🇸🇬singtel测试",Cartoon Network (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=630d281c4f6443dda9f9ab6ee36a09dc:19dfd04eaf2476ffbc3a13452f196359
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5226/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Cartoonito (HD)" tvg-name="Cartoonito (HD)" tvg-logo="" group-title="🇸🇬singtel测试",Cartoonito (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=48772207bd6d4a1b9f20de9bdf34ae29:7091b0f8dafa718d16c46edae997435f
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5228/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="CBeebies (HD)" tvg-name="CBeebies (HD)" tvg-logo="" group-title="🇸🇬singtel测试",CBeebies (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3819f132699f496e96fd6a2a2ce79508:9ce9ebaaa01e5e36154a9a646bfb5f6b
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6236/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Nick Jr (HD)" tvg-name="Nick Jr (HD)" tvg-logo="" group-title="🇸🇬singtel测试",Nick Jr (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2554871361984f2cbab58381c6c8b229:70c748d7b90f18c93a0a0fcfa51ad7a0
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5238/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Nickelodeon Asia HD" tvg-name="Nickelodeon Asia HD" tvg-logo="" group-title="🇸🇬singtel测试",Nickelodeon Asia HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0cbbf4e1194449099bcab539d9d42f07:51c97cf2376ee6c8854f8de682f2ed91
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5240/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="HGTV (HD)" tvg-name="HGTV (HD)" tvg-logo="" group-title="🇸🇬singtel测试",HGTV (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e831fc6a335c4dd89be92689d3aa14b7:4c3db08bd3d2a9370810d78b1db7577c
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5250/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="ABC Australia" tvg-name="ABC Australia" tvg-logo="" group-title="🇸🇬singtel测试",ABC Australia
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ce43037c83c4b148ad5e68f3320e684:b2c2a0f4ec426246f5c7cf0a3c676665
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5251/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Food Network (HD)" tvg-name="Food Network (HD)" tvg-logo="" group-title="🇸🇬singtel测试",Food Network (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1011a88ef23340c297e5802bcd5aafd8:a44f5bcf9f1ebbb3984091f7ba02ae6d
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5252/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="TLC (HD)" tvg-name="TLC (HD)" tvg-logo="" group-title="🇸🇬singtel测试",TLC (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc966e79870440c0ba0731d4859c02e8:83ec9bd6d74dbd3261755cc058031695
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5254/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="BBC Lifestyle (HD)" tvg-name="BBC Lifestyle (HD)" tvg-logo="" group-title="🇸🇬singtel测试",BBC Lifestyle (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=92baccd03fea45819231fcdfad9ff8ea:3fb93d669108378af23b2771cb6570ad
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6255/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="AFN (HD)" tvg-name="AFN (HD)" tvg-logo="" group-title="🇸🇬singtel测试",AFN (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26dbc5cc37194563989e34ca653b5301:d7741c2b5348f332c013a4cfeb660a8c
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5256/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="TRACE Sport Stars HD" tvg-name="TRACE Sport Stars HD" tvg-logo="" group-title="🇸🇬singtel测试",TRACE Sport Stars HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=75fab94a2ab243fa988b6eb36cc658ea:59e231996609a6dca8e0b6d5f5cb8a86
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5257/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Arirang TV (HD)" tvg-name="Arirang TV (HD)" tvg-logo="" group-title="🇸🇬singtel测试",Arirang TV (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26ff259a861744f28d194cbfe9c892d2:d60911f8d8098ef02367da2dbfaa7db6
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5258/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="(HD) Outdoor Channel" tvg-name="(HD) Outdoor Channel" tvg-logo="" group-title="🇸🇬singtel测试",(HD) Outdoor Channel
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=30794d535c6447e0971269cb7a84d788:032a26d6366a985c887f55979a21b693
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5119/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="HITS MOVIES (HD)" tvg-name="HITS MOVIES (HD)" tvg-logo="" group-title="🇸🇬singtel测试",HITS MOVIES (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2340fea3e0c24124a3479c859ddac2ce:5dc342b94095aa721d21ffe19f116e9a
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6301/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Lifetime (HD)" tvg-name="Lifetime (HD)" tvg-logo="" group-title="🇸🇬singtel测试",Lifetime (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a88589c89554f06a04fa3adf7e9e9be:79d0a5bee09fe4b99eb1f7480e68abaa
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5302/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="HITS NOW (HD)" tvg-name="HITS NOW (HD)" tvg-logo="" group-title="🇸🇬singtel测试",HITS NOW (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a65588b63f924579a536ce52247d7201:0e9e9f26841770abbfaa5c7513091612
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5303/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="AXN (HD)" tvg-name="AXN (HD)" tvg-logo="" group-title="🇸🇬singtel测试",AXN (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f56070adb71c4e85baa79df7ccea0ffe:c6e5e666870af56dc3ecb33ff97f7b70
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5304/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="ROCK Action (HD)" tvg-name="ROCK Action (HD)" tvg-logo="" group-title="🇸🇬singtel测试",ROCK Action (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6527ae5da46b45f692ad09bf7764e821:bf90e1646455ee4eb0eeb55d4e165d9a
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5310/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="ROCK ENT (HD)" tvg-name="ROCK ENT (HD)" tvg-logo="" group-title="🇸🇬singtel测试",ROCK ENT (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=28fe783d0a1c44b291b918f3542ab04a:1c9d0bdcb2fb322dcd428955dc0e4ddb
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5318/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="HITS (HD)" tvg-name="HITS (HD)" tvg-logo="" group-title="🇸🇬singtel测试",HITS (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b690c75a66d34f9d989dc7c333014fb9:82415d00023b1ab86b2f3c5642f060da
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5326/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="ANIPLUS HD" tvg-name="ANIPLUS HD" tvg-logo="" group-title="🇸🇬singtel测试",ANIPLUS HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=564616a4de064fcdbd54ce7478bb8c7b:6c1e123fb31c81f437bb5c0f44d55a5a
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5340/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Animax (HD)" tvg-name="Animax (HD)" tvg-logo="" group-title="🇸🇬singtel测试",Animax (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea16d113e1724e7c99adb7f7c6560eb0:84ff4efdbbce828dc99035dfc8c639cb
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5342/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="" group-title="🇸🇬singtel测试",HBO HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=90a7c4e14d1a47abb66a0b5a1fa18a25:4d2262b0aba544330ab8b0945f815495
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6420/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="HBO Signature (HD)" tvg-name="HBO Signature (HD)" tvg-logo="" group-title="🇸🇬singtel测试",HBO Signature (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ab2c0b9a8717440bbc83e21824bcb0e8:6bba9e1f5742249a8212162943069013
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6421/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="HBO Family (HD)" tvg-name="HBO Family (HD)" tvg-logo="" group-title="🇸🇬singtel测试",HBO Family (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3a5542b9ddc84e598ed0b83a4c3fdea9:fee657eaa100b024b61e14421b07062c
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6422/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="HBO Hits (HD)" tvg-name="HBO Hits (HD)" tvg-logo="" group-title="🇸🇬singtel测试",HBO Hits (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09738f83df3c4b828361b194f9cd9b99:cad881a1ad277cffdb368c13a3674e25
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6423/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="CINEMAX (HD)" tvg-name="CINEMAX (HD)" tvg-logo="" group-title="🇸🇬singtel测试",CINEMAX (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1ede07ccf082456da8dfa7c86dfeadc0:5c9ae71b5da8cd2bda9a1a4c346455f9
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6424/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="e-Le (HD)" tvg-name="e-Le (HD)" tvg-logo="" group-title="🇸🇬singtel测试",e-Le (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=83dea75029954534b0b4842b523b5cf9:e99e600f3356e93c8828260cc1c27a44
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5501/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Jia Le Channel (HD)" tvg-name="Jia Le Channel (HD)" tvg-logo="" group-title="🇸🇬singtel测试",Jia Le Channel (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a4cd69ec1abd4d98af22f6fed43b5289:f6f7dc261a80203c6757e12d6db7f53b
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5502/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Ju Le Cool" tvg-name="Ju Le Cool" tvg-logo="" group-title="🇸🇬singtel测试",Ju Le Cool
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d33bb6f9e8814a20aca5dc0583b311c9:13815e30cc9917b2b3aaafbdd34d9654
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5503/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="TVBS Asia" tvg-name="TVBS Asia" tvg-logo="" group-title="🇸🇬singtel测试",TVBS Asia
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f572f8f771ba49ec8aeafed559d3ed82:94bd4c89dcf2e7ed6378f9f1334eb32f
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6507/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="TVB Jade (HD)" tvg-name="TVB Jade (HD)" tvg-logo="" group-title="🇸🇬singtel测试",TVB Jade (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a95bddcecc1a4077b36fbf06a1808727:42a8c23540f3b9d993c45d3afb887533
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5511/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="now Jelli (HD)" tvg-name="now Jelli (HD)" tvg-logo="" group-title="🇸🇬singtel测试",now Jelli (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=54fc63a90df7473cab8d9b2efabe5195:ab0391092f1129660bf8f78bd3bb977a
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5512/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="ONE HD (Mandarin)" tvg-name="ONE HD (Mandarin)" tvg-logo="" group-title="🇸🇬singtel测试",ONE HD (Mandarin)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c322351154a646b1a913db9f595ee00c:60c969d729cb1f9652e8921539ea3aac
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5513/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="TVBS News" tvg-name="TVBS News" tvg-logo="" group-title="🇸🇬singtel测试",TVBS News
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d564aa175ee42a3899fe22654d855ae:1a5d18c21ae105640b966c10f2ceed46
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6516/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="TVB Xing He (HD)" tvg-name="TVB Xing He (HD)" tvg-logo="" group-title="🇸🇬singtel测试",TVB Xing He (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c9822bd4fcea4b6b9c98424c4627f57f:c79faaf4fb6a61f66e02fc9f5e1457a7
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5517/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="tvN HD (Mandarin)" tvg-name="tvN HD (Mandarin)" tvg-logo="" group-title="🇸🇬singtel测试",tvN HD (Mandarin)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d046c0a26620451abe3ddf8aaa3214d2:1d28f4268d99333f8cb21f7d75264843
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5518/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="ETTV Asia (HD)" tvg-name="ETTV Asia (HD)" tvg-logo="" group-title="🇸🇬singtel测试",ETTV Asia (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=db83ed2bdb944c898315705c6e7d945f:351c85a863b7335e93d2f500507ee479
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5521/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="KBS World (HD)" tvg-name="KBS World (HD)" tvg-logo="" group-title="🇸🇬singtel测试",KBS World (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c1e7541042de48d3b3e9ec5d37f85646:4214e1d43cb7fbc0310ce30cb8f97b30
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5038/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="CCTV Entertainment" tvg-name="CCTV Entertainment" tvg-logo="" group-title="🇸🇬singtel测试",CCTV Entertainment
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4834e8d83f3412c9c37d932228ebeeb:3c53c5f6e9da93877556498f7f2735fe
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5534/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Dragon TV Intl" tvg-name="Dragon TV Intl" tvg-logo="" group-title="🇸🇬singtel测试",Dragon TV Intl
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bad3667d7462489c8951154f7c94d86c:f7b6a879c88cb47e8ba9ba40b6da4b1d
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5535/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Hunan International" tvg-name="Hunan International" tvg-logo="" group-title="🇸🇬singtel测试",Hunan International
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d7a1d2d03c245488c8d39613fa02bf5:b955326e3ddfd1af034b61f5a971a091
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5536/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="BRTV International" tvg-name="BRTV International" tvg-logo="" group-title="🇸🇬singtel测试",BRTV International
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f07a3023f8f64240832db18c9a852d41:9a8ae469483b5432aa045d9a47de0ff7
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5537/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="China Movie Channel" tvg-name="China Movie Channel" tvg-logo="" group-title="🇸🇬singtel测试",China Movie Channel
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9bdeb27dcde3462283481478e473c1f7:14f9603dab5d52e6d59b32a24c54c435
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5538/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Phoenix InfoNews" tvg-name="Phoenix InfoNews" tvg-logo="" group-title="🇸🇬singtel测试",Phoenix InfoNews
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=62ac453677de46bca18c77de3157090d:673bb64ebf7bc88fc63343412b5ded09
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6547/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="CCTV-4 (HD)" tvg-name="CCTV-4 (HD)" tvg-logo="" group-title="🇸🇬singtel测试",CCTV-4 (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9984d9b41c704d9da7a06b4715e8e5ad:f7a42d52d105da0c5cbc1621d57a02c4
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5555/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="CTI Asia (HD)" tvg-name="CTI Asia (HD)" tvg-logo="" group-title="🇸🇬singtel测试",CTI Asia (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=78b17367e3e24e54a77a65e5ef11b5f3:4568bd3fd256e160310041326059558d
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5557/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="ETTV Asia News (HD)" tvg-name="ETTV Asia News (HD)" tvg-logo="" group-title="🇸🇬singtel测试",ETTV Asia News (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4a91c64e46844d03a261d6868690f0bb:a9c7a516b35f02079d6ef30625d2cc59
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5561/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="CM+" tvg-name="CM+" tvg-logo="" group-title="🇸🇬singtel测试",CM+
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=894eb4c6b699404a9970442407db3cb0:d08b04ab49f600f24b9f72892ab13ac0
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6571/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="CCM" tvg-name="CCM" tvg-logo="" group-title="🇸🇬singtel测试",CCM
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec66be1327d94e9196f3d16d8aba5d2f:2ea9ef451ac308197e7613684c3bc83f
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5580/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Celestial Movies(HD)" tvg-name="Celestial Movies(HD)" tvg-logo="" group-title="🇸🇬singtel测试",Celestial Movies(HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7979f2bda9e1416e8eb618d18ffd2be0:3562e534372dda0c17561bc9bfb0d066
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5585/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Astro Prima HD" tvg-name="Astro Prima HD" tvg-logo="" group-title="🇸🇬singtel测试",Astro Prima HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b426e6828780434c9dfaa69d27e2cadf:18f311f66422bcd2ee12dc636d2aab04
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5602/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="ONE HD (Malay)" tvg-name="ONE HD (Malay)" tvg-logo="" group-title="🇸🇬singtel测试",ONE HD (Malay)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0158807e63e046e29733ff4110feba96:8f62ac9624bc4b0f3186b521e4971dee
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5604/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Pesona HD" tvg-name="Pesona HD" tvg-logo="" group-title="🇸🇬singtel测试",Pesona HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d862f9c20d3459fb8036e22b35bd81b:6c3dfe1d85c8815a997df8821807989f
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5607/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Astro Ria HD" tvg-name="Astro Ria HD" tvg-logo="" group-title="🇸🇬singtel测试",Astro Ria HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=052a205286474e1e882ed9101ece063c:ff659f3c050e99e026a58448bd92bd8b
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5608/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Citra Drama (HD)" tvg-name="Citra Drama (HD)" tvg-logo="" group-title="🇸🇬singtel测试",Citra Drama (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=153524f9bc774291a31e50f0649709a0:932c486a0811188a83630550a393276d
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5610/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Drama Channel" tvg-name="Drama Channel" tvg-logo="" group-title="🇸🇬singtel测试",Drama Channel
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9d661548866d4400b11c87e4951460a9:c8a987e20785979cb8e70ec2a46aa303
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5618/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="tvN HD" tvg-name="tvN HD" tvg-logo="" group-title="🇸🇬singtel测试",tvN HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d31af9bbb387415d97a601af6fe0e156:59e6ae2e6436eea7fb7d0033ae9b8bde
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5619/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Sun TV HD" tvg-name="Sun TV HD" tvg-logo="" group-title="🇸🇬singtel测试",Sun TV HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=96d2839c7a0243009aa57a0f0f4ecbbe:7dcb0106979cff9c3e48162123803cdf
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5622/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Colors Tamil HD" tvg-name="Colors Tamil HD" tvg-logo="" group-title="🇸🇬singtel测试",Colors Tamil HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=25a70f0ade1a41c9b7573abd20a8f7c7:df9b8f6925734e98bd348f56db6bcb64
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5623/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Zee Thirai" tvg-name="Zee Thirai" tvg-logo="" group-title="🇸🇬singtel测试",Zee Thirai
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6060797cba894f6e900e72d60a515a40:c5fbced517bf3dc56b26de56e977403b
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5624/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="KTV HD" tvg-name="KTV HD" tvg-logo="" group-title="🇸🇬singtel测试",KTV HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=38880bad620d49e897f02eeae49ee7f7:af60f8a2072c2168b0deeeb21c951edc
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5625/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Sun Music HD" tvg-name="Sun Music HD" tvg-logo="" group-title="🇸🇬singtel测试",Sun Music HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=626001dcfe574c03b0695d2017b38f4d:449d1775d448941ab4940336d63cd94c
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5627/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Adithya TV" tvg-name="Adithya TV" tvg-logo="" group-title="🇸🇬singtel测试",Adithya TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a1e1e33a55ed4376b05d40b6cd915b7c:08021adba0a1a62f8121b0cdc1ed36bf
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5628/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Sony YAY" tvg-name="Sony YAY" tvg-logo="" group-title="🇸🇬singtel测试",Sony YAY
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f42374a990e643b98f070c79c58eb183:8588bb211c4baba9c8ab9ef8358979c2
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5630/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Zee Tamil HD" tvg-name="Zee Tamil HD" tvg-logo="" group-title="🇸🇬singtel测试",Zee Tamil HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ae5cd9f67c541bdb767c8f8184a0291:a847123d8755fced34259d6bd9583474
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5632/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Vijay TV (HD)" tvg-name="Vijay TV (HD)" tvg-logo="" group-title="🇸🇬singtel测试",Vijay TV (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b9131b099b89421a906a259d4c5431c4:86af6f2adf9bdea3af7f35261e355d7e
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5634/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Asianet" tvg-name="Asianet" tvg-logo="" group-title="🇸🇬singtel测试",Asianet
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e9b44abc7dcf4c2db883852d7ea48055:60af6356e823858963e30c20d86eac47
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5638/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Asianet Movies" tvg-name="Asianet Movies" tvg-logo="" group-title="🇸🇬singtel测试",Asianet Movies
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7bb3480862494d48b0f3831bbba20535:06781c7ac2c10ae794ee49ad2b034b2f
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5639/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="SET (HINDI)" tvg-name="SET (HINDI)" tvg-logo="" group-title="🇸🇬singtel测试",SET (HINDI)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=41d449463d81483da9cfbbcc7759dc2f:788e4f82d182421325c34c3b891cafbd
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5644/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Zee TV" tvg-name="Zee TV" tvg-logo="" group-title="🇸🇬singtel测试",Zee TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f31536293934158adc7ca8b382e6069:68d5a038c91917058254158973545dc2
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5646/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="SAB TV" tvg-name="SAB TV" tvg-logo="" group-title="🇸🇬singtel测试",SAB TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=17c264fda0f5454c859b04e6c93520d0:4c051ec159f18f77bce6ab9569b1b551
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5648/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Colors" tvg-name="Colors" tvg-logo="" group-title="🇸🇬singtel测试",Colors
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=df34c838a4e44f95bf08e00edbebbb17:e684f15f343690e080cb13820d7fb3eb
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5652/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Star Bharat" tvg-name="Star Bharat" tvg-logo="" group-title="🇸🇬singtel测试",Star Bharat
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7f82a99c66d54b7db30cf5e1c3651c52:478f1174fb730b9c51b6af785bff9309
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5654/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="STAR Plus" tvg-name="STAR Plus" tvg-logo="" group-title="🇸🇬singtel测试",STAR Plus
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2d2c87bd09fa4ca48281a3b65320588b:ddc76c2a8581e57f6572eaaa158202a1
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5656/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="MTV India" tvg-name="MTV India" tvg-logo="" group-title="🇸🇬singtel测试",MTV India
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3de50ad6c4de487ab405fb4b65d3c224:3b5a5600846a39336701eaf05026c282
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5658/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="STAR Gold" tvg-name="STAR Gold" tvg-logo="" group-title="🇸🇬singtel测试",STAR Gold
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2f996cbfd21e45f7b453007338955dcb:3125f89ab315a19d5e31e4fe6c59a672
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5662/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Sony MAX" tvg-name="Sony MAX" tvg-logo="" group-title="🇸🇬singtel测试",Sony MAX
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8fc10c0c4a45415c817decc26ebf8c94:612869228df2bfbb71fc42c215dac739
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5668/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="maa movies" tvg-name="maa movies" tvg-logo="" group-title="🇸🇬singtel测试",maa movies
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56c3d7c4db7d4df5ba3aa0634e54b59b:e26bc17831d3a31cb827738b36223f49
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5670/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Star Maa" tvg-name="Star Maa" tvg-logo="" group-title="🇸🇬singtel测试",Star Maa
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1e499561f02144db885f4885b0dea65e:e299558baa5d390c0076a7a70e48d9fc
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5671/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Times Now" tvg-name="Times Now" tvg-logo="" group-title="🇸🇬singtel测试",Times Now
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7361c85ef12a49dc9b106c85727ad1f8:2cbe038b1d717482a94bb0ed8e3d5684
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5676/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Zoom TV" tvg-name="Zoom TV" tvg-logo="" group-title="🇸🇬singtel测试",Zoom TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e137c5e4ca0b4d4eb594da3c625a8e7e:b6d0a31ef3f8f7d10029ec67255f2287
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5677/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="WION" tvg-name="WION" tvg-logo="" group-title="🇸🇬singtel测试",WION
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fa49814a50e4e35b2f5be8f190c693d:5dbc05a9fd04fe9b9723ffe08808c07b
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5680/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="NHK World Premium HD" tvg-name="NHK World Premium HD" tvg-logo="" group-title="🇸🇬singtel测试",NHK World Premium HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2a63f50e1b3243918ccf3b2040c240a3:f62c20ad63e4b78cbfec70c44b40df98
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5682/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="France 24 (French)" tvg-name="France 24 (French)" tvg-logo="" group-title="🇸🇬singtel测试",France 24 (French)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e385f42388074adf95bf4a339cdd7c36:682c9e04d1859c7c23be3c1f276a09d3
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5040/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="GMA Pinoy TV" tvg-name="GMA Pinoy TV" tvg-logo="" group-title="🇸🇬singtel测试",GMA Pinoy TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9d7038680a9542d8b3d4a5d0e2fb006d:e737f0bde24a2341a6e3d660c90adb4c
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5056/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="GMA Life TV" tvg-name="GMA Life TV" tvg-logo="" group-title="🇸🇬singtel测试",GMA Life TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e3135fe3b80f4467aee8ed5b2465587e:823a8a0b1f7691a76603c7ae51614a17
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5689/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="GMA News TV Intl" tvg-name="GMA News TV Intl" tvg-logo="" group-title="🇸🇬singtel测试",GMA News TV Intl
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac4cf21d00514d9d8a66734ec034dd9a:097f92a143e910eb5986dbf0da469260
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5690/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="Cinema One Global" tvg-name="Cinema One Global" tvg-logo="" group-title="🇸🇬singtel测试",Cinema One Global
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dfe78717200b403fbaa39478e5eee105:2177d35e32ac37a2e451787699a35874
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6692/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="The Filipino Ch (HD)" tvg-name="The Filipino Ch (HD)" tvg-logo="" group-title="🇸🇬singtel测试",The Filipino Ch (HD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=97d0ab7778ac4400900ca3728a6032da:32a863f9c6e49a8fd6b5fbc234d2a27f
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5693/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
-#EXTINF:-1 tvg-id="ABS-CBN News Channel" tvg-name="ABS-CBN News Channel" tvg-logo="" group-title="🇸🇬singtel测试",ABS-CBN News Channel
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc2d8b5d622c437d94853989a21b4db3:4345544befacb3798550dce69d64917e
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6694/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+温馨提示,#genre#
+免费分享,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=sHBhKh&tk=Yzwg7rC5UuSj
+港台频道,#genre#
+凤凰中文,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9PZRUY&tk=Yzwg7rC5UuSj
+凤凰资讯,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=GsIVK5&tk=Yzwg7rC5UuSj
+凤凰香港,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ixdE5c&tk=Yzwg7rC5UuSj
+翡翠台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=mGpXw0&tk=Yzwg7rC5UuSj
+明珠台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=sCGFJt&tk=Yzwg7rC5UuSj
+无线新闻,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Eav9X7&tk=Yzwg7rC5UuSj
+TVB PLUS,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fckBQj&tk=Yzwg7rC5UuSj
+TVB Plus,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=AnWGBy&tk=Yzwg7rC5UuSj
+TVB娱乐新闻台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=t7dJMc&tk=Yzwg7rC5UuSj
+华语剧台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=kVeXuZ&tk=Yzwg7rC5UuSj
+亚洲剧台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6VQX2Z&tk=Yzwg7rC5UuSj
+黄金华剧台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=VR0DTm&tk=Yzwg7rC5UuSj
+爱ANI,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=rsBvBy&tk=Yzwg7rC5UuSj
+MyTV经典台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vbwPyW&tk=Yzwg7rC5UuSj
+亚洲剧集台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2XiIVL&tk=Yzwg7rC5UuSj
+黄金翡翠台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6LWizH&tk=Yzwg7rC5UuSj
+TVB戏曲台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=mt0cbJ&tk=Yzwg7rC5UuSj
+天映频道,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=I7serA&tk=Yzwg7rC5UuSj
+天映经典,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=xZYpW8&tk=Yzwg7rC5UuSj
+无线跑马台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=lIfL8A&tk=Yzwg7rC5UuSj
+HOY 76,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZOAPKY&tk=Yzwg7rC5UuSj
+HOY 77,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=krrLAx&tk=Yzwg7rC5UuSj
+HOY 78,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JQwZPZ&tk=Yzwg7rC5UuSj
+ViuTV,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=SOf6De&tk=Yzwg7rC5UuSj
+ViuTV6,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XyEghI&tk=Yzwg7rC5UuSj
+PopC电影,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=TtDAsL&tk=Yzwg7rC5UuSj
+美亚电影台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=xpOoJM&tk=Yzwg7rC5UuSj
+AXN电影,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=BPG5F7&tk=Yzwg7rC5UuSj
+ROCK 娱乐,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9O3hUl&tk=Yzwg7rC5UuSj
+ROCK 电影,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nePLkx&tk=Yzwg7rC5UuSj
+RTHK31,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=KTi1hA&tk=Yzwg7rC5UuSj
+RTHK32,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1h5TJn&tk=Yzwg7rC5UuSj
+莲花卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=rifajz&tk=Yzwg7rC5UuSj
+香港卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HVp4Cf&tk=Yzwg7rC5UuSj
+Now新闻,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=KiZC7Y&tk=Yzwg7rC5UuSj
+天映经典台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=gAViz9&tk=Yzwg7rC5UuSj
+天映经典台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Aocu7r&tk=Yzwg7rC5UuSj
+天映频道台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=IBwwJ4&tk=Yzwg7rC5UuSj
+天映频道台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=xLCaoj&tk=Yzwg7rC5UuSj
+天映频道台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Nlu1Fu&tk=Yzwg7rC5UuSj
+千禧经典台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=gXRrZC&tk=Yzwg7rC5UuSj
+美亚电影,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZMp8PC&tk=Yzwg7rC5UuSj
+爱奇艺,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Mq7prz&tk=Yzwg7rC5UuSj
+Astro AOD,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=3ESMp3&tk=Yzwg7rC5UuSj
+Astro AOD,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XNXeq8&tk=Yzwg7rC5UuSj
+Astro AOD,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vTaLGg&tk=Yzwg7rC5UuSj
+Astro AEC,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vJbfrS&tk=Yzwg7rC5UuSj
+Astr欢喜台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Wht2JX&tk=Yzwg7rC5UuSj
+AstR,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=cPudzu&tk=Yzwg7rC5UuSj
+Now星影(国),http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HnE7MA&tk=Yzwg7rC5UuSj
+Now爆谷(国),http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=wkPiVj&tk=Yzwg7rC5UuSj
+TVB生活台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=23vRyH&tk=Yzwg7rC5UuSj
+TVB功夫(国),http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ASCuYm&tk=Yzwg7rC5UuSj
+TVB星河(粤),http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=37ROiW&tk=Yzwg7rC5UuSj
+TVB星河(国),http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=gCp4Zo&tk=Yzwg7rC5UuSj
+天映新加频道,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=3BXnk6&tk=Yzwg7rC5UuSj
+天映经典频道,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=b3qsWo&tk=Yzwg7rC5UuSj
+好莱坞电影,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=szny7E&tk=Yzwg7rC5UuSj
+极限电影台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=n0NyV1&tk=Yzwg7rC5UuSj
+随机播放,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=KqrpVA&tk=Yzwg7rC5UuSj
+中天新闻台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=UwXnhP&tk=Yzwg7rC5UuSj
+中视新闻台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=tKN7eT&tk=Yzwg7rC5UuSj
+TVBS HD,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=o3GHYO&tk=Yzwg7rC5UuSj
+寰宇新闻台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=gYuPz2&tk=Yzwg7rC5UuSj
+寰宇新闻台湾台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Xw6FoV&tk=Yzwg7rC5UuSj
+寰宇财经台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZvkDHt&tk=Yzwg7rC5UuSj
+Smart知識台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=PmTs2j&tk=Yzwg7rC5UuSj
+亞洲旅遊台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JRkXCk&tk=Yzwg7rC5UuSj
+国会频道1台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=RFAGnJ&tk=Yzwg7rC5UuSj
+国会频道2台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=SczUWJ&tk=Yzwg7rC5UuSj
+纬来电影台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=28Qyp7&tk=Yzwg7rC5UuSj
+纬来戏剧台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6B6SDc&tk=Yzwg7rC5UuSj
+纬来体育台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=LVhq0n&tk=Yzwg7rC5UuSj
+龙祥时代,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=wnt398&tk=Yzwg7rC5UuSj
+东森电影,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vdWzdx&tk=Yzwg7rC5UuSj
+东森戏剧,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=tlwm4v&tk=Yzwg7rC5UuSj
+东森洋片,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=u9yIeU&tk=Yzwg7rC5UuSj
+民视影剧,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HaU25F&tk=Yzwg7rC5UuSj
+公视戏剧,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Ry7HZK&tk=Yzwg7rC5UuSj
+采昌影剧台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=f4pcPD&tk=Yzwg7rC5UuSj
+靖天映画,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=OKgQ4M&tk=Yzwg7rC5UuSj
+靖天戏剧台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=BPz0Xt&tk=Yzwg7rC5UuSj
+靖天电影台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fNwcZ7&tk=Yzwg7rC5UuSj
+靖洋戏剧,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=MAgMcB&tk=Yzwg7rC5UuSj
+影迷数位电影台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=F5P028&tk=Yzwg7rC5UuSj
+amc电影台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=EfA5bL&tk=Yzwg7rC5UuSj
+CinemaWorld,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zeJnEy&tk=Yzwg7rC5UuSj
+My Cinema Europe,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4YKE59&tk=Yzwg7rC5UuSj
+经典电影台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=aBrUqB&tk=Yzwg7rC5UuSj
+CMusic,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=e2Wb0f&tk=Yzwg7rC5UuSj
+DreamWorks梦工厂动画,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=YT4cRa&tk=Yzwg7rC5UuSj
+精选动漫台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=cKe6IY&tk=Yzwg7rC5UuSj
+金光布袋戏,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=KgdsE5&tk=Yzwg7rC5UuSj
+中视新闻,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=qYMHjz&tk=Yzwg7rC5UuSj
+中视经典,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=upE4xs&tk=Yzwg7rC5UuSj
+中视菁采,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=62uLcs&tk=Yzwg7rC5UuSj
+中视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Kweqa8&tk=Yzwg7rC5UuSj
+台视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=lW0rnM&tk=Yzwg7rC5UuSj
+台视新闻,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=52bPwE&tk=Yzwg7rC5UuSj
+台视综合,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=iEeG8Z&tk=Yzwg7rC5UuSj
+台视财经,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=aPhTyV&tk=Yzwg7rC5UuSj
+华视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=VLHpdA&tk=Yzwg7rC5UuSj
+华视新闻资讯,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZZndtn&tk=Yzwg7rC5UuSj
+华视教育体育文化,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ozGrs5&tk=Yzwg7rC5UuSj
+民视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Ozs3ob&tk=Yzwg7rC5UuSj
+民视新闻台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=dq2LDY&tk=Yzwg7rC5UuSj
+民视台湾台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zGq2Qf&tk=Yzwg7rC5UuSj
+民视第一台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vK1ad9&tk=Yzwg7rC5UuSj
+公视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JHztfS&tk=Yzwg7rC5UuSj
+公视台语台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=O83m80&tk=Yzwg7rC5UuSj
+小公视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=tRrTB9&tk=Yzwg7rC5UuSj
+八度空间,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=N01YPM&tk=Yzwg7rC5UuSj
+CHU,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=woCX71&tk=Yzwg7rC5UuSj
+CH5,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=L0dpLF&tk=Yzwg7rC5UuSj
+CH8,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=iKVGIy&tk=Yzwg7rC5UuSj
+龙华偶像,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Kd2yyc&tk=Yzwg7rC5UuSj
+龙华日韩,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=SEVkOX&tk=Yzwg7rC5UuSj
+龙华戏剧,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Al2cb2&tk=Yzwg7rC5UuSj
+龙华经典,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=m4Psl3&tk=Yzwg7rC5UuSj
+龙华电影,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=KX7cde&tk=Yzwg7rC5UuSj
+龙华卡通,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=C88rMa&tk=Yzwg7rC5UuSj
+1905电影,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Q2ZbL9&tk=Yzwg7rC5UuSj
+重温经典频道,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5zl63W&tk=Yzwg7rC5UuSj
+成龙电影,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=3i8BWV&tk=Yzwg7rC5UuSj
+周润发电影,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2W3B8m&tk=Yzwg7rC5UuSj
+周星驰电影,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=oGWcpj&tk=Yzwg7rC5UuSj
+林正英影院,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=czvKvM&tk=Yzwg7rC5UuSj
+极速央视,#genre#
+CCTV1,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Cm9QNf&tk=Yzwg7rC5UuSj
+CCTV2,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=b2bSCB&tk=Yzwg7rC5UuSj
+CCTV3,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Qh7tWV&tk=Yzwg7rC5UuSj
+CCTV4,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JgDysk&tk=Yzwg7rC5UuSj
+CCTV5,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zvYO0D&tk=Yzwg7rC5UuSj
+CCTV6,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=wSLcVO&tk=Yzwg7rC5UuSj
+CCTV7,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=RG7QZc&tk=Yzwg7rC5UuSj
+CCTV8,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=QGnztI&tk=Yzwg7rC5UuSj
+CCTV9,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=r2LA2L&tk=Yzwg7rC5UuSj
+CCTV10,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=en9rLM&tk=Yzwg7rC5UuSj
+CCTV11,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=VEcsiD&tk=Yzwg7rC5UuSj
+CCTV12,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Gdtmpd&tk=Yzwg7rC5UuSj
+CCTV13,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0YYxCh&tk=Yzwg7rC5UuSj
+CCTV14,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=IrZRHU&tk=Yzwg7rC5UuSj
+CCTV15,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6j5reV&tk=Yzwg7rC5UuSj
+CCTV16,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=qwehKQ&tk=Yzwg7rC5UuSj
+极速卫视,#genre#
+广西卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=im4QCT&tk=Yzwg7rC5UuSj
+海南卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=SjO1HQ&tk=Yzwg7rC5UuSj
+河南卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=I88qNS&tk=Yzwg7rC5UuSj
+湖北卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=LS0etQ&tk=Yzwg7rC5UuSj
+湖南卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FHcQtm&tk=Yzwg7rC5UuSj
+怀旧剧场,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XTNs3W&tk=Yzwg7rC5UuSj
+江苏卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=PlzxeL&tk=Yzwg7rC5UuSj
+数字电影,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bWAXWq&tk=Yzwg7rC5UuSj
+深圳卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=gEpsJw&tk=Yzwg7rC5UuSj
+四川卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=oH0JQr&tk=Yzwg7rC5UuSj
+重庆卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=GVZDPt&tk=Yzwg7rC5UuSj
+浙江卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=3cRpB0&tk=Yzwg7rC5UuSj
+浙江卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=IaerMs&tk=Yzwg7rC5UuSj
+东方卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Mlyddi&tk=Yzwg7rC5UuSj
+北京卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=uen7r8&tk=Yzwg7rC5UuSj
+江西卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=8EnkbB&tk=Yzwg7rC5UuSj
+山东卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=d7bG15&tk=Yzwg7rC5UuSj
+安徽卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bsIrX8&tk=Yzwg7rC5UuSj
+天津卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1p0yOU&tk=Yzwg7rC5UuSj
+贵州卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Tkc83x&tk=Yzwg7rC5UuSj
+河北卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6waPhs&tk=Yzwg7rC5UuSj
+山西卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=eTz20Y&tk=Yzwg7rC5UuSj
+陕西卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Zvj2lr&tk=Yzwg7rC5UuSj
+内蒙古卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FcLIPM&tk=Yzwg7rC5UuSj
+吉林卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9UGXkA&tk=Yzwg7rC5UuSj
+西藏卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Qc8e9T&tk=Yzwg7rC5UuSj
+新疆卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=K3RiqZ&tk=Yzwg7rC5UuSj
+云南卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bNlscV&tk=Yzwg7rC5UuSj
+宁夏卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5b7qet&tk=Yzwg7rC5UuSj
+甘肃卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=r8tnHk&tk=Yzwg7rC5UuSj
+东南卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6Veeg3&tk=Yzwg7rC5UuSj
+兵团卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JUhNnE&tk=Yzwg7rC5UuSj
+极速广东,#genre#
+广东大湾区,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=OLgMJW&tk=Yzwg7rC5UuSj
+广东民生,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=AT6JVE&tk=Yzwg7rC5UuSj
+广东少儿,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=php8kK&tk=Yzwg7rC5UuSj
+广东体育,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9AOX1O&tk=Yzwg7rC5UuSj
+广东卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HHDIJn&tk=Yzwg7rC5UuSj
+广东新闻,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=gu3cq0&tk=Yzwg7rC5UuSj
+广东影视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HKB8ib&tk=Yzwg7rC5UuSj
+广东珠江,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jDuZ1R&tk=Yzwg7rC5UuSj
+广东经济,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nTnnLE&tk=Yzwg7rC5UuSj
+深圳都市,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=IONhYJ&tk=Yzwg7rC5UuSj
+广东汕头,#genre#
+汕头综合,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=V00QHy&tk=Yzwg7rC5UuSj
+汕头生活,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Xec0Uo&tk=Yzwg7rC5UuSj
+揭阳综合,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=WOiOl8&tk=Yzwg7rC5UuSj
+揭阳生活,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=x6UYZG&tk=Yzwg7rC5UuSj
+潮州综合,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=s30pid&tk=Yzwg7rC5UuSj
+潮州生活,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zRG8tL&tk=Yzwg7rC5UuSj
+潮州综合台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=rYI3d4&tk=Yzwg7rC5UuSj
+潮州民生台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Kdfmvv&tk=Yzwg7rC5UuSj
+广东酒店,#genre#
+CCTV-1综合,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=mfuzVl&tk=Yzwg7rC5UuSj
+CCTV-2财经,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=a99QxB&tk=Yzwg7rC5UuSj
+CCTV-3综艺,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zRGex7&tk=Yzwg7rC5UuSj
+CCTV-4中文国际,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ACiq9g&tk=Yzwg7rC5UuSj
+CCTV-5体育,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=I5JbDv&tk=Yzwg7rC5UuSj
+CCTV-6电影,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=LI9m85&tk=Yzwg7rC5UuSj
+CCTV-7国防军事,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=EnW7Zn&tk=Yzwg7rC5UuSj
+CCTV-8电视剧,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6uCDzB&tk=Yzwg7rC5UuSj
+CCTV-9纪录,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NBftTe&tk=Yzwg7rC5UuSj
+CCTV-10科教,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=k5sDwe&tk=Yzwg7rC5UuSj
+CCTV-11戏曲,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZunsLw&tk=Yzwg7rC5UuSj
+CCTV-12社会与法,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2N6lg9&tk=Yzwg7rC5UuSj
+CCTV-13新闻,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=QN9YD0&tk=Yzwg7rC5UuSj
+CCTV-14少儿,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=MhOXxx&tk=Yzwg7rC5UuSj
+CCTV-15音乐,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fArjgR&tk=Yzwg7rC5UuSj
+CCTV-16奥林匹克,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=kUufZj&tk=Yzwg7rC5UuSj
+CCTV-17农业农村,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jULwWY&tk=Yzwg7rC5UuSj
+大湾区卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=QodnpK&tk=Yzwg7rC5UuSj
+湖南卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=aVsfyD&tk=Yzwg7rC5UuSj
+广东卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=o6A8PX&tk=Yzwg7rC5UuSj
+湖南卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Iw7WAH&tk=Yzwg7rC5UuSj
+江苏卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6Zf9qV&tk=Yzwg7rC5UuSj
+东南卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FhTfgG&tk=Yzwg7rC5UuSj
+云南卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZPHRdg&tk=Yzwg7rC5UuSj
+北京卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Mq405t&tk=Yzwg7rC5UuSj
+吉林卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=oCuUkF&tk=Yzwg7rC5UuSj
+四川卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ac9rhN&tk=Yzwg7rC5UuSj
+厦门卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=M8eUkL&tk=Yzwg7rC5UuSj
+浙江卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=BiBCFe&tk=Yzwg7rC5UuSj
+深圳卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=7K2Osd&tk=Yzwg7rC5UuSj
+宁夏卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2arwr7&tk=Yzwg7rC5UuSj
+安徽卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=UlkLNZ&tk=Yzwg7rC5UuSj
+山东卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6BWAUH&tk=Yzwg7rC5UuSj
+山西卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=L9V2Tu&tk=Yzwg7rC5UuSj
+青海卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=npJgWb&tk=Yzwg7rC5UuSj
+广西卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=OUJI2M&tk=Yzwg7rC5UuSj
+江西卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=x5MGng&tk=Yzwg7rC5UuSj
+河南卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1OUlB9&tk=Yzwg7rC5UuSj
+现代教育,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Fa56fq&tk=Yzwg7rC5UuSj
+广州综合,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=uiKeRL&tk=Yzwg7rC5UuSj
+经济科教,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=N8GsB7&tk=Yzwg7rC5UuSj
+广州新闻,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=firOzo&tk=Yzwg7rC5UuSj
+广东体育,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=wsFUol&tk=Yzwg7rC5UuSj
+广东民生,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=C4yzEJ&tk=Yzwg7rC5UuSj
+广东新闻,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6OuT5D&tk=Yzwg7rC5UuSj
+广东珠江,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=uSGh0A&tk=Yzwg7rC5UuSj
+广东影视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=dx0Zrs&tk=Yzwg7rC5UuSj
+广东少儿,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=AnMgxQ&tk=Yzwg7rC5UuSj
+优漫卡通,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=m8VFun&tk=Yzwg7rC5UuSj
+嘉佳卡通,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4GLv2M&tk=Yzwg7rC5UuSj
+央卫频道,#genre#
+CCTV-1HD,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=7GtAgV&tk=Yzwg7rC5UuSj
+CCTV-2HD,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=sSvjpE&tk=Yzwg7rC5UuSj
+CCTV-3HD,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=TiEYXD&tk=Yzwg7rC5UuSj
+CCTV-4HD,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=dSwqUX&tk=Yzwg7rC5UuSj
+CCTV-5HD,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9spoIX&tk=Yzwg7rC5UuSj
+CCTV-6HD,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bNwLCN&tk=Yzwg7rC5UuSj
+CCTV-7HD,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=8A7JCN&tk=Yzwg7rC5UuSj
+CCTV-8HD,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=BImPxy&tk=Yzwg7rC5UuSj
+CCTV-9HD,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Pgs8Xu&tk=Yzwg7rC5UuSj
+CCTV-10HD,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6SACoy&tk=Yzwg7rC5UuSj
+CCTV-11HD,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vAXxlz&tk=Yzwg7rC5UuSj
+CCTV-12HD,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9VPBSw&tk=Yzwg7rC5UuSj
+CCTV-13HD,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=tb3PS2&tk=Yzwg7rC5UuSj
+CCTV-14HD,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=dMEq81&tk=Yzwg7rC5UuSj
+CCTV-15HD,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0wyRRK&tk=Yzwg7rC5UuSj
+CCTV-16HD,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=40qB42&tk=Yzwg7rC5UuSj
+CCTV-17HD,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=uVKX85&tk=Yzwg7rC5UuSj
+CCTV-5+HD,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=B8CAAF&tk=Yzwg7rC5UuSj
+CCTV-4K超高清,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=pzklB1&tk=Yzwg7rC5UuSj
+CCTV-8K超高清,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ue7g0K&tk=Yzwg7rC5UuSj
+湖南卫视HD,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=b6V1Yc&tk=Yzwg7rC5UuSj
+东方卫视HD,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=k0t1FO&tk=Yzwg7rC5UuSj
+浙江卫视HD,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1GIkUD&tk=Yzwg7rC5UuSj
+江苏卫视HD,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=LXM3Jd&tk=Yzwg7rC5UuSj
+重庆卫视HD,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=KDwBVT&tk=Yzwg7rC5UuSj
+东南卫视HD,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=aNSSlV&tk=Yzwg7rC5UuSj
+广西卫视HD,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=uBxuuZ&tk=Yzwg7rC5UuSj
+湖北卫视HD,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=rzdV0i&tk=Yzwg7rC5UuSj
+辽宁卫视HD,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9ULPNE&tk=Yzwg7rC5UuSj
+山东卫视HD,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ATf9QL&tk=Yzwg7rC5UuSj
+天津卫视HD,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=TfKNLd&tk=Yzwg7rC5UuSj
+陕西卫视HD,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jVcVJE&tk=Yzwg7rC5UuSj
+广东卫视HD,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=iQCWGO&tk=Yzwg7rC5UuSj
+深圳卫视HD,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=PZaSms&tk=Yzwg7rC5UuSj
+青海卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=UY8yOQ&tk=Yzwg7rC5UuSj
+西藏卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=8lQmAQ&tk=Yzwg7rC5UuSj
+大湾区卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Am1ae5&tk=Yzwg7rC5UuSj
+CCTV-央视文化精品,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=IZOgRw&tk=Yzwg7rC5UuSj
+CCTV-卫生健康,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=iPrJ3W&tk=Yzwg7rC5UuSj
+北京卡酷少儿,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=O7SGNe&tk=Yzwg7rC5UuSj
+中央新影-发现之旅,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=W08bTv&tk=Yzwg7rC5UuSj
+中央新影-老故事,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=kJa05x&tk=Yzwg7rC5UuSj
+中国教育3,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ACjWdv&tk=Yzwg7rC5UuSj
+广东珠江,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Apln1D&tk=Yzwg7rC5UuSj
+广东体育,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=T4hrm6&tk=Yzwg7rC5UuSj
+广东新闻,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JiCOQm&tk=Yzwg7rC5UuSj
+广西影视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=wtMLZL&tk=Yzwg7rC5UuSj
+广西综艺旅游,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JPk5yh&tk=Yzwg7rC5UuSj
+广西都市,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hIPuAp&tk=Yzwg7rC5UuSj
+广西新闻,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=UHdpt3&tk=Yzwg7rC5UuSj
+广西国际,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=iOH1Zl&tk=Yzwg7rC5UuSj
+湖北综合,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=kevpl4&tk=Yzwg7rC5UuSj
+湖北经视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=rgLV9z&tk=Yzwg7rC5UuSj
+湖北影视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=oPHw1z&tk=Yzwg7rC5UuSj
+湖北教育,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1oBZxa&tk=Yzwg7rC5UuSj
+湖北垄上,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ofpLIe&tk=Yzwg7rC5UuSj
+湖北生活,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=h3opBs&tk=Yzwg7rC5UuSj
+湖南娱乐,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hf9LRM&tk=Yzwg7rC5UuSj
+湖南教育,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Hl6VXz&tk=Yzwg7rC5UuSj
+吉林都市,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5AWOf8&tk=Yzwg7rC5UuSj
+吉林综艺文化,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=pf7Qa4&tk=Yzwg7rC5UuSj
+吉林生活,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=J4o7bG&tk=Yzwg7rC5UuSj
+新疆汉语影视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=xadDmV&tk=Yzwg7rC5UuSj
+新疆汉语体育健康,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZzHWOZ&tk=Yzwg7rC5UuSj
+江西少儿家庭,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=W1CAFz&tk=Yzwg7rC5UuSj
+江西新闻频道,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=VpCoNl&tk=Yzwg7rC5UuSj
+央视,#genre#
+CCTV1综合,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NcJoEr&tk=Yzwg7rC5UuSj
+CCTV2财经,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=wPoTFm&tk=Yzwg7rC5UuSj
+CCTV3综艺,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Wa6x4m&tk=Yzwg7rC5UuSj
+CCTV4中文国际,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=S1eSoS&tk=Yzwg7rC5UuSj
+CCTV5体育,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Zk0eCt&tk=Yzwg7rC5UuSj
+CCTV5+体育赛事,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=TGCjLF&tk=Yzwg7rC5UuSj
+CCTV6电影,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=kZQBTx&tk=Yzwg7rC5UuSj
+CCTV7国防军事,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jXgM33&tk=Yzwg7rC5UuSj
+CCTV8电视剧,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=VINr91&tk=Yzwg7rC5UuSj
+CCTV9纪录,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=j8ityy&tk=Yzwg7rC5UuSj
+CCTV10科教,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4ytWdt&tk=Yzwg7rC5UuSj
+CCTV11戏曲,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=c96UXT&tk=Yzwg7rC5UuSj
+CCTV12社会与法,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=iMOjH5&tk=Yzwg7rC5UuSj
+CCTV13新闻,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=MkOKar&tk=Yzwg7rC5UuSj
+CCTV14少儿,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=58gxuG&tk=Yzwg7rC5UuSj
+CCTV15音乐,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=KcRVUb&tk=Yzwg7rC5UuSj
+CCTV17农业农村,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=lDIp3e&tk=Yzwg7rC5UuSj
+CCTV4欧洲,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5B3nIu&tk=Yzwg7rC5UuSj
+CCTV4美洲,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=UJ47Uh&tk=Yzwg7rC5UuSj
+CGTN外语纪录,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=x01A7j&tk=Yzwg7rC5UuSj
+CGTN阿拉伯语,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HdAhwe&tk=Yzwg7rC5UuSj
+CGTN西班牙语,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=P7UK59&tk=Yzwg7rC5UuSj
+CGTN法语,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=xx6S3p&tk=Yzwg7rC5UuSj
+CGTN俄语,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6xioDZ&tk=Yzwg7rC5UuSj
+老故事,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=S8XenM&tk=Yzwg7rC5UuSj
+发现之旅,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Bt34zt&tk=Yzwg7rC5UuSj
+中学生,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Cha43x&tk=Yzwg7rC5UuSj
+CGTN,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=uUz8jr&tk=Yzwg7rC5UuSj
+体育,#genre#
+赛事最经典,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=stLz2k&tk=Yzwg7rC5UuSj
+体坛名栏汇,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=8hpfJv&tk=Yzwg7rC5UuSj
+四海钓鱼,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=EDau7V&tk=Yzwg7rC5UuSj
+陕西体育休闲频道,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jbHTCa&tk=Yzwg7rC5UuSj
+武术世界,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=8MXhfH&tk=Yzwg7rC5UuSj
+快乐垂钓,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=rWI7g0&tk=Yzwg7rC5UuSj
+辽宁广播电视台体育休闲频道,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fywsNP&tk=Yzwg7rC5UuSj
+卫视,#genre#
+东方卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ggbTDS&tk=Yzwg7rC5UuSj
+江苏卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0QY1Ux&tk=Yzwg7rC5UuSj
+广东卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=MxJAEj&tk=Yzwg7rC5UuSj
+北京卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=T3XjH1&tk=Yzwg7rC5UuSj
+辽宁卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9MBDIe&tk=Yzwg7rC5UuSj
+河北卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=SDn3mT&tk=Yzwg7rC5UuSj
+江西卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=d2yGM0&tk=Yzwg7rC5UuSj
+河南卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=dLUpEB&tk=Yzwg7rC5UuSj
+陕西卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=gmg2RP&tk=Yzwg7rC5UuSj
+大湾区卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DwpIs0&tk=Yzwg7rC5UuSj
+湖北卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=KOneHw&tk=Yzwg7rC5UuSj
+吉林卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HOpO9F&tk=Yzwg7rC5UuSj
+青海卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0RqkEh&tk=Yzwg7rC5UuSj
+东南卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=435YkJ&tk=Yzwg7rC5UuSj
+海南卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9yNNsQ&tk=Yzwg7rC5UuSj
+海峡卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=AFLu1Q&tk=Yzwg7rC5UuSj
+中国农林卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DcLvvK&tk=Yzwg7rC5UuSj
+兵团卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=t2WEKF&tk=Yzwg7rC5UuSj
+宁夏卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=u3slUE&tk=Yzwg7rC5UuSj
+重庆卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fpSHEy&tk=Yzwg7rC5UuSj
+三沙卫视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2Bcux7&tk=Yzwg7rC5UuSj
+地方,#genre#
+上海新闻综合,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=BpbucZ&tk=Yzwg7rC5UuSj
+上视东方影视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=VHbtuJ&tk=Yzwg7rC5UuSj
+上海第一财经,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=I7Q0LN&tk=Yzwg7rC5UuSj
+南京新闻综合频道,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Vqku7o&tk=Yzwg7rC5UuSj
+南京教科频道,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=WVw1mn&tk=Yzwg7rC5UuSj
+南京十八频道,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=McDUsB&tk=Yzwg7rC5UuSj
+体育休闲频道,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ziCXoF&tk=Yzwg7rC5UuSj
+江苏城市频道,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6xEbfx&tk=Yzwg7rC5UuSj
+江苏国际,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=CKTYOS&tk=Yzwg7rC5UuSj
+江苏教育,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=mCAHhW&tk=Yzwg7rC5UuSj
+江苏影视频道,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ytmeUB&tk=Yzwg7rC5UuSj
+江苏综艺频道,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=By0XCT&tk=Yzwg7rC5UuSj
+公共新闻频道,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=s0WwzJ&tk=Yzwg7rC5UuSj
+盐城新闻综合,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ryBirQ&tk=Yzwg7rC5UuSj
+淮安新闻综合,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=lln3lI&tk=Yzwg7rC5UuSj
+泰州新闻综合,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=kNfrV0&tk=Yzwg7rC5UuSj
+连云港新闻综合,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jDdhOw&tk=Yzwg7rC5UuSj
+宿迁新闻综合,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ChXX3W&tk=Yzwg7rC5UuSj
+徐州新闻综合,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vSSjCt&tk=Yzwg7rC5UuSj
+优漫卡通频道,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=m2Mx9N&tk=Yzwg7rC5UuSj
+江阴新闻综合,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=a3KTsv&tk=Yzwg7rC5UuSj
+南通新闻综合,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=STDyrb&tk=Yzwg7rC5UuSj
+宜兴新闻综合,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=yxLQgJ&tk=Yzwg7rC5UuSj
+溧水新闻综合,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Gp0455&tk=Yzwg7rC5UuSj
+陕西银龄频道,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2tdmUO&tk=Yzwg7rC5UuSj
+陕西都市青春频道,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=kFXfHC&tk=Yzwg7rC5UuSj
+陕西秦腔频道,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=MtlPD1&tk=Yzwg7rC5UuSj
+陕西新闻资讯频道,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DTPKij&tk=Yzwg7rC5UuSj
+财富天下,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hgEGtb&tk=Yzwg7rC5UuSj
+镇江新闻综合,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=xEQfsc&tk=Yzwg7rC5UuSj
+辽宁广播电视台公共频道,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hIxLmw&tk=Yzwg7rC5UuSj
+辽宁广播电视台生活频道,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6sp2aX&tk=Yzwg7rC5UuSj
+辽宁广播电视台影视剧频道,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9HXb02&tk=Yzwg7rC5UuSj
+宁夏广播电视台文旅频道,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=eDbsfV&tk=Yzwg7rC5UuSj
+宁夏广播电视台经济频道,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nNa4c0&tk=Yzwg7rC5UuSj
+影视,#genre#
+经典香港电影,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=pVEpew&tk=Yzwg7rC5UuSj
+抗战经典影片,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0BY68A&tk=Yzwg7rC5UuSj
+新片放映厅,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=lTb5iO&tk=Yzwg7rC5UuSj
+CHC影迷电影,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=MQVXhp&tk=Yzwg7rC5UuSj
+CHC动作电影,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=V7dCd0&tk=Yzwg7rC5UuSj
+CHC家庭影院,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Cy9MPx&tk=Yzwg7rC5UuSj
+和美乡途轮播台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=IYXGts&tk=Yzwg7rC5UuSj
+南方影视,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=E2CfS3&tk=Yzwg7rC5UuSj
+新闻,#genre#
+中国天气,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Y42y2h&tk=Yzwg7rC5UuSj
+教育,#genre#
+CETV1,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FycwKs&tk=Yzwg7rC5UuSj
+CETV2,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=mUYHLp&tk=Yzwg7rC5UuSj
+CETV4,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=GcPkcE&tk=Yzwg7rC5UuSj
+山东教育,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=I6wVs5&tk=Yzwg7rC5UuSj
+熊猫,#genre#
+熊猫频道01高清,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=xMcEkU&tk=Yzwg7rC5UuSj
+熊猫频道1,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vnn1Xc&tk=Yzwg7rC5UuSj
+熊猫频道2,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=wUeFbA&tk=Yzwg7rC5UuSj
+熊猫频道3,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5GI5TF&tk=Yzwg7rC5UuSj
+熊猫频道4,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Zj5NaG&tk=Yzwg7rC5UuSj
+熊猫频道5,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=8GNSqJ&tk=Yzwg7rC5UuSj
+熊猫频道6,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HhNL4E&tk=Yzwg7rC5UuSj
+熊猫频道7,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=8LTZ63&tk=Yzwg7rC5UuSj
+熊猫频道8,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=b8VGz1&tk=Yzwg7rC5UuSj
+熊猫频道9,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ffiD92&tk=Yzwg7rC5UuSj
+熊猫频道10,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jbVtkt&tk=Yzwg7rC5UuSj
+综艺,#genre#
+最强综艺趴,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=aFo9PS&tk=Yzwg7rC5UuSj
+少儿,#genre#
+嘉佳卡通,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Gg758f&tk=Yzwg7rC5UuSj
+经典动画大集合,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=8NpnlE&tk=Yzwg7rC5UuSj
+新动漫,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=RV764H&tk=Yzwg7rC5UuSj
+纪实,#genre#
+新动力量创一流,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=o4OSt0&tk=Yzwg7rC5UuSj
+中华特产,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=tn7sLv&tk=Yzwg7rC5UuSj
+环球旅游,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=i5LlzA&tk=Yzwg7rC5UuSj
+茶,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4hSfEA&tk=Yzwg7rC5UuSj
+体育-昨天,#genre#
+斯诺克 希金斯晋级 刘宏宇1-4凯伦·威尔逊 【回放】约翰·希金斯4-1刘文炜 03:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JtTEyF&tk=Yzwg7rC5UuSj
+斯诺克 希金斯晋级 刘宏宇1-4凯伦·威尔逊 【回放】凯伦·威尔逊4-1刘宏宇 03:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=8Lmxmi&tk=Yzwg7rC5UuSj
+斯诺克 希金斯晋级 刘宏宇1-4凯伦·威尔逊 【回放】大卫·吉尔伯特4-1罗比·麦圭根 03:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=BjSEKk&tk=Yzwg7rC5UuSj
+斯诺克 希金斯晋级 刘宏宇1-4凯伦·威尔逊 【回放】斯图尔特·宾汉姆4-2高阳 03:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=kQR6Rv&tk=Yzwg7rC5UuSj
+斯诺克 希金斯晋级 刘宏宇1-4凯伦·威尔逊 【回放】埃利奥特·斯莱塞3-4山姆·克雷吉 03:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=djD6o4&tk=Yzwg7rC5UuSj
+斯诺克 希金斯晋级 刘宏宇1-4凯伦·威尔逊 【回放】克里斯·韦克林3-4利亚姆·普伦 03:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=7ZvhsF&tk=Yzwg7rC5UuSj
+WTA 奥索里奥、森梅兹、韩天遇晋级次轮 2026WTA梅里达站女单第1轮回放：韩天遇2-1扎拉祖哈（英文原声） 04:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=g4fm4d&tk=Yzwg7rC5UuSj
+WTA 奥索里奥、森梅兹、韩天遇晋级次轮 【回放】韩天遇2-1扎拉祖哈 04:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=VXsLP6&tk=Yzwg7rC5UuSj
+WTA 奥索里奥、森梅兹、韩天遇晋级次轮 【回放】布拉斯0-2森梅兹 04:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZyiwC0&tk=Yzwg7rC5UuSj
+WTA 奥索里奥、森梅兹、韩天遇晋级次轮 【回放】布克沙2-0维基奇 04:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1xWiNF&tk=Yzwg7rC5UuSj
+WTA 奥索里奥、森梅兹、韩天遇晋级次轮 【回放】奥索里奥2-0曾丽美 04:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HZkBQg&tk=Yzwg7rC5UuSj
+WTA 奥索里奥、森梅兹、韩天遇晋级次轮 【回放】布克沙2-0维基奇（英文原声） 04:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=azbfkp&tk=Yzwg7rC5UuSj
+WTA 奥索里奥、森梅兹、韩天遇晋级次轮 【回放】布拉斯0-2森梅兹（英文原声） 04:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0mqJfc&tk=Yzwg7rC5UuSj
+WTA 奥索里奥、森梅兹、韩天遇晋级次轮 【回放】奥索里奥-曾丽美（英文原声） 04:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Rk3OJk&tk=Yzwg7rC5UuSj
+NBA 步行者VS76人 全场回放（贾磊） 07:55,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hDFbYY&tk=Yzwg7rC5UuSj
+NBA 步行者VS76人 全场回放（英文原声） 07:55,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4IeLiZ&tk=Yzwg7rC5UuSj
+NBA 老鹰VS奇才 全场回放（刘芳宇） 08:25,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XJ7NVi&tk=Yzwg7rC5UuSj
+NBA 老鹰VS奇才 全场回放（英文原声） 08:25,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=mWnI0C&tk=Yzwg7rC5UuSj
+NBA 猛龙VS雷霆 全场回放（罗森） 08:25,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=V6PtFe&tk=Yzwg7rC5UuSj
+NBA 猛龙VS雷霆 全场回放（英文原声） 08:25,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=990kw4&tk=Yzwg7rC5UuSj
+NBA 篮网VS独行侠 全场回放（王凯） 08:25,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=MP9UdY&tk=Yzwg7rC5UuSj
+NBA 篮网VS独行侠 全场回放（英文原声） 08:25,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=YYrltb&tk=Yzwg7rC5UuSj
+NBA 骑士VS尼克斯 全场回放（吴博文） 08:25,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=aktX4R&tk=Yzwg7rC5UuSj
+NBA 骑士VS尼克斯 全场回放（大史） 08:25,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=IPLXRC&tk=Yzwg7rC5UuSj
+NBA 骑士VS尼克斯 全场回放（英文原声） 08:25,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=irPhS1&tk=Yzwg7rC5UuSj
+NBA 鹈鹕VS勇士 全场回放（孙博、闫宇峰、小七） 08:55,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=lUBb0C&tk=Yzwg7rC5UuSj
+NBA 鹈鹕VS勇士 全场回放（拜月宁） 08:55,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NjmSSb&tk=Yzwg7rC5UuSj
+NBA 鹈鹕VS勇士 全场回放（英文原声） 08:55,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=QdZfQJ&tk=Yzwg7rC5UuSj
+NBA 雄鹿VS热火 全场回放（周赫） 08:55,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=drH2Bd&tk=Yzwg7rC5UuSj
+NBA 雄鹿VS热火 全场回放（英文原声） 08:55,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=75R6VN&tk=Yzwg7rC5UuSj
+NBA 公牛VS黄蜂 全场回放（张泽欣） 08:55,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=lE3oBX&tk=Yzwg7rC5UuSj
+NBA 公牛VS黄蜂 全场回放（英文原声） 08:55,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0ubn8W&tk=Yzwg7rC5UuSj
+NBA 太阳VS凯尔特人 全场回放（蔡凯臣、季孟年） 09:55,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZJGjkT&tk=Yzwg7rC5UuSj
+NBA 太阳VS凯尔特人 全场回放（英文原声） 09:55,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=A1RWHq&tk=Yzwg7rC5UuSj
+G联赛 撕裂之城混音VS圣克鲁兹勇士 全场回放（邢晨） 09:55,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vt1Bzq&tk=Yzwg7rC5UuSj
+G联赛 撕裂之城混音VS圣克鲁兹勇士 全场回放（英文原声） 09:55,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=s3CRua&tk=Yzwg7rC5UuSj
+NBA 开拓者VS森林狼 全场回放（王冠证、陈正昊、王羽希） 10:55,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NwIlZd&tk=Yzwg7rC5UuSj
+NBA 开拓者VS森林狼 全场回放（英文原声） 10:55,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=O37uEj&tk=Yzwg7rC5UuSj
+WTT 第四比赛日热身区 全场回放（一） 11:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=oUeZHW&tk=Yzwg7rC5UuSj
+WTT 第四比赛日热身区 全场回放（二） 11:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fQn4pK&tk=Yzwg7rC5UuSj
+WTT 第四比赛日热身区 全场回放（三） 11:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vXxmiE&tk=Yzwg7rC5UuSj
+NBA 湖人VS魔术 全场回放（杨健、曾令旭、佳依） 11:25,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6KxZzn&tk=Yzwg7rC5UuSj
+NBA 湖人VS魔术 全场回放（郑泽鹏） 11:25,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=QseSvO&tk=Yzwg7rC5UuSj
+NBA 湖人VS魔术 全场回放（英文原声） 11:25,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XthuQ2&tk=Yzwg7rC5UuSj
+WTT 蒯曼/陈熠3-1险胜  向鹏晋级16强 全场回放（侯英超） 12:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=llfvR1&tk=Yzwg7rC5UuSj
+WTT 蒯曼/陈熠3-1险胜  向鹏晋级16强 全场回放（凌维康） 12:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=pUyC5G&tk=Yzwg7rC5UuSj
+WTT 蒯曼/陈熠3-1险胜  向鹏晋级16强 全场回放（一号桌） 12:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=njmaaG&tk=Yzwg7rC5UuSj
+WTT 蒯曼/陈熠3-1险胜  向鹏晋级16强 全场回放（二号桌） 12:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=3rrBSA&tk=Yzwg7rC5UuSj
+WTT 蒯曼/陈熠3-1险胜  向鹏晋级16强 全场回放（三号桌） 12:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=klVbPF&tk=Yzwg7rC5UuSj
+WTT 蒯曼/陈熠3-1险胜  向鹏晋级16强 全场回放（四号桌） 12:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=K2nKWo&tk=Yzwg7rC5UuSj
+WTT 蒯曼/陈熠3-1险胜  向鹏晋级16强 全场回放（英文解说） 12:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=lBe22u&tk=Yzwg7rC5UuSj
+BWF 国羽连战告捷！王祉怡2-0速胜 四号场全场回放（二） 17:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=BOo1Nh&tk=Yzwg7rC5UuSj
+BWF 国羽连战告捷！王祉怡2-0速胜 一号场全场回放（二） 17:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=30Yddf&tk=Yzwg7rC5UuSj
+BWF 国羽连战告捷！王祉怡2-0速胜 二号场全场回放（二） 17:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=AiDiDg&tk=Yzwg7rC5UuSj
+BWF 国羽连战告捷！王祉怡2-0速胜 三号场全场回放（二） 17:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=lfDomn&tk=Yzwg7rC5UuSj
+BWF 国羽连战告捷！王祉怡2-0速胜 【回放】王祉怡2-0塔斯尼姆 17:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0g7byY&tk=Yzwg7rC5UuSj
+BWF 国羽连战告捷！王祉怡2-0速胜 【回放】韩千禧2-1林湘缇 17:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=dFI2tm&tk=Yzwg7rC5UuSj
+BWF 国羽连战告捷！王祉怡2-0速胜 【回放】米兰达0-2韩悦 17:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=LYnZ9x&tk=Yzwg7rC5UuSj
+BWF 国羽连战告捷！王祉怡2-0速胜 【回放】亚历克斯/鲁斯0-2陈柏阳/刘毅 17:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=VppdfU&tk=Yzwg7rC5UuSj
+BWF 国羽连战告捷！王祉怡2-0速胜 【回放】翁泓阳2-0奥尔多夫 17:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=UXX5rI&tk=Yzwg7rC5UuSj
+BWF 国羽连战告捷！王祉怡2-0速胜 【回放】加西亚/露西娅0-2郭新娃/陈芳卉 17:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=RzQTyb&tk=Yzwg7rC5UuSj
+BWF 国羽连战告捷！王祉怡2-0速胜 【回放】小波波夫2-0基兰 17:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ujmO1R&tk=Yzwg7rC5UuSj
+BWF 国羽连战告捷！王祉怡2-0速胜 【回放】阮日2-1周天成 17:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=qXao4C&tk=Yzwg7rC5UuSj
+BWF 国羽连战告捷！王祉怡2-0速胜 【回放】伊沙拉尼0-2李美妙 17:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DdAOHb&tk=Yzwg7rC5UuSj
+BWF 国羽连战告捷！王祉怡2-0速胜 一号场全场回放（一） 17:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=luKxXx&tk=Yzwg7rC5UuSj
+BWF 国羽连战告捷！王祉怡2-0速胜 二号场全场回放（一） 17:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=7m8rz2&tk=Yzwg7rC5UuSj
+BWF 国羽连战告捷！王祉怡2-0速胜 三号场全场回放（一） 17:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=gfBc7n&tk=Yzwg7rC5UuSj
+BWF 国羽连战告捷！王祉怡2-0速胜 四号场全场回放（一） 17:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=VCf318&tk=Yzwg7rC5UuSj
+WTT 孙颖莎闯进16强 黄友政/陈熠止步8强 全场回放（周冠达、刘国正） 18:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Rw7x8i&tk=Yzwg7rC5UuSj
+WTT 孙颖莎闯进16强 黄友政/陈熠止步8强 全场回放（一号桌） 18:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=YpxPmo&tk=Yzwg7rC5UuSj
+WTT 孙颖莎闯进16强 黄友政/陈熠止步8强 全场回放（二号桌） 18:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=eGzybH&tk=Yzwg7rC5UuSj
+WTT 孙颖莎闯进16强 黄友政/陈熠止步8强 全场回放（英文解说） 18:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=19LtmH&tk=Yzwg7rC5UuSj
+斯诺克 肖国栋3-4不敌利索夫斯基 【回放】安东尼·麦克吉尔2-4杰克·琼斯 18:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ydXshs&tk=Yzwg7rC5UuSj
+斯诺克 肖国栋3-4不敌利索夫斯基 【回放】肖国栋3-4杰克·利索夫斯基 18:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=otBKNz&tk=Yzwg7rC5UuSj
+NBL 焦作文旅VS上海玄鸟 全场回放（官方解说） 19:20,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4FbvvF&tk=Yzwg7rC5UuSj
+NBL 焦作文旅VS上海玄鸟 全场回放（原声） 19:20,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=IvLbTF&tk=Yzwg7rC5UuSj
+斯诺克 常冰玉憾负 江俊、吴宜泽晋级 2026斯诺克威尔士公开赛1/32决赛回放：罗比·威廉姆斯4-3斯蒂芬·马奎尔 21:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=mMPHaJ&tk=Yzwg7rC5UuSj
+斯诺克 常冰玉憾负 江俊、吴宜泽晋级 【回放】常冰玉3-4杰克逊·佩奇（柏林） 21:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=b33N6B&tk=Yzwg7rC5UuSj
+斯诺克 常冰玉憾负 江俊、吴宜泽晋级 【回放】乔·奥康纳2-4吴宜泽（朱峰立） 21:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jbbtPk&tk=Yzwg7rC5UuSj
+斯诺克 常冰玉憾负 江俊、吴宜泽晋级 【回放】巴里·霍金斯4-2庞俊旭（朱峰立） 21:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=OCFtE4&tk=Yzwg7rC5UuSj
+斯诺克 常冰玉憾负 江俊、吴宜泽晋级 【回放】马克·威廉姆斯4-1马丁·奥德奈尔 21:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bSEtM7&tk=Yzwg7rC5UuSj
+斯诺克 常冰玉憾负 江俊、吴宜泽晋级 【回放】常冰玉3-4杰克逊·佩奇 21:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=3IgpNS&tk=Yzwg7rC5UuSj
+斯诺克 常冰玉憾负 江俊、吴宜泽晋级 【回放】乔·奥康纳2-4吴宜泽 21:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vbglpR&tk=Yzwg7rC5UuSj
+斯诺克 常冰玉憾负 江俊、吴宜泽晋级 【回放】江俊4-0袁思俊 21:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=kmVQGn&tk=Yzwg7rC5UuSj
+斯诺克 常冰玉憾负 江俊、吴宜泽晋级 【回放】侯赛因·瓦菲1-4尼尔·罗伯逊 21:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NkEEC2&tk=Yzwg7rC5UuSj
+斯诺克 常冰玉憾负 江俊、吴宜泽晋级 【回放】巴里·霍金斯4-2庞俊旭 21:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=swGz9s&tk=Yzwg7rC5UuSj
+斯诺克 常冰玉憾负 江俊、吴宜泽晋级 【回放】迪伦·埃莫里1-4大卫·格雷斯 21:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=KHnmYx&tk=Yzwg7rC5UuSj
+体育-今天,#genre#
+斯诺克 赵心童4-2穆迪 张安达、周跃龙晋级 【回放】斯坦·穆迪2-4赵心童（朱峰立） 03:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Pjj0at&tk=Yzwg7rC5UuSj
+斯诺克 赵心童4-2穆迪 张安达、周跃龙晋级 【回放】张安达4-2利亚姆·普伦 03:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=PWT13v&tk=Yzwg7rC5UuSj
+斯诺克 赵心童4-2穆迪 张安达、周跃龙晋级 【回放】凯伦·威尔逊1-4周跃龙 03:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=VzXyn6&tk=Yzwg7rC5UuSj
+斯诺克 赵心童4-2穆迪 张安达、周跃龙晋级 【回放】布尔丘·雷维斯3-4约翰·希金斯 03:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=63QatD&tk=Yzwg7rC5UuSj
+斯诺克 赵心童4-2穆迪 张安达、周跃龙晋级 【回放】斯坦·穆迪2-4赵心童 03:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vWl95U&tk=Yzwg7rC5UuSj
+斯诺克 赵心童4-2穆迪 张安达、周跃龙晋级 【回放】斯图尔特·宾汉姆4-2大卫·吉尔伯特 03:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=or7i4r&tk=Yzwg7rC5UuSj
+斯诺克 赵心童4-2穆迪 张安达、周跃龙晋级 【回放】加里·威尔逊1-4山姆·克雷吉 03:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=KC1Ksx&tk=Yzwg7rC5UuSj
+WTA 卡辛塞娃、布兹科娃、博尔特晋级次轮 2026WTA梅里达站Day3全场回放（二）（英文原声） 04:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=CEoJbX&tk=Yzwg7rC5UuSj
+WTA 卡辛塞娃、布兹科娃、博尔特晋级次轮 2026WTA梅里达站女单第2轮回放：布克沙2-0斯塔库斯奇 04:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=aXzEeQ&tk=Yzwg7rC5UuSj
+WTA 卡辛塞娃、布兹科娃、博尔特晋级次轮 【回放】布克沙2-0斯塔库斯奇（英文原声） 04:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=SzJKDR&tk=Yzwg7rC5UuSj
+WTA 卡辛塞娃、布兹科娃、博尔特晋级次轮 【回放】博尔特1-0（退赛）奥索里奥 04:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=VZDFgP&tk=Yzwg7rC5UuSj
+WTA 卡辛塞娃、布兹科娃、博尔特晋级次轮 【回放】博尔特1-0（退赛）奥索里奥（英文原声） 04:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Q6YM1J&tk=Yzwg7rC5UuSj
+WTA 卡辛塞娃、布兹科娃、博尔特晋级次轮 【回放】阿朗戈（退赛）1-2布兹科娃（英文原声） 04:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=EAAlXf&tk=Yzwg7rC5UuSj
+WTA 卡辛塞娃、布兹科娃、博尔特晋级次轮 【回放】阿朗戈（退赛）1-2布兹科娃 04:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=TyCBrR&tk=Yzwg7rC5UuSj
+WTA 卡辛塞娃、布兹科娃、博尔特晋级次轮 【回放】里内特1-2卡辛塞娃 04:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2VlmtW&tk=Yzwg7rC5UuSj
+WTA 卡辛塞娃、布兹科娃、博尔特晋级次轮 【回放】里内特1-2卡辛塞娃（英文原声） 04:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=PC3KWB&tk=Yzwg7rC5UuSj
+NBA 活塞VS雷霆 全场回放（罗森） 08:25,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=wLy5CV&tk=Yzwg7rC5UuSj
+NBA 活塞VS雷霆 全场回放（英文原声） 08:25,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Qz0Z9z&tk=Yzwg7rC5UuSj
+NBA 灰熊VS勇士 全场回放（姜帆、曾令旭、小七） 08:25,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=RlIdgG&tk=Yzwg7rC5UuSj
+NBA 灰熊VS勇士 全场回放（董倡硕） 08:25,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=niE2JB&tk=Yzwg7rC5UuSj
+NBA 灰熊VS勇士 全场回放（英文原声） 08:25,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jgoeRi&tk=Yzwg7rC5UuSj
+NBA 猛龙VS马刺 全场回放（王晓晨） 08:25,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vZTIam&tk=Yzwg7rC5UuSj
+NBA 猛龙VS马刺 全场回放（英文原声） 08:25,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zWjqCk&tk=Yzwg7rC5UuSj
+NBA 雄鹿VS骑士 全场回放（王冠证、陈正昊、徐咏、魏欣怡） 08:55,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZusVAK&tk=Yzwg7rC5UuSj
+NBA 雄鹿VS骑士 全场回放（大史） 08:55,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ixAn5n&tk=Yzwg7rC5UuSj
+NBA 雄鹿VS骑士 全场回放（英文原声） 08:55,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=o1eScK&tk=Yzwg7rC5UuSj
+NBA 火箭VS国王 全场回放（连睿、周鹏、拜月宁） 08:55,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Vp0i0j&tk=Yzwg7rC5UuSj
+NBA 火箭VS国王 全场回放（英文原声） 08:55,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HfyyOw&tk=Yzwg7rC5UuSj
+NBA 掘金VS凯尔特人 全场回放 10:55,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2edkYt&tk=Yzwg7rC5UuSj
+NBA 掘金VS凯尔特人 全场回放（蔡凯臣、季孟年） 10:55,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fh1MCq&tk=Yzwg7rC5UuSj
+WTT 第五比赛日热身区 热身馆 11:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hg3K7M&tk=Yzwg7rC5UuSj
+WTT 林仲勋/申裕斌3-2险胜  张本美和晋级8强 全场回放（程靖淇） 12:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=uFDV3E&tk=Yzwg7rC5UuSj
+WTT 林仲勋/申裕斌3-2险胜  张本美和晋级8强 全场回放（现场视角） 12:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=c2xkn4&tk=Yzwg7rC5UuSj
+WTT 林仲勋/申裕斌3-2险胜  张本美和晋级8强 2026WTT新加坡大满贯Day5上午场全场回放 12:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=mDvebl&tk=Yzwg7rC5UuSj
+WTT 林仲勋/申裕斌3-2险胜  张本美和晋级8强 2026WTT新加坡大满贯Day5上午场全场回放（英文解说） 12:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=PBFuDN&tk=Yzwg7rC5UuSj
+WTT 王楚钦激战林德 王曼昱冲8强 周泽昊 刘国正 17:30,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=gg0mNb&tk=Yzwg7rC5UuSj
+WTT 王楚钦激战林德 王曼昱冲8强 周冠达 18:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ITbF5k&tk=Yzwg7rC5UuSj
+WTT 王楚钦激战林德 王曼昱冲8强 1号桌 18:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=P1YmAS&tk=Yzwg7rC5UuSj
+WTT 王楚钦激战林德 王曼昱冲8强 2号桌 18:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=A9GrHS&tk=Yzwg7rC5UuSj
+WTT 王楚钦激战林德 王曼昱冲8强 热身馆 11:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=t0kFfp&tk=Yzwg7rC5UuSj
+WTT 王楚钦激战林德 王曼昱冲8强 智能字幕 18:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=UcITLT&tk=Yzwg7rC5UuSj
+WTT 王楚钦激战林德 王曼昱冲8强 现场视角 18:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=og755J&tk=Yzwg7rC5UuSj
+男篮世预赛 日本VS中国 男篮世预赛 17:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=mvcSU4&tk=Yzwg7rC5UuSj
+男篮世预赛 日本VS中国 赛场原声 17:55,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=QkmqbC&tk=Yzwg7rC5UuSj
+男篮世预赛 中国台北VS韩国 连睿 周鹏 18:50,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=TPtT2X&tk=Yzwg7rC5UuSj
+男篮世预赛 中国台北VS韩国 赛场原声 18:50,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=blxXSP&tk=Yzwg7rC5UuSj
+男篮世预赛 菲律宾VS新西兰 赛场原声 19:20,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=GPRgoJ&tk=Yzwg7rC5UuSj
+NBL 杭州经纬VS江西鲸裕清酒 解说 19:20,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=19JBoJ&tk=Yzwg7rC5UuSj
+NBL 杭州经纬VS江西鲸裕清酒 赛场原声 19:20,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=j5zDmI&tk=Yzwg7rC5UuSj
+NBL 山东蜜獾VS长沙勇胜 解说 19:20,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=uUIqY8&tk=Yzwg7rC5UuSj
+NBL 山东蜜獾VS长沙勇胜 赛场原声 19:20,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=va5KWO&tk=Yzwg7rC5UuSj
+NBL 香港金牛VS安徽皖江龙 解说 19:50,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=BjkNf7&tk=Yzwg7rC5UuSj
+NBL 香港金牛VS安徽皖江龙 赛场原声 19:50,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=LKS5Um&tk=Yzwg7rC5UuSj
+BWF 国羽冲击8强！陆光祖率先出战 1号场 20:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=EozAzI&tk=Yzwg7rC5UuSj
+BWF 国羽冲击8强！陆光祖率先出战 2号场 20:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Criiva&tk=Yzwg7rC5UuSj
+BWF 国羽冲击8强！陆光祖率先出战 3号场 20:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vC6MQL&tk=Yzwg7rC5UuSj
+BWF 国羽冲击8强！陆光祖率先出战 4号场 20:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=G1U0m1&tk=Yzwg7rC5UuSj
+斯诺克 马克·威廉姆斯PK霍金斯 江俊出战 朱峰立 21:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=qsYcXy&tk=Yzwg7rC5UuSj
+斯诺克 马克·威廉姆斯PK霍金斯 江俊出战 1号桌 21:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=35M9ZN&tk=Yzwg7rC5UuSj
+斯诺克 马克·威廉姆斯PK霍金斯 江俊出战 2号桌 21:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HGMqyV&tk=Yzwg7rC5UuSj
+体育-明天,#genre#
+男篮世预赛 刚果共和国VS马达加斯加 赛场原声 01:50,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=3RpJB1&tk=Yzwg7rC5UuSj
+男篮世预赛 安哥拉VS乌干达 赛场原声 01:50,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=kcVZNP&tk=Yzwg7rC5UuSj
+斯诺克 张安达PK希金斯 赵心童迎战宾汉姆 朱蒙 04:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ti7gzS&tk=Yzwg7rC5UuSj
+斯诺克 张安达PK希金斯 赵心童迎战宾汉姆 1号桌 03:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JXxJTU&tk=Yzwg7rC5UuSj
+斯诺克 张安达PK希金斯 赵心童迎战宾汉姆 2号桌 03:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nunz3X&tk=Yzwg7rC5UuSj
+WTA 斯特恩斯vs尤万 约维奇压场亮相 清流 03:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=QzXA3Z&tk=Yzwg7rC5UuSj
+WTA 斯特恩斯vs尤万 约维奇压场亮相 英文原声 03:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=VGOROJ&tk=Yzwg7rC5UuSj
+WTA 李吉妮、保利尼轮番亮相 赛场原声 04:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=uTBDu8&tk=Yzwg7rC5UuSj
+WTA 李吉妮、保利尼轮番亮相 胡力涛 09:30,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=aC65BL&tk=Yzwg7rC5UuSj
+WTA 李吉妮、保利尼轮番亮相 英文原声 04:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6WgQWr&tk=Yzwg7rC5UuSj
+男篮世预赛 塞内加尔VS科特迪瓦 赛场原声 04:50,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=kzENY8&tk=Yzwg7rC5UuSj
+男篮世预赛 马里VS埃及 赛场原声 04:50,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=3GBieX&tk=Yzwg7rC5UuSj
+男篮世预赛 牙买加VS巴哈马 赛场原声 07:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=C8jY2J&tk=Yzwg7rC5UuSj
+NBA 76人VS热火 王琰博 07:55,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=f58IGz&tk=Yzwg7rC5UuSj
+NBA 76人VS热火 英文原声 07:55,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=K3ccx3&tk=Yzwg7rC5UuSj
+NBA 步行者VS黄蜂 董倡硕 07:55,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FMq8Nn&tk=Yzwg7rC5UuSj
+NBA 步行者VS黄蜂 英文原声 07:55,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NsZSBt&tk=Yzwg7rC5UuSj
+男篮世预赛 波多黎各VS加拿大 赛场原声 08:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=MoKtXc&tk=Yzwg7rC5UuSj
+NBA 篮网VS马刺 王晓晨 08:25,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jFcPHg&tk=Yzwg7rC5UuSj
+NBA 篮网VS马刺 英文原声 08:25,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Xk47Uo&tk=Yzwg7rC5UuSj
+NBA 魔术VS火箭 邵化谦 周鹏 08:25,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=tU7LxW&tk=Yzwg7rC5UuSj
+NBA 魔术VS火箭 英文原声 08:25,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=CcI1c7&tk=Yzwg7rC5UuSj
+NBA 老鹰VS奇才 刘芳宇 08:25,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9eDbUb&tk=Yzwg7rC5UuSj
+NBA 老鹰VS奇才 英文原声 08:25,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6NuFTO&tk=Yzwg7rC5UuSj
+NBA 公牛VS开拓者 孙博 闫宇峰 秋童 08:45,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6VlZCn&tk=Yzwg7rC5UuSj
+NBA 公牛VS开拓者 英文原声 08:55,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1oHxAZ&tk=Yzwg7rC5UuSj
+NBA 公牛VS开拓者 邢晨 08:55,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=7dJHjx&tk=Yzwg7rC5UuSj
+男篮世预赛 尼加拉瓜VS墨西哥 赛场原声 09:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=cciRZx&tk=Yzwg7rC5UuSj
+NBA 独行侠VS国王 张泽欣 09:25,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=mfbToI&tk=Yzwg7rC5UuSj
+NBA 独行侠VS国王 英文原声 09:25,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=7QotKn&tk=Yzwg7rC5UuSj
+WTA 张帅VS纳瓦罗 赛场原声 04:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ORmunz&tk=Yzwg7rC5UuSj
+WTA 张帅VS纳瓦罗 张帅vs纳瓦罗(胡力涛) 09:30,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Xotvt3&tk=Yzwg7rC5UuSj
+WTA 张帅VS纳瓦罗 英文原声 04:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=8LoSwR&tk=Yzwg7rC5UuSj
+NBA 太阳VS湖人 连睿 曾令旭 苏群 09:45,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4jT2KO&tk=Yzwg7rC5UuSj
+NBA 太阳VS湖人 郑泽鹏 09:55,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=S9xlRm&tk=Yzwg7rC5UuSj
+NBA 太阳VS湖人 英文原声 09:55,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=73UxH1&tk=Yzwg7rC5UuSj
+NBA 爵士VS鹈鹕 盛哲 09:55,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ATra3B&tk=Yzwg7rC5UuSj
+NBA 爵士VS鹈鹕 英文原声 09:55,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=QTdMfb&tk=Yzwg7rC5UuSj
+NBA 快船VS森林狼 徐秦威 10:55,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1T88Cu&tk=Yzwg7rC5UuSj
+NBA 快船VS森林狼 英文原声 10:55,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=3BEnuh&tk=Yzwg7rC5UuSj
+WTT 第六比赛日热身区 热身馆 11:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=oHZzZ0&tk=Yzwg7rC5UuSj
+男篮世预赛 美国VS多米尼加 吴博文 11:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=LxUCoU&tk=Yzwg7rC5UuSj
+WTT 蒯曼迎战早田 石油组合冲决赛 程靖淇 12:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hUDeID&tk=Yzwg7rC5UuSj
+WTT 蒯曼迎战早田 石油组合冲决赛 热身馆 11:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=wKLdv5&tk=Yzwg7rC5UuSj
+WTT 蒯曼迎战早田 石油组合冲决赛 赛场原声 12:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=aqFr4x&tk=Yzwg7rC5UuSj
+WTT 蒯曼迎战早田 石油组合冲决赛 智能字幕 12:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=CJ0vt6&tk=Yzwg7rC5UuSj
+WTT 蒯曼迎战早田 石油组合冲决赛 现场视角 12:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=T0ZXRH&tk=Yzwg7rC5UuSj
+WTT 姐妹对对碰！孙颖莎迎战石洵瑶 周冠达 侯英超 17:30,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=YOFZZh&tk=Yzwg7rC5UuSj
+WTT 姐妹对对碰！孙颖莎迎战石洵瑶 热身馆 11:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=WqkHsW&tk=Yzwg7rC5UuSj
+WTT 姐妹对对碰！孙颖莎迎战石洵瑶 赛场原声 18:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JPDlq6&tk=Yzwg7rC5UuSj
+WTT 姐妹对对碰！孙颖莎迎战石洵瑶 智能字幕 18:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=AxqNSP&tk=Yzwg7rC5UuSj
+WTT 姐妹对对碰！孙颖莎迎战石洵瑶 现场视角 18:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=CTF2tG&tk=Yzwg7rC5UuSj
+NBL 合肥狂风VS湖北文旅 解说 19:20,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=k5VMKf&tk=Yzwg7rC5UuSj
+NBL 合肥狂风VS湖北文旅 赛场原声 19:20,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jxo5py&tk=Yzwg7rC5UuSj
+NBL 上海玄鸟VS张家口体文旅 解说 19:20,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=efiD5Z&tk=Yzwg7rC5UuSj
+NBL 上海玄鸟VS张家口体文旅 赛场原声 19:20,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4W5gBN&tk=Yzwg7rC5UuSj
+NBL 石家庄翔蓝VS贵州猛龙 解说 19:20,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=TFDkLo&tk=Yzwg7rC5UuSj
+NBL 石家庄翔蓝VS贵州猛龙 赛场原声 19:20,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vc5JvM&tk=Yzwg7rC5UuSj
+斯诺克 1/4决赛 1号桌 20:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vbniEZ&tk=Yzwg7rC5UuSj
+男篮世预赛 伊拉克VS叙利亚 赛场原声 20:50,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jP8LOM&tk=Yzwg7rC5UuSj
+男篮世预赛 乌克兰VS西班牙 赛场原声 20:50,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=N11Vsu&tk=Yzwg7rC5UuSj
+BWF 德国羽毛球公开赛Day4 1号场 22:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6NIiAk&tk=Yzwg7rC5UuSj
+BWF 德国羽毛球公开赛Day4 2号场 22:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jf28mF&tk=Yzwg7rC5UuSj
+BWF 德国羽毛球公开赛Day4 3号场 22:00,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=28Xy0n&tk=Yzwg7rC5UuSj
+音乐,#genre#
+音乐1,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=agXOAk&tk=Yzwg7rC5UuSj
+音乐2,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jLZPdO&tk=Yzwg7rC5UuSj
+音乐4,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Xo5V0I&tk=Yzwg7rC5UuSj
+音乐5,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=dQuRZK&tk=Yzwg7rC5UuSj
+音乐7,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NFkxdm&tk=Yzwg7rC5UuSj
+音乐11,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=85BH6G&tk=Yzwg7rC5UuSj
+音乐12,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=iIgjX9&tk=Yzwg7rC5UuSj
+音乐13,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bf4axV&tk=Yzwg7rC5UuSj
+音乐14,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=uc6td3&tk=Yzwg7rC5UuSj
+秋月剪水,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=m87S8q&tk=Yzwg7rC5UuSj
+周传雄,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=MPScmS&tk=Yzwg7rC5UuSj
+张学友,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=S1XeCl&tk=Yzwg7rC5UuSj
+刘德华,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=q2QiVC&tk=Yzwg7rC5UuSj
+黎明,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=z0v4rl&tk=Yzwg7rC5UuSj
+王菲,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=EGr3gN&tk=Yzwg7rC5UuSj
+权志龙,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=7mnfzv&tk=Yzwg7rC5UuSj
+张惠妹,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=epzV4g&tk=Yzwg7rC5UuSj
+谭咏麟,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Ikj15y&tk=Yzwg7rC5UuSj
+林忆莲,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=OS4mIx&tk=Yzwg7rC5UuSj
+古巨基,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=LUi8jZ&tk=Yzwg7rC5UuSj
+周杰伦,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Jd5swB&tk=Yzwg7rC5UuSj
+林俊杰,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=xHPHOB&tk=Yzwg7rC5UuSj
+潘玮柏,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4BRvpD&tk=Yzwg7rC5UuSj
+杨丞琳,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Y50J0W&tk=Yzwg7rC5UuSj
+张杰,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hkD3xZ&tk=Yzwg7rC5UuSj
+Beyond,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=m2lX0j&tk=Yzwg7rC5UuSj
+SHE,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fDyQZe&tk=Yzwg7rC5UuSj
+徐良,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1oWgvF&tk=Yzwg7rC5UuSj
+许嵩,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fSI6gh&tk=Yzwg7rC5UuSj
